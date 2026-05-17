@@ -1,0 +1,5045 @@
+{
+  "id": "1-1-gefahrenlehre",
+  "title": "Gefahrenlehre",
+  "themeNumber": "Thema 1.1.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.1. Gefahrenlehre",
+  "questionCount": 173,
+  "questions": [
+    {
+      "id": "1.1.01-001",
+      "text": "Was versteht man unter defensivem Fahren?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nicht auf dem eigenen Recht bestehen"
+        },
+        {
+          "id": "B",
+          "text": "Mit Fehlern anderer rechnen"
+        },
+        {
+          "id": "C",
+          "text": "Vorsorglich an jeder Kreuzung anhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Defensives Fahren bedeutet, dass Sie im Straßenverkehr einerseits nicht auf Ihrem Vorrecht beharren und andererseits auch potenzielle Fehler der anderen Verkehrsteilnehmer in Betracht ziehen. Deshalb müssen Sie nicht übervorsichtig fahren – dies könnte wiederum eine eigene Gefahr darstellen und den Verkehrsfluss behindern. Defensiv zu fahren heißt, sich auf Gefahren, die von Ihnen selbst ausgehen oder von außen drohen, bestmöglich vorzubereiten und sie so rechtzeitig abzuwenden. Dies erreichen Sie zum Beispiel, indem Sie früh genug bremsen, um einen Auffahrunfall vor einer Ampel zu vermeiden. Generell langsamer zu fahren, schützt Sie gegenüber Fahrern, die im Eifer des Gefechts eine Ampelphase falsch beurteilen oder links und rechts verwechseln.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-002",
+      "text": "Was kann zu Auffahrunfällen führen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unerwartet starkes Bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Unaufmerksamkeit"
+        },
+        {
+          "id": "C",
+          "text": "Zu dichtes Auffahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Es gibt mehrere mögliche Szenarien, die zu Auffahrunfällen führen. Bremst jemand zu plötzlich und überraschend, kann es zu einem Zusammenstoß kommen. Zu dichtes Auffahren ist ebenfalls ein häufiger Grund für Auffahrunfälle, besonders wenn der hintere Fahrer abgelenkt und unkonzentriert ist. Ein genügend großer Sicherheitsabstand kann helfen, solche Risiken zu vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-003",
+      "text": "Welches Verhalten ist beispielhaft für „Vorausschauendes Fahren“?",
+      "points": 2,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich reagiere möglichst frühzeitig auf wahrscheinliche Veränderungen der Verkehrssituation"
+        },
+        {
+          "id": "B",
+          "text": "Ich versuche, die Absichten anderer Verkehrsteilnehmer möglichst frühzeitig zu erkennen"
+        },
+        {
+          "id": "C",
+          "text": "Ich beschränke die Verkehrsbeobachtung möglichst auf das direkt vor mir fahrende Fahrzeug"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vorausschauend zu fahren ist wesentlich, wenn es um die Sicherheit im Straßenverkehr geht. Dabei sollten Sie direkt vor Ihnen fahrende Autos stets im Auge behalten, um gegebenenfalls sofort reagieren zu können. Dasselbe gilt auch für sämtliche Verkehrsteilnehmer in Ihrer Umgebung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-004",
+      "text": "Sie sollen ein Ihnen unbekanntes Kraftfahrzeug fahren. Warum müssen Sie dabei zunächst besonders vorsichtig sein?",
+      "points": 3,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in der Anordnung und der Funktion der Bedienelemente"
+        },
+        {
+          "id": "B",
+          "text": "- im Bremsverhalten"
+        },
+        {
+          "id": "C",
+          "text": "- im Lenkverhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Jeder Fahrer ist an Fahrverhalten und Eigenschaften seines Kraftfahrzeugs gewöhnt. Jedes Fahrzeug hat ein unterschiedliches Fahrverhalten, bedingt durch seinen speziellen Schwerpunkt, seine Abmessungen und sein Gewicht. Selbst Kupplung, Kurvenverhalten und Bremsweg gleicher Modelle können sich unterscheiden. Mit diesen Eigenschaften hat sich der Fahrer vorsichtig vertraut zu machen, ebenso mit den Bedienelementen der Armaturen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-101",
+      "text": "Sie fahren innerorts hinter einem Fahrzeug mit ortsfremdem Kennzeichen. Was könnte geschehen?",
+      "points": 3,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "- bremst unerwartet"
+        },
+        {
+          "id": "B",
+          "text": "- betätigt den Blinker vor dem Abbiegen zu spät"
+        },
+        {
+          "id": "C",
+          "text": "- hält unerwartet an, um nach dem Weg zu fragen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Sollten Sie anhand des Kennzeichens einen ortsfremden Verkehrsteilnehmer identifizieren, müssen Sie aufgrund dessen fehlender Ortskenntnis mit unerwarteten Manövern rechnen. Beispielsweise könnte der entsprechende Fahrer auf offener Fahrbahn anhalten, um sich bei einem Passanten nach dem Weg zu erkundigen. Ferner wäre es möglich, dass der Ortsfremde den richtigen Fahrweg verspätet erkennt und daher vor Kurven, Kreuzungen und Ausfahrten erst spät bremst oder blinkt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-102",
+      "text": "Was sind vermeidbare Behinderungen im fließenden Verkehr?",
+      "points": 3,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abwürgen des Motors"
+        },
+        {
+          "id": "B",
+          "text": "Langsamfahren ohne triftigen Grund"
+        },
+        {
+          "id": "C",
+          "text": "Liegenbleiben wegen Kraftstoffmangels"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Eine vermeidbare Behinderung des Straßenverkehrs ist zum einen das Abwürgen des Motors. Dies ist vor allem ein Anfängerfehler, der im schlimmsten Fall einen Auffahrunfall nach sich ziehen kann. Durch entsprechendes Üben auf abgelegenen Straßen lässt sich dies jedoch leicht beheben. Zudem muss laut Straßenverkehrsordnung jedes Fahrzeug rechtzeitig aufgetankt werden, um ein Liegenbleiben zu verhindern. Schließlich gehört es auch zu Ihrer Pflicht als Autofahrer, in angemessenem Tempo zu fahren, also auch niemals grundlos so langsam, dass Sie dadurch den Verkehr behindern und einen Unfall provozieren könnten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-103",
+      "text": "Warum darf man nicht unnötig langsam fahren?",
+      "points": 3,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil der Verkehrsfluss behindert wird"
+        },
+        {
+          "id": "B",
+          "text": "Weil die Gefahr von Auffahrunfällen erhöht wird"
+        },
+        {
+          "id": "C",
+          "text": "Weil Nachfolgende zu gefährlichem Überholen verleitet werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Straßenverkehrsordnung verbietet unnötiges Langsamfahren, da es den Verkehrsfluss behindert und das Unfallrisiko stark erhöht: Es verleitet nachfolgende Verkehrsteilnehmer zu riskanten Überholmanövern an unübersichtlichen Stellen. Zudem steigt die Gefahr von Auffahrunfällen durch die entstehenden Geschwindigkeitsunterschiede drastisch.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-104",
+      "text": "Wodurch kann eine Gefährdung entstehen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch abgefahrene Reifen"
+        },
+        {
+          "id": "B",
+          "text": "Durch zu hoch eingestellte Scheinwerfer"
+        },
+        {
+          "id": "C",
+          "text": "Durch auffällige Lackierung des Fahrzeugs"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Zu Sicherheitsrisiken zählen falsch eingestellte Scheinwerfer. Sind sie zu tief eingestellt, schaffen sie schlechte Sichtverhältnisse für den Fahrer. Zu hoch eingestellte Scheinwerfer können zu extremen Blendungen des Gegenverkehrs führen und schwere Unfälle verursachen. Die Profiltiefe der Reifen ist ein wichtiger Sicherheitsfaktor. Abgefahrene Reifen haben bei regennasser Fahrbahn einen viel längeren Bremsweg. Die gesetzlich vorgeschriebene Profiltiefe von 1,6 Millimetern reicht sicherheitstechnisch nicht aus. Bei dieser Profiltiefe ist die Gefahr des Aquaplanings bereits sehr hoch. Bei Aquaplaning rutscht das Fahrzeug unkontrollierbar.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-107",
+      "text": "Welche Anzeichen warnen während der Fahrt vor aufkommender Müdigkeit?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schwere Augenlider"
+        },
+        {
+          "id": "B",
+          "text": "Häufiges Gähnen"
+        },
+        {
+          "id": "C",
+          "text": "Verkürzte Reaktionszeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Müdigkeit führt während der Autofahrt zu verlängerten Reaktionszeiten sowie zu verminderter Aufmerksamkeit. Zu ihren Anzeichen gehört unter anderem übermäßiges Gähnen. Ferner erkennen Sie Schlafmangel daran, dass es Ihnen zunehmend schwerer fällt, Ihre Augen offen zu halten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-108",
+      "text": "Welche Folgen kann die Missachtung von Müdigkeitsanzeichen nach sich ziehen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekundenschlaf"
+        },
+        {
+          "id": "B",
+          "text": "Konzentrationsmangel"
+        },
+        {
+          "id": "C",
+          "text": "Fahrfehler"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Erste Anzeichen von Müdigkeit wie zum Beispiel schwindende Konzentrationsfähigkeit sollten Sie keinesfalls ignorieren, denn es kann passieren, dass Sie in der Folge von Sekundenschlaf überwältigt werden. Dieser wiederum führt häufig zu gravierenden, mitunter sogar lebensgefährlichen Fahrfehlern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-109",
+      "text": "Was ist zu tun, wenn Sie während der Fahrt Anzeichen von Müdigkeit spüren?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unverzüglich eine Pause einlegen"
+        },
+        {
+          "id": "B",
+          "text": "Sich an frischer Luft bewegen"
+        },
+        {
+          "id": "C",
+          "text": "Anregende Musik hören"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da Müdigkeit während der Autofahrt zu gefährlichen Situationen führen kann, sollten Sie bei längeren Strecken ausreichend Pausen einplanen. Während dieser Erholungsphase empfiehlt sich ein Spaziergang an der frischen Luft, um den Kreislauf wieder in Schwung zu bringen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-110",
+      "text": "Wie wirkt sich Müdigkeit beim Fahren aus?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nachlassende Aufmerksamkeit"
+        },
+        {
+          "id": "B",
+          "text": "Eingeschränkte Wahrnehmung"
+        },
+        {
+          "id": "C",
+          "text": "Verzögerte Reaktionen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch Müdigkeit am Steuer steigt das Unfallrisiko aus folgenden Gründen: Mit der Konzentration lässt die Aufmerksamkeit spürbar nach; die Wahrnehmung ist eingeschränkt, die Reaktion deutlich verzögert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-111",
+      "text": "Wodurch kann eine gefährliche Situation entstehen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch liegen gebliebene Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Durch nicht angepasste Geschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "Durch eingeschaltete Beleuchtung am Tage"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Hauptgrund für eine Gefährdung im Straßenverkehr ist zu schnelles Fahren. Dies gilt insbesondere für Anfänger, die dann leicht die Kontrolle über ihr Fahrzeug verlieren. Andere Verkehrsteilnehmer sind auf eine unerwartet hohe Geschwindigkeit oft nicht vorbereitet. Doch auch ein zu geringes Fahrtempo kann eine Gefährdung darstellen, da sich in diesem Fall riskante Überholmanöver und Auffahrunfälle häufen. Darüber hinaus können stehen gebliebene Fahrzeuge zu einem gefährlichen Hindernis werden. Um von anderen Fahrern besser gesehen zu werden, hilft es, die Beleuchtung Ihres Fahrzeugs auch tagsüber einzuschalten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-112",
+      "text": "Was kann zum Abkommen von der Fahrbahn führen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ablenkung"
+        },
+        {
+          "id": "B",
+          "text": "Unaufmerksamkeit"
+        },
+        {
+          "id": "C",
+          "text": "Müdigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Häufig kommen Fahrer durch Unaufmerksamkeit oder Unkonzentriertheit von der Fahrbahn ab. Auch Ablenkungen, etwa das Telefonieren mit dem Handy, können zu solchen Fahrfehlern führen. Eine dritte Ursache für das Abkommen von der Straße ist Müdigkeit in Verbindung mit Sekundenschlaf.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.01-113",
+      "text": "Was führt häufig zu schweren Unfällen?",
+      "points": 4,
+      "chapter": "Grundformen Des Verkehrsverhaltens",
+      "chapterNumber": "1.1.01",
+      "chapterName": "Grundformen Des Verkehrsverhaltens",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine mangelhafte Beobachtung des Verkehrs"
+        },
+        {
+          "id": "B",
+          "text": "Ein Fahren mit zu geringem Abstand"
+        },
+        {
+          "id": "C",
+          "text": "Eine unangepasste Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Schwere Unfälle resultieren häufig: durch riskante Überholmanöver und Auffahrunfälle durch unnötiges Langsamfahren, durch Müdigkeit und verzögerte Reaktionen sowie durch Kinder, die unvorhersehbar und unüberlegt handeln.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-004",
+      "text": "Womit ist zu rechnen, wenn man sich Kindern nähert?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit unüberlegtem Verhalten der Kinder"
+        },
+        {
+          "id": "B",
+          "text": "Mit schnellem und richtigem Reagieren der Kinder"
+        },
+        {
+          "id": "C",
+          "text": "Mit verkehrsgerechtem Verhalten der Kinder"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Kinder können sich jederzeit unüberlegt verhalten und sind aus diesem Grund vom Vertrauensgrundsatz gegenüber anderen Verkehrsteilnehmern ausgenommen. Wenn sich Kinder nähern, müssen Sie daher Ihre Geschwindigkeit reduzieren, um bremsbereit zu sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-005",
+      "text": "Mit welchem Verhalten von Kindern müssen Sie an Zebrastreifen rechnen?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie laufen auf den Zebrastreifen, ohne auf den Verkehr zu achten"
+        },
+        {
+          "id": "B",
+          "text": "Sie kehren ohne erkennbaren Grund auf dem Zebrastreifen um und laufen zurück"
+        },
+        {
+          "id": "C",
+          "text": "Sie schätzen Geschwindigkeit und Entfernung herannahender Fahrzeuge immer richtig ein und warten am Fahrbahnrand"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kinder haben grundsätzlich nicht die nötige Ausbildung, um sich im Straßenverkehr immer regelkonform zu verhalten. Daher ist es ohne Weiteres denkbar, dass sie die Bedeutung eines Zebrastreifens nicht kennen und trotz herannahender Fahrzeuge die Straße betreten oder nach deren Überquerung plötzlich zurücklaufen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-009-B",
+      "text": "Wie müssen Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sofort stark bremsen und bremsbereit bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Mit gleicher Geschwindigkeit weiterfahren, weil die Kinder bestimmt stehen bleiben"
+        },
+        {
+          "id": "C",
+          "text": "Mit gleicher Geschwindigkeit weiterfahren, um einen Nachfolgenden nicht zu behindern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn plötzlich ein Kind über die Straße rennt, ohne auf den Verkehr zu achten, sollten Sie sofort Ihre Geschwindigkeit drosseln und bremsbereit weiterfahren. Achten Sie auch darauf, ob weitere Kinder folgen. Es ist unbedingt erforderlich, im Schritttempo zu bleiben, um, falls nötig, ganz anhalten zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-009-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-022",
+      "text": "Womit ist zu rechnen, wenn Kinder an einer Ampel warten?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- schon losrennen, wenn die Ampel in meiner Fahrtrichtung von Grün auf Gelb umschaltet"
+        },
+        {
+          "id": "B",
+          "text": "- auch bei Rot loslaufen, weil es ihnen zu lange dauert"
+        },
+        {
+          "id": "C",
+          "text": "- sich gegenseitig auf die Fahrbahn schubsen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Aufgrund mangelnder Lebenserfahrung sowie unzureichender Ausbildung verhalten sich Kinder im Straßenverkehr nicht immer regelkonform und geraten beispielsweise während einer Rangelei auf die Fahrbahn. Ferner müssen Sie damit rechnen, dass Kinder plötzlich über die Straße laufen, selbst wenn ihre Ampel noch Rot zeigt oder die des Querverkehrs gerade umspringt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-023",
+      "text": "Ein Radweg, auf dem eine Gruppe von Kindern fährt, endet. Womit muss gerechnet werden?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- bedenkenlos auf die Fahrbahn wechseln"
+        },
+        {
+          "id": "B",
+          "text": "- zu weit in die Fahrbahn kommen"
+        },
+        {
+          "id": "C",
+          "text": "- absteigen und warten, bis alles frei ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Insbesondere Kinder, die mit den Verkehrsregeln grundsätzlich nicht übermäßig vertraut sind, neigen zu unvorhersehbaren Manövern. Daher sollten Sie vor allem am Ende eines Radweges darauf achten, dass die jungen Verkehrsteilnehmer ohne Vorwarnung auf die Straße fahren könnten. Ferner kommt es häufig vor, dass Kinder in Gruppen nebeneinander fahren und dadurch teilweise auf Ihre Fahrbahn ausscheren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-024-B",
+      "text": "Was ist hier richtig?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Man darf mit Schrittgeschwindigkeit rechts vorbeifahren, wenn Fahrgäste nicht behindert werden und eine Gefährdung ausgeschlossen ist"
+        },
+        {
+          "id": "B",
+          "text": "Wenn niemand behindert oder gefährdet wird, darf man rechts auch schneller als mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Die Fahrgäste müssen vor dem Einsteigen den fließenden Verkehr durchlassen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn Sie die ein- oder aussteigenden Fahrgäste nicht behindern oder gefährden, dürfen Sie an der haltenden Straßenbahn langsam mit Schrittgeschwindigkeit vorbeifahren. Wichtig ist dabei: Die Fahrgäste haben in dieser Situation den absoluten Vorrang und müssen den fließenden Verkehr nicht durchlassen. Falls es notwendig ist, müssen Sie als Fahrzeugführer anhalten und warten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-024-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-026-B",
+      "text": "Was müssen Sie in dieser Situation beachten?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- den Bus so lange nicht überholen, wie er noch fährt"
+        },
+        {
+          "id": "B",
+          "text": "- an dem haltenden Bus mit Schrittgeschwindigkeit vorbeifahren, wenn eine Gefährdung von Fahrgästen ausgeschlossen ist"
+        },
+        {
+          "id": "C",
+          "text": "- den Bus überholen, solange er noch fährt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn ein Linienbus oder Schulbus die Warnblinkanlage eingeschaltet hat und noch fährt, dürfen Sie ihn nicht überholen. Ist der Bus an der Haltestelle zum Stehen gekommen, können Sie im Schritttempo und in gebührendem Abstand vorbeifahren. Dies ist nötig, um die ein- und aussteigenden Fahrgäste nicht zu gefährden. Sind Sie auf der Gegenfahrbahn unterwegs, müssen Sie ebenfalls die Geschwindigkeit drosseln oder anhalten, um die Sicherheit der Fahrgäste zu gewährleisten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-026-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-027",
+      "text": "Womit müssen Sie rechnen, wenn ältere Personen mit Gehhilfe die Fahrbahn überqueren?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass sie auf der Fahrbahn stehen bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Dass sie auf der Fahrbahn umkehren"
+        },
+        {
+          "id": "C",
+          "text": "Dass sie die Fahrbahn langsam überqueren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn ältere Personen mit Gehhilfe die Straße überqueren, gilt für Sie erhöhte Sorgfaltspflicht. Der Vertrauensgrundsatz ist aufgehoben. Sie müssen damit rechnen, dass diese Personen plötzlich stehen bleiben oder unerwartet wieder umdrehen. Auch brauchen ältere Menschen beim Überqueren der Fahrbahn vergleichsweise lange.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-028",
+      "text": "Trotz vorhandenen Gehweges auf der rechten Straßenseite fährt eine Person im Rollstuhl auf der Straße. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich fahre so lange hinterher, bis ich überholen kann"
+        },
+        {
+          "id": "B",
+          "text": "Ich überhole mit großem Seitenabstand, weil ich mit Ausweichbewegungen rechnen muss"
+        },
+        {
+          "id": "C",
+          "text": "Ich mache die Person durch Hupen darauf aufmerksam, dass sie sich falsch verhält"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Behinderte und ältere Personen verhalten sich aufgrund körperlicher Einschränkungen manchmal nicht verkehrsgerecht. Seien Sie deshalb bitte besonders vorsichtig und nehmen Sie unbedingt Rücksicht. Rechnen Sie damit, dass der Rollstuhlfahrer plötzlich und unerwartet ausweicht und noch weiter auf die Fahrbahn fährt. Es ist in solchen Situationen nicht erlaubt, die Hupe zu benutzen oder um die Person mit hoher Geschwindigkeit herumzufahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-029",
+      "text": "Eine Person im Rollstuhl schafft es nach dem Überqueren der Straße nicht, mit dem Rollstuhl den Bordstein zu überwinden, um den Gehweg zu erreichen. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich halte und schalte die Warnblinkanlage ein"
+        },
+        {
+          "id": "B",
+          "text": "Ich steige aus und helfe der Person im Rollstuhl"
+        },
+        {
+          "id": "C",
+          "text": "Ich hupe und fahre um die Person herum"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie sollten der Person helfen. Dafür dürfen Sie anhalten und die Warnblinkanlage einschalten, um andere Verkehrsteilnehmer vor möglichen Gefahren zu warnen. Es ist nicht erlaubt, in dieser Situation zu hupen und um die Person herumzufahren. Dadurch würden Sie den Rollstuhlfahrer erschrecken und verunsichern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-032",
+      "text": "Bei welcher Person müssen Sie mit einer schweren Sehbehinderung rechnen?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dem Mann"
+        },
+        {
+          "id": "B",
+          "text": "Dem Kind"
+        },
+        {
+          "id": "C",
+          "text": "Der Frau"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei Personen mit folgenden Kennzeichen müssen Sie mit einer schweren Sehbehinderung rechnen: Wenn eine Person eine gelbe Armbinde mit drei schwarzen Punkten und/oder einen weißen, schräg vorgestreckten Blindenstock trägt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-032.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-036",
+      "text": "Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anhalten"
+        },
+        {
+          "id": "B",
+          "text": "Den Mann die Straße überqueren lassen"
+        },
+        {
+          "id": "C",
+          "text": "Blickkontakt aufnehmen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sehbehinderte Fußgänger tragen häufig eine Armbinde und haben einen Blindenhund mit weißem Fahrgeschirr bei sich. Es ist nicht möglich, mit einem sehbehinderten Verkehrsteilnehmer Blickkontakt aufzunehmen. Daher sind Sie hier zu besonderer Rücksichtnahme verpflichtet. Sie müssen anhalten, um dem Fußgänger ein gefahrloses Überqueren der Fahrbahn zu ermöglichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-036.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-037",
+      "text": "Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Personen überqueren vor dem Bus die Straße"
+        },
+        {
+          "id": "B",
+          "text": "Personen rennen von links über die Straße, um den Bus zu erreichen"
+        },
+        {
+          "id": "C",
+          "text": "Der Bus fährt plötzlich rückwärts"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wo Busse oder Straßenbahnen an Haltestellen warten, müssen Sie stets davon ausgehen, dass hier plötzlich Personen auf die Fahrbahn treten. Manche Fahrgäste rennen schnell über die Straße, um den Bus noch zu erreichen. Beim Aussteigen betreten Personen häufig überraschend die Fahrbahn, ohne auf den Verkehr zu achten. Wegen des nicht leuchtenden Rückfahrscheinwerfers können Sie als nachfolgender Fahrzeugführer grundsätzlich darauf vertrauen, dass der Bus die Haltestelle vorwärtsfahrend verlassen wird.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-037.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-049",
+      "text": "Wie verhalten Sie sich in dieser Situation?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich führe eine Gefahrenbremsung durch"
+        },
+        {
+          "id": "B",
+          "text": "Ich hupe und fahre weiter"
+        },
+        {
+          "id": "C",
+          "text": "Ich beschleunige"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Führen Sie sofort eine Gefahrenbremsung durch, um einen Zusammenstoß mit dem von links kommenden Radfahrer zu verhindern. Weiterzufahren wäre in der Situation gefährlich, obwohl die Ampel in Ihrer Richtung Grün zeigt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-049_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-049.mp4"
+    },
+    {
+      "id": "1.1.02-052",
+      "text": "Warum müssen Sie damit rechnen, dass Kinder sich im Straßenverkehr unvorhersehbar verhalten?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- leicht ablenkbar sind"
+        },
+        {
+          "id": "B",
+          "text": "- die Verkehrssituation häufig nur unvollständig überblicken können"
+        },
+        {
+          "id": "C",
+          "text": "- oft nicht zuordnen können, aus welcher Richtung ein Geräusch kommt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Kinder verhalten sich oftmals unvorhersehbar, weshalb andere Verkehrsteilnehmer bei Kindern immer mit dem Unerwarteten rechnen müssen. Durch äußere Reize in der Umwelt werden kleine Kinder ständig von der Straße und dem Verkehr abgelenkt. Sie lassen ihren Blick kontinuierlich in der Umgebung wandern und bleiben bei interessanten Geschehen oder Gegenständen hängen. Auch die Geräuschwahrnehmung entwickelt sich erst im Laufe des Lebens und ist bei Kindern nur eingeschränkt vorhanden. Deswegen können Kinder die vielen Geräusche im Straßenverkehr meist keiner bestimmten Richtung zuordnen und es fällt ihnen schwerer, rein akustisch einzuschätzen, aus welcher Richtung sich ein Fahrzeug nähert.\nNeben der Richtungswahrnehmung ist auch die Wahrnehmung von Entfernungen, Geschwindigkeiten und Bremswegen im Kindesalter noch nicht vollständig ausgeprägt. Daher können Kinder die Verkehrssituation häufig nur unvollständig überblicken.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-107",
+      "text": "Auf dem Gehweg läuft ein Kind mit einem Hund an der Leine. Kann hieraus eine Gefahr entstehen?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, wenn der Hund plötzlich auf die Fahrbahn läuft und das Kind hinter sich herzieht"
+        },
+        {
+          "id": "B",
+          "text": "Ja, wenn der Hund sich losreißt und das Kind hinterherrennt"
+        },
+        {
+          "id": "C",
+          "text": "Nein, weil Hunde den Verkehr scheuen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Hier können gefährliche Situationen entstehen. Der Hund könnte sich losreißen und das Kind ihm hinterherlaufen. Es wäre auch denkbar, dass der Hund auf die Fahrbahn rennt und das Kind einfach mitzieht. Sie sollten deshalb langsam fahren und bremsbereit sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-108-B",
+      "text": "Was müssen Sie in dieser Situation beachten?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- nur mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "B",
+          "text": "- nur vorbeifahren, wenn eine Gefährdung von Fahrgästen ausgeschlossen ist"
+        },
+        {
+          "id": "C",
+          "text": "- in keinem Fall vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Linien- und Schulbussen an einer Haltestelle stehen und ihre Warnblinkanlage eingeschaltet ist, dann gilt: Fahrzeuge dürfen nur in Schrittgeschwindigkeit und mit einem ausreichenden Abstand an ihnen vorbeifahren. Dies gilt für den entgegenkommenden Verkehr genauso wie für Fahrzeuge, die in gleicher Richtung wie der Bus unterwegs sind. Jede Gefährdung der Fahrgäste muss durch Sie als Fahrzeugführer ausgeschlossen werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-108-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-109-B",
+      "text": "Was ist in dieser Situation richtig?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die entgegenkommenden Pkw dürfen nur vorsichtig an dem Bus vorbeifahren"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen nur vorsichtig an dem Bus vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Als Gegenverkehr brauchen Sie den Bus nicht besonders zu beachten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aus beiden Richtungen kommende Fahrzeuge dürfen nur vorsichtig an Linienbussen, Schulbussen und Straßenbahnen vorbeifahren, die an Haltestellen stehen. Da der Bus die Warnblinkanlage nicht eingeschaltet hat, müssen Sie Ihr Fahrzeug nicht auf Schrittgeschwindigkeit abbremsen. Seien Sie in der Situation besonders aufmerksam!",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-109-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-110-B",
+      "text": "Was ist in dieser Situation richtig?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf beiden Fahrstreifen darf höchstens mit Schrittgeschwindigkeit an dem Bus vorbeigefahren werden"
+        },
+        {
+          "id": "B",
+          "text": "Auf beiden Fahrstreifen muss angehalten werden, wenn sonst Fahrgäste gefährdet würden"
+        },
+        {
+          "id": "C",
+          "text": "Die Fahrzeuge auf dem linken Fahrstreifen dürfen ohne besondere Vorsicht an dem Bus vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn ein Bus in der Haltestelle steht und seine Warnblinkanlage eingeschaltet ist, dürfen Sie als Fahrer auf derselben Fahrbahn nur im Schritttempo am Bus vorbeifahren. Halten Sie genügend Abstand. Falls nötig müssen Sie anhalten und warten. Der Grund hierfür ist die Sicherheit der Busfahrgäste, für die immer gesorgt sein muss. Dies gilt auch für Verkehrsteilnehmer, die im Gegenverkehr auf derselben Fahrbahn unterwegs sind.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-110-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-112",
+      "text": "In einem Wohngebiet rollt ein Ball vor Ihr Fahrzeug. Wie müssen Sie reagieren?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Ball in einem Wohngebiet vor Ihr Fahrzeug rollt, müssen Sie damit rechnen, dass ein Kind plötzlich auf die Straße läuft. Sie müssen daher bremsen und anhaltebereit sein, da der Vertrauensgrundsatz in diesem Fall nicht gilt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-113",
+      "text": "Sie nähern sich Kindern, die auf dem Gehweg spielen. Wie müssen Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Langsamer fahren und bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Unverändert weiterfahren, um den nachfolgenden Verkehr nicht zu behindern"
+        },
+        {
+          "id": "C",
+          "text": "Hupen und weiterfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Kinder, die auf dem Gehweg spielen, könnten unerwartet auf die Fahrbahn laufen. Der Vertrauensgrundsatz ist daher aufgehoben. Sie müssen die Geschwindigkeit vermindern und bremsbereit sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-114",
+      "text": "Worauf sollten Sie sich in dieser Situation einstellen?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- läuft auf die Fahrbahn und zieht das Kind hinter sich her"
+        },
+        {
+          "id": "B",
+          "text": "- reißt sich los und das Kind läuft hinterher"
+        },
+        {
+          "id": "C",
+          "text": "- wird von dem Kind sicher unter Kontrolle gehalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In dieser Situation solltest du dich auf die Gefahr einstellen, dass der Hund auf die Fahrbahn läuft und das Kind hinter sich herzieht und das der Hund sich los reist und das Kind hinterherläuft.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-114.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-115",
+      "text": "Müssen Sie hier langsam und bremsbereit fahren?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, da Fahrgäste vor dem Bus die Fahrbahn überqueren könnten"
+        },
+        {
+          "id": "B",
+          "text": "Ja, da Personen, die nicht aus dem Bus kommen, die Fahrbahn überqueren könnten"
+        },
+        {
+          "id": "C",
+          "text": "Ja, da der Bus sofort anfahren wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da der Bus an der Haltestelle steht und rechts blinkt, sollten Sie nur sehr vorsichtig an ihm vorbeifahren. Darüber hinaus steht eine Person direkt vor dem Bus und damit in Ihrer unmittelbaren Nähe. Sie müssen außerdem damit rechnen, dass Fahrgäste aus dem Bus aussteigen. Weitere Personen könnten sich dem Bus von der anderen Straßenseite aus nähern und in ihn einsteigen wollen. Sie sollten daher auf jeden Fall Ihr Fahrtempo drosseln, um wenn nötig sofort bremsen zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-115_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-115.mp4"
+    },
+    {
+      "id": "1.1.02-116",
+      "text": "Die Straßenbahn ist an der Haltestelle gerade zum Stehen gekommen. Welches Verhalten ist richtig?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- dürfen nicht gefährdet werden"
+        },
+        {
+          "id": "B",
+          "text": "- dürfen nicht behindert werden"
+        },
+        {
+          "id": "C",
+          "text": "- dürfen mit der Hupe gewarnt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An einer haltenden Straßenbahn dürfen Sie vorsichtig mit Schrittgeschwindigkeit vorbeifahren – aber nur dann, wenn dadurch keine Fahrgäste gefährdet oder behindert werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-116.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-117",
+      "text": "Warum müssen Sie hier verzögern?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Kindes"
+        },
+        {
+          "id": "B",
+          "text": "- des Motorrades"
+        },
+        {
+          "id": "C",
+          "text": "- des Geländewagens"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es ist unklar, was das Kind machen wird. Möglich wäre, dass das Kind auf die Fahrbahn läuft, ohne auf den Verkehr zu achten. Deshalb müssen Sie die Stelle vorsichtig passieren: Fahren Sie sehr langsam und in Bremsbereitschaft.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-117_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-117.mp4"
+    },
+    {
+      "id": "1.1.02-119",
+      "text": "Wie sollten Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Schrittgeschwindigkeit abbremsen"
+        },
+        {
+          "id": "B",
+          "text": "Bremsbereit bleiben"
+        },
+        {
+          "id": "C",
+          "text": "Unverändert weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Gegenüber Kindern ist im Straßenverkehr immer besondere Vorsicht geboten. Sie müssen in dieser Situation damit rechnen, dass das kleine Kind hinter dem Transporter weiter auf die Straße fährt. Bremsen Sie auf Schrittgeschwindigkeit ab und bleiben Sie aufmerksam und jederzeit bremsbereit. Halten Sie notfalls an, wenn Sie nicht sicher sind, wie sich das Kind verhalten wird. Es wäre grob fahrlässig, hier nur zu hupen und einfach weiterzufahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-119.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-122",
+      "text": "Mit welchem Verhalten müssen Sie an solchen Haltestellen rechnen?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fußgänger verlassen die Haltestelleninsel unachtsam"
+        },
+        {
+          "id": "B",
+          "text": "Fußgänger rennen über die Fahrbahn zur Haltestelleninsel"
+        },
+        {
+          "id": "C",
+          "text": "Fußgänger warten, bis die Fahrbahn frei ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fußgänger sind an solchen Verkehrsinseln wartepflichtig. Das Vorbeifahren an der Straßenbahn ist Ihnen also auch dann erlaubt, wenn die Bahntüren noch geöffnet sind. Doch weil sich Personen beim Ein- und Aussteigen oft unvorsichtig verhalten, entstehen immer wieder Gefahrensituationen. Ohne auf den Verkehr zu achten, rennen Fahrgäste beispielsweise einfach über die Fahrbahn, um die Straßenbahn noch zu erreichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-122.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-126",
+      "text": "Warum sind ältere Fußgänger im Verkehr mehr gefährdet als jüngere?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie sehen und hören oft schlechter"
+        },
+        {
+          "id": "B",
+          "text": "Sie reagieren oft langsamer und sind weniger beweglich"
+        },
+        {
+          "id": "C",
+          "text": "Sie schätzen die Geschwindigkeit von Fahrzeugen oft falsch ein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ältere Verkehrsteilnehmer sehen schlechter, hören schlechter, reagieren langsamer und schätzen Geschwindigkeiten von Fahrzeugen falsch ein. Stellen Sie sich darauf ein, dass von diesen Personen Gefahren zu spät erkannt werden und sie zu spät oder gar nicht reagieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-127",
+      "text": "Womit müssen Sie in Wohnvierteln mit geringem Verkehr rechnen?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass spielende Kinder auf die Fahrbahn laufen"
+        },
+        {
+          "id": "B",
+          "text": "Dass Radfahrer unaufmerksam sind"
+        },
+        {
+          "id": "C",
+          "text": "Dass alle Erwachsenen sich verkehrsgerecht verhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In Wohnvierteln gibt ein geringer Verkehr Kindern und Erwachsenen oft ein Gefühl hoher Sicherheit. Manche Verkehrsteilnehmer sind hier gedankenlos unterwegs, was häufig zu einem nicht verkehrsgerechten Verhalten führt. Rechnen Sie in solchen Gebieten stets mit spielenden Kindern, unaufmerksamen Radfahrern und plötzlich die Straße betretenden Fußgängern. Fahren Sie besonders vorsichtig und aufmerksam, da gerade Kinder die Gefahren des Straßenverkehrs nicht richtig einschätzen können.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-128",
+      "text": "Mit welchem Verhalten muss bei Personen am Fußgängerüberweg gerechnet werden?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie blicken weder nach links noch nach rechts"
+        },
+        {
+          "id": "B",
+          "text": "Sie betreten unerwartet die Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Sie kehren manchmal auf halbem Wege um"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Zebrastreifen haben eine Schutzfunktion für Fußgänger. Sie räumen ihnen Vorrang vor anderen Verkehrsteilnehmern ein. Manche Fußgänger vertrauen diesem Schutz gedankenlos und überqueren die Fahrbahn, ohne auf den Verkehr zu achten. Beachten Sie an Überwegen, dass Fußgänger und gerade ältere oder hilfsbedürftige Menschen die Fahrbahn betreten könnten, ohne nach links und rechts zu schauen. Möglich ist auch, dass Fußgänger bei einer auf Rot springenden Ampel auf halbem Weg umkehren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-129",
+      "text": "Ein Fußgänger mit einem weißen Stock möchte vor Ihnen die Fahrbahn überqueren. Wie müssen Sie sich verhalten?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Geschwindigkeit vermindern und nötigenfalls anhalten"
+        },
+        {
+          "id": "B",
+          "text": "- Warnzeichen geben"
+        },
+        {
+          "id": "C",
+          "text": "- mit gleichbleibender Geschwindigkeit weiterfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der weiße Stock zeigt Ihnen, dass dieser Verkehrsteilnehmer blind oder zumindest stark sehbehindert ist. Der Stock ist auch das Kennzeichen dafür, dass die Person ohne Begleitung am Straßenverkehr teilnehmen darf. Blinden und Sehbehinderten müssen Sie stets mit erhöhter Rücksicht begegnen. Vermindern Sie die Geschwindigkeit und halten Sie falls nötig an. Hupen ist nicht angebracht: Sie würden die Person erschrecken und verunsichern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-131",
+      "text": "Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass Fußgänger plötzlich auf die Fahrbahn treten"
+        },
+        {
+          "id": "B",
+          "text": "Dass Fahrzeugtüren geöffnet werden"
+        },
+        {
+          "id": "C",
+          "text": "Dass Fahrzeuge anfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "In einer Verkehrssituation mit mehreren parkenden Fahrzeugen und unterschiedlichen Verkehrsteilnehmern beeinträchtigen die parkenden Fahrzeuge Ihre Sicht. Es ist damit zu rechnen, dass zwischen den Autos Fußgänger auftauchen, um die Straße zu überqueren. Auch ist es möglich, dass Personen aus Fahrzeugen aussteigen oder Fahrzeuge losfahren, ohne auf die aktuelle Verkehrssituation zu achten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-131.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-132",
+      "text": "Wie schätzen Sie die Situation ein?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Fußgängerin kann unachtsam die Fahrbahn betreten"
+        },
+        {
+          "id": "B",
+          "text": "Der Fußgänger mit dem Mofa kann plötzlich die Richtung ändern"
+        },
+        {
+          "id": "C",
+          "text": "Ich kann unvermindert weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An der wartenden Fußgängerin am Straßenrand sollten Sie nur mit einem angemessenen Sicherheitsabstand und sehr vorsichtig vorbeifahren. Dasselbe gilt für einen Mofafahrer, der sein Mofa ordnungsgemäß am rechten Straßenrand schiebt. Bei Bedarf können Sie auch auf den linken Fahrstreifen wechseln.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-132.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-133",
+      "text": "Eine Person am Straßenrand trägt eine gelbe Armbinde mit drei schwarzen Punkten. Worauf weist diese Armbinde hin?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine behinderte Person"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine besondere Verhaltenspflicht gegenüber dieser Person"
+        },
+        {
+          "id": "C",
+          "text": "Auf die Zugehörigkeit zu einer Berufsgruppe"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Erblicken Sie am Straßenrand eine Person, die eine gelbe Armbinde mit drei schwarzen Punkten trägt, bedeutet das für Sie: Der Vertrauensgrundsatz ist außer Kraft gesetzt. Für Sie gilt nun eine erhöhte Sorgfaltspflicht. Denn die Armbinde weist auf eine körperliche Einschränkung in Form einer schweren Sehbehinderung hin. Tragen Sehbehinderte diese Armbinde und/oder einen weißen Stock, dürfen sie sich ohne Begleitung im Verkehr bewegen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-135",
+      "text": "Womit müssen Sie rechnen, wenn Fußgänger die Fahrbahn überqueren?",
+      "points": 4,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- unachtsam sein"
+        },
+        {
+          "id": "B",
+          "text": "- plötzlich stehen bleiben"
+        },
+        {
+          "id": "C",
+          "text": "- auf halbem Wege umkehren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn ein Fußgänger die Fahrbahn überquert, ist es nicht sicher, ob er diese Handlung bis zur gegenüberliegenden Straßenseite fortsetzt. Es ist auch gut möglich, dass er stehenbleibt, umkehrt oder erst mit Verzögerung weitergeht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-001",
+      "text": "Wo müssen Sie besonders mit starker Fahrbahnverschmutzung und Rutschgefahr rechnen?",
+      "points": 3,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Baustellen"
+        },
+        {
+          "id": "B",
+          "text": "An Einmündungen von Feldwegen"
+        },
+        {
+          "id": "C",
+          "text": "An innerstädtischen Kreuzungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An Einmündungen von Feldwegen und an Baustellen ist mit einer starken Verschmutzung der Fahrbahn durch Erde, Lehm und Dreck zu rechnen. Fahrzeuge, die von dort kommen, bringen den Schmutz mit den Profilrillen ihrer Reifen auf die Straße. Bei Nässe bedeutet das eine erhöhte Rutschgefahr.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-002",
+      "text": "Warum müssen Sie bei Nässe einen erheblich größeren Sicherheitsabstand einhalten als bei trockener Fahrbahn?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil sich der Kontakt zwischen Reifen und Fahrbahn verschlechtert"
+        },
+        {
+          "id": "B",
+          "text": "Weil durch Spritzwasser die Sicht beeinträchtigt werden kann"
+        },
+        {
+          "id": "C",
+          "text": "Weil der Bremsweg länger wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei nasser Fahrbahn ist die Haftung zwischen Reifen und Fahrbahn durch den Wasserfilm schlechter. Dadurch ist der Bremsweg erheblich länger. Zudem verschlechtert das von dem vorausfahrenden Auto aufgewirbelte Spritzwasser die Sicht. Gleiches gilt für Regenwetter.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-003",
+      "text": "Wo müssen Sie besonders mit Fahrbahnvereisung rechnen?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Brücken"
+        },
+        {
+          "id": "B",
+          "text": "Auf Strecken, die durch Wald führen"
+        },
+        {
+          "id": "C",
+          "text": "Auf stark befahrenen Strecken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit verstärkter Fahrbahnvereisung müssen Sie in folgenden Bereichen rechnen: in feuchten, schattigen und windreichen Lagen, die die Entstehung von Eis auf der Fahrbahn begünstigen. Dazu zählen vor allem Waldlagen und Brücken. In Wäldern hält sich die Kälte länger als auf freien Feldern. Aufgrund des Schattens benötigt die Feuchtigkeit hier länger, um zu verdunsten. Auf Brücken speichern Fahrbahnen weniger Wärme als auf Erdreich. Brücken-Fahrbahnen sind daher kälter und vereisen schneller. Die Feuchtigkeit des umgebenden Wassers und das erhöhte Windaufkommen durch die ungeschützte Lage fördern Vereisung ebenfalls.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-004",
+      "text": "Welche Besonderheiten ergeben sich in der kalten Jahreszeit beim Befahren von Alleen?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasses Laub sowie Reif-, Eis- und Schneeglätte sind vor allem auf gewölbten Fahrbahnen besonders gefährlich"
+        },
+        {
+          "id": "B",
+          "text": "Auf gepflasterten Fahrbahnen entsteht häufiger und überraschender Reif- und Eisglätte als auf anderen Fahrbahnen"
+        },
+        {
+          "id": "C",
+          "text": "Alleen sind im Winter besonders sicher, weil die Baumkronen die Straße vor Schnee schützen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Besonderheiten beim Befahren von Alleen in der kalten Jahreszeit ergeben sich durch die grundsätzlichen Kennzeichen einer Allee: Sie zeichnet sich durch gleichmäßige, rechts und links parallel zur Fahrbahn verlaufende Baumreihen aus. Das Laub der Bäume führt auf der Fahrbahn zu Schatten. Dadurch hält Feuchtigkeit länger an, die bei Kälte Vereisung begünstigt. Fällt das Laub auf die Fahrbahn, erhöht es die Rutschgefahr des Fahrzeugs ebenfalls erheblich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-005",
+      "text": "Auf der Fahrbahn befindet sich Öl. Wie sollten Sie sich jetzt verhalten?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich informiere die Feuerwehr"
+        },
+        {
+          "id": "B",
+          "text": "Ich vermeide starkes Bremsen und ruckartiges Lenken"
+        },
+        {
+          "id": "C",
+          "text": "Ich weiche auf die linke Fahrbahnhälfte aus"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei Öl auf der Fahrbahn ist ruckartiges Lenken und starkes Bremsen zu vermeiden; es besteht Rutschgefahr. Sofern andere Verkehrsteilnehmer nicht gefährdet werden, können Sie auf die linke Fahrspur ausweichen. Benachrichtigen Sie die Feuerwehr, damit das Öl gebunden wird.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-005.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-102-B",
+      "text": "Warum müssen Sie auf dieser Straße besonders aufmerksam fahren?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil die Fahrbahnoberfläche uneben und unterschiedlich griffig ist"
+        },
+        {
+          "id": "B",
+          "text": "Weil eine Straßenbahn entgegenkommen könnte"
+        },
+        {
+          "id": "C",
+          "text": "Weil das Fahren auf den Schienen gefährlich ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auf den Schienen kann Ihnen eine Straßenbahn entgegenkommen, dann wird die Fahrbahn für Sie deutlich enger. Auch sind Straßenbahnschienen besonders bei Nässe gefährlich, da sie rutschig werden. Die Fahrbahn ist außerdem, da auch Kopfsteinpflaster vorhanden ist, uneben und unterschiedlich griffig. Dadurch kann sich der Bremsweg verlängern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-102-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-104",
+      "text": "Die Straße ist auf einem kurzen Stück vereist. Was sollen Sie hier möglichst vermeiden?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Bremsen"
+        },
+        {
+          "id": "C",
+          "text": "Lenkbewegungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei vereister Fahrbahn haften Ihre Reifen nicht so gut wie sonst. Daher sollten Sie Gefahrensituationen vermeiden, also weder unvermittelt bremsen noch beschleunigen. Auch auf plötzliche Lenkbewegungen sollten Sie verzichten. Die könnten dazu führen, dass Ihr Fahrzeug ins Schleudern gerät. Bremsen und lenken Sie lediglich abseits der vereisten Fläche.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-105",
+      "text": "Wie können Sie beim Fahren gefahrlos feststellen, ob die Fahrbahn vereist ist?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei ganz langsamer Fahrt bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Lenkung ruckartig hin- und herbewegen"
+        },
+        {
+          "id": "C",
+          "text": "Kräftig Gas geben"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Testen Sie durch vorsichtiges Bremsen bei geringer Geschwindigkeit den Zustand der Fahrbahn. Beachten Sie hierbei unbedingt den nachfolgenden Verkehr. Vermeiden Sie es, die Lenkung ruckartig zu bewegen oder stark zu beschleunigen. Ihr Fahrzeug könnte hierdurch ausbrechen und unkontrollierbar werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-108-B",
+      "text": "Warum müssen Sie hier besonders vorsichtig fahren?",
+      "points": 3,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil die Fahrbahn glatt ist"
+        },
+        {
+          "id": "B",
+          "text": "Weil die Sicht durch die Kurve behindert ist"
+        },
+        {
+          "id": "C",
+          "text": "Weil die Fahrbahn durch den falsch parkenden Pkw verengt ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Schnee macht die Straße glatt. Vor Ihnen liegt eine schwer einsehbare Kurve, in der ein Pkw parkt. Sie werden auf die Gegenfahrbahn ausscheren müssen, um ihn zu umfahren. Fahren Sie daher besonders vorsichtig, um jederzeit reagieren zu können. Außerdem braucht Ihr Fahrzeug geeignete Reifen für einen guten Halt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-108-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-109",
+      "text": "Wo müssen Sie besonders mit plötzlich auftretendem Nebel rechnen?",
+      "points": 3,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Flussläufen"
+        },
+        {
+          "id": "B",
+          "text": "In Moorgebieten"
+        },
+        {
+          "id": "C",
+          "text": "An Seen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Feuchte bei geringen Temperaturen begünstigt Nebelbildung. Daher tritt Nebel verstärkt auf im Umkreis von Seen, Wasserläufen und Flüssen sowie Moorgebieten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-110",
+      "text": "Was müssen Sie tun, wenn vor Ihnen ein Nebelfeld die Sicht stark behindert?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit rechtzeitig den Sichtverhältnissen anpassen"
+        },
+        {
+          "id": "B",
+          "text": "Abstand zum vorausfahrenden Fahrzeug vergrößern"
+        },
+        {
+          "id": "C",
+          "text": "Dicht aufschließen, um sich an den Schlussleuchten des vorausfahrenden Fahrzeugs zu orientieren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Passen Sie Geschwindigkeit und Fahrweise den Sichtverhältnissen an. Stellen Sie sicher, dass Sie innerhalb der Sichtweite anhalten können. Vergrößern Sie gegebenenfalls den Sicherheitsabstand zum vorausfahrenden Fahrzeug. Nebel mit einer Sicht von 50 Metern bedeutet beispielsweise, dass Sie mit maximal 50 km/h fahren dürfen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.03-115",
+      "text": "Sie wollen die Autobahn verlassen, worauf müssen Sie besonders achten?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf das rote Motorrad"
+        },
+        {
+          "id": "B",
+          "text": "Auf den gelben Lkw"
+        },
+        {
+          "id": "C",
+          "text": "Auf den weißen Transporter"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Im Video sehen Sie ein rotes Motorrad auf dem Ausfädelungsstreifen. Später ist es nicht mehr zu sehen, denn es befindet sich rechts von Ihnen im toten Winkel. Scheren Sie nun ebenfalls auf den Ausfädelungsstreifen aus, schneiden Sie den Motorradfahrer – für diesen eine hohe Gefahrensituation. Vergewissern Sie sich, dass der Motorradfahrer rechts an Ihnen vorbeigezogen ist, bevor Sie die Fahrspur wechseln.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-115_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-115.mp4"
+    },
+    {
+      "id": "1.1.03-116",
+      "text": "Warum kann hier das Rechtsabbiegen gefährlich werden?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil ich möglicherweise nicht rechtzeitig anhalten kann, wenn Fußgänger die Seitenstraße überqueren"
+        },
+        {
+          "id": "B",
+          "text": "Weil Fahrzeuge, die aus der Seitenstraße kommen, beim Abbremsen ins Schleudern geraten können"
+        },
+        {
+          "id": "C",
+          "text": "Weil mein Fahrzeug bei zu schnellem Abbiegen ins Schleudern geraten kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die winterliche Witterung macht die Fahrbahn rutschig und verlängert den Bremsweg an der Kreuzung. Ihr Wagen oder entgegenkommende Fahrzeuge könnten schleudern oder unkontrolliert wegrutschen. Verringern Sie daher rechtzeitig die Geschwindigkeit und bremsen Sie nicht abrupt. Die Straße rechts ist noch voll Schnee und somit noch glatter. Achten Sie beim Abbiegen auf Fußgänger. Diese haben, wenn Sie abbiegen, immer Vorrang.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-116.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-117",
+      "text": "Sie fahren auf dieser Straße außerhalb geschlossener Ortschaften. Worauf stellen Sie sich ein?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fußgänger nutzen die Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Die Fahrbahn ist verengt"
+        },
+        {
+          "id": "C",
+          "text": "Fußgänger laufen nur außerhalb der Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Rechts sehen Sie das Hinweisschild auf einen Parkplatz. Rechnen Sie mit Fußgängern, die von ihren geparkten Autos weg- oder zu ihnen hinlaufen. Da die Gehwege durch die Schneemassen unpassierbar sind, könnten ausweichende Fußgänger die Fahrbahn nutzen. Die Witterung führt zu Glätte und verlängert Ihren Bremsweg. Fahren Sie langsam.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-117.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-118",
+      "text": "Was müssen Sie beachten?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Nebelschlussleuchte einschalten"
+        },
+        {
+          "id": "B",
+          "text": "- höchstens 50 km/h fahren"
+        },
+        {
+          "id": "C",
+          "text": "- höchstens 80 km/h fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Nebel ist hier so dicht, dass Sie nicht weiter als 50 Meter sehen können. Bei einer so eingeschränkten Sicht lassen sich Hindernisse und Gefahrensituationen bei hoher Fahrgeschwindigkeit nicht rechtzeitig genug erkennen. Daher müssen Sie Ihr Tempo auf höchstens 50 km/h drosseln und besonders achtsam fahren. Schalten Sie die Nebelschlussleuchte Ihres Fahrzeugs ein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-118_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-118.mp4"
+    },
+    {
+      "id": "1.1.03-120",
+      "text": "Wie verhalten Sie sich in dieser Situation richtig?",
+      "points": 3,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verringere die Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich vermeide ruckartige Lenkbewegungen"
+        },
+        {
+          "id": "C",
+          "text": "Ich bremse in der Kurve stark ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahren Sie vorsichtig, langsam und vermeiden abruptes Lenken oder Bremsen, weil jederzeit Schnee- oder Eisglätte auftreten kann.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.03-120.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-121",
+      "text": "Während der Fahrt regnet es plötzlich stark. Wie sollten Sie sich verhalten?",
+      "points": 4,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verringere meine Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich vermeide starkes Beschleunigen"
+        },
+        {
+          "id": "C",
+          "text": "Ich verringere den Sicherheitsabstand zum Vorausfahrenden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Beim Fahren mit starkem Regen ist besondere Vorsicht walten zu lassen. Dazu gehört die Anpassung der Geschwindigkeit, das Vergrößern des Sicherheitsabstands und das Vermeiden von starker Beschleunigung, hierbei entsteht Rutschgefahr.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.04-001",
+      "text": "Sie biegen von einer hell erleuchteten in eine dunkle Straße ein. Was müssen Sie dabei berücksichtigen?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Augen gewöhnen sich nur langsam an die Dunkelheit"
+        },
+        {
+          "id": "B",
+          "text": "Hindernisse sind schlechter zu erkennen als vorher"
+        },
+        {
+          "id": "C",
+          "text": "Schon beim Abbiegen haben sich Ihre Augen vollständig an die Dunkelheit gewöhnt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Pupillen sind bei Helligkeit zusammengezogen und bei Dunkelheit weit geöffnet. Direkt nach dem Einbiegen von der hellen in die dunkle Straße können Sie die bei Dunkelheit ohnehin schwer sichtbaren Hindernisse deshalb noch schlechter erkennen. Abhängig von Ihrem Alter benötigen Ihre Augen mehr oder weniger Zeit, um sich auf veränderte Lichtverhältnisse einzustellen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.04-103-B",
+      "text": "Was müssen Sie hier tun, wenn Sie geblendet werden?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zum rechten Fahrbahnrand schauen"
+        },
+        {
+          "id": "B",
+          "text": "Geschwindigkeit notfalls vermindern"
+        },
+        {
+          "id": "C",
+          "text": "Beschleunigen, um schneller aus dem Lichtkegel herauszukommen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie durch ein Fernlicht oder falsch eingestellte Scheinwerfer geblendet werden, schauen Sie nicht in den Lichtkegel, sondern zum rechten Fahrbahnrand. Vermindern Sie vorsichtshalber Ihre Geschwindigkeit, um für Fußgänger oder Radfahrer noch rechtzeitig bremsen zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-103-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.04-107",
+      "text": "Womit müssen Sie hier rechnen?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass Ihr Fahrzeug von anderen nicht rechtzeitig gesehen wird"
+        },
+        {
+          "id": "B",
+          "text": "Dass Sie entgegenkommende Fahrzeuge erst spät erkennen"
+        },
+        {
+          "id": "C",
+          "text": "Dass sich Ampeln von den bunten Lichtreklamen kaum abheben"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die zahlreichen Leuchtreklamen lenken vom Verkehrsgeschehen und insbesondere den Ampeln ab. Durch die Ablenkung nehmen Sie andere Verkehrsteilnehmer möglicherweise zu spät wahr und werden selbst zu spät gesehen. Es können Gefahrensituationen entstehen. Andere Verkehrsteilnehmer können sich falsch verhalten, weil sie die Verkehrszeichen nicht oder zu spät erkennen. Fahren Sie vorsichtig und mit angepasster Geschwindigkeit.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-107.png",
+      "video": null
+    },
+    {
+      "id": "1.1.04-108",
+      "text": "Warum kann das Befahren dieser Straße gefährlich werden?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil Personen auf der Fahrbahn leicht übersehen werden"
+        },
+        {
+          "id": "B",
+          "text": "Weil schlecht beleuchtete Fahrzeuge schwer zu erkennen sind"
+        },
+        {
+          "id": "C",
+          "text": "Weil entgegenkommende Kraftfahrzeuge erst spät erkannt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie sich auf einer beleuchteten Fahrbahn mit dunklen Teilabschnitten befinden, müssen Sie vor allem auf Fußgänger achten, die die Straße überqueren könnten. Auch parkende Fahrzeuge in den genannten dunklen Abschnitten werden häufig nicht rechtzeitig gesehen. Fahren Sie daher entsprechend langsam und vorsichtig. Entgegenkommende Fahrzeuge hingegen sind meist gut zu erkennen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-108.png",
+      "video": null
+    },
+    {
+      "id": "1.1.04-109",
+      "text": "Weshalb ist es möglich, dass Fahrzeugführer das Zeichen \"Vorfahrt gewähren.\" nicht wahrnehmen?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die durchgehende Beleuchtung verleitet zu der Annahme, an der Kreuzung Vorfahrt zu haben"
+        },
+        {
+          "id": "B",
+          "text": "Die Straßenführung erweckt den Eindruck einer Vorfahrtstraße"
+        },
+        {
+          "id": "C",
+          "text": "Die parkenden Fahrzeuge verdecken teilweise den Kreuzungsbereich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auch wenn die bessere Beleuchtung Sie zur Annahme verleitet, gegenüber der schlechter ausgeleuchteten Querstraße vorfahrtsberechtigt zu sein, müssen Sie hier die Vorfahrt beachten. Darauf weist das entsprechende Schild an der Kreuzung hin. Daran ändern auch die im Kreuzungsbereich parkenden Fahrzeuge nichts. Alle drei Antworten sind daher korrekt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-109.png",
+      "video": null
+    },
+    {
+      "id": "1.1.04-110",
+      "text": "Worauf müssen Sie achten, wenn Sie in eine Tiefgarage fahren?",
+      "points": 4,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meine Augen müssen sich erst an die veränderten Lichtverhältnisse gewöhnen"
+        },
+        {
+          "id": "B",
+          "text": "Fußgänger laufen oft auf Fahrwegen"
+        },
+        {
+          "id": "C",
+          "text": "Meine Reifen können an engen Aus- und Einfahrten beschädigt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei der Einfahrt in eine Tiefgarage macht Fahrern der Wechsel von Tageslicht zu mäßiger Beleuchtung im Innern zu schaffen. Die Pupillen reagieren nicht schnell genug auf die veränderten Lichtverhältnisse, und so können Sie Hindernisse oder Personen möglicherweise nicht rechtzeitig erkennen. Außerdem sind die Ein- und Ausfahrten schmal und unübersichtlich. Fahren Sie langsam, mit Abblendlicht und stets bremsbereit in eine Tiefgarage ein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.04-111",
+      "text": "Wie sollten Sie sich bei diesen Sichtverhältnissen verhalten?",
+      "points": 3,
+      "chapter": "Dunkelheit Und Schlechte Sicht",
+      "chapterNumber": "1.1.04",
+      "chapterName": "Dunkelheit Und Schlechte Sicht",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich reduziere meine Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich orientiere mich am rechten Fahrbahnrand"
+        },
+        {
+          "id": "C",
+          "text": "Ich schalte das Fernlicht ein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei schlechten Sichtverhältnissen müssen Sie zunächst Ihr Tempo drosseln. Wenn Sie durch ein entgegenkommendes Fahrzeug geblendet werden, sollten Sie zum rechten Fahrbahnrand schauen, damit Sie nicht von der Straße abkommen. Sie dürfen hier nicht das Fernlicht einschalten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-111.png",
+      "video": null
+    },
+    {
+      "id": "1.1.05-001",
+      "text": "Wo führt schnelles Fahren häufig zu Unfällen?",
+      "points": 4,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Straßenkreuzungen und -einmündungen"
+        },
+        {
+          "id": "B",
+          "text": "An Fußgängerüberwegen"
+        },
+        {
+          "id": "C",
+          "text": "In Kurven"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Zu hohe Geschwindigkeit ist eine der Hauptursachen für Unfälle. Je schneller Sie fahren, desto länger ist Ihr Bremsweg und desto weniger Zeit bleibt Ihnen zum Reagieren auf andere Verkehrsteilnehmer. Bei zu hohem Tempo können Sie durch die Fliehkraft aus der Kurve getragen werden. Auf glatter und nasser Fahrbahn verlieren Sie bei hoher Geschwindigkeit die Bodenhaftung und Kontrolle über den Wagen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.05-002",
+      "text": "Wo ist zu schnelles Fahren besonders gefährlich?",
+      "points": 4,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "In unübersichtlichen Kurven"
+        },
+        {
+          "id": "B",
+          "text": "An Fahrbahnverengungen"
+        },
+        {
+          "id": "C",
+          "text": "An Bahnübergängen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "In unübersichtlichen Kurven ist schnelles Fahren besonders gefährlich, weil plötzlich auftretende Hindernisse zu spät gesehen werden. Auch an Fahrbahnverengungen kann hohe Geschwindigkeit gefährlich sein, da nicht immer genug Bremsweg zur Verfügung steht. Unterschätzen Sie außerdem nicht die Schleudergefahr durch unebene Fahrbahn an Bahnübergängen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.05-003",
+      "text": "Wie durchfahren Sie enge Kurven?",
+      "points": 4,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vor der Kurve Geschwindigkeit vermindern"
+        },
+        {
+          "id": "B",
+          "text": "Erst beim Übergang in die Gerade wieder beschleunigen"
+        },
+        {
+          "id": "C",
+          "text": "Erst im Scheitelpunkt der Kurve Geschwindigkeit vermindern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bereits vor einer engen Kurve sollten Sie Ihre Geschwindigkeit verringern und erst beim Übergang in die Gerade wieder beschleunigen, wenn das die Sicht erlaubt. Beachten Sie, dass abruptes Bremsen in einer Kurve Ihr Fahrzeug ins Schleudern bringen kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.05-103",
+      "text": "Was müssen Sie beachten?",
+      "points": 5,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Personen könnten die Fahrbahn überqueren"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf am Bus mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf am Bus nicht vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An einem Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle steht, dürfen Sie nur in Schrittgeschwindigkeit und mit erhöhter Aufmerksamkeit vorbeifahren. Fahrgäste könnten vor dem Bus auf die Straße treten oder herbeihasten, um ihn noch zu erwischen. Dabei achten sie oft nicht auf den Verkehr.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103.mp4"
+    },
+    {
+      "id": "1.1.05-105",
+      "text": "Was müssen Sie in dieser Situation beachten?",
+      "points": 5,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich schaue auf Personen, die auf die Fahrbahn treten könnten"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf am Bus nur mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf am Bus nicht vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Steht ein Bus an einer Haltestelle, müssen Sie sich immer vorsichtig nähern. Sie müssen hinter dem Bus stoppen und dürfen erst in Schrittgeschwindigkeit weiterfahren, wenn Sie sicher niemanden gefährden. Der gesetzte Warnblinker zeigt: Die Haltestelle ist gefährlich. Schulbusse warnen so vor aussteigenden Kindern. Diese könnten plötzlich vor dem Bus hervorkommen und die Fahrbahn überqueren oder zum Bus laufen, um ihn noch zu erwischen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105.mp4"
+    },
+    {
+      "id": "1.1.06-002",
+      "text": "Ist es leichtsinnig, noch kurz vor einer Kreuzung einen Lastzug zu überholen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, weil der Lastzug die Sicht auf wichtige Verkehrszeichen verdecken kann"
+        },
+        {
+          "id": "B",
+          "text": "Ja, weil der Lastzug die Sicht auf den Querverkehr verdeckt"
+        },
+        {
+          "id": "C",
+          "text": "Nein, weil Lastzüge meist langsam fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kurz vor einer Kreuzung sollten Sie keinesfalls einen Überholvorgang beginnen. Es besteht erhöhte Unfallgefahr. Dies gilt besonders für das Überholen von Lkws. Durch diese können Sie eventuell den Querverkehr oder auch Verkehrszeichen nicht sehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-103",
+      "text": "Welche Fehler machen das Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Entfernung eines entgegenkommenden Fahrzeugs wird zu groß eingeschätzt"
+        },
+        {
+          "id": "B",
+          "text": "Der eigene Überholweg wird zu kurz eingeschätzt"
+        },
+        {
+          "id": "C",
+          "text": "Der eigene Überholweg wird zu lang eingeschätzt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Überholmanöver sind auch auf geraden und übersichtlichen Strecken Gefahrensituationen. Das gilt besonders, wenn Gegenverkehr auf Sie zukommt. Die Geschwindigkeit entgegenkommender Fahrzeuge lässt sich schwer einschätzen. Oft wird auch die Dauer des Überholmanövers unterschätzt. Benötigen Sie zu lange, können Gefahrensituationen für Sie und andere entstehen. Bevor Sie zum Überholen eines anderen Fahrzeugs ansetzen, vergewissern Sie sich, dass die Gegenfahrbahn frei ist und Sie das Überholmanöver zügig beenden können. Ansonsten warten Sie ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-104",
+      "text": "Wann wird ein Überholender gefährdet?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- plötzlich beschleunigt"
+        },
+        {
+          "id": "B",
+          "text": "- zum Überholen ausschert"
+        },
+        {
+          "id": "C",
+          "text": "- seine Geschwindigkeit stark verringert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie bemerken, dass das hinter Ihnen fahrende Fahrzeug Sie überholen möchte, erhöhen Sie keinesfalls Ihre eigene Geschwindigkeit. Dadurch verlängert sich das Überholmanöver und kann zu Gefahrensituationen führen. Bevor Sie selbst zum Überholen ansetzen, vergewissern Sie sich, dass Ihr Hintermann Sie nicht ebenfalls gerade überholen möchte. Dieser müsste sonst stark bremsen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-105",
+      "text": "In welchen Fällen muss das Überholen abgebrochen werden?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn der Eingeholte plötzlich beschleunigt"
+        },
+        {
+          "id": "B",
+          "text": "Wenn durch unerwarteten Gegenverkehr Gefahr entsteht"
+        },
+        {
+          "id": "C",
+          "text": "Wenn der Eingeholte seine Geschwindigkeit stark verringert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Plötzlicher Gegenverkehr erfordert es, dass ein Überholvorgang sofort abgebrochen wird. Das Gleiche gilt, wenn das zu überholende Fahrzeug beschleunigt. Dadurch können Sie den Überholweg nicht mehr abschätzen und gefährden bei Fortsetzung den Gegenverkehr. Sollte der zu Überholende seine Geschwindigkeit drosseln, besteht keine Gefahr.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-106",
+      "text": "Wann ist das Überholen verboten?",
+      "points": 4,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn Sie nicht wesentlich schneller fahren können als der zu Überholende"
+        },
+        {
+          "id": "B",
+          "text": "Wenn Sie nicht die gesamte Überholstrecke überblicken"
+        },
+        {
+          "id": "C",
+          "text": "Wenn die Verkehrslage unklar ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn Sie auf eine unübersichtliche Verkehrssituation stoßen, ist das Überholen verboten. Das gilt insbesondere:\n- In Kurven\n- Auf unübersichtlichen Strecken\n- Unmittelbar vor und an Kreuzungen mit unklarer Vorfahrtslage\n- Wenn die Verkehrslage unübersichtlich ist\n- Wenn Sie nicht genau einschätzen können, was Ihr Vordermann tut\n- Wenn Sie für das Überholmanöver zu lange brauchen würden, weil Ihr Fahrzeug nicht schnell genug ist\nBevor Sie zum Überholen ansetzen, vergewissern Sie sich, dass Sie andere Verkehrsteilnehmer und den Gegenverkehr nicht gefährden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-111",
+      "text": "Warum kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Gegenverkehr schneller fährt als angenommen"
+        },
+        {
+          "id": "B",
+          "text": "- Überholweg länger ist als angenommen"
+        },
+        {
+          "id": "C",
+          "text": "- Gegenverkehr langsamer fährt als angenommen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf gerader Strecke können Sie zwar den entgegenkommenden Verkehr schon von Weitem sehen, oft wird dabei jedoch dessen Geschwindigkeit unterschätzt. Dauert ein Überholmanöver zu lange, können gefährliche Situationen entstehen. Bei Gegenverkehr besser abwarten, bis die Strecke frei ist, bevor Sie überholen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-113",
+      "text": "Wie verhalten Sie sich in dieser Situation?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bleibe hinter dem Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Ich überhole den Radfahrer"
+        },
+        {
+          "id": "C",
+          "text": "Ich hupe, damit der Radfahrer Platz macht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen den Fahrradfahrer nicht überholen: Die durchgehende Mittellinie darf von Ihnen in keinem Fall überschritten werden, auch nicht teilweise. Ebenso dürfen Sie hier keine Hupe einsetzen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-113_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-113.mp4"
+    },
+    {
+      "id": "1.1.06-114",
+      "text": "Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich breche den Überholvorgang ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich führe den Überholvorgang zügig durch"
+        },
+        {
+          "id": "C",
+          "text": "Ich führe den Überholvorgang vorsichtig durch"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie wollen gerade zum Überholen des Radfahrers ansetzen, da fährt der blaue Pkw aus der Parklücke. Offenbar hat er den Radfahrer noch nicht bemerkt. Dieser könnte nun nach links ausweichen, ohne nach hinten zu schauen. Brechen Sie das Überholmanöver unverzüglich ab, um eine Gefährdung des Radfahrers zu vermeiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-114_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-114.mp4"
+    },
+    {
+      "id": "1.1.06-122",
+      "text": "Womit müssen Sie rechnen, wenn Sie überholen wollen?",
+      "points": 4,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit unsicherer Fahrweise des Radfahrers"
+        },
+        {
+          "id": "B",
+          "text": "Mit verlängertem Anhalteweg"
+        },
+        {
+          "id": "C",
+          "text": "Mit Rutschgefahr"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auf schneebedeckter Fahrbahn verlängert sich der Brems- und Anhalteweg, auch besteht erhöhte Rutschgefahr. Besonders Fahrradfahrer haben Schwierigkeiten, sicher zu fahren. Ihre Sturzgefahr ist deutlich erhöht. Halten Sie größeren Abstand zum Radfahrer, auch weil sein Anhalteweg sehr lang ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-122.png",
+      "video": null
+    },
+    {
+      "id": "1.1.06-123",
+      "text": "Sie möchten überholen. Worauf stellen Sie sich ein?",
+      "points": 4,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf plötzliches Anhalten des Radfahrers direkt vor mir"
+        },
+        {
+          "id": "B",
+          "text": "Auf links Ausscheren des entfernteren Radfahrers"
+        },
+        {
+          "id": "C",
+          "text": "Auf plötzlich auftauchenden Gegenverkehr"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Radfahrer könnte ins Schwanken geraten, da das Fahren mit einer Hand und die große Last auf dem Gepäckträger sein Fahrrad instabil machen. Durch das Herumdrehen des vorderen Radfahrers wird dieser wahrscheinlich nach links pendeln und mehr Platz als üblich benötigen. Sie sollten an den Fahrradfahrern nur mit einem ausreichenden Sicherheitsabstand von mindestens zwei Metern vorbeifahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.06-123.png",
+      "video": null
+    },
+    {
+      "id": "1.1.06-124",
+      "text": "Sie möchten in einer schmalen Straße Radfahrer überholen. Wegen der Straßenbreite ist ein Seitenabstand zu ihnen von höchstens 50 cm möglich. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich überhole nicht"
+        },
+        {
+          "id": "B",
+          "text": "Ich gebe vor dem Überholen ein kurzes Warnzeichen"
+        },
+        {
+          "id": "C",
+          "text": "Ich überhole mit mäßiger Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Zur Gefahrenvermeidung müssen Sie als Fahrzeugführer beim Überholen von Fahrradfahrern stets einen ausreichenden Sicherheitsabstand von mindestens 1,50 Metern einhalten. Ist es nicht möglich, in einem solchen Abstand an dem Radfahrer vorbeizufahren, dürfen Sie ihn auf keinen Fall überholen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-125",
+      "text": "Sie möchten Radfahrer überholen. Was ist bei der Wahl des Seitenabstandes zu berücksichtigen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Verhalten der Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Die Geschwindigkeit meines Fahrzeuges"
+        },
+        {
+          "id": "C",
+          "text": "Ein Seitenabstand von 1,0 m ist immer ausreichend"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie einen Radfahrer überholen möchten, müssen Sie hinsichtlich des Seitenabstands Folgendes berücksichtigen: Der Seitenabstand muss mindestens 1,5 m betragen, bei auffälligem Verhalten des Radfahrers mehr. Die Gründe dafür sind mögliche Pendelbewegungen des Radfahrers, aber auch die mögliche Sogwirkung Ihres Fahrzeuges bei höherer Geschwindigkeit. Hupen sowie Überholen bei geringerem Seitenabstand gelten als grobe Fahrlässigkeit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-128",
+      "text": "In welcher Situation ist das Überholen unzulässig?",
+      "points": 4,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Überholvorgang nicht vor dem Beginn eines Überholverbots beenden kann"
+        },
+        {
+          "id": "B",
+          "text": "- Überholvorgang nicht vor einer Kuppe beenden kann"
+        },
+        {
+          "id": "C",
+          "text": "- nötigen Seitenabstand nicht einhalten kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Hier gilt Überholverbot, weil Sie in diesen Situationen als Überholender das Unfallrisiko stark erhöhen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-130",
+      "text": "Weshalb kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Entfernung eines entgegenkommenden Fahrzeugs als zu groß einschätze"
+        },
+        {
+          "id": "B",
+          "text": "- die Geschwindigkeit eines entgegenkommenden Fahrzeugs als zu gering einschätze"
+        },
+        {
+          "id": "C",
+          "text": "- meinen Überholweg kürzer einschätze, als er ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch falsches Einschätzen der Geschwindigkeit und Entfernung eines entgegenkommenden Fahrzeugs ist dein Überholweg länger als angenommen. Dadurch können Unfälle entstehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-001",
+      "text": "Womit müssen Sie rechnen, wenn vor Ihnen ein Lastzug in eine enge Straße nach rechts abbiegen will?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- seine Geschwindigkeit stark vermindern"
+        },
+        {
+          "id": "B",
+          "text": "- vor dem Abbiegen nach links ausscheren"
+        },
+        {
+          "id": "C",
+          "text": "- sich besonders weit rechts einordnen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Halten Sie einen großen Abstand zu dem Lkw und überholen Sie keinesfalls auf der rechten Seite, auch wenn Sie als Zweiradfahrer die Möglichkeit dazu hätten. Der Lastzug muss seine Geschwindigkeit zum Abbiegen zunächst stark reduzieren. Aus Platzgründen muss der Lkw-Fahrer dann das Zugfahrzeug gegebenenfalls weit nach links lenken, damit der Anhänger oder der Sattelauflieger beim Abbiegen nicht über den Bordstein rollt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-002",
+      "text": "Worauf müssen Sie innerorts an Kreuzungen und Einmündungen besonders achten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kreuzende oder einmündende Straßen können bevorrechtigt sein, obwohl sie schmal und weniger gut ausgebaut sind"
+        },
+        {
+          "id": "B",
+          "text": "Die breitere Straße ist immer bevorrechtigt"
+        },
+        {
+          "id": "C",
+          "text": "An allen Kreuzungen und Einmündungen gilt ausnahmslos die Regel „rechts vor links“"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Durch das Befahren einer breiten und gut ausgebauten Straße sind Sie nicht automatisch vorfahrtsberechtigt. Auch die Regel „rechts vor links“ gilt nicht immer und überall, sondern Beschilderungen oder Verkehrsampeln regeln, wer Vorfahrt hat. Achten Sie deshalb an jeder einzelnen Kreuzung und Einmündung auf die ausgeschilderte Vorfahrtsregelung bzw. die Ampeln.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-005-B",
+      "text": "Worauf müssen Sie sich einstellen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass von rechts ein Fahrzeug kommt"
+        },
+        {
+          "id": "B",
+          "text": "Dass sich Ihr Bremsweg durch Feuchtigkeit und Laub verlängert"
+        },
+        {
+          "id": "C",
+          "text": "Dass ein von rechts kommendes Fahrzeug auf seine Vorfahrt verzichtet"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch das nasse Laub auf der Fahrbahn verlängert sich der Bremsweg Ihres Fahrzeugs erheblich. Passen Sie die Geschwindigkeit entsprechend an. Bedenken Sie auch, dass wegen der nicht vorhandenen vorfahrtsregelnden Verkehrszeichen die Regel „rechts vor links“ gilt. Einem von rechts kommenden Fahrzeug müssten Sie Vorfahrt gewähren, selbst wenn der Fahrzeugführer wegen der Witterungsverhältnisse nur langsam und zögerlich an die Kreuzung heranfährt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-005-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-006-B",
+      "text": "Warum müssen Sie hier besonders vorsichtig sein?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil beim Bremsen erhöhte Rutschgefahr besteht"
+        },
+        {
+          "id": "B",
+          "text": "Weil ein Fahrzeug von rechts kommen könnte"
+        },
+        {
+          "id": "C",
+          "text": "Weil das von links kommende Auto Vorfahrt hat"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das nasse Laub auf der Straße hat einen verlängerten Bremsweg und eine hohe Rutschgefahr zur Folge. Verringern Sie deshalb vor dem Erreichen der Kreuzung die Geschwindigkeit und fahren Sie vorsichtig. Von rechts könnte ein Fahrzeug kommen, dem Sie Vorfahrt zu gewähren hätten. Da an der Kreuzung keine vorfahrtsregelnden Schilder stehen, gilt hier „rechts vor links“.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-006-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-008",
+      "text": "Sie wollen aus einer Reihe parkender Fahrzeuge in den fließenden Verkehr einfahren. Hinter Ihnen parkt ein Lastzug. Wie beurteilen Sie diese Situation?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen der verdeckten Sicht können Sie herannahende Fahrzeuge erst spät sehen"
+        },
+        {
+          "id": "B",
+          "text": "Wegen der verdeckten Sicht können von hinten herannahende Fahrzeuge Ihr Fahrzeug erst spät sehen"
+        },
+        {
+          "id": "C",
+          "text": "Das Einfahren ist hier ungefährlich, weil Sie sich im Schutz des hinter Ihnen stehenden Lastzugs befinden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wegen des Lkws können Sie den Verkehr hinter sich nur schwer einsehen. Er verdeckt ebenso die Sicht des fließenden Verkehrs auf Ihr Fahrzeug. Sie müssen daher besonders vorsichtig sein und sich langsam auf die Fahrbahn vortasten. Gegebenenfalls müssen Sie zurücksetzen, um Gefahren zu vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-009",
+      "text": "Sie nähern sich einer Schule. Kinder verlassen das Schulgelände. Womit müssen Sie rechnen?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ausgelassen auf die Fahrbahn stürmen"
+        },
+        {
+          "id": "B",
+          "text": "- mit ihren Fahrrädern unvorsichtig auf die Fahrbahn fahren"
+        },
+        {
+          "id": "C",
+          "text": "- sich immer verkehrsgerecht verhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Im Bereich von Schulen müssen Sie immer mit Kindern rechnen, die unvermittelt die Straße überqueren. Kinder können sich und andere Verkehrsteilnehmer noch nicht so gut einschätzen und reagieren oft impulsiv und nicht verkehrsgerecht. Als Autofahrer haben Sie Ihre Fahrweise entsprechend anzupassen, um jede Gefährdung der Kinder auszuschließen. Neben einer niedrigen Fahrgeschwindigkeit müssen Sie vor allem besonders aufmerksam und jederzeit bremsbereit sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-010",
+      "text": "Worauf kann Warnblinklicht hinweisen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf liegen gebliebene Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Auf Schulbusse, bei denen Kinder ein- oder aussteigen"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Stau"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Benutzung der Warnblinkanlage unterliegt strengen Regeln. Das Warnblinklicht dürfen Sie nur zur Absicherung Ihres liegengebliebenen Fahrzeugs einschalten oder um auf einen Stau oder einen Schulbus hinzuweisen. Ein Schulbus mit eingeschaltetem Warnblinklicht darf nur mit Schrittgeschwindigkeit überholt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-011",
+      "text": "Vor Ihnen will ein großer Mähdrescher nach rechts abbiegen. Was ist richtig?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- wird beim Abbiegen weit nach links ausschwenken"
+        },
+        {
+          "id": "B",
+          "text": "- wird vor dem Abbiegen sehr langsam werden"
+        },
+        {
+          "id": "C",
+          "text": "- kann wegen der Hinterradlenkung nicht ausschwenken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Mähdrescher wird zum Abbiegen weit ausholen müssen und daher ausschwenken, denn die Kurve ist sehr eng. Dazu wird er seine Geschwindigkeit stark verringern. Halten Sie Abstand und fahren Sie ebenfalls langsam und bremsbereit. Besonders für Zweiradfahrer gilt: Niemals rechts überholen!",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-013",
+      "text": "Sie fahren hinter einem landwirtschaftlichen Fahrzeug mit hoch beladenem Anhänger. Womit müssen Sie rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vor allem beim Bremsen oder beim Abbiegen können Teile der Ladung herunterfallen"
+        },
+        {
+          "id": "B",
+          "text": "Die Blinker können verdeckt sein, so dass schlecht zu erkennen ist, wenn der Zug abbiegen will"
+        },
+        {
+          "id": "C",
+          "text": "Der Zug hat wegen der Beladung einen besonders kurzen Bremsweg"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie hinter einem landwirtschaftlichen Fahrzeug mit hoch beladenem Anhänger fahren, müssen Sie mit Folgendem rechnen: Ein Teil des Ladeguts könnte beim Abbiegen oder Bremsen auf die Fahrbahn fallen. Der Blinker könnte verschmutzt oder durch Ladegut verdeckt sein. Der Bremsweg des Fahrzeugs verlängert sich durch das Gewicht des Ladeguts.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-016",
+      "text": "Warum müssen Sie vor dem Rechtsabbiegen warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Fußgängers"
+        },
+        {
+          "id": "B",
+          "text": "- des Radfahrers"
+        },
+        {
+          "id": "C",
+          "text": "- des Transporters"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie rechts abbiegen möchten, müssen Sie Fahrzeugen und Fußgängern die Ihnen von rechts entgegen kommen oder sich in selber Bewegungsrichtung fortbewegen vorrang gewähren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-016_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-016.mp4"
+    },
+    {
+      "id": "1.1.07-017",
+      "text": "Worauf stellen Sie sich in dieser Situation ein?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ausscheren und die Straßenmitte überfahren"
+        },
+        {
+          "id": "B",
+          "text": "- abbremsen und die Straßenmitte nicht überfahren"
+        },
+        {
+          "id": "C",
+          "text": "- überholen, ohne die Straßenmitte zu überfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Da das Ihnen entgegenkommende Fahrzeug durch ein Fahrrad ausgebremst wird, sollten Sie damit rechnen, dass es dieses überholen wird. Wenn es dazu kommt, könnte das Fahrzeug auf Ihre Fahrbahn geraten. Für den Fall, dass der Fahrer nicht abbremst, sollten Sie sich möglichst weit rechts auf der Straße halten. Machen Sie sich zudem bremsbereit, um schnellstmöglich auf jede Situation reagieren zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-017_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-017.mp4"
+    },
+    {
+      "id": "1.1.07-021",
+      "text": "Worauf müssen Sie hier beim Rechtsabbiegen achten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf den Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Auf den Gegenverkehr"
+        },
+        {
+          "id": "C",
+          "text": "Auf das Motorrad"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bevor Sie hier rechts abbiegen können, müssen Sie den geradeaus fahrenden Radfahrer auf dem Radweg rechts von Ihnen passieren lassen. Fahrradfahrer haben Vorrang, wenn sie in Ihre Richtung fahren. Radler im Gegenverkehr haben keinen Vorrang. Achten Sie dennoch auf sie, um Gefahren zu vermeiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-021_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-021.mp4"
+    },
+    {
+      "id": "1.1.07-022",
+      "text": "Wie sollten Sie sich verhalten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich halte an"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre vorsichtig rechts am Lkw vorbei"
+        },
+        {
+          "id": "C",
+          "text": "Ich wechsle jetzt auf den mittleren Fahrstreifen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Da sich links von Ihnen im toten Winkel ein Pkw befindet und auf der anderen Seite ein Lkw rechts in die Baustelle einbiegen möchte, sollten Sie anhalten. Fahren Sie nicht auf die mittlere Fahrspur. Warten Sie, bis der Lkw die Straße frei gemacht hat. Dann können Sie weiterfahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-022_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-022.mp4"
+    },
+    {
+      "id": "1.1.07-023",
+      "text": "Was sollten Sie bei Elektrofahrrädern (E-Bikes) im Straßenverkehr beachten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in der Geschwindigkeit leicht unterschätzt werden"
+        },
+        {
+          "id": "B",
+          "text": "- im Aussehen schwer von herkömmlichen Fahrrädern unterschieden werden"
+        },
+        {
+          "id": "C",
+          "text": "- leicht am Motorgeräusch erkannt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "E-Bikes sind ähnlich geräuscharm wie klassische Fahrräder und werden daher oft erst spät wahrgenommen. Allerdings erreichen sie häufig deutlich höhere Geschwindigkeiten als Räder ohne Motor. Dies unterschätzen viele Verkehrsteilnehmer, sodass es überraschend zu gefährlichen Situationen kommen kann. Rechnen Sie also bei Fahrradfahrern grundsätzlich damit, dass sie ruckartig an Geschwindigkeit gewinnen und zügige Manöver durchführen könnten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-101",
+      "text": "Sie wollen eine landwirtschaftliche Zugmaschine mit nach hinten herausragendem Anbaugerät überholen. Was ist zu beachten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Abbiegen kann das Anbaugerät ausschwenken"
+        },
+        {
+          "id": "B",
+          "text": "Die hintere Beleuchtung kann stark verschmutzt oder verdeckt sein, so dass eingeschaltete Blinkleuchten schlecht oder gar nicht zu sehen sind"
+        },
+        {
+          "id": "C",
+          "text": "Zugmaschinen können wegen ihrer niedrigen Geschwindigkeit immer gefahrlos überholt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Von einem Überholmanöver sollten Sie grundsätzlich absehen, wenn die Zugmaschine abbiegen möchte. Der Grund hierfür ist, dass die Zugmaschine einen großen Wendekreis hat und voraussichtlich ausschert, sodass die Fahrbahn blockiert wird. Bedenken Sie außerdem, dass die Blinker eines solchen Fahrzeugs nicht immer sichtbar sind, da sie durch die landwirtschaftliche Nutzung von Schmutz verdeckt sein könnten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-105-B",
+      "text": "Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bremsen und nach rechts ausweichen"
+        },
+        {
+          "id": "B",
+          "text": "Unverändert weiterfahren, damit der Lkw gezwungen wird, wieder rechts einzuscheren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Lkw einen Radfahrer überholt und dabei die durchgezogene Linie überquert, dürfen Sie keinesfalls versuchen, den Lkw auf seine Fahrspur zurückzudrängen. Bremsen Sie stattdessen ab und weichen Sie weit genug nach rechts aus.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-105-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-107-B",
+      "text": "Worauf müssen Sie sich einstellen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine unebene und verschmutzte Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Auf Arbeiter und Baugeräte auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen durch Polizei geregelten Verkehrsablauf"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Im Bereich einer Baustelle müssen Sie vorsichtig fahren und die Geschwindigkeit drosseln. Zum einen kann die Fahrbahn verschmutzt sein. Es können sich aber auch Arbeiter, Baugeräte oder Baufahrzeuge auf der Straße befinden und den Verkehr behindern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-107-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-109-B",
+      "text": "Worauf stellen Sie sich ein?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Bremsweg länger wird"
+        },
+        {
+          "id": "B",
+          "text": "- Bus sofort anfährt"
+        },
+        {
+          "id": "C",
+          "text": "- Busfahrer Sie vorbeifahren lässt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aufgrund der Witterung und des Schneematsches müssen Sie hier mit glatter Fahrbahn und einem längeren Bremsweg rechnen. Der Bus hat Vorrang vor Ihnen und zeigt durch Blinken an, dass er losfahren will. Verringern Sie vorsichtig die Geschwindigkeit, um ihn ausscheren zu lassen. Keinesfalls dürfen Sie ihn überholen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-109-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-111",
+      "text": "Sie warten an einer Ampel und wollen nach rechts abbiegen. Worauf müssen Sie achten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- sich vergewissern, dass kein Verkehrsteilnehmer rechts neben Ihnen ist, der geradeaus weiter will"
+        },
+        {
+          "id": "B",
+          "text": "- nur im Spiegel beobachten, ob ein Radfahrer hinter Ihnen ist"
+        },
+        {
+          "id": "C",
+          "text": "- sich ganz auf den Abbiegevorgang konzentrieren, weil Radfahrer ohnehin warten müssen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Befinden sich neben Ihnen andere Verkehrsteilnehmer, müssen Sie diesen Vorrang gewähren, falls sie geradeaus fahren möchten. Achten Sie also auch auf Personen auf Rad- und Fußgängerwegen. Hierbei reicht es nicht aus, die Fahrbahn nur über den Rückspiegel im Blick zu behalten. Zusätzlich müssen Sie Ihr Umfeld durch einen Schulterblick kontrollieren, um auch diejenigen Verkehrsteilnehmer wahrnehmen zu können, die im toten Winkel des Spiegels verborgen bleiben.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-113",
+      "text": "Sie fahren auf einer neu angelegten Straße durch bewaldetes Gebiet. Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wild überquert unerwartet die Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Mit einem Hindernis durch einen Wildunfall"
+        },
+        {
+          "id": "C",
+          "text": "Auf neu angelegten Straßen sind Wildunfälle nicht zu erwarten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Werden Straßen in bewaldeten Gebieten neu angelegt, führen sie häufig durch den natürlichen Lebensraum verschiedener Wildtiere. Daher ist es möglich, dass sich deren gewohnte Pfade mit Ihrer Fahrbahn kreuzen. Aus diesem Grund müssen Sie bei entsprechenden Waldstraßen mit Wildwechsel sowie Hindernissen durch dort häufiger vorkommende Wildunfälle rechnen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-114",
+      "text": "Vor Ihrem Fahrzeug flüchten mehrere Rehe über die Straße. Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dem Rudel können weitere Einzeltiere folgen"
+        },
+        {
+          "id": "B",
+          "text": "Das Rudel kann zurückkommen und die Straße erneut überqueren"
+        },
+        {
+          "id": "C",
+          "text": "Mit weiteren Tieren ist nicht zu rechnen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn vor Ihrem Fahrzeug mehrere Rehe über die Straße flüchten, müssen Sie mit Folgendem rechnen: Es könnten mehrere Tiere folgen. Die gesamte Herde könnte auch die Gegenrichtung einschlagen und erneut auf die andere Seite der Fahrbahn wechseln.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-117",
+      "text": "Zu welcher Tageszeit ist mit verstärktem Wildwechsel zu rechnen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Während der Abenddämmerung"
+        },
+        {
+          "id": "B",
+          "text": "Im Morgengrauen"
+        },
+        {
+          "id": "C",
+          "text": "In der Mittagszeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit verstärktem Wildwechsel müssen Sie während der morgendlichen und abendlichen Dämmerung rechnen. Diese Übergangszeit zwischen Tag und Nacht zeichnet sich durch diffuse Lichtverhältnisse aus.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-118",
+      "text": "Mit welchen Gefahren müssen Sie vor allem in ländlichen Gebieten rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit Fahrbahnverschmutzungen"
+        },
+        {
+          "id": "B",
+          "text": "Mit langsamen landwirtschaftlichen Fahrzeugen"
+        },
+        {
+          "id": "C",
+          "text": "Mit überbreiten landwirtschaftlichen Fahrzeugen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wo Landwirtschaft betrieben wird, verkehren Trecker und andere landwirtschaftliche Fahrzeuge mit langsamer Geschwindigkeit und/oder Überbreite. Oft ist auch die Fahrbahn mit Erde oder Dung verschmutzt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-119",
+      "text": "In der Dämmerung kommt Ihnen eine landwirtschaftliche Zugmaschine mit eingeschalteter Beleuchtung entgegen. Womit müssen Sie rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Zugmaschine kann ein breiteres, schlecht erkennbares Arbeitsgerät mitführen"
+        },
+        {
+          "id": "B",
+          "text": "Die Breite der Zugmaschine ist trotz der eingeschalteten Beleuchtung nicht immer erkennbar"
+        },
+        {
+          "id": "C",
+          "text": "Die Zugmaschine kann 2 breitere Anhänger mitführen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei landwirtschaftlichen Fahrzeugen ist die Beleuchtung manchmal defekt. Auch Schmutz oder Planen können sie verdecken. Die Breite der Fahrzeuge lässt sich nicht gut einschätzen. Außerdem können diese Fahrzeuge bis zu zwei Anhänger haben.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-120",
+      "text": "Was müssen Sie beachten, bevor Sie in einen Tunnel einfahren?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auch am Tage in gut beleuchteten Tunneln mit Abblendlicht fahren"
+        },
+        {
+          "id": "B",
+          "text": "Sonnenbrille abnehmen"
+        },
+        {
+          "id": "C",
+          "text": "Nebelscheinwerfer einschalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bevor Sie in einen Tunnel einfahren, müssen Sie Folgendes beachten: In einem Tunnel herrscht Lichtpflicht. Schalten Sie daher das Abblendlicht ein, um besser zu sehen und gesehen zu werden. Falls Sie eine Sonnenbrille aufhaben, nehmen Sie diese ab. Den Nebelscheinwerfer dürfen Sie im Tunnel nicht einschalten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-121",
+      "text": "Wie müssen Sie sich bei einem Stau im Tunnel verhalten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warnblinklicht einschalten"
+        },
+        {
+          "id": "B",
+          "text": "Bei Stillstand mit ca. 5 m Sicherheitsabstand zum Vordermann anhalten"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeug sichern und umgehend verlassen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Halten Sie bei einem Stau in einem Tunnel an und stellen Sie den Motor aus. Durch einen Sicherheitsabstand von etwa fünf Metern senken Sie die Vergiftungsgefahr, erhalten sich eine Rangiermöglichkeit und ermöglichen Rettungsfahrzeugen die Durchfahrt. Schalten Sie das Warnblinklicht an, um nachfolgende Fahrzeugführer zu warnen. Verlassen Sie Ihr Fahrzeug nur nach einer entsprechenden Lautsprecherdurchsage.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-122",
+      "text": "Wodurch kann die Aufmerksamkeit bei einer Tunneldurchfahrt beeinträchtigt werden?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beleuchtungsreflexionen durch den Gegenverkehr"
+        },
+        {
+          "id": "B",
+          "text": "Tunnellänge"
+        },
+        {
+          "id": "C",
+          "text": "Gute Fahrbahnmarkierung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei einer Tunneldurchfahrt können folgende Faktoren Ihre Aufmerksamkeit beeinträchtigen: Der fehlende optische Anreiz und die Monotonie der Geschwindigkeit sowie die Lichter des Gegenverkehrs. In diesem Fall ist eine Orientierung am rechten Fahrbahnrand hilfreich; vermeiden Sie, direkt in das Licht des Gegenverkehrs zu schauen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-123",
+      "text": "Was ist bei einer Tunneldurchfahrt besonders zu beachten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ablenkung durch sehr starke Geräusche"
+        },
+        {
+          "id": "B",
+          "text": "Hinweise auf Sicherheitseinrichtungen wie Notausgänge und Notruftelefone"
+        },
+        {
+          "id": "C",
+          "text": "Ablenkung durch Lichteffekte"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch den Widerhall der Tunnelwände sind Fahrgeräusche in einem Tunnel erheblich lauter. Dazu hören Sie die Geräusche der Belüftungsanlage. Das wirkt auf Sie als Fahrer irritierend. Ihre Augen müssen sich erst an die unterschiedlichen Sichtverhältnisse gewöhnen. Erschwerend kommen die vermehrten Lichtreflexe des Gegenverkehrs hinzu. Die Notfall-Beschilderung ist zudem ablenkend.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-125",
+      "text": "Welche grundlegenden Verhaltensregeln müssen Sie im Tunnel beachten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auch am Tage im gut beleuchteten Tunnel mit Abblendlicht fahren"
+        },
+        {
+          "id": "B",
+          "text": "Nicht wenden"
+        },
+        {
+          "id": "C",
+          "text": "Anweisungen und Informationen des Tunnelpersonals Folge leisten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Folgende Verhaltensregeln sind in allen Tunneln Pflicht: Es gilt auf der gesamten Strecke absolutes Wendeverbot. Unabhängig von der Beleuchtungssituation muss stets das Abblendlicht eingeschaltet sein. Die Anweisungen des Tunnel-Personals sind stets zu befolgen. Personenschutz gilt vor dem Schutz von Fahrzeugen und ihrer Sicherung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-132",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Transporters"
+        },
+        {
+          "id": "B",
+          "text": "- des Fußgängers"
+        },
+        {
+          "id": "C",
+          "text": "- des Radfahrers"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie wollen links abbiegen. Ein Transporter, der von der Gegenfahrbahn naht, will ebenfalls in diese Straße einbiegen. Das Fahrzeug hat Vorfahrt. Ebenso müssen Sie auf Fußgänger achten, die diese Straße überqueren wollen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-132_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-132.mp4"
+    },
+    {
+      "id": "1.1.07-136",
+      "text": "Wie verhalten Sie sich jetzt?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verzögern und bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Gleichmäßig weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Nach links ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die weißen Rückfahrscheinwerfer des vor Ihnen abgebogenen Fahrzeugs zeigen an, dass es vermutlich in Rückwärtsfahrt wieder auf seine ursprüngliche Fahrbahn einbiegen möchte. Da Sie nicht wissen können, ob Sie von dem Fahrer wahrgenommen wurden, sollten Sie Ihre Fahrgeschwindigkeit reduzieren und sich bremsbereit halten. Von einem Ausweichmanöver sollten Sie aufgrund des Gegenverkehrs absehen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-136_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-136.mp4"
+    },
+    {
+      "id": "1.1.07-137",
+      "text": "Sie wollen nach rechts abbiegen. Wie sollten Sie sich verhalten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Den Radfahrer durchfahren lassen"
+        },
+        {
+          "id": "B",
+          "text": "„Schulterblick“ durchführen"
+        },
+        {
+          "id": "C",
+          "text": "Vor dem Radfahrer abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bevor Sie abbiegen können, müssen Sie im Rückspiegel überprüfen, ob die Fahrbahn frei ist. Es ist außerdem ratsam, einen Schulterblick durchzuführen: Nur so werden Sie auf Gefahrenquellen aufmerksam, die sich im toten Winkel des Spiegels befinden. Beachten Sie, dass andere Verkehrsteilnehmer – Fahrradfahrer oder Fußgänger –, deren Weg Sie kreuzen, stets Vorrang haben.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-137.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-138",
+      "text": "Womit müssen Sie rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Motorrad könnte nach links ausscheren"
+        },
+        {
+          "id": "B",
+          "text": "Die Person neben dem Transporter könnte weiter auf die Fahrbahn treten"
+        },
+        {
+          "id": "C",
+          "text": "Fußgänger könnten vor dem Transporter die Fahrbahn überqueren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auf diese Situation können die anderen Verkehrsteilnehmer mit allen beschriebenen unterschiedlichen Szenarien reagieren. Alle sind gleichermaßen gefährlich. Daher ist höchste Vorsicht und langsames Fahren geboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-138.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-139",
+      "text": "Vor dem Motorrad möchte ein Pkw auf die Fahrbahn zurücksetzen. Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass der Pkw weiter zurücksetzt"
+        },
+        {
+          "id": "B",
+          "text": "Dass das Motorrad plötzlich abgebremst wird"
+        },
+        {
+          "id": "C",
+          "text": "Dass mein Bremsweg länger als normal wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Pkw-Fahrer unterschätzen häufig die Geschwindigkeit herannahender Motorradfahrer; so auch hier der Autofahrer im Auspark-Manöver. Die Handlungsalternativen des Motorradfahrers – bremsen oder ausweichen – sind für ihn auf schneeglatter Fahrbahn beide gefährlich. Er könnte stürzen. Bedenken Sie Ihren ebenfalls längeren Bremsweg bei dieser Witterung.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-139.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-140",
+      "text": "Sie fahren zügig auf einer Landstraße und sehen ein Reh in einiger Entfernung in der Nähe zur Fahrbahn. Wie müssen Sie sich verhalten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Geschwindigkeit vermindern"
+        },
+        {
+          "id": "B",
+          "text": "- bremsbereit sein"
+        },
+        {
+          "id": "C",
+          "text": "- eine Gefahrbremsung durchführen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn sich das Reh noch nicht auf der Fahrbahn befindet, sollten Sie unter keinen Umständen eine Gefahrenbremsung durchführen. Denn dadurch würden Sie nachkommende Verkehrsteilnehmer unnötig gefährden und zu unvorhersehbaren Reaktionen zwingen. Dennoch sollten Sie die Geschwindigkeit Ihres Fahrzeugs reduzieren und sich bremsbereit halten: Das Tier könnte ohne Vorwarnung auf die Straße rennen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-141",
+      "text": "Warum sind Sie besonders gefährdet, wenn Sie ein Zweirad fahren?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil ich leicht zu übersehen bin"
+        },
+        {
+          "id": "B",
+          "text": "Weil meine Geschwindigkeit unterschätzt werden kann"
+        },
+        {
+          "id": "C",
+          "text": "Weil ich bei Unfällen ein höheres Verletzungsrisiko habe"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Insbesondere bei einschränkenden Sichtverhältnissen wie Nebel und Dunkelheit führt die kleine Silhouette des Zweiradfahrers dazu, dass er spät oder gar nicht erkannt wird. Zudem erschwert die kleine Bauweise das Abschätzen seiner Geschwindigkeit. Im Falle eines Zusammenpralls bieten Zweiräder grundsätzlich weniger Schutz als die meisten anderen Kraftfahrzeuge.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-142",
+      "text": "Auf einer stark befahrenen Straße mit mehreren Fahrstreifen haben Sie sich zum Linksabbiegen eingeordnet. Sie möchten nun stattdessen nach rechts abbiegen. Wie verhalten Sie sich?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich biege nach links ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre mit eingeschaltetem Warnblinklicht rückwärts"
+        },
+        {
+          "id": "C",
+          "text": "Ich biege im großen Bogen nach rechts ab"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein Spurwechsel oder das Rechtsabbiegen wären aufgrund des starken Verkehrs mit einer Gefährdung anderer Verkehrsteilnehmer verbunden. Sie müssen daher links abbiegen und einen kleinen Umweg nehmen. Achten Sie auf Fahrbahnmarkierungen, die Ihnen einen Spurwechsel untersagen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-143",
+      "text": "Auf meiner Fahrtroute befindet sich ein Tunnel. Was sollte ich wissen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich sollte wissen, wie ich mein Fahrzeug abstelle und verlasse, wenn ich nicht mehr weiterfahren kann"
+        },
+        {
+          "id": "B",
+          "text": "Ich sollte wissen, wie Fluchtwege in Tunneln ausgewiesen sind"
+        },
+        {
+          "id": "C",
+          "text": "Ich kann darauf vertrauen, dass im Notfall immer rechtzeitig Hilfskräfte zur Stelle sind"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn sich auf Ihrer Fahrtstrecke ein Tunnel befindet, sollten Sie die entsprechenden Verkehrsschilder sowie Verhaltensmaßnahmen bei einer Panne oder einem Unfall kennen: Alarmieren Sie in diesem Fall die Tunnelüberwachungszentrale und folgen Sie dem nächsten Fluchtweg. Zuvor stellen Sie den Motor Ihres Fahrzeuges ab und lassen den Zündschlüssel für Bergungsarbeiten stecken.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-144",
+      "text": "Während der Fahrt in einem Tunnel bemerken Sie ein Feuer in Ihrem Fahrzeug. Das Verlassen des Tunnels ist nicht mehr möglich. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- schalte die Warnblinkanlage ein"
+        },
+        {
+          "id": "B",
+          "text": "- stelle den Motor ab"
+        },
+        {
+          "id": "C",
+          "text": "- lasse den Zündschlüssel stecken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn Sie ein Feuer in Ihrem Fahrzeug am Verlassen eines Tunnels hindert: Stellen Sie das Fahrzeug unverschlossen mit abgestelltem Motor und steckendem Zündschlüssel ab. Alarmieren Sie die Tunnelüberwachungszentrale. Nehmen Sie zu Fuß den nächsten Fluchtweg.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-145",
+      "text": "Während der Fahrt in einem Tunnel haben Sie Ihr Fahrzeug wegen eines Feuers noch im Tunnel abstellen müssen. Wie verhalten Sie sich jetzt?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich löse Feueralarm an der Notrufstation aus"
+        },
+        {
+          "id": "B",
+          "text": "Ich lösche das Feuer soweit möglich"
+        },
+        {
+          "id": "C",
+          "text": "Ich schließe mein Fahrzeug ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie Ihr Fahrzeug aufgrund eines Feuers in einem Tunnel abstellen müssen, sollten Sie: den Motor abstellen, den Schlüssel im Zündschloss stecken lassen, um Einsatzkräften die Möglichkeit zu geben das Fahrzeug zu bewegen. Nach dem Aussteigen sollten Sie zügig den Feueralarm an der Notrufstation auslösen. Verlassen Sie den Tunnel schnellstmöglich über den nächsten Fluchtweg.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-146",
+      "text": "Womit müssen Sie rechnen?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- weiter ausschwenkt"
+        },
+        {
+          "id": "B",
+          "text": "- plötzlich stehen bleibt"
+        },
+        {
+          "id": "C",
+          "text": "- im rechten Fahrstreifen bleibt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie sehen, dass der Lkw vor Ihnen abbiegen will. Das Fahrzeug verdeckt die Sicht auf das Verkehrsgeschehen, daher müssen Sie ihre Geschwindigkeit anpassen. Der Laster schwenkt vermutlich aus, um die Kurve nehmen zu können. Er könnte abrupt stehen bleiben, um Fußgänger oder andere Verkehrsteilnehmer passieren zu lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-146_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-146.mp4"
+    },
+    {
+      "id": "1.1.07-147",
+      "text": "Worauf müssen Sie jetzt achten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf den vorausfahrenden Pkw"
+        },
+        {
+          "id": "B",
+          "text": "Auf das Fahrrad"
+        },
+        {
+          "id": "C",
+          "text": "Auf das Motorrad"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie wollen rechts abbiegen, der Ihnen vorausfahrende Pkw-Fahrer ebenso. Die Fußgängerampel der Querstraße, in die Sie einbiegen wollen, zeigt Grün, und der Fußgänger hat Vorrang. Möglicherweise fährt Ihr Vordermann an und stoppt bald darauf, um den Fußgänger passieren zu lassen. Rechts erkennen Sie außerdem einen Radfahrer. Dieser könnte rechts an Ihrem Fahrzeug vorbeifahren und Ihren abbiegenden Vordermann links umrunden. Vermeiden Sie seine Gefährdung.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-147_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-147.mp4"
+    },
+    {
+      "id": "1.1.07-148",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen der Radfahrerin"
+        },
+        {
+          "id": "B",
+          "text": "Wegen des grünen Pkws"
+        },
+        {
+          "id": "C",
+          "text": "Wegen des Fußgängers"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Radfahrerin ist Vorfahrt zu gewähren, weil sie sich auf der Vorfahrtstraße befindet. Warten Sie, bis die Radfahrerin an den Fahrzeugen vorbei und durchgefahren ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-148_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-148.mp4"
+    },
+    {
+      "id": "1.1.07-149",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen des roten Pkws"
+        },
+        {
+          "id": "B",
+          "text": "Wegen der Radfahrerin"
+        },
+        {
+          "id": "C",
+          "text": "Wegen des Fußgängers"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Verkehr auf der Vorfahrtstraße staut sich. Der rote Pkw umfährt die stehenden Fahrzeuge, um links abzubiegen. Sie müssen warten und diesen Pkw passieren lassen, da er Vorfahrt hat.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-149_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-149.mp4"
+    },
+    {
+      "id": "1.1.07-150",
+      "text": "Wie verhalten Sie sich jetzt richtig?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich halte das Lenkrad gerade und fest"
+        },
+        {
+          "id": "B",
+          "text": "Ich weiche nach links aus"
+        },
+        {
+          "id": "C",
+          "text": "Ich weiche nach rechts aus"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Tier von rechts kommend auf die Fahrbahn läuft, ist ein Ausweichmanöver ein natürlicher Reflex. Das kann jedoch weitaus fatalere Folgen haben, als wenn Sie die Spur halten. Ein Ausweichmanöver nach rechts kann in den Straßengraben, eines nach links zur Kollision mit dem Gegenverkehr führen. Das sicherste Verhalten ist es, weiter geradeaus zu fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-150_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-150.mp4"
+    },
+    {
+      "id": "1.1.07-151",
+      "text": "Wie sollten Sie sich jetzt verhalten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich führe eine Gefahrenbremsung durch"
+        },
+        {
+          "id": "B",
+          "text": "Ich hupe"
+        },
+        {
+          "id": "C",
+          "text": "Ich weiche nach links aus"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie sehen, dass das Tier im Begriff ist, auf die Fahrbahn zu laufen. Durch Hupen können Sie es möglicherweise davon abhalten. Zusätzlich sollten Sie eine Gefahrenbremsung einleiten, um einen möglichen Zusammenstoß abzumildern. Weichen Sie nicht aus! Das führt eher zu Unfällen mit Personenschaden als eine Wildkollision.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-151_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-151.mp4"
+    },
+    {
+      "id": "1.1.07-154",
+      "text": "Wie verhalten Sie sich bei einer Tunneldurchfahrt richtig?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "In einem Tunnel mit Gegenverkehr orientiere ich mich am rechten Fahrbahnrand"
+        },
+        {
+          "id": "B",
+          "text": "Ich präge mir Sicherheitseinrichtungen wie Notausgänge und Notruftelefone ein"
+        },
+        {
+          "id": "C",
+          "text": "Ich fahre mit verringertem Abstand, damit ich mich an den Schlussleuchten des vorausfahrenden Fahrzeugs orientieren kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei einer Tunneldurchfahrt verhalten Sie sich wie folgt: Achten Sie auf die Einhaltung des Sicherheitsabstandes und orientieren Sie sich am rechten Fahrbahnrand, um eine Blendung durch den Gegenverkehr zu vermeiden. Verschaffen Sie sich einen Überblick über Sicherheitseinrichtungen, damit Sie wissen, wo sich der nächste Notausgang und das Notruftelefon befinden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-158",
+      "text": "Mit welchem Verhalten von Radfahrern müssen Sie rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Einbahnstraßen in beide Richtungen"
+        },
+        {
+          "id": "B",
+          "text": "- Radwege auf der falschen Seite"
+        },
+        {
+          "id": "C",
+          "text": "- keine Beleuchtung bei Dunkelheit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Alle 3 Antworten sind richtig. Radfahrer benutzen Einbahnstraßen in beide Richtungen, sie haben eventuell keine Beleuchtung bei Dunkelheit oder fahren auf Radwegen auf der falschen Seite.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-163",
+      "text": "Warum ist das Vorbeifahren an dieser Unfallsituation gefährlich?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil Folgeunfälle möglich sind"
+        },
+        {
+          "id": "B",
+          "text": "Weil Fußgänger übersehen werden können"
+        },
+        {
+          "id": "C",
+          "text": "Weil die Verkehrslage unklar ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Eine unübersichtliche Verkehrssituation liegt vor, mit plötzlichen Bremsmanövern durch Gaffer und mit die Straße überquerenden Fußgängern muss gerechnet werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.1.07-163.png",
+      "video": null
+    },
+    {
+      "id": "1.1.07-167",
+      "text": "Sie fahren durch einen Tunnel. Welche Besonderheit besteht dabei?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- kann ich durch starke Fahrgeräusche abgelenkt werden"
+        },
+        {
+          "id": "B",
+          "text": "- sind Sicherheitseinrichtungen wie Notausgänge und Notruftelefone ausgeschildert"
+        },
+        {
+          "id": "C",
+          "text": "- kann ich durch Lichteffekte abgelenkt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "In einem Tunnel sind die Notausgänge und SOS-Notruftelefone gut sichtbar ausgeschildert und ausgeleuchtet. In einem Notfall solltest du die Einrichtungen nutzen.\nDurch die unterschiedliche Beleuchtung, die Lichter der anderen Verkehrsteilnehmer und die deutlich lauteren Geräusche im Tunnel kannst du leicht abgelenkt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-170",
+      "text": "Sie befahren einen Straßenabschnitt, für den ein Stau gemeldet wurde. Wie verhalten Sie sich richtig?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verfolge weiterhin die Verkehrsmeldungen"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre in Kurven und vor Kuppen besonders aufmerksam"
+        },
+        {
+          "id": "C",
+          "text": "Ich nutze den Notbremsassistenten zum sicheren Anhalten vor dem Stauende"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du solltest besonders in Kurven und vor Kuppen besonders aufmerksam fahren, da die Verkehrssituation schlecht einsehbar ist. Außerdem solltest du weiterhin die Verkehrsmeldungen verfolgen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-171",
+      "text": "Warum müssen Sie jetzt anhalten?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen der Radfahrerin"
+        },
+        {
+          "id": "B",
+          "text": "Wegen der Fußgänger"
+        },
+        {
+          "id": "C",
+          "text": "Wegen des Lkws"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das \"Vorfahrt gewähren\" Zeichen in Kombination mit dem Fahrrad Zusatzzeichen zeigt dir, dass du auf mögliche Radfahrer achten und ihnen Vorfahrt gewähren musst. Daher musst du jetzt anhalten und die Radfahrerin vorbeifahren lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.1.07-171_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.1.07-171.mp4"
+    },
+    {
+      "id": "1.1.07-173",
+      "text": "Während der Fahrt überquert vor Ihrem Fahrzeug ein Reh die Fahrbahn. Was sollten Sie beachten?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dem Reh können weitere Tiere folgen"
+        },
+        {
+          "id": "B",
+          "text": "Das Reh kann mitten auf der Fahrbahn stehen bleiben"
+        },
+        {
+          "id": "C",
+          "text": "Das Reh kann durch Einschalten des Fernlichts verscheucht werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Reh ist sehr unberechenbar, vielleicht läuft es zurück in den Wald, vielleicht bleibt es auch mitten auf der Straße stehen. Du solltest deshalb deine Geschwindigkeit reduzieren und aufmerksam verfolgen, was geschieht, da auch weitere Tiere auf die Fahrbahn treten können.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-001",
+      "text": "Ein Kraftfahrer hat zu viel Alkohol getrunken und darf deshalb nicht mehr fahren. Wie kann er seine Fahrtüchtigkeit kurzfristig nicht wiederherstellen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "- eine halbe Stunde schläft"
+        },
+        {
+          "id": "B",
+          "text": "- zwei Tassen starken Kaffee trinkt"
+        },
+        {
+          "id": "C",
+          "text": "- eine halbe Stunde spazieren geht"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Kurzfristig können Sie Ihre Fahrtüchtigkeit nach starkem Konsum von Alkohol nicht wiederherstellen. Weder etwas Schlaf noch ein Spaziergang reichen dafür aus. Die Alkoholkonzentration im Blut ändert sich auch nicht durch das Trinken von starkem Kaffee. Pro Stunde baut der Körper nur etwa 0,1 Promille Alkohol ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-003",
+      "text": "Welche Mittel können die Fahrtüchtigkeit ähnlich beeinträchtigen wie Alkohol?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bestimmte Medikamente und berauschende Mittel"
+        },
+        {
+          "id": "B",
+          "text": "Eine Tasse Kaffee"
+        },
+        {
+          "id": "C",
+          "text": "Eine Tasse Tee"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Vor allem Drogen verändern die Wahrnehmung und beeinträchtigen die Fähigkeit, schnell und angemessen zu reagieren. Deswegen verursacht Drogenkonsum jeder Art Fahruntüchtigkeit. Auch manche Medikamente können zum Führen von Kraftfahrzeugen ungeeignet machen. Wenn Sie Medikamente vom Arzt verordnet bekommen, achten Sie auf entsprechende Hinweise im Beipackzettel.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-004",
+      "text": "Wodurch kann die Fahrtüchtigkeit herabgesetzt werden?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Übermüdung"
+        },
+        {
+          "id": "B",
+          "text": "Durch Alkohol und andere berauschende Mittel"
+        },
+        {
+          "id": "C",
+          "text": "Durch bestimmte Medikamente"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Alles, was die Sinnesorgane negativ beeinflusst, kann die Fahrtüchtigkeit herabsetzen. Neben Drogen zählen hierzu auch Medikamente , weswegen Sie vor der Einnahme die Packungsbeilage lesen sollten. Bei einem Blutalkoholspiegel von 0,3 Promille kann bereits von Fahruntüchtigkeit gesprochen werden. Zu den häufigsten Unfallursachen gehört Übermüdung. Hierbei lassen Aufmerksamkeit und Konzentration nach, und es kann zum sogenannten Sekundenschlaf kommen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-006",
+      "text": "Wie lange dauert es im Allgemeinen, bis 1,0 Promille Alkohol im Blut abgebaut ist?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 Stunden"
+        },
+        {
+          "id": "B",
+          "text": "5 Stunden"
+        },
+        {
+          "id": "C",
+          "text": "1 Stunde"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Faustregel gilt: Pro Stunde baut der menschliche Körper etwa 0,1 Promille Alkohol ab. Nach zehn Stunden sind somit 1,0 Promille vollständig abgebaut.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-007",
+      "text": "Was kann die berauschende Wirkung von Alkohol verstärken?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schlaf-, Schmerz- oder Beruhigungsmittel"
+        },
+        {
+          "id": "B",
+          "text": "Trinken auf \"nüchternen\" Magen"
+        },
+        {
+          "id": "C",
+          "text": "'\"Sturztrunk\"'"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Wirkung von Alkohol wird durch Medikamente verstärkt. Besonders große Mengen Alkohol in Kombination mit Schlaf-, Schmerz- oder Beruhigungsmitteln können lebensbedrohlich sein. Trinken Sie Alkohol auf nüchternen Magen oder konsumieren Sie eine große Menge Alkohol in einer kurzen Zeitspanne, gelangt der Alkohol sofort in Ihr Blut: Sie sind schlagartig sturzbetrunken.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-008",
+      "text": "Wozu können bereits geringe Mengen Alkohol führen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zu verzögerter Reaktion"
+        },
+        {
+          "id": "B",
+          "text": "Zu riskanter Fahrweise"
+        },
+        {
+          "id": "C",
+          "text": "Zu einem Nachlassen der Hör- und Sehleistung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bereits geringe Alkoholmengen wirken auf Ihr zentrales Nervensystem und verschlechtern Ihre Wahrnehmung: Ihre Hör- und Sehfähigkeit, Ihre Reaktions- und Leistungsfähigkeit, Ihren Gleichgewichtssinn. Ihre Risikobereitschaft wächst, Gefahren werden von Ihnen nicht mehr erkannt. Sie glauben, fahrtüchtig zu sein, auch wenn das nicht zutrifft.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-009",
+      "text": "Was können Drogen bewirken?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rauschzustände"
+        },
+        {
+          "id": "B",
+          "text": "Abhängigkeit, Sucht"
+        },
+        {
+          "id": "C",
+          "text": "Anhaltende Verbesserung der körperlichen und geistigen Leistungsfähigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wirkstoffe von Drogen beeinträchtigen das zentrale Nervensystem und verfälschen die Sinneswahrnehmung. Obwohl Sie sich unter Drogeneinfluss leistungsfähiger fühlen, wird Ihre reale Leistungsfähigkeit gesenkt und macht Sie fahruntüchtig. Im Vergleich mit anderen Rauschmitteln machen Drogen schneller abhängig.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-010",
+      "text": "Bei welchen Drogen kann schon einmaliger Konsum zu vorübergehender Fahruntüchtigkeit führen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Haschisch, Marihuana"
+        },
+        {
+          "id": "B",
+          "text": "Heroin, Kokain, Amphetamine"
+        },
+        {
+          "id": "C",
+          "text": "LSD"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Schon der Drogenkonsum in kleinen Mengen führt zur vorübergehenden Fahruntüchtigkeit. Anders als beim Alkohol gibt es bei Drogen keine Grenzwerte. Fahren unter Drogeneinfluss kann den Verlust Ihres Führerscheins bedeuten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-014",
+      "text": "Wann ist ein Drogenabhängiger zum Führen von Kraftfahrzeugen wieder geeignet?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Erst wenn er mindestens 1 Jahr lang nachweisbar drogenfrei ist und zu erwarten ist, dass er nicht rückfällig wird"
+        },
+        {
+          "id": "B",
+          "text": "Wenn er seit 1 Monat kein Rauschgift genommen hat"
+        },
+        {
+          "id": "C",
+          "text": "Wenn er seit 6 Monaten kein Rauschgift genommen hat"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wer beim Autofahren unter Drogen erwischt wurde, muss seinen Führerschein abgeben. Liegt eine Drogenabhängigkeit vor, muss der Betroffene ein ganzes Jahr drogenfrei gelebt haben, bevor er seinen Führerschein zurückerhalten kann. Den Nachweis darüber erteilt die Begutachterstelle für Fahreignung (BfF) in einem Gutachten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-015",
+      "text": "Wie wird der berauschende Wirkstoff von Haschisch im Körper abgebaut?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ungleichmäßig, zeitlich nicht abschätzbar"
+        },
+        {
+          "id": "B",
+          "text": "Gleichmäßig, 0,1 Promille je Stunde"
+        },
+        {
+          "id": "C",
+          "text": "Gleichmäßig, 0,1 Gramm je Stunde"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Drogen wie Haschisch werden im Körper nicht gleichmäßig abgebaut - im Unterschied etwa zu Alkohol. Man kann daher keine verlässliche Voraussage diesbezüglich treffen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-017",
+      "text": "Welche Folgen kann es haben, wenn man unter Einwirkung von Drogen (wie z. B. Haschisch, Heroin, Kokain) ein Kraftfahrzeug führt?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entzug der Fahrerlaubnis oder Fahrverbot"
+        },
+        {
+          "id": "B",
+          "text": "Geld- und/oder Freiheitsstrafe"
+        },
+        {
+          "id": "C",
+          "text": "Anordnung einer medizinisch-psychologischen Untersuchung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Führen eines Fahrzeuges unter Einwirkung von Drogen wie Haschisch, Kokain oder Heroin kann zur Folge haben: den Entzug der Fahrerlaubnis, eine Geldstrafe und/ oder eine Freiheitsstrafe. Der Freiheitsentzug kann bei Gefährdung anderer Personen bis zu fünf Jahre betragen. Die erneute Erteilung einer Fahrerlaubnis erfordert eine medizinisch-psychologische Untersuchung (MPU).",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-018",
+      "text": "Was kann Haschischkonsum bewirken?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rausch mit gefährlichen Sinnestäuschungen und Herabsetzung des Reaktionsvermögens"
+        },
+        {
+          "id": "B",
+          "text": "Rausch mit Verwirrtheitszuständen und Depressionen"
+        },
+        {
+          "id": "C",
+          "text": "Verbesserte Zeiteinschätzung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Konsum von Haschisch führt zu Rauschzuständen, in welchen das Gefühl für Zeit und Raum verloren geht. Die Aufmerksamkeit ist herabgesetzt, die Wahrnehmung der Umgebung deutlich verschleiert. Es kann zu Sinnestäuschungen und Verwirrtheitszuständen sowie Halluzinationen kommen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-019",
+      "text": "Welche Auswirkungen kann Haschischkonsum haben?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Gefahrenbewusstsein kann abnehmen"
+        },
+        {
+          "id": "B",
+          "text": "Fehler bei der Verarbeitung von Informationen können zunehmen"
+        },
+        {
+          "id": "C",
+          "text": "Fehleinschätzungen von Geschwindigkeit und Entfernung können eintreten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Konsum von Haschisch versetzt den Anwender in einen Rauschzustand, in welchem die Fähigkeit, Risiken einzuschätzen abhanden kommt. Auch das Gefühl für Zeit und Ort geht verloren, Halluzinationen sowie Sinnestäuschungen können die Folge sein. Entfernungen und Geschwindigkeiten können nicht mehr richtig eingeschätzt werden. Die Risikobereitschaft sowie die Neigung zu Fehleinschätzungen steigen rapide.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-021",
+      "text": "Für wen besteht ein Alkoholverbot beim Führen von Kraftfahrzeugen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Für alle Kraftfahrer unter 21 Jahren"
+        },
+        {
+          "id": "B",
+          "text": "Für alle Kraftfahrer in der Probezeit"
+        },
+        {
+          "id": "C",
+          "text": "Für alle Kraftfahrer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In der Probezeit oder vor Vollendung des 21. Lebensjahres gilt für Sie vor jedem Fahrtantritt und während des Führens eines Kraftfahrzeugs eine Grenze von 0,0 Promille: ein absolutes Alkoholverbot.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-022",
+      "text": "Dürfen Kraftfahrer beim Führen von Kraftfahrzeugen während der Probezeit unter der Wirkung alkoholischer Getränke stehen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nein, in keinem Fall"
+        },
+        {
+          "id": "B",
+          "text": "Ja, bis 0,5 Promille ohne alkoholbedingte Fahrauffälligkeit"
+        },
+        {
+          "id": "C",
+          "text": "Ja, bis 0,3 Promille ohne alkoholbedingte Fahrauffälligkeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Während der Probezeit dürfen Sie keinerlei Alkohol trinken, wenn Sie ein Kraftfahrzeug führen möchten. Generell sollten Sie sich bei der Teilnahme am Straßenverkehr an 0,0 Promille halten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-024",
+      "text": "Warum kann die Fahrtüchtigkeit bereits durch geringe Mengen Alkohol beeinträchtigt werden?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil sich das Sichtfeld der Augen verkleinert"
+        },
+        {
+          "id": "B",
+          "text": "Weil sich das räumliche Sehen verschlechtert"
+        },
+        {
+          "id": "C",
+          "text": "Weil sich die Reaktionszeit verkürzt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bereits geringe Mengen Alkohol wirken sich negativ auf das Sehvermögen, die Reaktionsfähigkeit sowie das Wahrnehmungsvermögen aus. Die Bereitschaft zu unüberlegtem Handeln steigt und auch die Abschätzung von Entfernungen sowie die Aufmerksamkeit verschlechtern sich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-025",
+      "text": "Welche Auswirkung kann der Konsum von Cannabisprodukten auf das Fahrverhalten haben?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Aufmerksamkeit für das Verkehrsgeschehen nimmt ab"
+        },
+        {
+          "id": "B",
+          "text": "Die Konzentration auf das Fahren nimmt ab"
+        },
+        {
+          "id": "C",
+          "text": "Die Blendempfindlichkeit nimmt ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Konsum von Cannabisprodukten ist kontraproduktiv für die Fahrtüchtigkeit. Unabhängig von individuell unterschiedlichen Reaktions- und Verhaltensweisen nach dem Konsum nehmen generell die Fähigkeit zu fokussierter Aufmerksamkeit auf den Verkehr ab und die Blendempfindlichkeit zu.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-026",
+      "text": "Warum ist bereits der einmalige Konsum von Drogen für die Teilnahme am Straßenverkehr gefährlich?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zur Fahruntüchtigkeit führen kann"
+        },
+        {
+          "id": "B",
+          "text": "- einen mehrstündigen Rausch verursachen kann"
+        },
+        {
+          "id": "C",
+          "text": "- Wahrnehmungsstörungen verursachen kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Drogen haben in der Regel Wahrnehmungsstörungen zur Folge. Bereits der einmalige Konsum von Drogen kann zu einem Rausch führen, der mehrere Stunden anhält. Sie als Konsument wären fahruntüchtig.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-027",
+      "text": "Wie lange sind Cannabis und dessen Abbauprodukte im Urin nachweisbar?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noch nach Wochen"
+        },
+        {
+          "id": "B",
+          "text": "Höchstens mehrere Tage"
+        },
+        {
+          "id": "C",
+          "text": "Nur mehrere Stunden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Cannabis und dessen Abbauprodukte sind im Urin bis zu einem Zeitraum zwischen zehn Tagen und drei Monaten nach dem Konsum nachweisbar. Die genaue Zeitspanne hängt von der Konsumfrequenz und von der Testgenauigkeit ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-028",
+      "text": "Warum ist man nach dem Konsum der Droge „Crystal Meth“ fahruntauglich?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil Wahnvorstellungen auftreten können"
+        },
+        {
+          "id": "B",
+          "text": "Weil die eigene Leistungsfähigkeit überschätzt werden kann"
+        },
+        {
+          "id": "C",
+          "text": "Weil plötzliche Erschöpfung eintreten kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "„Crystal Meth“ wirkt sich aus folgenden Gründen negativ auf die Fahrtauglichkeit aus: Die Droge ruft Wahnvorstellungen hervor. Sie sorgt für die Überschätzung der eigenen Leistungsfähigkeit und für plötzlich auftretende Erschöpfungszustände. Bereits der Konsum geringer Mengen macht Sie fahruntauglich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-029",
+      "text": "Wodurch lässt sich die Fahrtüchtigkeit nach übermäßigem Alkoholkonsum kurzfristig wiederherstellen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch gar nichts"
+        },
+        {
+          "id": "B",
+          "text": "Durch das Trinken von 2 Tassen Kaffee"
+        },
+        {
+          "id": "C",
+          "text": "Durch 15 Minuten Sport"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Da sich Alkohol im Körper sehr langsam abbaut, kannst du die Fahrtüchtigkeit kurzfristig durch gar nichts wiederherstellen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-030",
+      "text": "Was kann die Fahrtüchtigkeit ähnlich beeinträchtigen wie Alkohol?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medikamente"
+        },
+        {
+          "id": "B",
+          "text": "Drogen"
+        },
+        {
+          "id": "C",
+          "text": "Erfrischungsgetränke"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Alkohol, Drogen und Medikamente wirken sich negativ auf unsere Reaktionszeit, Hemmschwelle und unsere motorischen Fähigkeiten aus.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-031",
+      "text": "Welche Auswirkung kann der Konsum von Cannabisprodukten auf den Fahrer haben?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Aufmerksamkeit für das Verkehrsgeschehen nimmt ab"
+        },
+        {
+          "id": "B",
+          "text": "Die Konzentration auf das Fahren nimmt ab"
+        },
+        {
+          "id": "C",
+          "text": "Die Blendempfindlichkeit nimmt ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Nach dem Cannabiskonsum ist Ihre Wahrnehmung getrübt und Ihre Konzentrationsfähigkeit nimmt ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-032",
+      "text": "Was kann der Konsum von Drogen bewirken?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Beeinträchtigung der Konzentration"
+        },
+        {
+          "id": "B",
+          "text": "Eine Erhöhung der Risikobereitschaft"
+        },
+        {
+          "id": "C",
+          "text": "Eine Fehleinschätzung von Geschwindigkeiten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Drogen führen zu Rauschzuständen. Dadurch verändert sich auch die Wahrnehmung eines Menschen. Diese Rauschzustände können verschiedene Beeinträchtigungen hervorrufen, wie z.B. die Beeinträchtigung der Konzentration und eine Fehleinschätzung der Geschwindigkeit.\nDes Weiteren kann es zu einer Erhöhung der Risikobereitschaft kommen, da es sehr häufig dazu kommen, dass man kritische Situationen oder das eigene Fahrvermögen falsch einschätzt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.09-033",
+      "text": "Bei welcher Substanz kann der Konsum vor oder während der Fahrt zu Fahruntüchtigkeit führen?",
+      "points": 4,
+      "chapter": "Alkohol Drogen Medikamente",
+      "chapterNumber": "1.1.09",
+      "chapterName": "Alkohol Drogen Medikamente",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kokain"
+        },
+        {
+          "id": "B",
+          "text": "Alkohol"
+        },
+        {
+          "id": "C",
+          "text": "Haschisch"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei allen hier aufgezählten Drogen und Substanzen wird der Konsum zur Fahruntüchtigkeit führen. \nDrogen und Alkohol am Steuer führen zu einer erheblichen Gefährdung des Straßenverkehrs, da sie die Aufmerksamkeit und Konzentration wesentlich einschränken. Darüber hinaus kann die Einnahme von Alkohol und Drogen zahlreiche körperliche und psychische Auswirkungen haben, wie auch die Fehleinschätzungen kritischer Situationen oder die Überschätzung des eigenen Fahrvermögens.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.10-001",
+      "text": "Bei hohen Außentemperaturen lässt die Konzentration bei langen Fahrten nach und die Unfallzahlen steigen. Welche Maßnahme ist empfehlenswert, damit Sie auch im Hochsommer aufmerksam und sicher fahren?",
+      "points": 3,
+      "chapter": "Gesundheitsrisiken",
+      "chapterNumber": "1.1.10",
+      "chapterName": "Gesundheitsrisiken",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich plane regelmäßige Pausen ein"
+        },
+        {
+          "id": "B",
+          "text": "Ich nehme ausreichend Flüssigkeit zu mir"
+        },
+        {
+          "id": "C",
+          "text": "Ich lege meine Fahrten bevorzugt in die Mittagszeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei hohen Temperaturen solltest du ausreichend Flüssigkeit zu dir nehmen und regelmäßige Pausen einplanen, damit du dich etwas bewegen kannst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.10-002",
+      "text": "Bei welchem körperlichen Anzeichen sollten Sie kein Kraftfahrzeug führen?",
+      "points": 3,
+      "chapter": "Gesundheitsrisiken",
+      "chapterNumber": "1.1.10",
+      "chapterName": "Gesundheitsrisiken",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei Übelkeit"
+        },
+        {
+          "id": "B",
+          "text": "Bei Schwindel"
+        },
+        {
+          "id": "C",
+          "text": "Bei Fieber"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn du dich krank fühlst, solltest du eine Pause einlegen oder andere Personen fahren lassen, um die Sicherheit aller Verkehrsteilnehmer zu gewährleisten.\nSchwindel, Übelkeit und Fieber beeinträchtigen unter anderem deine Konzentration und deine Fahrtüchtigkeit, warte daher bis es dir besser geht um dich und andere Verkehrsteilnehmer nicht zu gefährden.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

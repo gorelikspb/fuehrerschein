@@ -1,0 +1,210 @@
+{
+  "id": "2-8-eignung-und-befaehigung-von-kraftfahrern",
+  "title": "Eignung und Befaehigung von Kraftfahrern",
+  "themeNumber": "Thema 2.8.",
+  "section": "zusatzstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 2.8. Eignung und Befaehigung von Kraftfahrern",
+  "questionCount": 7,
+  "questions": [
+    {
+      "id": "2.8.01-001",
+      "text": "Wie lange dauert normalerweise die Probezeit?",
+      "points": 2,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 Jahre"
+        },
+        {
+          "id": "B",
+          "text": "1 Jahr"
+        },
+        {
+          "id": "C",
+          "text": "3 Jahre"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Im Normalfall dauert die Probezeit 2 Jahre. Es gibt aber auch Situationen, in denen sie auf bis zu 4 Jahre verlängert werden kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-009",
+      "text": "Sie befinden sich in der Probezeit und sind bisher nicht auffällig geworden. Welche Folgen können eintreten, wenn Sie an dem Verkehrszeichen „Halt. Vorfahrt gewähren.“ nicht anhalten und dadurch andere Verkehrsteilnehmer gefährden?",
+      "points": 2,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anordnung zur Teilnahme an einem Aufbauseminar für Fahranfänger"
+        },
+        {
+          "id": "B",
+          "text": "Eintrag in das Fahreignungsregister"
+        },
+        {
+          "id": "C",
+          "text": "Anordnung zum erneuten Ablegen einer theoretischen Fahrerlaubnisprüfung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Nichtbeachten des Verkehrszeichens „Halt. Vorfahrt gewähren“ ist ein schwerwiegender Verstoß, ein A-Verstoß, der in das Fahreignungsregister eingetragen wird. Bei einem A-Verstoß oder zwei weniger schwerwiegenden Verstößen (B-Verstößen) innerhalb der Probezeit müssen Sie als FahranfängerIn an einem Aufbauseminar teilnehmen. Die Prüfung müssen Sie deswegen nicht erneut ablegen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-010",
+      "text": "Was soll mit der Teilnahme an einem Aufbauseminar innerhalb der Probezeit erreicht werden?",
+      "points": 2,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine rücksichtsvollere und risikobewusstere Einstellung zum Straßenverkehr"
+        },
+        {
+          "id": "B",
+          "text": "Eine Verbesserung der Gefahrenerkennung"
+        },
+        {
+          "id": "C",
+          "text": "Ein Abbau der Punkte im Fahreignungsregister"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit einer Teilnahme am Aufbauseminar für Fahranfänger in der Probezeit (ASF) sollen Sie als Kfz-FahrerIn Ihr tägliches Fahrverhalten analysieren lernen und Ihr Bewusstsein für Gefahrensituationen schärfen. Punkte können mit dem Seminar nicht abgebaut werden. Diese Aufgabe übernehmen die Fahreignungsseminare (FES).",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-011",
+      "text": "Aufgrund mehrerer Verstöße innerhalb der Probezeit hat die Behörde die Teilnahme an einem Aufbauseminar angeordnet. Der Fahranfänger kommt dieser Anordnung nicht nach. Womit muss er jetzt rechnen?",
+      "points": 2,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit dem Entzug der Fahrerlaubnis"
+        },
+        {
+          "id": "B",
+          "text": "Mit einem Bußgeldbescheid"
+        },
+        {
+          "id": "C",
+          "text": "Mit zusätzlichen Punkten im Fahreignungsregister"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn der Fahranfänger einer Teilnahme am Aufbauseminar nicht wie gefordert nachkommt, droht ihm der sofortige Verlust seiner Fahrerlaubnis. Ein zusätzliches Bußgeld wird nicht verhängt. Auch eine Punkteeintragung im Fahreignungsregister findet nicht satt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-012",
+      "text": "Womit muss ein Fahrerlaubnisbewerber rechnen, wenn er beim Fahren ohne Fahrerlaubnis erwischt wird?",
+      "points": 3,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Fahrerlaubnisbehörde kann den Prüfauftrag zurückziehen"
+        },
+        {
+          "id": "B",
+          "text": "Eine Überprüfung der Eignung zum Führen von Kraftfahrzeugen kann angeordnet werden"
+        },
+        {
+          "id": "C",
+          "text": "Mit keinen Auswirkungen, solange man in einer Fahrschule angemeldet ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Fahrerlaubnisbewerber muss nicht nur die dafür erforderlichen körperlichen und geistigen Anforderungen mitbringen. Zudem darf er nicht wiederholt gegen verkehrsrechtliche Vorschriften oder Strafgesetze verstoßen haben. Hierdurch würde der Bewerber zeigen, dass er sich nicht zum Führen eines Kraftfahrzeugs eignet. Ähnliches gilt für das Schwarzfahren. Sollte ein Fahrerlaubnisbewerber schwarzfahren, kann der Prüfauftrag von der Fahrerlaubnisbehörde zurückgezogen werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-013",
+      "text": "Ein Fahranfänger hat innerhalb der Probezeit mehrere Verstöße begangen. Die Behörde hat die Teilnahme an einem Aufbauseminar angeordnet. Der Fahranfänger kommt dieser Anordnung nicht nach. Womit muss er jetzt rechnen?",
+      "points": 2,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einem Entzug der Fahrerlaubnis"
+        },
+        {
+          "id": "B",
+          "text": "Mit einer Verlängerung der Probezeit um weitere 3 Jahre"
+        },
+        {
+          "id": "C",
+          "text": "Mit einer Anordnung für ein Fahreignungsseminar"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Probezeit für Fahranfänger beträgt 2 Jahre. Während dieser Zeit gelten sehr strenge Strafen aus dem Bußgeldkatalog. Wenn du innerhalb der Probezeit einen A-Verstoß oder zwei B-Verstöße begehst wird ein Aufbauseminar (ASF) angeordnet. Solltest du dieser behördlichen Aufforderung nicht nachkommen, wird dir die Fahrerlaubnis entzogen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.8.01-014",
+      "text": "Ein Fahrerlaubnisbewerber übt das praktische Fahren ohne Fahrlehrer im öffentlichen Verkehrsraum. Womit muss er rechnen, wenn er von der Polizei kontrolliert wird?",
+      "points": 3,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "2.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einem Strafverfahren"
+        },
+        {
+          "id": "B",
+          "text": "Mit einer Überprüfung der Eignung zum Führen von Kraftfahrzeugen"
+        },
+        {
+          "id": "C",
+          "text": "Mit keinen Auswirkungen, wenn ein Inhaber einer Fahrerlaubnis im Fahrzeug mitfährt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Als Fahrerlaubnisbewerber darfst du auf keinen Fall ohne Fahrlehrer im öffentliche Verkehr üben. Das Fahren ohne Fahrerlaubnis ist strafbar und kann mit einer Geld- oder Freiheitsstrafe bestraft werden.\nDie Polizei kann eine Überprüfung der Fahreignung anordnen. So riskiert du als Fahrerlaubnisbewerber, jemals einen Führerschein zu bekommen.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

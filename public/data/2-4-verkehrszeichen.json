@@ -1,0 +1,868 @@
+{
+  "id": "2-4-verkehrszeichen",
+  "title": "Verkehrszeichen",
+  "themeNumber": "Thema 2.4.",
+  "section": "zusatzstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
+  "questionCount": 31,
+  "questions": [
+    {
+      "id": "2.4.40-002",
+      "text": "Wie verhalten Sie sich auf einer Autobahn bei diesem Verkehrszeichen?",
+      "points": 4,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aufmerksamkeit erhöhen, vorsorglich Abstand vergrößern"
+        },
+        {
+          "id": "B",
+          "text": "Bei Stau abbremsen und Warnblinklicht einschalten"
+        },
+        {
+          "id": "C",
+          "text": "Bei Stau auf den Seitenstreifen wechseln und dort weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Achtung Stau: Bei diesem Verkehrszeichen sollten Sie die Geschwindigkeit Ihres Pkws vermindern und den Abstand zum vorausfahrenden Fahrzeug erhöhen. Verschaffen Sie sich einen besseren Überblick über die Situation, indem Sie den Verkehr vor dem vorausfahrenden Fahrzeug beobachten und, falls nötig, innerhalb der Fahrspur etwas versetzt fahren. Schalten Sie Ihr Warnblinklicht ein, wenn Sie auf das Ende eines Staus zufahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-002.png",
+      "video": null
+    },
+    {
+      "id": "2.4.40-003",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vor der Kurve vermindern"
+        },
+        {
+          "id": "B",
+          "text": "Möglichst weit rechts fahren"
+        },
+        {
+          "id": "C",
+          "text": "Vor der Kurve links blinken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen kündigt eine gefährliche Linkskurve an. Verringern Sie Ihre Geschwindigkeit, um die Fliehkraft klein zu halten. Der Gegenverkehr könnte durch seine Fliehkraft auf Ihre Fahrspur gelangen. Auch könnte ein Fahrzeug hinter der Kurve liegen geblieben sein. Fahren Sie deshalb möglichst weit rechts. Sie folgen dem Straßenverlauf, ein Abbiegen findet nicht statt. Daher müssen Sie nicht blinken.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-003.png",
+      "video": null
+    },
+    {
+      "id": "2.4.40-004",
+      "text": "Wie verhalten Sie sich im Bereich dieser Gefahrstrecke?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Langsamer fahren, auf Wild achten"
+        },
+        {
+          "id": "B",
+          "text": "Abblenden und bremsen, wenn Wild in Sicht kommt"
+        },
+        {
+          "id": "C",
+          "text": "Nicht vor Wild ausweichen, wenn der Gegenverkehr gefährdet würde"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Achtung Wildwechsel: Dieses Schild wird auf solchen Strecken aufgestellt, auf denen es bereits vermehrt zu Wildunfällen gekommen ist. Sobald Sie dieses Schild erblicken, sollten Sie die Geschwindigkeit vermindern und bremsbereit sein. Achten Sie zudem besonders auf den Fahrbahnrand. Wenn Sie Wild erblicken, sollten Sie bremsen und abblenden. Springt Ihnen Wild plötzlich vor die Haube, sollten Sie eine Gefahrenbremsung durchführen. Vermeiden Sie es, auszuweichen, denn dann könnten Sie auf die Gegenfahrbahn geraten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-004.png",
+      "video": null
+    },
+    {
+      "id": "2.4.40-005",
+      "text": "Worauf müssen Sie sich bei diesem Verkehrszeichen einstellen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Seitenwind"
+        },
+        {
+          "id": "B",
+          "text": "Auf Gegenlenken"
+        },
+        {
+          "id": "C",
+          "text": "Auf Flugbetrieb"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist auf einen Streckenabschnitt mit Seitenwind hin. Dies ist insbesondere auf Brücken und Überführungen gegeben. Bei starkem Wind von der Seite müssen Sie die Geschwindigkeit vermindern. Sie müssen sich darauf einstellen, das Lenkrad festzuhalten und gegenzulenken, um in der Spur zu bleiben. Mit Flugbetrieb hat das Verkehrszeichen nichts zu tun.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-005.png",
+      "video": null
+    },
+    {
+      "id": "2.4.40-006",
+      "text": "Worauf müssen Sie sich bei diesem Verkehrszeichen einstellen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf verändertes Fahrverhalten des Fahrzeugs"
+        },
+        {
+          "id": "B",
+          "text": "Auf notwendiges Gegenlenken"
+        },
+        {
+          "id": "C",
+          "text": "Auf notwendige Geschwindigkeitsanpassung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn Ihnen dieses Verkehrszeichen begegnet, müssen Sie sich auf starken Seitenwind einstellen. Am häufigsten kommt dieses Verkehrszeichen auf Straßenabschnitten vor, die dem Wind besonders stark ausgesetzt sind – beispielsweise auf Brücken oder Überführungen. Bei starkem Seitenwind muss der/die Kfz-FahrerIn gegenlenken, um in der Spur zu bleiben. Außerdem müssen Sie die Geschwindigkeit Ihres Pkws den Windverhältnissen anpassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-006.png",
+      "video": null
+    },
+    {
+      "id": "2.4.40-007",
+      "text": "Womit sollten Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "2.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit vorausfahrenden Fahrzeugen, die plötzlich nach links ausweichen"
+        },
+        {
+          "id": "B",
+          "text": "Mit vorausfahrenden Fahrzeugen, die plötzlich bremsen"
+        },
+        {
+          "id": "C",
+          "text": "Mit Ästen, die auf der Fahrbahn liegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Aufgrund von Bäumen können hohe Fahrzeuge plötzlich bremsen und ausweichen. Hohe Fahrzeuge können beim vorbeifahren Äste abreißen, diese liegen anschließend auf der Fahrbahn. Seien Sie besonders aufmerksam.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.40-007.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-101",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schneeketten benutzen"
+        },
+        {
+          "id": "B",
+          "text": "Zulässige Höchstgeschwindigkeit 50 km/h"
+        },
+        {
+          "id": "C",
+          "text": "Kettenfahrzeuge haben Vorfahrt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist darauf hin, dass die nachfolgende Strecke nur mit Schneeketten befahrbar ist. Das Einfahren ohne Schneeketten ist verboten. Die zulässige Höchstgeschwindigkeit mit Schneeketten beträgt 50 km/h. Achten Sie auf Geräusche. Bei Geräuschentwicklung oder unruhigem Lauf sollten Sie anhalten und die Ketten überprüfen. Mit Kettenfahrzeugen hat dieses Zeichen nicht zu tun.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-101.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-102",
+      "text": "Welches Verkehrszeichen bezieht sich auf die zulässige Gesamtmasse?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [],
+      "correct": [
+        "2"
+      ],
+      "explanation": "Handelt es sich um das Gewicht in Tonnen \"t\" im Hauptschild, so ist die tatsächliche Masse des Fahrzeugs gemeint. Handelt es sich jedoch um eine Abbildung von einem Fahrzeug ggf. mit einem Zusatzschild handelt es sich um das zulässige Gesamtgewicht, einschließlich Anhänger und Zugmaschinen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-102.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-103",
+      "text": "Welches Verkehrszeichen bezieht sich auf die tatsächliche Masse?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [],
+      "correct": [
+        "1"
+      ],
+      "explanation": "Handelt es sich um das Gewicht in Tonnen \"t\" im Hauptschild, so ist die tatsächliche Masse des Fahrzeugs gemeint. Handelt es sich jedoch um eine Abbildung von einem Fahrzeug ggf. mit einem Zusatzschild handelt es sich um das zulässige Gesamtgewicht, einschließlich Anhänger und Zugmaschinen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-103.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-104",
+      "text": "Für welche Fahrzeuge ist das Befahren einer so beschilderten Straße verboten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- tatsächliche Achslast 2 t überschreitet"
+        },
+        {
+          "id": "B",
+          "text": "- zulässige Achslast 2 t überschreitet"
+        },
+        {
+          "id": "C",
+          "text": "- zulässige Gesamtmasse 2 t nicht überschreitet"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen verbietet das Befahren der Strecke für Fahrzeuge, die das im Verkehrsschild angegebene Gewicht überschreiten. Die Gewichtsangabe bezieht sich dabei auf die tatsächliche Achslast. Sie darf nicht überschritten werden. Der rote runde Kreis im Verkehrszeichen weist immer auf ein Verbot hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-104.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-105",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf ein Verbot für Fahrzeuge, deren Breite einschließlich Ladung 2 m überschreitet"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Fahrbahn von 2 m Breite"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen vorgeschriebenen Seitenabstand von mindestens 2 m zu anderen Fahrzeugen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Verbot für Fahrzeuge über die angegebene Breite einschließlich Ladung“ weist auf Fahrbahnverengungen und Engpässe auf dem nachfolgenden Abschnitt der Straße hin. Die Strecke ist nicht passierbar für Fahrzeuge, die inklusive Ladung breiter sind als auf dem Schild angegeben. In diesem Fall beträgt die zulässige Breite 2 m.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-105.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-106",
+      "text": "Durch welche Fahrzeuge können bei Missachtung dieses Verkehrszeichens schwere Unfälle entstehen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Länge 8 m, Breite 2,5 m, Höhe 4 m"
+        },
+        {
+          "id": "B",
+          "text": "Länge 10 m, Breite 3,9 m, Höhe 3 m"
+        },
+        {
+          "id": "C",
+          "text": "Länge 4 m, Breite 2,5 m, Höhe 2,5 m"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen richtet sich an Lkws und warnt vor höhenbegrenzten Durchfahrten – vor Tunneln, Brückenkonstruktionen oder Starkstrom-Oberleitungen von Straßenbahnen. Die Höhenbegrenzung wird durch die schwarzen Dreiecke angezeigt, sie beträgt hier 3,8 m. Ignoriert ein Fahrzeug mit einer Höhe über 3,8 m dieses Schild, kann es zu schweren Unfällen kommen. Der Lkw kann in den Oberleitungen oder der Unterführung hängen oder stecken bleiben. Länge und Breite sind nicht relevant.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-106.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-107",
+      "text": "Mit welchen Fahrzeugen dürfen Sie eine so gekennzeichnete Straße nicht befahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pkw mit Wohnanhänger, Gesamtlänge des Zuges 11 m"
+        },
+        {
+          "id": "B",
+          "text": "Traktor mit Anhänger, Gesamtlänge des Zuges 12 m"
+        },
+        {
+          "id": "C",
+          "text": "Lkw mit einer Länge von 9 m einschließlich Ladung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der rote runde Kreis im Verkehrszeichen deutet immer auf ein Verbot hin. Fahrzeuge, deren tatsächliche Länge 10 m übersteigt, dürfen diese Straße nicht befahren. Auch Fahrzeuge mit Anhänger, deren Gesamtlänge 10 m überschreitet, dürfen auf dieser Straße nicht weiterfahren. Dies deutet auf Straßenverhältnisse hin, die mit längeren Fahrzeugen nicht befahrbar sind.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.41-107.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-108",
+      "text": "Welche Fahrzeuge dürfen Sie bei diesem Verkehrszeichen überholen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keine Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Einspurige Fahrzeuge"
+        },
+        {
+          "id": "C",
+          "text": "Mehrspurige Fahrzeuge"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Du darfst nicht überholen, weder ein- noch mehrspurige Fahrzeuge.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/2.4.41-108.png",
+      "video": null
+    },
+    {
+      "id": "2.4.41-109",
+      "text": "Für welche Kraftfahrzeuge gilt das so gekennzeichnete Überholverbot?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "2.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Für Kraftomnibusse"
+        },
+        {
+          "id": "B",
+          "text": "Für einspurige Kraftfahrzeuge"
+        },
+        {
+          "id": "C",
+          "text": "Für Pkws ohne Anhänger"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrsschild schreibt ein Überholverbot für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von über 3,5 t vor. Das Zusatzzeichen schreibt auch Omnibussen und Pkws MIT Anhängern das Überholen vor.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/2.4.41-109.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-001",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf das Ende der Autobahn"
+        },
+        {
+          "id": "B",
+          "text": "Auf das Ende der Kraftfahrstraße"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine vorübergehende Sperrung der Autobahn"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrsschild befindet sich am Ende der Autobahn.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-001.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-002",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf das Ende der Kraftfahrstraße"
+        },
+        {
+          "id": "B",
+          "text": "Auf das Ende der Autobahn"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Verbot für Kraftwagen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen steht am Ende einer Kraftfahrtstraße. Das heißt: Ab hier gilt nicht mehr die Richtgeschwindigkeit. Es weist nicht auf ein Verbot für Kraftwagen hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-002.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-004",
+      "text": "Worauf weisen solche Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf die Nummer einer Autobahn"
+        },
+        {
+          "id": "B",
+          "text": "Auf die Entfernung bis zur nächsten Tankstelle"
+        },
+        {
+          "id": "C",
+          "text": "Auf die Nummer einer Europastraße"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Eine weiße Zahl auf blauem Grund mit einer weißen Umrandung bezeichnet die Nummer der Autobahn, auf der Sie sich gerade befinden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-004.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-005",
+      "text": "Worauf weist die Zahl „26“ in diesem Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf die Autobahnausfahrt Nummer 26"
+        },
+        {
+          "id": "B",
+          "text": "Auf die A 26"
+        },
+        {
+          "id": "C",
+          "text": "Auf die Entfernung von der Ausfahrt bis Düsseldorf-Benrath"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Alle Autobahnausfahrten sind zur besseren Orientierung durchnummeriert. Als Kfz-FahrerIn können Sie an der Zahl 26 die Nummer der Autobahnausfahrt erkennen. Auf Straßenkarten, in Autoatlanten und in den gängigen Navigationsgeräten finden sich diese Zahlen ebenfalls wieder.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-005.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-006",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Bedarfsumleitung für den Autobahnverkehr"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine U-Bahnstation"
+        },
+        {
+          "id": "C",
+          "text": "Auf die Bundesstraße 22"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen verweist auf eine Bedarfsumleitung für den Autobahnverkehr. Es wird zum Beispiel im Falle eines Staus aufgestellt. Folgt der/die Kfz-FahrerIn der Umleitung, kommt er/sie wieder auf die Autobahn zurück.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-006.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-007",
+      "text": "Was gilt nach diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zulässige Höchstgeschwindigkeit 50 km/h"
+        },
+        {
+          "id": "B",
+          "text": "Freie Wahl markierter Fahrstreifen für Kraftfahrzeuge bis 3,5 t zulässiger Gesamtmasse"
+        },
+        {
+          "id": "C",
+          "text": "Freie Wahl markierter Fahrstreifen für alle Kraftfahrzeuge"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Nach diesem Verkehrszeichen gelten Vorschriften, die für den Verkehr innerhalb geschlossener Ortschaften gelten. Dazu gehört die Begrenzung der zulässigen Höchstgeschwindigkeit auf 50 km/h. Freie Wahl der Fahrstreifen gilt nur für Kraftfahrzeuge bis 3,5 t zulässiger Gesamtmasse. Fahrzeuge mit mehr als 3,5 t fahren rechts.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-007.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-101",
+      "text": "Was gilt nach diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Überholen darf nicht durch Hupen angekündigt werden"
+        },
+        {
+          "id": "B",
+          "text": "Parkende Pkws dürfen mit der Parkleuchte gesichert werden"
+        },
+        {
+          "id": "C",
+          "text": "Bei Dunkelheit darf mit Standlicht gefahren werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kfz-FahrerInnen erkennen an diesem Verkehrszeichen, dass die für den Verkehr innerhalb geschlossener Ortschaften bestehenden Vorschriften gelten. Sie dürfen hier Überholvorgänge nicht durch Hupen ankündigen, da dies nur außerhalb geschlossener Ortschaften erlaubt ist. Es ist prinzipiell verboten, mit Standlicht zu fahren. Parkende Pkw dürfen mit der Parkleuchte gesichert werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-101.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-102",
+      "text": "Wie darf hier mit Fahrzeugen bis 2,8 t zulässiger Gesamtmasse geparkt werden?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pkws entsprechend der Abbildung"
+        },
+        {
+          "id": "B",
+          "text": "Wohnwagen entsprechend der Abbildung"
+        },
+        {
+          "id": "C",
+          "text": "Kleine Pkws auch quer zur Fahrtrichtung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen signalisiert dem/der Kfz-FahrerIn, dass Fahrzeuge bis 2,8 t zulässiger Gesamtmasse nur entsprechend der Abbildung geparkt werden dürfen. An diese Parkordnung müssen sich jedoch auch kleinere Pkw halten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-102.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-103",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Wasserstofftankstelle"
+        },
+        {
+          "id": "B",
+          "text": "- Erdgastankstelle"
+        },
+        {
+          "id": "C",
+          "text": "- Autogastankstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das quadratische Verkehrsschild mit blauem Rand zeigt an, dass sich in nächster Nähe eine Tankmöglichkeit für wasserstoffbetriebene Fahrzeuge befindet. Diese Pkws sind immer noch vergleichsweise teuer, gelten aber als die Fahrzeuge der Zukunft.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-103.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-104",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Erdgastankstelle"
+        },
+        {
+          "id": "B",
+          "text": "- Wasserstofftankstelle"
+        },
+        {
+          "id": "C",
+          "text": "- Autogastankstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist Kfz-FahrerInnen auf eine Erdgastankstelle hin, an der er/sie das mit Erdgas betriebene Fahrzeug betanken kann. Die Abkürzung CNG steht für den englischsprachigen Begriff Compressed Natural Gas, was im Deutschen „Erdgas“ bedeutet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-104.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-105",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Autogastankstelle"
+        },
+        {
+          "id": "B",
+          "text": "- Erdgastankstelle"
+        },
+        {
+          "id": "C",
+          "text": "- Wasserstofftankstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Aufschrift LPG auf dem viereckigen Verkehrszeichen ist eine Abkürzung für Liquefied Petroleum Gas, auf Deutsch „Autogas“. Dieses Verkehrszeichen signalisiert dem/der Kfz-FahrerIn, dass sich hier eine Autogastankstelle befindet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-105.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-106",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Ladestation für Elektrofahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Auf Explosionsgefahr an einer Tankstelle durch Elektrogeräte"
+        },
+        {
+          "id": "C",
+          "text": "Auf die Möglichkeit zum Aufladen von Mobiltelefonen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sehen auf dem Schild einen Stecker mit Kabel. Es zeigt Ihnen eine nahegelegene Ladestation für Elektro-Fahrzeuge wie Elektro-Autos, E-Bikes oder Elektro-Roller an. Dort können Sie Ihr mit Strom betriebenes Fahrzeug aufladen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-106.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-107",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Parkplatz mit Anschluss an öffentliche Verkehrsmittel („Parken + Reisen“)"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Tankstelle mit Waschanlage („Pflegen + Reinigen“)"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Fahrzeugverleih mit Reparaturwerkstatt („Pannenservice + Reparatur“)"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen P + R auf blauem Hintergrund steht für „Parken und Reisen“ („Park and Ride“). Es kennzeichnet einen Parkplatz mit Anschluss an öffentliche Verkehrsmittel. Der Parkplatz besteht kontinuierlich oder aber temporär.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-107.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-108",
+      "text": "Sie führen einen mautpflichtigen Lkw und nähern sich dem dargestellten Verkehrszeichen. Wie verhalten Sie sich?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich überprüfe an der On-Board-Unit (OBU), ob die Anzahl der Achsen korrekt eingestellt ist"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen der Strecke Maut entrichtet wurde"
+        },
+        {
+          "id": "C",
+          "text": "Ich zahle die Maut am Mautterminal, wenn ich die mautpflichtige Strecke verlasse"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du darfst hier ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen der Strecke Maut entrichtet wurde und du solltest die korrekte Anzahl der Achsen prüfen, ob diese richtig eingestellt ist. Wenn nicht, stelle Sie bitte richtig ein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-108.png",
+      "video": null
+    },
+    {
+      "id": "2.4.42-110",
+      "text": "Welches Dokument erlaubt es Ihnen, hier zu parken?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "2.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mein EU-Parkausweis für Schwerbehinderte"
+        },
+        {
+          "id": "B",
+          "text": "Der EU-Parkausweis eines von mir beförderten Schwerbehinderten"
+        },
+        {
+          "id": "C",
+          "text": "Mein Anwohnerparkausweis"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du darfst auf dem Parkplatz mit diesem Schild parken, wenn du selbst einen EU-Parkausweis für Schwerbehinderte besitzt oder wenn du eine Person mit einem EU-Parkausweis für Schwerbehinderten beförderst.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/2.4.42-110.png",
+      "video": null
+    },
+    {
+      "id": "2.4.43-002",
+      "text": "Sie brauchen Hilfe auf der Autobahn. Welche Information gibt Ihnen dafür der Pfeil am Leitpfosten?",
+      "points": 2,
+      "chapter": "Verkehrseinrichtungen",
+      "chapterNumber": "2.4.43",
+      "chapterName": "Verkehrseinrichtungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nächste Notrufsäule in Pfeilrichtung"
+        },
+        {
+          "id": "B",
+          "text": "Nächster Parkplatz in Pfeilrichtung"
+        },
+        {
+          "id": "C",
+          "text": "Nächste Ausfahrt in Pfeilrichtung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Pfeile auf den Leitpfosten am Rand einer Autobahn zeigen in Richtung der nächstgelegenen Notrufsäule. Wenn Sie Hilfe benötigen, folgen Sie den Pfeilen, um möglichst schnell eine Notrufsäule zu erreichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.43-002.png",
+      "video": null
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "id": "2-5-umweltschutz",
+  "title": "Umweltschutz",
+  "themeNumber": "Thema 2.5.",
+  "section": "zusatzstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 2.5. Umweltschutz",
+  "questionCount": 38,
+  "questions": [
+    {
+      "id": "2.5.01-004",
+      "text": "Wodurch lässt sich Kraftstoff einsparen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch frühes Hochschalten"
+        },
+        {
+          "id": "B",
+          "text": "Durch spätes Zurückschalten"
+        },
+        {
+          "id": "C",
+          "text": "Durch häufiges Fahren im oberen Drehzahlbereich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kraftstoff können Sie als Kfz-FahrerIn sparen, wenn Sie mit Ihrem Fahrzeug mit niedrigen Drehzahlen unterwegs sind. Sie sollten möglichst frühzeitig in einen höheren Gang schalten und möglichst spät zurückschalten, um die Drehzahlen gering zu halten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-005",
+      "text": "Wodurch kann Lärm vermieden werden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starkes Beschleunigen möglichst vermeiden"
+        },
+        {
+          "id": "B",
+          "text": "Durch Abschalten des Motors bei längerem Warten oder Halten"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit hoher Drehzahl"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Lärm entsteht ganz allgemein durch den laufenden Motor eines Kfz. Das Fahren mit hohen Drehzahlen und starkes Beschleunigen trägt zu erhöhtem Lärm bei. Stellen Sie den Motor aus, wenn Sie mit Ihrem Fahrzeug irgendwo länger warten oder halten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-006",
+      "text": "Wodurch wird vermeidbarer Lärm verursacht?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Fahren mit defekter Auspuffanlage"
+        },
+        {
+          "id": "B",
+          "text": "Durch „Spielen“ mit dem Gas im Stand"
+        },
+        {
+          "id": "C",
+          "text": "Durch Hupen bei Gefahr"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vermeidbarer Lärm kann durch das Fahren mit defekter Auspuffanlage oder beim „Spielen“ mit dem Gas im Stand verursacht werden. Hupt ein/eine Kfz-FahrerIn bei Gefahr, zählt dies nicht zum vermeidbaren Lärm, sondern dient der Gefahrenabwehr.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-007",
+      "text": "Warum ist scharfes Anfahren zu vermeiden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil der entstehende Lärm andere belästigt"
+        },
+        {
+          "id": "B",
+          "text": "Weil stärkerer Reifenverschleiß entsteht"
+        },
+        {
+          "id": "C",
+          "text": "Weil dadurch die Hinterradbremse stark belastet wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Scharfes Anfahren ist eine zusätzliche Lärmbelästigung für andere Verkehrsteilnehmer. Sie als Kfz-FahrerIn schädigen Ihr Fahrzeug mit dem hochtourigen Anfahren, ebenso die Reifen durch hohen Verschleiß und Abrieb. Die Umwelt wird zusätzlich belastet. Die Hinterradbremse wird beim Anfahren hingegen nicht mehr und auch nicht weniger belastet.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-009",
+      "text": "Wie können Sie nach einem Kaltstart die Umwelt und den Motor schonen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ohne Warmlaufenlassen des Motors mit niedriger Drehzahl losfahren"
+        },
+        {
+          "id": "B",
+          "text": "Kein Gas geben, Motor im Stand warmlaufen lassen"
+        },
+        {
+          "id": "C",
+          "text": "Mehrmals im Stand Gas geben, um rasch die günstige Betriebstemperatur zu erreichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Lassen Sie Ihr Kfz möglichst nicht im Stand warmlaufen, da Sie so Motor und Umwelt schädigen. Wenn das Warmfahren bei niedrigen Drehzahlen erfolgt, tragen Sie zur Schonung von beidem bei. Voll belastbar ist der Motor erst nach Erreichen der Betriebstemperatur (grüner Bereich).",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-010",
+      "text": "Welche Kraftfahrzeuge dürfen in die abgebildete Umweltzone?",
+      "points": 4,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein Pkw mit einer roten Feinstaub-Plakette"
+        },
+        {
+          "id": "B",
+          "text": "Ein Motorrad"
+        },
+        {
+          "id": "C",
+          "text": "Ein Pkw, der die Anforderungen an eine grüne Plakette erfüllt, auch wenn keine Feinstaub-Plakette angebracht ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit ihren Fahrzeugen dürfen Kfz-FahrerInnen nur dann in eine Umweltzone einfahren, wenn an dem Kfz eine gültige Plakette sichtbar angebracht ist, die dem Zusatzzeichen (Rot, Gelb, Grün) mindestens entspricht. Motorräder und Fahrzeuge mit Sonderrechten sind von dieser Regelung ausgenommen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/2.5.01-010.png",
+      "video": null
+    },
+    {
+      "id": "2.5.01-011",
+      "text": "Was hat das Fahren mit Winterreifen in den Sommermonaten zur Folge?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- der Kraftstoffverbrauch"
+        },
+        {
+          "id": "B",
+          "text": "- der Reifenverschleiß"
+        },
+        {
+          "id": "C",
+          "text": "- die Fahrstabilität"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Jede/Jeder Kfz-FahrerIn sollte wissen, dass Winterreifen für die Benutzung bei Kälte und auf verschneiten Straßen ausgelegt sind. Durch die Verwendung in Sommermonaten nimmt die Fahrstabilität ab. Ein stärkerer Gummiabrieb und ein höherer Reifenverschleiß führen zu erhöhtem Kraftstoffverbrauch.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-012",
+      "text": "Welche Kraftfahrzeuge dürfen in die so gekennzeichnete Umweltzone einfahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kraftfahrzeuge mit einer grünen Feinstaub-Plakette"
+        },
+        {
+          "id": "B",
+          "text": "Krafträder"
+        },
+        {
+          "id": "C",
+          "text": "Kraftfahrzeuge, die die Anforderungen an eine grüne Feinstaub-Plakette erfüllen, auch wenn keine solche Plakette angebracht ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Zusatzschild zeigt welche Kraftfahrzeuge mit welcher Plakette hineinfahren dürfen. Krafträder dürfen in jedem Fall einfahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.5.01-012.png",
+      "video": null
+    },
+    {
+      "id": "2.5.01-013",
+      "text": "Sie möchten Ihr Fahrzeug waschen. Wo sollten Sie dies im Interesse des Umweltschutzes tun?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "In einer Autowaschanlage"
+        },
+        {
+          "id": "B",
+          "text": "Auf einem Parkplatz"
+        },
+        {
+          "id": "C",
+          "text": "Auf einer öffentlichen Straße"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sollten Ihr Fahrzeug immer in einer Waschanlage waschen. Dort wird das Schmutzwasser von den Betreibern umweltgerecht entsorgt. Wenn Sie Ihr Fahrzeug dagegen auf der Straße oder auf einem Parkplatz waschen, gelangt das Wasser unbehandelt in den Boden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-014",
+      "text": "Was erhöht den Kraftstoffverbrauch Ihres Fahrzeugs deutlich?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- der Sitzheizung"
+        },
+        {
+          "id": "B",
+          "text": "- der Klimaanlage"
+        },
+        {
+          "id": "C",
+          "text": "- des Navigationsgerätes"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie die Sitzheizung oder die Klimaanlage Ihres Fahrzeugs einschalten, wird viel Energie verbraucht und der Kraftstoffverbrauch Ihres Kfz erhöht sich deutlich. Im Vergleich zu diesen Geräten benötigen Navigationsgeräte relativ wenig Strom.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-016",
+      "text": "Welche Auswirkungen hat das Fahren mit hoher Geschwindigkeit bei Kraftfahrzeugen mit Verbrennungsmotor?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Kraftstoffverbrauch erhöht sich"
+        },
+        {
+          "id": "B",
+          "text": "Der Schadstoffausstoß erhöht sich"
+        },
+        {
+          "id": "C",
+          "text": "Der Lärmpegel verringert sich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Seien Sie sich bewusst, dass das schnelle Fahren mit hoher Geschwindigkeit einen hohen Kraftstoffverbrauch und damit auch einen hohen Schadstoffausstoß zur Folge hat. Es kommt hierdurch ebenfalls zu mehr Lärm und nicht zu einem geringeren Lärmpegel.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-018",
+      "text": "Warum wirkt sich eine umweltbewusste Fahrweise auch günstig auf die Verkehrssicherheit aus?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- vorausschauend gefahren wird"
+        },
+        {
+          "id": "B",
+          "text": "- hohe Geschwindigkeiten vermieden werden"
+        },
+        {
+          "id": "C",
+          "text": "- mit alternativen Kraftstoffen nur langsam gefahren werden kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auch mit alternativen Kraftstoffen kann schnell gefahren werden. Umweltschonend fährst du aber, wenn hohe Geschwindigkeiten verminden werden, wenn du vorausschauend fährst und damit z. B. starkes Abbremsen und erneutes Anfahren vermeidest.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-102",
+      "text": "Was müssen Sie über Katalysatoren wissen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Anschleppen des Fahrzeugs kann es zur Zerstörung oder Beschädigung des Katalysators kommen"
+        },
+        {
+          "id": "B",
+          "text": "Beim Anspringen des Motors nach vielen vergeblichen Startversuchen kann der Katalysator beschädigt werden"
+        },
+        {
+          "id": "C",
+          "text": "Unverbrannter Kraftstoff im Katalysator kann beim Anspringen des Motors keine Schäden verursachen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahrzeuge mit Katalysator sollten Sie nicht abschleppen lassen. Hierdurch kann unverbrannter Kraftstoff in den Katalysator fließen und zu Beschädigungen oder Zerstörung des Katalysators führen. Wenn der Motor des Kfz auch nach mehreren Startversuchen nicht anspringt, können die gleichen Folgen eintreten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-103",
+      "text": "Reifenverschleiß belastet die Umwelt. Wodurch kann die Lebensdauer von Reifen verlängert werden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Vermeiden hoher Geschwindigkeiten"
+        },
+        {
+          "id": "B",
+          "text": "Durch Einhalten des Reifendrucks, der in der Betriebsanleitung angegeben ist"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit Winterreifen (M+S) im Sommer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Verschleiß von Reifen ist am geringsten, wenn die Reifen bestimmungsgemäß verwendet werden. Winterreifen, die im Sommer genutzt werden, verschleißen schneller aufgrund ihrer Materialeigenschaften (Gummimischung). Auch bei zu wenig Luftdruck verschleißen Reifen schneller. Hochtouriges Anfahren mit quietschenden Reifen verschleißt Reifen durch erhöhten Abrieb.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-104",
+      "text": "Wodurch können Sie Kraftstoff sparen, wenn Sie ein Kraftfahrzeug mit automatischem Getriebe fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nach Möglichkeit auf den \"Kick down\" verzichten"
+        },
+        {
+          "id": "B",
+          "text": "Beim Fahren im Stadtverkehr den Wählhebel immer auf die kleinste Fahrstufe stellen"
+        },
+        {
+          "id": "C",
+          "text": "Möglichst oft in der Stufe \"P\" fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Vermeiden Sie den Kick-down. Der hochtourige Beschleunigungsgang verursacht erhöhten Kraftstoffverbrauch. Für einen Überholvorgang oder das Einfädeln auf der Autobahn kann er sinnvoll sein. Mit der Stufe P, Parken, kann ein Fahrzeug mit automatischem Getriebe nicht gefahren werden. Das frühe Schalten in eine höhere Fahrstufe spart ebenfalls Kraftstoff.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-105",
+      "text": "Wodurch können Sie die Umweltbelastung verringern?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Bilden von Fahrgemeinschaften"
+        },
+        {
+          "id": "B",
+          "text": "Durch Meiden von Verkehrsspitzen"
+        },
+        {
+          "id": "C",
+          "text": "Durch Meiden von Straßen mit häufigem Stau"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Um die Umwelt zu entlasten, sollten Sie als Kfz-FahrerIn mit anderen zusammen Fahrgemeinschaften bilden. Die Umwelt wird besonders durch die Anzahl der fahrenden Fahrzeuge belastet. Darüber hinaus sollten Sie eine konzentrierte Ansammlung von mehreren Fahrzeugen wie Staus vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-106",
+      "text": "Wodurch erhöht sich der Kraftstoffverbrauch Ihres Pkws?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Dachgepäckträger oder Skihalter"
+        },
+        {
+          "id": "B",
+          "text": "Durch Mitführen unnötiger Gegenstände"
+        },
+        {
+          "id": "C",
+          "text": "Durch zu hohen Reifendruck"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit einem erhöhten Kraftstoffverbrauch ist zu rechnen, wenn Sie zum Beispiel Dachgepäckträger oder Skihalter anbringen oder Ihr Fahrzeug mit unnötigen Gegenständen beladen. Ein erhöhter Reifendruck spielt für den Kraftstoffverbrauch dagegen keine Rolle, auch wenn er grundsätzlich vermieden werden sollte.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-107",
+      "text": "Wie können Sie Kraftstoff sparen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mindestens Reifendruck nach Betriebsanleitung einhalten"
+        },
+        {
+          "id": "B",
+          "text": "Dachgepäckträger oder Skihalter abnehmen"
+        },
+        {
+          "id": "C",
+          "text": "Nicht im höchsten Gang fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Zusätzliche Beladung und zusätzliche Anbauteile wie etwa Dachgepäckträger oder Skihalter erhöhen den Kraftstoffverbrauch: bei Nichtgebrauch daher abmontieren. Sie sparen Kraftstoff mit einer niedertourigen Fahrweise: den Gang früh hochschalten. Die Klimaanlage auszuschalten, spart Kraftstoff, ebenso die Einhaltung des Reifendrucks gemäß der Herstellervorgaben. Denn zu wenig Reifendruck erhöht den Rollwiderstand.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-108",
+      "text": "Was ist aus Gründen des Umweltschutzes zu unterlassen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Den Motor im Stand warmlaufen lassen"
+        },
+        {
+          "id": "B",
+          "text": "Unnötiges Umherfahren"
+        },
+        {
+          "id": "C",
+          "text": "Laute Musik bei geöffneten Fenstern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Sie sollten den Motor nicht im Stand warmlaufen lassen, nicht mit hoher Drehzahl fahren und nicht unnötig umherfahren. Wird dem nicht folge geleistet, verschwenden Sie Kraftstoff und belasten die Umwelt unnötigerweise. Fahren Sie direkt niedertourig los und versuchen Sie immer eine umweltschonende Fahrweise zu verfolgen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-109",
+      "text": "Welches Verhalten ist umweltbewusst?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Sammelparkplätzen auf öffentliche Verkehrsmittel umsteigen („P + R“)"
+        },
+        {
+          "id": "B",
+          "text": "Fahrgemeinschaften bilden"
+        },
+        {
+          "id": "C",
+          "text": "Bei Stau den Motor abstellen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Vermeiden Sie unnötiges zielloses Herumfahren. Individualverkehr belastet die Umwelt. Bilden Sie, sooft Sie können, Fahrgemeinschaften. Nutzen Sie nach Möglichkeit auch öffentliche Verkehrsmittel. Wenn Sie im Stau stehen, lassen Sie den Motor nicht unnötig laufen, stellen Sie ihn ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-111",
+      "text": "Wie kann Lärm vermindert werden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Fahren im 4. oder 5. Gang in Ortschaften"
+        },
+        {
+          "id": "B",
+          "text": "Durch Fahren mit hoher Motordrehzahl"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit hoher Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Fahren im hohen Drehzahlbereich verursacht mehr Lärm als eine niedertourige Fahrweise. In geschlossenen Ortschaften sollte Sie in einem möglichst hohen Gang fahren, der Motor verursacht dabei den geringsten Lärm. Vermeiden Sie hochtouriges Anfahren mit quietschenden Reifen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-112",
+      "text": "Wozu führt \"Power-Sound\" im Auto?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Signale des übrigen Verkehrs - insbesondere Martinshorn - werden nicht gehört"
+        },
+        {
+          "id": "B",
+          "text": "Auch bei geschlossenen Scheiben werden andere durch Lärm belästigt"
+        },
+        {
+          "id": "C",
+          "text": "Zu Fahrfehlern durch Ablenkung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "„Power-Sound“ im Auto verursacht bei dem/der Kfz-FahrerIn eine Reizüberflutung. Diese Reizüberflutung kann die/den Kfz-FahrerIn ablenken, sodass er/sie wichtige andere Signale eventuell übersieht. Bedenken Sie, dass auch andere Verkehrsteilnehmer durch den Lärm belästigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-113",
+      "text": "Um wie viel Prozent erhöht sich bei Tempo 160 km/h im Allgemeinen der Kraftstoffverbrauch (l/100 km) eines Mittelklasse-Pkw gegenüber der Fahrt mit Richtgeschwindigkeit 130 km/h?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Um bis zu 35 %"
+        },
+        {
+          "id": "B",
+          "text": "Um bis zu 5 %"
+        },
+        {
+          "id": "C",
+          "text": "Um bis zu 10 %"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Gegenüber einer Fahrt mit Richtgeschwindigkeit bei 130 km/h erhöht sich der Kraftstoffverbrauch bei einem Tempo von 160 km/h in der Regel sehr stark. So kann der Verbrauch eines Mittelklasse-Pkw um bis zu 35 % ansteigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-116",
+      "text": "Wann dürfen Sie in eine Umweltzone einfahren?",
+      "points": 4,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn Ihr Pkw mit einer entsprechenden Feinstaub-Plakette gekennzeichnet ist"
+        },
+        {
+          "id": "B",
+          "text": "Wenn Ihr Pkw Sonderrechte in Anspruch nehmen kann"
+        },
+        {
+          "id": "C",
+          "text": "Wenn Ihr Pkw schadstoffarm ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In eine Umweltzone dürfen Sie als Kfz-FahrerIn nur einfahren, wenn an Ihrem Fahrzeug eine gültige Plakette sichtbar angebracht ist, die dem Zusatzzeichen (Rot, Gelb, Grün) mindestens entspricht. Von dieser Regelung ausgenommen sind ausschließlich Fahrzeuge mit Sonderrechten, beispielsweise historische Kfz.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-117",
+      "text": "Wo ist die Feinstaub-Plakette zur Kennzeichnung schadstoffarmer Fahrzeuge anzubringen?",
+      "points": 4,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deutlich sichtbar auf der Innenseite der Windschutzscheibe"
+        },
+        {
+          "id": "B",
+          "text": "Deutlich sichtbar auf der Außenseite der Windschutzscheibe"
+        },
+        {
+          "id": "C",
+          "text": "Deutlich sichtbar auf der Innenseite der Heckscheibe"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie als Kfz-FahrerIn müssen dafür sorgen, dass die Feinstaub-Plakette zur Kennzeichnung Ihres schadstoffarmen Fahrzeugs gut sichtbar an der Innenseite der Windschutzscheibe Ihres Fahrzeugs angebracht ist.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-118",
+      "text": "Dürfen Sie mit Ihrem Pkw mit Ottomotor ohne Feinstaub-Plakette in eine so gekennzeichnete Umweltzone einfahren?",
+      "points": 4,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nein, weil mein Pkw nicht mit einer Feinstaub-Plakette gekennzeichnet ist"
+        },
+        {
+          "id": "B",
+          "text": "Ja, weil ich einen Pkw mit geregeltem Katalysator fahre"
+        },
+        {
+          "id": "C",
+          "text": "Ja, weil nur Dieselfahrzeuge von diesem Verbot betroffen sind"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ohne sichtbar angebrachte Feinstaub-Plakette dürfen Kfz-FahrerInnen mit einem Pkw mit Ottomotor nicht in eine Umweltzone einfahren. Die Plakette an dem Fahrzeug muss gültig sein und mindestens dem Zusatzzeichen (Rot, Gelb, Grün) entsprechen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.5.01-118.png",
+      "video": null
+    },
+    {
+      "id": "2.5.01-119",
+      "text": "Wo können Sie Ihr Gepäck unterbringen, um den Kraftstoffverbrauch nicht unnötig zu erhöhen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Im Kofferraum"
+        },
+        {
+          "id": "B",
+          "text": "Hinter den Vordersitzen"
+        },
+        {
+          "id": "C",
+          "text": "Auf dem Dachgepäckträger"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Gepäck sollten Sie nach Möglichkeit ausschließlich im Kofferraum Ihres Kfz verstauen. Die Benutzung eines Dachgepäckträgers zur Beförderung von Gepäck hat einen stark erhöhten Luftwiderstand zur Folge, was oft zu deutlichem Anstieg des Kraftstoffverbrauchs führt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-120",
+      "text": "Reifenabrieb belastet die Umwelt. Wie können Sie diese Belastung verringern?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch vorausschauendes Fahren"
+        },
+        {
+          "id": "B",
+          "text": "Durch die regelmäßige Überprüfung des Reifenfülldrucks entsprechend den Herstellervorgaben"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit Winterreifen im Sommer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Um den Reifenabrieb zu verringern (also die Abnutzung der Reifen) kannst du vorausschauend Fahren und durch regelmäßige Überprüfung des Reifendrucks entsprechend den Herstellervorgaben die Beladung deutlich minimieren. Kleinerer Abrieb = geringere Belastung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-121",
+      "text": "Welche Maßnahme kann zum umweltschonenden Fahren beitragen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Teilnahme an einem fahrpraktischen Training zur kraftstoffsparenden Fahrweise"
+        },
+        {
+          "id": "B",
+          "text": "Die Nutzung von Fahrzeugen mit Elektroantrieb"
+        },
+        {
+          "id": "C",
+          "text": "Die Bildung von Fahrgemeinschaften"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bilden Sie falls möglich Fahrgemeinschaften um die Fahrzeugmenge im Straßenverkehr zu senken. Ein Training kann helfen sich eine kraftstoffsparende Fahrweise anzueignen. Fahrzeuge mit Elektroantrieb stoßen keine Schadstoffe aus, daher sind Sie besonders umweltfreundlich bei der Fahrt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-122",
+      "text": "Wodurch können Sie Kraftstoff sparen, wenn Sie einen Pkw mit Automatikgetriebe fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Anfahren auf den \"Kick-down\" verzichten"
+        },
+        {
+          "id": "B",
+          "text": "Beim Fahren den Eco-Modus nutzen"
+        },
+        {
+          "id": "C",
+          "text": "Beim Befahren eines Gefälles den Motor ausschalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Unnötig starkes beschleunigen führt zu hohem Kraftstoffverbrauch. Fahren Sie falls vorhanden im Eco-Modus. Das Auto passt das Beschleunigungsverhalten an um den Kraftstoffverbrauch zu senken.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-123",
+      "text": "Welche Pkws, die eine ausgewiesene Umweltzone befahren, unterliegen der Kennzeichnungspflicht mit einer Feinstaub-Plakette?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Ottomotor"
+        },
+        {
+          "id": "B",
+          "text": "- Dieselmotor"
+        },
+        {
+          "id": "C",
+          "text": "- Elektromotor"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Grundsätzlich unterliegen alle Pkws in einer ausgewiesenen Umweltzone der Kennzeichnungspflicht mit einer Feinstaub-Plakette. Ausgenommen sind z. B. Arbeitsmaschinen, Krankenwagen, etc.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-124",
+      "text": "Welche Auswirkung kann das Hören sehr lauter Musik beim Autofahren haben?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Signale des übrigen Verkehrs werden nicht wahrgenommen"
+        },
+        {
+          "id": "B",
+          "text": "Andere Verkehrsteilnehmer werden belästigt"
+        },
+        {
+          "id": "C",
+          "text": "Die Reaktionsfähigkeit des Fahrers verbessert sich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch zu laute Musik können Warnsignale und Ähnliches anderer Verkehrsteilnehmer überhört werden. Zu laute Musik kann auch die anderen Verkehrsteilnehmer belästigen, stören und dadurch gefährden.\nDie Reaktionsfähigkeit des Fahrers verschlechtert sich durch die laute Musik und die dadurch entstehende geringere Konzentrationsfähigkeit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-125",
+      "text": "Der Luftwiderstand wirkt sich auf den Kraftstoffverbrauch eines Fahrzeugs aus. Was beeinflusst den Luftwiderstand am stärksten?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die gefahrene Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Die Anzahl der Mitfahrer"
+        },
+        {
+          "id": "C",
+          "text": "Die Profiltiefe der Reifen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Umso schneller du fährst, umso stärker wird der Luftwiderstand, der auf dein Fahrzeug einwirkt. Eine Verdopplung der Geschwindigkeit führt zu 4-fachem Luftwiderstand. \nDie Profiltiefe der Reifen wirkt sich zum größten Teil auf den Rollwiderstand der Reifen aus.\nDie Anzahl der Mitfahrer wirkt sich nicht direkt auf den Luftwiderstand aus.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-126",
+      "text": "Sie müssen wegen geschlossener Bahnschranken warten. Wie können Sie dabei die Umwelt schonen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Nutzung der Start-Stopp-Automatik"
+        },
+        {
+          "id": "B",
+          "text": "Durch Einlegen des ersten Gangs"
+        },
+        {
+          "id": "C",
+          "text": "Durch Betätigen der Handbremse"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Durch die Nutzung der Start-Stopp-Automatik kann das Fahrzeug während des Wartens ausgestellt und mit wenig Aufwand sofort wieder angestellt werden. Somit kann der Schadstoffausstoß minimiert werden. Das Betätigen der Handbremse hat keinen Einfluss auf den Schadstoffausstoß des Fahrzeugs.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-127",
+      "text": "Was erhöht die Reichweite eines Elektrofahrzeugs?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nutzung einer hohen Stufe der Energierückgewinnung (Rekuperation)"
+        },
+        {
+          "id": "B",
+          "text": "Reduzierung der Heiztemperatur"
+        },
+        {
+          "id": "C",
+          "text": "Kurzes starkes Beschleunigen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bremst du nur leicht, wird per Elektromotor gebremst und die Bewegungsenergie zurückgewonnen. Bremst du stärker, wird mechanisch gebremst und die Bewegungsenergie wird nicht zurückgewonnen. Durch eine hohe Rekuperationsstufe verhält sich ein E-Auto wie ein Verbrenner, dadurch musst du eventuell weniger stark, also mechanisch, bremsen. Die Heizung beim E-Auto wird direkt von der Batterie gespeist und verbraucht somit Energie, die man auch zum Fahren verwenden könnte.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-128",
+      "text": "Welchen Vorteil bietet die Rekuperation an einem Elektrofahrzeug?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- erhöht die Reichweite"
+        },
+        {
+          "id": "B",
+          "text": "- schont die Betriebsbremsanlage"
+        },
+        {
+          "id": "C",
+          "text": "- ermöglicht eine Energierückgewinnung aus dem Bremsvorgang"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Rekuperation steht für „Rückgewinnung“ . So wie elektrische Energie in Bewegungsenergie umgewandelt wurde, wird beim Bremsen die Bewegungsenergie wieder in elektrische Energie verwandelt, die dann zurück in den Akku eingespeist wird. Dadurch erhöht sich die Reichweite des Elektrofahrzeugs.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-129",
+      "text": "Ihr Pkw ist mit einer Start-Stopp-Automatik ausgerüstet. Welchen Vorteil bietet die Nutzung dieses Fahrzeugsystems für den Umweltschutz?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- den Kraftstoffverbrauch"
+        },
+        {
+          "id": "B",
+          "text": "- die Lärmbelastung"
+        },
+        {
+          "id": "C",
+          "text": "- den Reifenabrieb"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Start-Stopp-Automatik schaltet selbstständig den Motor ab, wenn du zum Stehen kommst und startet ihn wieder, sobald du eines der Pedale betätigst. \nDurch das Abschalten des Motors, etwa an Ampeln, kann durch die Start-Stopp-Automatik die Lärmbelastung reduziert werden und außerdem kann bis zu 15% Kraftstoff eingespart werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-130",
+      "text": "Sie fahren einen Pkw mit der Antriebsart Plug-in-Hybrid. Wie können Sie den Kraftstoffverbrauch optimieren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich lade die Batterie regelmäßig am Stromnetz auf"
+        },
+        {
+          "id": "B",
+          "text": "Ich nutze durch meine Fahrweise den elektrischen Antrieb"
+        },
+        {
+          "id": "C",
+          "text": "Ich nutze ausschließlich die Rekuperation zum Aufladen der Batterie"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch eine vorausschauende Fahrweise – mit sanftem Beschleunigen und rechtzeitigem Abbremsen – kannst du den Kraftstoffverbrauch deines Fahrzeugs reduzieren. Bei dieser Fahrweise kommt häufig der Elektromotor zum Einsatz. \nEbenso reduzierst du durch das regelmäßige Aufladen der Batterie deines Plug-in-Hybrids am Stromnetz, den Kraftstoffverbrauch oder minimierst ihn durch rein elektrisches Fahren.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

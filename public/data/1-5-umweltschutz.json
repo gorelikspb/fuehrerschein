@@ -1,0 +1,1309 @@
+{
+  "id": "1-5-umweltschutz",
+  "title": "Umweltschutz",
+  "themeNumber": "Thema 1.5.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.5. Umweltschutz",
+  "questionCount": 45,
+  "questions": [
+    {
+      "id": "1.5.01-001",
+      "text": "Worauf müssen Sie im Interesse der Umweltschonung achten?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Längeres Laufenlassen des Motors im Stand vermeiden"
+        },
+        {
+          "id": "B",
+          "text": "Unnützes Hin- und Herfahren vermeiden"
+        },
+        {
+          "id": "C",
+          "text": "Häufig mit hoher Drehzahl fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Im Interesse der Umweltschonung müssen Sie als Kfz-FahrerIn auf Folgendes achten: 1. Vermeiden Sie unnütze Fahrten; 2. Betreiben Sie den Motor gleichmäßig mit mittlerer Drehzahl; 3. Stellen Sie den Motor bei längerem Leerlauf - ab etwa einer Minute - ab. Generell gilt: Den Motor im Leerlauf warm laufen zu lassen, führt zu rascherem Verschleiß des Motors und vergeudet Energie. Sie sollten den Motor daher im mittleren Drehzahlbereich warm fahren und möglichst auch in diesem Bereich bleiben. Hohe Motordrehzahlen führen zu erhöhtem Kraftstoffverbrauch und belasten daher die Umwelt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-003",
+      "text": "Was muss regelmäßig gewartet werden, um zu hohen Kraftstoffverbrauch und übermäßigen Schadstoffausstoß zu vermeiden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Motor-Luftfilter"
+        },
+        {
+          "id": "B",
+          "text": "Vergaser oder Einspritzanlage"
+        },
+        {
+          "id": "C",
+          "text": "Zündanlage"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Kraftstoffverbrauch eines Fahrzeugs sollte so gering wie möglich sein. Als Kfz-FahrerIn sollten Sie deshalb alle Bauteile Ihres Kfz regelmäßig überprüfen und warten lassen, die für den Kraftstoffverbrauch von Bedeutung sind. Dies sind beispielsweise die Zünd- und Einspritzanlage sowie der Motor-Luftfilter und der Vergaser.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-004",
+      "text": "Wie wirkt sich eine wesentliche Unterschreitung des empfohlenen Reifendrucks aus?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Kraftstoffverbrauch nimmt zu"
+        },
+        {
+          "id": "B",
+          "text": "Der Reifenabrieb nimmt zu"
+        },
+        {
+          "id": "C",
+          "text": "Der Schadstoffausstoß nimmt ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein zu niedriger Luftdruck im Reifen führt zu stark steigendem Kraftstoffverbrauch. Der Kraftaufwand, der nötig ist, um den Reifen am Laufen zu halten, ist erheblich höher als bei korrekt eingestelltem Reifendruck. Dies führt zu höherem Verschleiß am Reifen sowie erhöhtem Kraftstoffverbrauch und schadet der Umwelt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-005",
+      "text": "Wann sollten Sie den Motor abstellen, um Kraftstoff zu sparen und die Umweltbelastung zu vermindern?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn Sie in einem Verkehrsstau länger warten müssen"
+        },
+        {
+          "id": "B",
+          "text": "Wenn Sie vor Bahnübergängen oder Baustellen warten müssen"
+        },
+        {
+          "id": "C",
+          "text": "Wenn Sie bei einem „STOP“-Schild anhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Um einen unnötigen Benzinverbrauch zu vermeiden, ist der Motor in gewissen Situationen abzustellen. Dazu gehören beispielsweise die Momente in Staus oder vor Bahnübergängen. Zwar ist ein erhöhter Verbrauch beim Anlassen gegeben, welcher jedoch ab einer Stillstandzeit von einer Minute wieder ausgeglichen ist. Ein Abstellen des Motors bei einem Stoppschild sollten Sie hingegen nicht machen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-006",
+      "text": "Ihr Kraftfahrzeug verliert etwas Öl. Wie viel Trinkwasser kann bereits durch einen Tropfen Öl ungenießbar werden?",
+      "points": 4,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "600 Liter"
+        },
+        {
+          "id": "B",
+          "text": "50 Liter"
+        },
+        {
+          "id": "C",
+          "text": "1 Liter"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Einen Ölverlust am Kraftfahrzeug sollten Sie dringend vermeiden. Denn bereits ein einziger Tropfen Öl kann bis zu 600 Liter Wasser verunreinigen und ungenießbar machen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-007",
+      "text": "Was soll man beim Tanken beachten?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keine Kraftstoffdämpfe einatmen"
+        },
+        {
+          "id": "B",
+          "text": "Nicht nachtanken, wenn der Tank voll ist und die Zapfpistole abgeschaltet hat"
+        },
+        {
+          "id": "C",
+          "text": "Möglichst randvoll tanken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Einatmen von Kraftstoffdämpfen ist gesundheitsschädlich. Achten Sie daher beim Tanken auf einen korrekten Gebrauch der Zapfsäule und achten Sie auf etwaige Mängel. Wenn der Tank voll ist, sollte die Automatik abgeschaltet werden. Das verhindert das Überlaufen von Benzin oder Diesel. Außerdem muss etwas Luft im Tank verbleiben, damit der Kraftstoff sich ausdehnen kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-008",
+      "text": "An einem Fahrzeug sind Motor und Schalldämpfer \"frisiert\". Welche Folgen kann das haben?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Lärmbelästigung nimmt zu"
+        },
+        {
+          "id": "B",
+          "text": "Der Schadstoffausstoß wird größer"
+        },
+        {
+          "id": "C",
+          "text": "Der Kraftstoffverbrauch sinkt erheblich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein frisierter Motor und Schalldämpfer sorgen für eine erhöhte Lärmbelästigung. Außerdem verbraucht das Fahrzeug mehr Kraftstoff. Zudem wird der Schadstoffausstoß erhöht und belastet die Umwelt. Im schlimmsten Fall kann der/die Kfz-FahrerIn mit einem Entzug der Betriebserlaubnis rechnen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-009",
+      "text": "Wie kann man den Lärm verringern, der durch ein Fahrzeug verursacht wird?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Fahren im niedertourigen Drehzahlbereich"
+        },
+        {
+          "id": "B",
+          "text": "Durch Verwenden von Reifen mit grobstolligem Profil"
+        },
+        {
+          "id": "C",
+          "text": "Durch Entfernen des Luftfilters"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Im niedertourigen Drehzahlbereich läuft der Motor leiser als in hochtourigen Bereichen. Grobstollige Bereifung und das Fahren ohne Luftfilter sind ebenfalls Lärmverursacher. Eine Fahrweise überwiegend im niedertourigen Bereich spart Kraftstoff, ist umweltschonend und am leisesten. Die Mindestrehzahlen müssen jedoch eingehalten werden, denn sonst läuft der Motor unruhig, ruckelt und stottert. Je niedriger die Drehzahl ist, bei der der Motor noch rund läuft, ohne zu Ruckeln, desto geringer ist die Lärmverursachung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-010",
+      "text": "Wo können Altöle, Schmierstoffe und Fahrzeugbatterien einer fachgerechten Entsorgung zugeführt werden?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Wertstoffhöfen"
+        },
+        {
+          "id": "B",
+          "text": "In Kfz-Werkstätten"
+        },
+        {
+          "id": "C",
+          "text": "Im Hausmüll"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Altöle, Schmierstoffe und Fahrzeugbatterien können im Wertstoffhof oder über die Kfz-Werkstatt fachgerecht entsorgt werden. Niemals dürfen diese Stoffe über den Hausmüll entsorgt werden. Es handelt sich um Sondermüll.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-011",
+      "text": "Wie kann man bei gleichbleibender Geschwindigkeit kraftstoffsparend fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Benutzung einer Geschwindigkeitsregelanlage"
+        },
+        {
+          "id": "B",
+          "text": "Durch Fahren im niedertourigen Drehzahlbereich"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren im hochtourigen Drehzahlbereich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei gleichbleibender Geschwindigkeit fahren Sie durch folgende Maßnahmen kraftstoffsparend: 1. durch gleichmäßiges Fahren im niedertourigen Drehzahlbereich; 2. durch Verwendung des Tempomats. Der niedertourige Drehzahlbereich befindet sich knapp oberhalb der Mindestdrehzahl, die der Motor für seine optimale Leistung benötigt. Fahren Sie darunter, ruckelt der Motor; fahren Sie darüber, erhöht sich im hohen Drehzahlbereich mit der Motorleistung der Kraftstoffverbrauch. Bei gleichmäßigem Fahren im niedertourigen Drehzahlbereich läuft der Motor rund und mit niedrigem Kraftstoffverbrauch. Der Tempomat, eine Geschwindigkeitsregelanlage, ermöglicht eine gleichmäßige Fahrweise und entlastet den/die Kfz-FahrerIn.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-012",
+      "text": "In welchem Drehzahlbereich hat der Motor den geringeren Kraftstoffverbrauch?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Im niedertourigen Drehzahlbereich"
+        },
+        {
+          "id": "B",
+          "text": "Im hochtourigen Drehzahlbereich"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein Motor verbraucht am wenigsten Kraftstoff im Drehzahlbereich knapp oberhalb der Mindestdrehzahl. Das ist der sogenannte niedertourige Drehzahlbereich. Beim Fahren im niedertourigen Bereich sollte die Drehzahl immer über der Leerlaufdrehzahl liegen. Ein Motor unterhalb der Mindestdrehzahl läuft unruhig, ruckelt, stottert oder geht aus. Als Faustregel gilt: Je niedriger die Drehzahl ist, bei der der Motor noch ohne zu ruckeln läuft, desto mehr Kraftstoff kann gespart werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-013",
+      "text": "Sie müssen wegen geschlossener Bahnschranken warten. Wodurch können Sie nun die Umwelt schonen und Kraftstoff sparen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Abstellen des Motors"
+        },
+        {
+          "id": "B",
+          "text": "Durch Ausschalten der Start-Stopp-Automatik"
+        },
+        {
+          "id": "C",
+          "text": "Durch Schalten in den Leerlauf"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Beim Warten vor geschlossenen Bahnschranken wird empfohlen, den Motor abzuschalten. Einerseits sparen Sie so Kraftstoff und somit auch Geld, andererseits ist ein abgeschalteter Motor umweltschonend. Ein reines Schalten in den Leerlauf ist nicht zum empfehlen, da auch im Leerlauf der Motor nicht ausgeht und weiterhin Kraftstoff verbraucht wird.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-014",
+      "text": "Welche Maßnahmen tragen zur Umweltschonung bei?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Leichtlaufreifen"
+        },
+        {
+          "id": "B",
+          "text": "- Leichtlaufölen"
+        },
+        {
+          "id": "C",
+          "text": "- Klimaanlagen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Klimaanlage ausgeschaltet lassen spart Kraftstoff. Leichtlaufreifen sind für einen geringeren Rollwiderstand konstruiert und können Kraftstoff sparen. Leichtlauföle sind Synthetik-Öle mit verbessertem Fließverhalten, der sogenannten Viskosität. Dadurch wird der Motor schneller und besser durchölt und die Reibungsminderung verbessert. Auch das führt zu einer spürbaren Einsparung von Kraftstoff. Es sollten nur die Öle verwendet werden, die vom Motoren-/Fahrzeughersteller für den jeweiligen Motor zugelassen sind, um Motorschäden zu vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-015",
+      "text": "Was sollten Sie tun, um die Umwelt zu schonen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- bei starkem Rauch aus der Auspuffanlage das Kraftfahrzeug überprüfen lassen"
+        },
+        {
+          "id": "B",
+          "text": "- bei längerem Warten den Motor abstellen"
+        },
+        {
+          "id": "C",
+          "text": "- beim Fahren möglichst den oberen Drehzahlbereich ausnutzen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie sollten das Fahren mit hohen Drehzahlen vermeiden. Wenn das Kraftfahrzeug Rauch entwickelt, sollten Sie das in einer Werkstatt überprüfen und beheben lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-016",
+      "text": "Wozu kann eine regelmäßige Fahrzeugwartung beitragen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Den Kraftstoffverbrauch gering zu halten"
+        },
+        {
+          "id": "B",
+          "text": "Die Emissionswerte gering zu halten"
+        },
+        {
+          "id": "C",
+          "text": "Die Verkehrssicherheit zu gewährleisten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die regelmäßige Fahrzeugwartung trägt zur gewährleistung der Verkehrssicherheit, zu geringem Kraftstoffverbrauch und zu niedrigen Emissionswerten bei.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-017",
+      "text": "In welcher Situation sollten Sie den Motor abstellen, um Kraftstoff zu sparen und die Umweltbelastung zu verringern?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- im Stau absehbar länger warten muss"
+        },
+        {
+          "id": "B",
+          "text": "- an einem beschrankten Bahnübergang warten muss"
+        },
+        {
+          "id": "C",
+          "text": "- an einem „Stop“-Schild anhalten muss"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vor einem beschrankten Bahnübergang oder wenn du dich in einem Verkehrsstau befindet, solltest du den Motor abstellen, da du die Länge der Wartezeit nicht genau abschätzen kannst. So kannst du die Umweltbelastung reduzieren und gleichzeitig Kraftstoff sparen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-102",
+      "text": "Wodurch kann beim Fahren eine vermeidbare Lärmbelästigung entstehen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch unnötig starkes Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Durch schadhafte Schalldämpfer"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit niedriger Drehzahl"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie mit hoher Drehzahl fahren oder Ihr Schalldämpfer defekt ist, dann ist die Lärmbelästigung erhöht. Das Fahren mit niedriger Drehzahl reduziert zudem den Kraftstoffverbrauch. Der defekte Schalldämpfer sollte in einer Werkstatt repariert werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-103",
+      "text": "Wie soll man schalten, um besonders umweltbewusst und sparsam zu fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "So früh wie möglich hochschalten"
+        },
+        {
+          "id": "B",
+          "text": "So spät wie möglich zurückschalten"
+        },
+        {
+          "id": "C",
+          "text": "Gänge bis in den oberen Drehzahlbereich ausfahren und dann schalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Umweltschonendes Schalten ist früh hoch- und spät zurückschalten. Fahren Sie die Gänge nicht in den oberen Drehzahlen aus, denn dabei ist der Kraftstoffverbrauch am höchsten. Anfahren sollten Sie im ersten Gang und dann möglichst direkt in den zweiten Gang schalten. In manchen Verkehrssituationen, wie auf dem Beschleunigungsstreifen der Autobahn oder beim Überholvorgang, ist es jedoch erforderlich, die Gänge auszufahren. Dann sollten Sie dies auch tun.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-104",
+      "text": "Was ist für umweltschonendes und energiesparendes Fahren wichtig?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kraftstoffverbrauch regelmäßig kontrollieren"
+        },
+        {
+          "id": "B",
+          "text": "Regelmäßig Motoreinstellung überprüfen lassen"
+        },
+        {
+          "id": "C",
+          "text": "Regelmäßige Motorwäsche, mindestens viermal im Jahr"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein geringer Kraftstoffverbrauch definiert umweltschonendes und energiesparendes Fahren. Dazu ist die regelmäßige Überprüfung der Verbrauchswerte erforderlich, um die Motoreinstellungen zu optimieren und Fehler rechtzeitig zu erkennen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-106",
+      "text": "Wodurch wird Kraftstoff verschwendet und die Umwelt belastet?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch hektische Fahrweise"
+        },
+        {
+          "id": "B",
+          "text": "Wenn beim Warten vor Ampeln \"mit dem Gas gespielt\" wird"
+        },
+        {
+          "id": "C",
+          "text": "Wenn bergab im großen Gang gefahren wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie hektisch fahren, also ständig zwischen Bremsen und Beschleunigen wechseln und „mit dem Gas spielen“, verbraucht Ihr Fahrzeug unnötig viel Kraftstoff. Besonders beim starken Beschleunigen wird viel Energie benötigt. Beim Fahren bergab im hohen Gang belasten Kfz-FahrerInnen die Bremsen unnötig stark. Zu einem erhöhten Kraftstoffverbrauch kommt es hierdurch jedoch nicht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-108",
+      "text": "Was weist auf überhöhten Kraftstoffverbrauch wegen starkem Verschleiß oder falscher Einstellung des Motors hin?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starker, dunkler Auspuffqualm"
+        },
+        {
+          "id": "B",
+          "text": "Kondenswasser, das aus dem Auspuff kommt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Auf erhöhtem Kraftstoffverbrauch weist das dunkle Qualmen eines Auspuffes hin. Es kann ursächlich mit einem Defekt der Motorsteuerung zusammenhängen. Sie sollten auf jeden Fall eine Werkstatt aufsuchen. Kondenswasser, welches aus dem Auspuff tropft, oder weißer Wasserdampf bei kalter Witterung sind hingegen normal.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-109",
+      "text": "Welche Fahrweise führt zu hohem Kraftstoffverbrauch?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rasantes Anfahren und unnötiges Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Volles Ausfahren aller Gänge"
+        },
+        {
+          "id": "C",
+          "text": "Fahren mit hoher Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Hohe Geschwindigkeiten erfordern durch den erhöhten Luftwiderstand mehr Leistung. In der Folge steigt der Kraftstoffverbrauch. Fährt der/die Kfz-FahrerIn rasant an oder beschleunigt häufig unnötig, führt auch diese Fahrweise zu einem gesteigerten Verbrauch. Gleiches gilt, wenn die Gänge voll ausgefahren werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-110",
+      "text": "Wie fahren Sie umweltbewusst?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rechtzeitig Gas wegnehmen und Schwung ausnutzen, wenn die nächste Ampel „Rot“ zeigt"
+        },
+        {
+          "id": "B",
+          "text": "Unnötiges Beschleunigen und unnötiges Abbremsen vermeiden"
+        },
+        {
+          "id": "C",
+          "text": "Bei „Grün“ immer voll beschleunigen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vermeiden Sie ständiges Beschleunigen und Bremsen. Das Beschleunigen verbraucht unnötig viel Kraftstoff und kann beispielsweise vor roten Ampeln vermieden werden, indem man rechtzeitig Gas wegnimmt. Maximale Beschleunigung führt zu einem hohen Schadstoffausstoß und einer hohen Lärmbelästigung sowie Umweltbelastung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-112",
+      "text": "Wie lassen sich mit weniger Kraftstoff mehr Kilometer fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "So beschleunigen, dass rasch der höchstmögliche Gang erreicht wird"
+        },
+        {
+          "id": "B",
+          "text": "Vorausschauend fahren, um häufiges Beschleunigen und Bremsen zu vermeiden"
+        },
+        {
+          "id": "C",
+          "text": "Alle Gänge voll ausfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Am wenigsten Kraftstoff verbraucht man im niedertourigen Bereich. Durch rechtzeitiges Hochschalten lässt sich verbrauchsintensives Fahren mit hohen Drehzahlen vermeiden. Vorausschauendes Fahren spart Kraftstoff, da man frühzeitig vom Gas gehen und das Fahrzeug mit dem bestehenden Schwung ausrollen lassen kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-114",
+      "text": "Was kann dazu beitragen, Kraftstoff zu sparen und die Umweltbelastung zu verringern?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schon beim Kauf eines Kraftfahrzeugs auf den Kraftstoffverbrauch achten"
+        },
+        {
+          "id": "B",
+          "text": "Durch vorausschauende Fahrweise zu einem gleichmäßigen Verkehrsfluss beitragen"
+        },
+        {
+          "id": "C",
+          "text": "Nach Möglichkeit öffentliche Verkehrsmittel benutzen, mit dem Fahrrad fahren oder zu Fuß gehen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der/die Kfz-FahrerIn kann schon vor dem Kauf eines Pkw überprüfen, welches Modell wenig Kraftstoff verbraucht. Zudem trägt eine sparsame Fahrweise ebenso zu Einsparungen bei.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-115",
+      "text": "Was können Sie tun, um die Umwelt zu schonen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Kurzstreckenfahrten"
+        },
+        {
+          "id": "B",
+          "text": "- Fahrten mit Vollgas"
+        },
+        {
+          "id": "C",
+          "text": "- Fahrten in überfüllte Innenstädte"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die beste Methode, die Umwelt zu schonen, ist, weniger zu fahren. Alle Fahrten, die nicht notwendig sind, sollten Sie besser vermeiden. Bestimmte Fahrweisen verbrauchen besonders viel Kraftstoff: Kurzstreckenfahrten, vor allem, wenn der Motor noch kalt ist, Stop-and-go-Verkehr z. B. in überfüllten Innenstädten und die Parkplatzsuche. Hinzukommt, dass in Gegenden mit viel Verkehr die Smog-Gefahr durch jedes Schadstoffe ausstoßende Fahrzeug steigt. Wenn Sie mit Vollgas fahren, verursachen Sie nicht nur Lärm, sondern Ihr Kraftstoffverbrauch erhöht sich unverhältnismäßig stark. Sobald Sie aber nur 20% unter der Höchstgeschwindigkeit bleiben, vermindern Sie Ihren Kraftstoffverbrauch um etwa 40%. Auch mit Fahrgemeinschaften tun Sie Gutes für die Umwelt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-116",
+      "text": "Wodurch erreichen Sie einen günstigen Kraftstoffverbrauch und geringen Schadstoffausstoß?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch richtigen Reifendruck"
+        },
+        {
+          "id": "B",
+          "text": "Durch eine ausgeglichene Fahrweise in niedrigen Drehzahlbereichen"
+        },
+        {
+          "id": "C",
+          "text": "Durch volles Ausfahren aller Gänge"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bevor Sie losfahren, sollten Sie darauf achten, dass der richtige Reifendruck eingestellt ist. Alle wichtigen Informationen hierzu finden Sie in der Betriebsanleitung Ihres Fahrzeugs. Ist der Reifeninnendruck zu hoch oder zu niedrig, kommt es zu einem erhöhten Schadstoffausstoß. Auch eine unausgeglichene Fahrweise kann zu einem hohen Kraftstoffverbrauch führen. Deshalb sollten Sie vermeiden, die Gänge \"voll auszufahren\": Statt bis an die obere Drehzahlgrenze zu beschleunigen und erst dann zu schalten, sollten Sie bereits im unteren oder mittleren Drehzahlbereich hochschalten. So verbrauchen Sie weniger Sprit und verringern gleichzeitig den Schadstoffausstoß Ihres Pkw.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-117",
+      "text": "Andere Verkehrsteilnehmer machen Sie auf anhaltend starkes Qualmen Ihres Auspuffs aufmerksam. Was müssen Sie tun?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Fahrzeug umgehend überprüfen lassen"
+        },
+        {
+          "id": "B",
+          "text": "Frühzeitig zurückschalten"
+        },
+        {
+          "id": "C",
+          "text": "Frühzeitig hochschalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sollten eine Werkstatt aufsuchen, welche den Schaden überprüft. Denn das starke Qualmen ist ein Zeichen dafür, dass der Motor beziehungsweise die Kraftstoffanlage einen Defekt hat. Zudem sind die austretenden Gase umweltschädlich und der Qualm kann die Sicht der anderen Verkehrsteilnehmer behindern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-118",
+      "text": "Warum ist die Nutzung von Leichtlaufölen vorteilhaft?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- weniger Reibung im Motor erzeugen"
+        },
+        {
+          "id": "B",
+          "text": "- den Kraftstoffverbrauch verringern"
+        },
+        {
+          "id": "C",
+          "text": "- im Hausmüll entsorgt werden können"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Leichtlauföle zeichnen sich durch ein besseres Fließverhalten aus. Es handelt sich dabei um synthetische Öle, die durch ihre verbesserte Viskosität die Reibung im Motor mindern und die Ölung optimieren. Dadurch wird Kraftstoff gespart. Bei der Verwendung der Leichtlauföle ist auf die Freigabe durch den Hersteller des Motors bzw. Fahrzeugs zu achten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-119",
+      "text": "Was sollten Sie nach dem Starten des Fahrzeuges tun?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- unverzüglich losfahren"
+        },
+        {
+          "id": "B",
+          "text": "- im niedertourigen Drehzahlbereich fahren"
+        },
+        {
+          "id": "C",
+          "text": "- den Motor im Stand warmlaufen lassen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Nach dem Starten des Pkw sollten Sie direkt im niedertourigen Drehzahlbereich losfahren. Den Motor im Stand warmlaufen zu lassen, ist verboten und verschwendet Kraftstoff. Im niedertourigen Drehzahlbereich kann der Motor schonend warm gefahren werden. Direkt hochtourig zu fahren, ist nicht gut für den Motor. Generell verbraucht der Motor hochtourig mehr Benzin. Bei zu niedrigen Drehzahlen ruckelt und stottert der Motor. Der Verbrauch eines Motors ist im Drehzahlbereich knapp oberhalb der Mindestdrehzahl am geringsten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-120",
+      "text": "Wie können Sie Kraftstoff sparen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- entbehrliche Dachaufbauten entferne"
+        },
+        {
+          "id": "B",
+          "text": "- vorausschauend fahre"
+        },
+        {
+          "id": "C",
+          "text": "- ganzjährig mit Winterreifen fahre"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie können Kraftstoff sparen, indem Sie: 1. gleichmäßig und vorausschauend fahren und dabei hohe Drehzahlen vermeiden; 2. nicht verwendete Dachaufbauten entfernen, da diese mit dem Luftwiderstand den Kraftstoffverbrauch erhöhen; 3. in der warmen Jahreszeit Winter- gegen Sommerreifen tauschen. Gleichmäßiges Fahren bedeutet, unnötiges Beschleunigen und Abbremsen zu vermeiden. Indem Sie beispielsweise langsam auf eine rote Ampel zurollen, nutzen Sie den Restschwung, falls diese bereits Grün anzeigt, wenn Sie sie erreichen. Lediglich Gas geben zu müssen, spart im Vergleich zum Anfahren aus dem Stand Kraftstoff.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-121",
+      "text": "Wie können Sie den Reifenverschleiß gering halten?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verzichte möglichst auf starkes Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Ich kontrolliere regelmäßig den Reifenfülldruck"
+        },
+        {
+          "id": "C",
+          "text": "Ich verwende ganzjährig Winterreifen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Fahren mit Winterreifen bei nicht winterlicher Witterung führt zu erhöhtem Reifenverschleiß. Starkes Beschleunigen ist mit erhöhtem Abrieb verbunden. Der vom Fahrzeughersteller empfohlene Reifenfülldruck ist einzuhalten. Ein zu geringer Reifendruck erhöht den Reifenverschleiß erheblich. Bei zu wenig Luftdruck wird bei jeder Umdrehung der Reifen stärker verformt als bei korrektem Reifendruck. Dabei reiben (walken) die Gewebeschichten der Reifen aneinander. Es kann Wärme entstehen, die den Reifen irreparabel schädigt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-122",
+      "text": "Welche Kraftfahrzeuge sind vom Verkehrsverbot für „Umweltzonen“ grundsätzlich ausgenommen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land- und forstwirtschaftliche Zugmaschinen"
+        },
+        {
+          "id": "B",
+          "text": "Krankenwagen im Einsatz"
+        },
+        {
+          "id": "C",
+          "text": "Alle Kraftfahrzeuge der Umweltzonenbewohner"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Verkehrsverbot für \"Umweltzonen\" gilt grundsätzlich nicht für Krankenwagen, die sich im Einsatz befinden. Ebenso davon nicht betroffen sind Zugmaschinen aus der Land- und Forstwirtschaft.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-123",
+      "text": "Wann ist es sinnvoll, einen Verbrennungsmotor abzustellen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei längerem Warten an Bahnübergängen"
+        },
+        {
+          "id": "B",
+          "text": "Beim Be- und Entladen des Fahrzeugs"
+        },
+        {
+          "id": "C",
+          "text": "Beim Halten an Kreuzungen mit Stoppschild"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die längeren Wartezeiten vor einem geschlossenen Bahnübergang und beim Be- und Entladen des Fahrzeugs rechtfertigen das Abstellen eines Verbrennungsmotors. Dies spart Kraftstoff und verringert Lärmentwicklung. Die Wartezeit bei einem Stoppschild ist in der Regel kurz und ein Weiterfahren nach Vorbeilassen des Querverkehrs bald möglich. Deshalb wird in dieser Situation der Verbrennungsmotor nicht abgestellt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-124",
+      "text": "Sie fahren zur Hauptverkehrszeit im Stadtverkehr. Welche Auswirkung hat das Fahren im Stop-and-go-Verkehr?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- verbraucht mehr Kraftstoff"
+        },
+        {
+          "id": "B",
+          "text": "- verursacht mehr Abgase"
+        },
+        {
+          "id": "C",
+          "text": "- verursacht mehr Belästigungen für andere"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Kraftstoffverbrauch im Stop-and-go-Verkehr ist größer, da öfter gebremst und beschleunigt werden muss. Dies führt dazu, dass mehr Abgase verursacht und andere Verkehrsteilnehmer womöglich eher belästigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-125",
+      "text": "Was ist eine Voraussetzung für umweltschonendes und energiesparendes Fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regelmäßige Kontrolle des Reifenfülldrucks"
+        },
+        {
+          "id": "B",
+          "text": "Regelmäßige Fahrzeugwartung"
+        },
+        {
+          "id": "C",
+          "text": "Regelmäßige Motorwäsche"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Reifendruck hat große Auswirkung auf den Kraftstoffverbrauch, da dieser den Rollwiderstand beeinflusst. Die regelmäßige Fahrzeugwartung trägt zur zu geringem Kraftstoffverbrauch und zu niedrigen Emissionswerten bei.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-126",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welche Fahrweise führt innerorts zu einem hohen Kraftstoffverbrauch?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starkes Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Fahren mit hoher Motordrehzahl"
+        },
+        {
+          "id": "C",
+          "text": "Fahren in hohem Gang"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Beim starken Beschleunigen verbrauchen Sie mehr Kraftstoff als beim normalen Beschleunigen. Je höher die Drehzahl desto mehr Kraftstoff wird verbraucht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-127",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch können Sie den Kraftstoffverbrauch Ihres Fahrzeugs reduzieren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch frühes Schalten in nächsthöhere Gänge"
+        },
+        {
+          "id": "B",
+          "text": "Durch vorausschauendes Fahren, um häufige Geschwindigkeitswechsel zu vermeiden"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit hoher Motordrehzahl"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Je höher die Drehzahl desto mehr Kraftstoff wird verbraucht. Bei vorausschauender Fahrweise können Sie unnötiges Beschleunigen und Bremsen vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-128",
+      "text": "Wie können Sie den Lärm verringern, der durch Ihr Kraftfahrzeug verursacht wird?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch das Fahren mit niedriger Motordrehzahl"
+        },
+        {
+          "id": "B",
+          "text": "Durch die Verwendung von Reifen mit geringem Rollgeräusch"
+        },
+        {
+          "id": "C",
+          "text": "Durch das Entfernen des Luftfiltereinsatzes"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Je höher die Drehzahl des Motors, desto lauter wird der Motor. Reifen haben Qualitätsunterschiede. Achten Sie beim Kauf von Reifen auf das Rollgeräusch.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-129",
+      "text": "Was sollten Sie tun, um die Umwelt zu schonen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- bei übermäßiger Rauchentwicklung aus der Auspuffanlage das Kraftfahrzeug überprüfen lassen"
+        },
+        {
+          "id": "B",
+          "text": "- bei längerem Warten den Motor abstellen"
+        },
+        {
+          "id": "C",
+          "text": "- auf unnützes Hin- und Herfahren verzichten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auch beim stehen verbrennt der Motor Kraftstoff, bei längeren Stopps sollten Sie den Motor abstellen. Kommt es zu untypischen Anzeichen, wie z.B. Rauchentwicklung sollten Sie Ihr Fahrzeug überprüfen lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-130",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch kann beim Fahren eine vermeidbare Lärmbelästigung entstehen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch unnötig starkes Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Durch schadhafte Schalldämpfer"
+        },
+        {
+          "id": "C",
+          "text": "Durch schnelles Fahren in niedrigen Gängen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Je höher die Drehzahl des Motors, desto lauter wird der Motor. Getunte Abgasanlagen sind meist lauter als die Serienauspuffanlage. Beim starken Beschleunigen verbrauchen Sie mehr Kraftstoff als beim normalen Beschleunigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-131",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe auf ebener Fahrbahn. Wie sollten Sie schalten, um besonders umweltbewusst und sparsam zu fahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "So früh wie möglich hochschalten"
+        },
+        {
+          "id": "B",
+          "text": "So spät wie möglich zurückschalten"
+        },
+        {
+          "id": "C",
+          "text": "Gänge bis in den oberen Drehzahlbereich ausfahren und dann schalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Versuchen Sie beim beschleunigen die Drehzahl immer so gering wie möglich zu halten. Beim ausrollen sollten Sie so spät wie möglich schalten um die Motorbremswirkung auszunutzen und die Bremsen so wenig wie möglich auszunutzen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-132",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welches Verhalten belastet die Umwelt?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine ungleichmäßige Fahrweise"
+        },
+        {
+          "id": "B",
+          "text": "Ein häufiges Gasgeben beim Warten an der Ampel"
+        },
+        {
+          "id": "C",
+          "text": "Ein Fahren bergab in hohem Gang"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei konstanter Geschwindigkeit wird weniger verbraucht als beim ständigen verzögern und beschleunigen. Unnötiges Gas geben an der roten Ampel verbrennt unnötig Kraftstoff.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-133",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch erreichen Sie einen sparsamen Kraftstoffverbrauch?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch den richtigen Reifenfülldruck"
+        },
+        {
+          "id": "B",
+          "text": "Durch eine gleichmäßige Fahrweise mit niedriger Motordrehzahl"
+        },
+        {
+          "id": "C",
+          "text": "Durch ein spätes Hochschalten beim Beschleunigen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei konstanter Geschwindigkeit wird weniger verbraucht als beim ständigen verzögern und beschleunigen. Der Reifendruck hat große Auswirkungen auf den Kraftstoffverbrauch, da dieser den Rollwiderstand beeinflusst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.5.01-134",
+      "text": "Worauf sollten Sie nach dem Starten Ihres Fahrzeugs achten?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "1.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- unverzüglich losfahren"
+        },
+        {
+          "id": "B",
+          "text": "- mit niedriger Motordrehzahl fahren"
+        },
+        {
+          "id": "C",
+          "text": "- den Motor im Stand warmlaufen lassen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Unnötiges stehen bei laufendem Motor belastet unnötig die Umwelt. Starten Sie den Motor nur wenn Sie auch losfahren möchten. Je niedriger die Motordrehzahl desto weniger Kraftstoff wird verbrannt.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

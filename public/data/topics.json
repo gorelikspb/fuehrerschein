@@ -1,0 +1,132 @@
+{
+  "topics": [
+    {
+      "id": "1-1-gefahrenlehre",
+      "title": "Gefahrenlehre",
+      "themeNumber": "Thema 1.1.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.1. Gefahrenlehre",
+      "questionCount": 173,
+      "file": "data/1-1-gefahrenlehre.json"
+    },
+    {
+      "id": "1-2-verhalten-im-strassenverkehr",
+      "title": "Verhalten im Strassenverkehr",
+      "themeNumber": "Thema 1.2.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.2. Verhalten im Strassenverkehr",
+      "questionCount": 236,
+      "file": "data/1-2-verhalten-im-strassenverkehr.json"
+    },
+    {
+      "id": "1-3-vorfahrt-vorrang",
+      "title": "Vorfahrt Vorrang",
+      "themeNumber": "Thema 1.3.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.3. Vorfahrt Vorrang",
+      "questionCount": 10,
+      "file": "data/1-3-vorfahrt-vorrang.json"
+    },
+    {
+      "id": "1-4-verkehrszeichen",
+      "title": "Verkehrszeichen",
+      "themeNumber": "Thema 1.4.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.4. Verkehrszeichen",
+      "questionCount": 176,
+      "file": "data/1-4-verkehrszeichen.json"
+    },
+    {
+      "id": "1-5-umweltschutz",
+      "title": "Umweltschutz",
+      "themeNumber": "Thema 1.5.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.5. Umweltschutz",
+      "questionCount": 45,
+      "file": "data/1-5-umweltschutz.json"
+    },
+    {
+      "id": "1-7-technik",
+      "title": "Technik",
+      "themeNumber": "Thema 1.7.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.7. Technik",
+      "questionCount": 2,
+      "file": "data/1-7-technik.json"
+    },
+    {
+      "id": "1-8-eignung-und-befaehigung-von-kraftfahrern",
+      "title": "Eignung und Befaehigung von Kraftfahrern",
+      "themeNumber": "Thema 1.8.",
+      "section": "grundstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 1.8. Eignung und Befaehigung von Kraftfahrern",
+      "questionCount": 1,
+      "file": "data/1-8-eignung-und-befaehigung-von-kraftfahrern.json"
+    },
+    {
+      "id": "2-1-gefahrenlehre",
+      "title": "Gefahrenlehre",
+      "themeNumber": "Thema 2.1.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.1. Gefahrenlehre",
+      "questionCount": 167,
+      "file": "data/2-1-gefahrenlehre.json"
+    },
+    {
+      "id": "2-2-verhalten-im-strassenverkehr",
+      "title": "Verhalten im Strassenverkehr",
+      "themeNumber": "Thema 2.2.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.2. Verhalten im Strassenverkehr",
+      "questionCount": 229,
+      "file": "data/2-2-verhalten-im-strassenverkehr.json"
+    },
+    {
+      "id": "2-4-verkehrszeichen",
+      "title": "Verkehrszeichen",
+      "themeNumber": "Thema 2.4.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
+      "questionCount": 31,
+      "file": "data/2-4-verkehrszeichen.json"
+    },
+    {
+      "id": "2-5-umweltschutz",
+      "title": "Umweltschutz",
+      "themeNumber": "Thema 2.5.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.5. Umweltschutz",
+      "questionCount": 38,
+      "file": "data/2-5-umweltschutz.json"
+    },
+    {
+      "id": "2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge",
+      "title": "Vorschriften ueber den Betrieb der Fahrzeuge",
+      "themeNumber": "Thema 2.6.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.6. Vorschriften ueber den Betrieb der Fahrzeuge",
+      "questionCount": 32,
+      "file": "data/2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge.json"
+    },
+    {
+      "id": "2-7-technik",
+      "title": "Technik",
+      "themeNumber": "Thema 2.7.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
+      "questionCount": 164,
+      "file": "data/2-7-technik.json"
+    },
+    {
+      "id": "2-8-eignung-und-befaehigung-von-kraftfahrern",
+      "title": "Eignung und Befaehigung von Kraftfahrern",
+      "themeNumber": "Thema 2.8.",
+      "section": "zusatzstoff",
+      "description": "Amtlicher Fragenkatalog · Thema 2.8. Eignung und Befaehigung von Kraftfahrern",
+      "questionCount": 7,
+      "file": "data/2-8-eignung-und-befaehigung-von-kraftfahrern.json"
+    }
+  ],
+  "totalQuestions": 1311,
+  "catalog": "klasse-b"
+}

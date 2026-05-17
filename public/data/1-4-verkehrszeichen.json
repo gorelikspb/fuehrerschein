@@ -1,0 +1,5045 @@
+{
+  "id": "1-4-verkehrszeichen",
+  "title": "Verkehrszeichen",
+  "themeNumber": "Thema 1.4.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.4. Verkehrszeichen",
+  "questionCount": 176,
+  "questions": [
+    {
+      "id": "1.4.40-001",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 4,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vermindern"
+        },
+        {
+          "id": "B",
+          "text": "Bremsbereit sein"
+        },
+        {
+          "id": "C",
+          "text": "Nur den von rechts kommenden Verkehr beobachten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt Sie vor einer kommenden, schwer einsehbaren Kreuzung oder Einmündung. Sie sollten die Geschwindigkeit drosseln und bremsbereit sein, da hier der rechte Verkehrsteilnehmer Vorrang hat. Auch auf den Linksverkehr sollten Sie gut achten, da Sie damit rechnen müssen, dass dieser seiner Wartepflicht nicht nachkommt und Ihnen eventuell den Vorrang nimmt. Passen Sie Ihre Geschwindigkeit an, sodass Sie den von rechts kommenden Verkehr einsehen und, wenn notwendig, problemlos bremsen können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-001.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-002",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen berücksichtigen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Bremsweg ist im Gefälle länger als in der Ebene"
+        },
+        {
+          "id": "B",
+          "text": "Bei längerer Betätigung der Bremse kann die Bremswirkung nachlassen"
+        },
+        {
+          "id": "C",
+          "text": "Die Bremswirkung wird besser, wenn kein Getriebegang eingelegt ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt Sie vor einem stellenweisen Gefälle von bis zu 10%. Das bedeutet, dass Sie unbedingt den längeren Bremsweg beachten müssen, der bei dieser Steigung im Gegensatz zur Ebene anfällt. Da die Bremsen bei längeren Bremsvorgängen heiß werden und an Funktion einbüßen können, ist es wichtig, dass der/die Kfz-FahrerIn in einen niedrigeren Gang schaltet, um sich die Motorbremswirkung zunutze zu machen. Auf keinen Fall sollten Sie daher auskuppeln.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-002.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-004",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dem Gegenverkehr Vorrang einräumen"
+        },
+        {
+          "id": "B",
+          "text": "Bei zwei Fahrstreifen für eine Richtung das Reißverschlussverfahren anwenden"
+        },
+        {
+          "id": "C",
+          "text": "Wenn Sie bei zwei Fahrstreifen für eine Richtung auf dem linken fahren, haben Sie absoluten Vorrang"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei diesem Verkehrszeichen handelt es sich um ein Gefahrenzeichen: Es warnt Sie vor einer Verengung der Fahrbahn in Ihrer Fahrtrichtung. Verengen sich zwei Fahrstreifen zu einem, kommt das Reißverschluss-System zur Anwendung. Das bedeutet: Es gibt keinen absoluten Vorrang; der/die Kfz-Fahrer/-in von der sich verengenden Fahrspur muss sich nahtlos in den Verkehr einordnen können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-004.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-005",
+      "text": "Sie sehen dieses Verkehrszeichen. Womit müssen Sie rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit Gegenverkehr"
+        },
+        {
+          "id": "B",
+          "text": "Mit Blendung durch den Gegenverkehr bei Nacht"
+        },
+        {
+          "id": "C",
+          "text": "Mit Vorrang des Gegenverkehrs"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie dieses Verkehrszeichen sehen, müssen Sie als Kfz-FahrerIn mit Gegenverkehr und Blendungen durch Scheinwerfer rechnen. Es warnt Sie dort, wo Sie normalerweise nicht mit Gegenverkehr rechnen würden: beim Befahren von Einbahnstraßen, entlang von Baustellen oder bei Absperrungen einzelner Fahrbahnen auf Autobahnen. Bei schwarzen Pfeilen hat keine Fahrtrichtung Vorrang.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-005.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-006",
+      "text": "Welches Verhalten verlangt dieses Verkehrszeichen von Ihnen?",
+      "points": 5,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Höchste Aufmerksamkeit"
+        },
+        {
+          "id": "B",
+          "text": "Bremsbereitschaft"
+        },
+        {
+          "id": "C",
+          "text": "Geschwindigkeit vermindern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Zeichen weist Sie auf eine Schule, einen Kindergarten oder einen Spielplatz in der Nähe hin. Hier müssen Sie mit angepasster Geschwindigkeit und erhöhter Aufmerksamkeit fahren. Kinder könnten unvermittelt auf die Fahrbahn laufen, ohne auf das Verkehrsgeschehen zu achten. Seien Sie stets bremsbereit.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-006.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-008",
+      "text": "Worauf weist diese Kombination von Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Gefahrstelle im Zusammenhang mit Pferden"
+        },
+        {
+          "id": "B",
+          "text": "Auf den Vorrang von Reitern vor Kraftfahrzeugen"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Durchfahrtsverbot wegen eines Reitweges"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Ausrufezeichen weist Sie auf eine Gefahrenstelle hin. Das Schild mit Reiterin/Reiter zeigt, dass Sie hier mit Pferden und ReiterInnen auf der Fahrbahn rechnen müssen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-008.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-009",
+      "text": "Worauf weist diese Kombination von Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Gefahrstelle im Zusammenhang mit Gespannfuhrwerken"
+        },
+        {
+          "id": "B",
+          "text": "Auf den Vorrang von Gespannfuhrwerken vor Kraftfahrzeugen"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Durchfahrtsverbot für Gespannfuhrwerke"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Ausrufezeichen steht für eine allgemeine Gefahrenwarnung. Die genaue Art der Gefahr zeigt Ihnen das Zusatzzeichen: Hier müssen Sie mit Gespannfuhrwerken auf der Straße rechnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-009.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-010",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einem Fußgängerüberweg, der schwer zu erkennen ist"
+        },
+        {
+          "id": "B",
+          "text": "Mit Fußgängern, die möglicherweise die Fahrbahn überqueren"
+        },
+        {
+          "id": "C",
+          "text": "Mit Fußgängern, die die Fahrbahn nur von rechts überqueren dürfen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Es handelt sich um ein Gefahrzeichen, welches Sie vor einem Fußgängerüberweg warnt. Möglicherweise ist der Fußgängerüberweg schwer zu erkennen. Fußgänger werden zum überqueren der Fahrbahn den Fußgängerüberweg nutzen. Seien Sie besonders aufmerksam.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-010.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-011",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mit mäßiger Geschwindigkeit an den Fußgängerüberweg heranfahren"
+        },
+        {
+          "id": "B",
+          "text": "- besonders aufmerksam sein"
+        },
+        {
+          "id": "C",
+          "text": "- bremsbereit sein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Dieses Gefahrenschild weist darauf hin, dass hier ein Fußgängerüberweg in nächster Nähe ist. Du musst auf Fußgänger achten und diese über die Straße lassen. Man sollte mit mäßiger Geschwindigkeit heranfahren, unter Umständen anhalten und am Überweg nie überholen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.4.40-011.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-012",
+      "text": "Vor welcher Gefahr warnt Sie dieses Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vor Seitenwind"
+        },
+        {
+          "id": "B",
+          "text": "Vor einem seitlichen Versetzen meines Fahrzeugs"
+        },
+        {
+          "id": "C",
+          "text": "Vor Flugbetrieb"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt vor starken Seitenwind und davor das dein Fahrzeug seitlichen versetzt werden könnte.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.4.40-012.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-013",
+      "text": "Sie fahren auf einer Straße mit einem Fahrstreifen für jede Richtung. Bei welchem Verkehrszeichen müssen Sie dem Gegenverkehr grundsätzlich Vorrang gewähren?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a3.png"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrsschild „einseitig verengte Fahrbahn von rechts“ bedeutet, dass sich deine Fahrspur deutlich verengen wird. Hier musst du dem Gegenverkehr Vorrang gewähren.\n\nDas Verkehrsschild „dem Gegenverkehr Vorrang gewähren“ zeigt durch den roten Pfeil an, dass du dem Gegenverkehr Vorrang gewähren musst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.40-101",
+      "text": "Sie fahren außerorts an diesem Verkehrszeichen vorbei. In welcher Entfernung ist die Gefahrstelle zu erwarten?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zwischen 150 m und 250 m"
+        },
+        {
+          "id": "B",
+          "text": "Zwischen 50 m und 150 m"
+        },
+        {
+          "id": "C",
+          "text": "Zwischen 250 m und 350 m"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Schild warnt vor einer Gefahrenstelle. Rechnen Sie außerhalb geschlossener Ortschaften in einer Entfernung von 150-250 m mit dem gefährlichen Bereich. Verringern Sie Ihre Geschwindigkeit und fahren Sie mit erhöhter Aufmerksamkeit heran.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-101.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-103",
+      "text": "Worauf müssen Sie sich bei diesen Verkehrszeichen einstellen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- auf der Fahrbahn Wintersport betrieben wird"
+        },
+        {
+          "id": "B",
+          "text": "- auf der Fahrbahn Schnee- oder Eisglätte herrscht"
+        },
+        {
+          "id": "C",
+          "text": "- Wintersport nur auf den Gehwegen stattfindet"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie müssen sich darauf einstellen, dass Ski- und Rodelschlittenfahrer die Fahrbahn kreuzen. Dieses Verkehrszeichen informiert Sie, dass auf dieser Straße Wintersport betrieben werden darf und kein Winterdienst den Schnee räumt. Es ist mit erhöhter Rutschgefahr durch festgefahrenen Schnee zu rechnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-103.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-105",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vermindern"
+        },
+        {
+          "id": "B",
+          "text": "Möglichst weit rechts fahren"
+        },
+        {
+          "id": "C",
+          "text": "Gleich nach der Rechtskurve kräftig beschleunigen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Schild warnt Sie vor einer doppelten Kurve. Rechnen Sie zunächst mit einer Rechtskurve, dann einer Linkskurve. Sie könnten auf die Gegenfahrbahn geraten. Passen Sie Ihre Geschwindigkeit an und fahren Sie weit rechts, um eine Kollision mit dem Gegenverkehr zu vermeiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-105.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-106",
+      "text": "Was kommt nach diesen Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein Gefälle von 800 m Länge"
+        },
+        {
+          "id": "B",
+          "text": "Eine Steigung in 800 m Entfernung"
+        },
+        {
+          "id": "C",
+          "text": "Ein Gefälle in 800 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Nach diesem Verkehrszeichen beginnt ein Gefälle von 10 %. Das Zusatzschild informiert über die Länge der Gefahrenstrecke von 800 Metern. Die Pfeile rechts und links neben der Meter-Angabe bedeuten, dass das Gefälle ab dem Schild beginnt. Ohne Pfeile hieße es, dass das Gefälle in einer Distanz von 800 Metern beginnt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-106.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-107",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nötigenfalls herunterschalten"
+        },
+        {
+          "id": "B",
+          "text": "Heraufschalten, um die Geschwindigkeit beizubehalten"
+        },
+        {
+          "id": "C",
+          "text": "Bremsen, damit in diesem Gefälle die Geschwindigkeit nicht zu hoch wird"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen informiert über eine starke Steigung von 12 %. Je nach Fahrzeugleistung ist das Herunterschalten in einen niedrigeren Gang erforderlich, damit Sie nicht durch zu langsames Fahren ein Verkehrshindernis und eine Auffahr-Gefahr für andere bilden. Geben Sie beim Bergauffahren Gas, ohne schneller zu werden, falls die Leistung nicht ausreicht und das Auto zu stottern anfängt, dann herunterschalten und gas geben ohne die Geschwindigkeitsbegrenzung zu überschreiten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-107.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-108",
+      "text": "Was müssen Sie tun, wenn Sie sich diesem Verkehrszeichen nähern?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit verringern"
+        },
+        {
+          "id": "B",
+          "text": "Geschwindigkeit erhöhen"
+        },
+        {
+          "id": "C",
+          "text": "Durch schnelle Lenkbewegungen den Unebenheiten ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Fahrbahn vor Ihnen ist uneben und kann Quer- oder Längsrillen aufweisen. Davor warnt Sie dieses Schild. Sie könnten nicht nur bei feuchter und kalter Witterung ins Schleudern geraten. Vermeiden Sie schnelle Lenkbewegungen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-108.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-109",
+      "text": "Welche Gefahren können sich durch Nichtbeachten dieses Verkehrszeichens ergeben?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Fahrzeug könnte schleudern und den Gegenverkehr gefährden"
+        },
+        {
+          "id": "B",
+          "text": "Das Fahrzeug könnte einen Achs- oder Federbruch erleiden"
+        },
+        {
+          "id": "C",
+          "text": "Die Ladung könnte beschädigt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch unangemessene Fahrweise besteht auf diesem Streckenabschnitt Schleudergefahr mit Gefährdung des Gegenverkehrs. Die Fahrstrecke ist uneben mit etwaigen Quer- und Längsrillen. Das bedeutet eine geringere Haftung der Reifen. Die Geschwindigkeit ist zu drosseln, um das Fahrzeug sicher steuern zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-109.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-112",
+      "text": "Wovor warnt dieses Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vor Schleudergefahr bei verschmutzter Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Vor Schleudergefahr bei nasser Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Vor alkoholisierten Autofahrern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Fahrbahn vor Ihnen weist eine erhöhte Schleudergefahr bei Nässe und/oder Schmutz auf. Sie sollten Ihre Geschwindigkeit verringern und nicht abrupt bremsen oder lenken.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-112.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-114",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit verringern"
+        },
+        {
+          "id": "B",
+          "text": "Nicht mehr überholen"
+        },
+        {
+          "id": "C",
+          "text": "Vor Erreichen der Verengung immer anhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt Kfz-FahrerInnen als Gefahrenzeichen vor einer bevorstehenden Verengung der Fahrbahn. Sie müssen mit Gegenverkehr rechnen und sich wie folgt verhalten: Verringern Sie die Geschwindigkeit und unterlassen Sie Überholmanöver. Das Anhalten vor der Engstelle ist nur dann erforderlich, wenn sich ein entgegenkommendes Fahrzeug bereits in der Engstelle befindet. Anstelle eines Vorrangs gilt das Reißverschluss-System, nach dem sich die Kfz-FahrerInnen einordnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-114.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-115",
+      "text": "Womit müssen Sie bei diesen Verkehrszeichen rechnen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einer verengten Fahrbahn in etwa 50 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "Mit einer verengten Fahrbahn von 50 m Länge"
+        },
+        {
+          "id": "C",
+          "text": "Mit einer Ausweichstelle in 50 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Rechnen Sie mit einer verengten Fahrbahn 50 m voraus. Fahren Sie bitte langsam und bremsbereit an den Gefahrenbereich heran, um auf Verkehrsstockungen reagieren zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-115.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-116",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit Verkehr von Baustellenfahrzeugen"
+        },
+        {
+          "id": "B",
+          "text": "Mit Arbeitern auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Mit Baumaterial auf der Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Im Bereich von Baustellen ist damit zu rechnen, dass Baustellenfahrzeuge und Arbeiter dem fließenden Verkehr sehr nahe kommen können. Baumaterialien und Werkzeuge könnten auf der Fahrbahn liegen. Auch wenn die Baustelle ruht, ist mit einer verschmutzten Fahrbahn zu rechnen. Es besteht Rutsch-und-Schleudergefahr.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-116.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-118",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einem Stau"
+        },
+        {
+          "id": "B",
+          "text": "Mit plötzlichem Bremsen der Vorausfahrenden"
+        },
+        {
+          "id": "C",
+          "text": "Mit Erweiterung der Fahrbahn auf drei Fahrstreifen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt vor Staubildung auf diesem Streckenabschnitt. Passen Sie Ihre Geschwindigkeit und den Sicherheitsabstand zum vorausfahrenden Fahrzeug der Gefahrensituation an. Der Vorausfahrende könnte plötzlich bremsen. Behalten Sie auch den Verkehrsfluss vor dem vorausfahrenden Fahrzeug im Blick. Fahren Sie eventuell innerhalb der Fahrspur etwas versetzt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-118.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-121",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Ampel"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Zollstelle"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Bahnübergang mit rotem Blinklicht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Achten Sie hier bitte auf ein schlecht erkennbares Lichtkennzeichen wie eine Ampel. Möglicherweise folgt im weiteren Straßenverlauf eine Gefahrenstelle wie eine Kreuzung oder ein Baustellenbereich.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-121.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-127",
+      "text": "Worauf weisen diese Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Bahnübergang in der nach rechts führenden Straße"
+        },
+        {
+          "id": "B",
+          "text": "Auf die Richtung, aus der ein Zug kommen kann"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Umleitung, die den Bahnübergang umgeht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Achten Sie auf einen unbeschrankten Bahnübergang, wenn Sie an dieser Stelle nach rechts fahren beziehungsweise abbiegen. Wenn Sie geradeaus weiterfahren, hat dieses Zeichen für Sie keine Bedeutung.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-127.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-130",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Bahnübergang in etwa 160 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "Auf einen Bahnübergang in etwa 80 m Entfernung"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Bahnübergang in etwa 240 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die zweistreifige Bake warnt Sie vor einem Bahnübergang in 160 m Entfernung. Nähern Sie sich dem Gefahrenbereich umsichtig und bremsbereit, für den Fall, dass ein Zug Ihren Weg kreuzt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-130.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-131",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Bahnübergang in etwa 80 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "Auf einen Bahnübergang in etwa 160 m Entfernung"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Bahnübergang in etwa 240 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen ist eine Entfernungsbake. Dieses Verkehrszeichen wird immer auf beiden Seiten der Straße angebracht. Es gehört zu der Gruppe der Gefahrenzeichen.\nDas abgebildete Verkehrszeichen ist eine einstreifige Entfernungsbake. Der einzelne Rote Streifen bedeutet, dass sich in 80 Meter Distanz ein Bahnübergang befindet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-131.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-132",
+      "text": "Worauf weist diese Verkehrszeichenkombination hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in etwa 240 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "- in etwa 80 m Entfernung"
+        },
+        {
+          "id": "C",
+          "text": "- in etwa 160 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Etwa 240 m vor Ihnen befindet sich ein Bahnübergang. Vor dieser Gefahrenstelle warnt die dreistreifige Bake. Jeder Streifen steht dabei für eine Entfernung von 80 m.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-132.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-133",
+      "text": "Worauf weist diese Verkehrszeichenkombination hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eisglätte"
+        },
+        {
+          "id": "B",
+          "text": "Schneeglätte"
+        },
+        {
+          "id": "C",
+          "text": "Lawinen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Achten Sie in diesem Bereich auf plötzlich auftretende Schnee- oder Eisglätte. Einzelne Straßenabschnitte können unerwartet glatt sein. Passen Sie Ihre Geschwindigkeit den herrschenden Witterungsverhältnissen an.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-133.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-134",
+      "text": "Womit müssen Sie bei dieser Verkehrszeichenkombination rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit stark verschmutzter Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Mit Weidetieren auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Mit Wildwechsel"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Verkehrszeichenkombination weist auf Viehtrieb hin, da die Tiere beim Passieren der Straße die Fahrbahn sehr verschmutzen. Für den Wildwechsel ist ein anderes Verkehrszeichen zuständig.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-134.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-135",
+      "text": "Was müssen Sie bei dieser Verkehrszeichenkombination beachten?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Einen Bahnübergang in 240 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "Kraftfahrzeuge dürfen nicht überholt werden"
+        },
+        {
+          "id": "C",
+          "text": "Einen Bahnübergang in 120 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Verkehrszeichen warnen Sie vor einem Bahnübergang in 240 m Entfernung. Von der dreistreifigen Bake bis zur Gefahrenstelle einschließlich Kreuzung ist das Überholen anderer Kraftfahrzeuge verboten. Ein Überholmanöver in diesem Bereich könnte Sie und andere VerkehrsteilnehmerInnen gefährden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-135.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-136",
+      "text": "Was erwartet Sie bei dieser Verkehrszeichenkombination?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Arbeitsstelle, die in etwa 100 m Entfernung beginnt"
+        },
+        {
+          "id": "B",
+          "text": "Eine Arbeitsstelle, die nach etwa 100 m endet"
+        },
+        {
+          "id": "C",
+          "text": "Eine Arbeitsstelle, die eine Länge von etwa 100 m hat"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen warnt Sie vor einem Baustellenbereich 100 m voraus. Fahren Sie mit erhöhter Aufmerksamkeit auf die Gefahrenstelle zu und seien Sie für den Fall einer Verkehrsstockung bremsbereit.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-136.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-137",
+      "text": "Sie passieren diese Verkehrszeichenkombination bei einer Außentemperatur von +3 °C. Wie verhalten Sie sich?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verringere die Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre unvermindert weiter, da keine Eisglätte zu erwarten ist"
+        },
+        {
+          "id": "C",
+          "text": "Ich verringere sofort den Abstand zum Vorausfahrenden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Kombination dieser Verkehrszeichen warnt vor plötzlicher Glatteisbildung auf diesem Streckenabschnitt. Dies ist häufig bei Brückenabschnitten der Fall. Schnee- und Eisglätte verlängern den Bremsweg. Drosseln Sie daher die Geschwindigkeit und vergrößern Sie den Abstand zum vorausfahrenden Fahrzeug.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-137.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-138",
+      "text": "Was sollten Sie bei einer so gekennzeichneten Gefahrenstelle vermeiden?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starkes Beschleunigen"
+        },
+        {
+          "id": "B",
+          "text": "Plötzliche Lenkbewegungen"
+        },
+        {
+          "id": "C",
+          "text": "Geringen Abstand zum vorausfahrenden Fahrzeug"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Kombination dieser Verkehrszeichen warnt vor losem Splitt oder Schotter auf diesem Streckenabschnitt. Steine und Splitt können aufgewirbelt werden. Vermeiden Sie daher starkes Beschleunigen und heftige Lenkbewegungen. Halten Sie einen angemessenen Sicherheitsabstand zum vorausfahrenden Fahrzeug ein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-138.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-139",
+      "text": "Worauf weist diese Verkehrszeichenkombination hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine bewegliche Brücke"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Fähre"
+        },
+        {
+          "id": "C",
+          "text": "Auf Kanalarbeiten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "In dieser Kombination warnen die Verkehrszeichen Sie vor einer beweglichen Brücke. Achten Sie auf durchfahrende Schiffe, für welche die Brücke hochgeklappt oder verschoben werden kann.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-139.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-140",
+      "text": "Was haben Sie bei dieser Verkehrszeichenkombination zu beachten?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Straße führt auf ein Ufer zu"
+        },
+        {
+          "id": "B",
+          "text": "Bei Dunkelheit oder schlechter Sicht kann Verwechslungsgefahr zwischen Wasseroberfläche und Fahrbahn bestehen"
+        },
+        {
+          "id": "C",
+          "text": "Die Ein- und Ausfahrstelle für schwimmfähige Fahrzeuge ist frei zu halten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Kombination dieser Verkehrszeichen informiert den/die Kfz-FahrerIn, dass die Straße auf ein Ufer zuführt. Bei schlechten Sichtverhältnissen wie Nebel oder Dunkelheit kann die Wasseroberfläche mit einer Fahrbahn verwechselt werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-140.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-141",
+      "text": "Was haben Sie bei dieser Verkehrszeichenkombination zu beachten?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Halten und Parken vermeiden"
+        },
+        {
+          "id": "B",
+          "text": "Steine könnten auf der Fahrbahn liegen"
+        },
+        {
+          "id": "C",
+          "text": "Vorausfahrende Fahrzeuge könnten plötzlich abbremsen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Kombination dieser Verkehrszeichen warnt vor Steinschlag, d.h. Steine können auf die Fahrbahn herabfallen oder liegen bereits auf der Fahrbahn. Es ist damit zu rechnen, dass vorausfahrende Fahrzeuge plötzlich abbremsen, um Steinschlag auszuweichen. Sie sollten im eigenen Interesse in diesen Bereichen nicht halten oder parken.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-141.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-142",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Bahnübergang"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Bahnunterführung"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Bahnhof"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist Sie darauf hin, dass Sie in Kürze einen Bahnübergang kreuzen werden. Ein Bahnhof oder eine Unterführung muss dabei nicht zwingend vorhanden sein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-142.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-143",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Es folgt eine scharfe Rechtskurve"
+        },
+        {
+          "id": "B",
+          "text": "Entgegenkommende Fahrzeuge könnten die Kurve schneiden"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeuge vor mir könnten stark bremsen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt vor einer scharfen Rechtskurve. Sie sollten darauf gefasst sein, dass entgegenkommende Fahrzeuge die Kurve schneiden und in Ihre Fahrspur hineinreichen. Ebenso ist damit zu rechnen, dass vorausfahrende Fahrzeuge stark abbremsen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-143.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-144",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 4,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit Radfahrern, welche die Fahrbahn kreuzen"
+        },
+        {
+          "id": "B",
+          "text": "Mit einer Unterführung für Radfahrer"
+        },
+        {
+          "id": "C",
+          "text": "Mit einem Verkehrsverbot für Radfahrer"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen warnt davor, dass Radfahrer die Fahrbahn kreuzen und in Ihre Fahrspur geraten können, bspw. wenn ein Radweg endet und auf die Fahrbahn mündet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-144.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-145",
+      "text": "Womit müssen Sie bei dieser Verkehrszeichenkombination rechnen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit plötzlich auftretendem Fluglärm"
+        },
+        {
+          "id": "B",
+          "text": "Mit der Ablenkung anderer Verkehrsteilnehmer"
+        },
+        {
+          "id": "C",
+          "text": "Mit einer Ein- oder Ausfahrt zum Flugplatz"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen informiert über Flugbetrieb über der Straße. Plötzlich auftretender Fluglärm kann den/die Kfz-FahrerIn erschrecken. Verkehrsteilnehmer können durch die Flugzeuge abgelenkt und unaufmerksam sein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-145.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-146",
+      "text": "Worauf weist diese Verkehrszeichenkombination hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Fußgängerüberweg"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Unterführung für Fußgänger"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Überführung für Fußgänger"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Diese Kombination von Verkehrszeichen weist auf einen Überweg für Fußgänger hin. An einem Fußgängerüberweg haben Fußgänger Vorrang. Der/die Kfz-FahrerIn hat ihnen den Überweg zu ermöglichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-146.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-147",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Gefahrstelle im Zusammenhang mit Pferden"
+        },
+        {
+          "id": "B",
+          "text": "Auf den Vorrang von Reitern vor Kraftfahrzeugen"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Durchfahrtsverbot wegen eines Reitweges"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Schild (dreieckig) weist auf eine Gefahrenstelle im Zusammenhang mit Pferden hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-147.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-148",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Eisglätte"
+        },
+        {
+          "id": "B",
+          "text": "Auf Schneeglätte"
+        },
+        {
+          "id": "C",
+          "text": "Auf Lawinen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist auf Schneeglätte und auf Eisglätte hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-148.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-149",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit stark verschmutzter Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Mit Weidetieren auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Mit Wildwechsel"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen, weist auf eine stark verschmutze Fahrbahn hin und du musst auf Weidetiere auf der Fahrbahn achten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-149.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-150",
+      "text": "Wie sollten Sie sich bei einer so gekennzeichneten Gefahrstelle verhalten?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- starkes Beschleunigen vermeiden"
+        },
+        {
+          "id": "B",
+          "text": "- plötzliche Lenkbewegungen vermeiden"
+        },
+        {
+          "id": "C",
+          "text": "- einen möglichst großen Abstand zum vorausfahrenden Fahrzeug einhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Du solltest hier einen möglichst großen Abstand zum vorausfahrenden Fahrzeug einhalten, plötzliche Lenkbewegungen vermeiden und starkes Beschleunigen vermeiden da auf dieser Straße Splitt und Schotter sind.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-150.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-151",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine bewegliche Brücke"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Fähre"
+        },
+        {
+          "id": "C",
+          "text": "Auf Kanalarbeiten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Schild weist auf eine bewegliche Brücke hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-151.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-152",
+      "text": "Was haben Sie bei diesem Verkehrszeichen zu beachten?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Straße führt auf ein Ufer zu"
+        },
+        {
+          "id": "B",
+          "text": "Wasserflächen sind bei Dunkelheit oder schlechter Sicht schwer von der Fahrbahn zu unterscheiden"
+        },
+        {
+          "id": "C",
+          "text": "Die Ein- und Ausfahrstelle für schwimmfähige Fahrzeuge ist frei zu halten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Form des Schildes besagt Achtung und der das Bild auf dem Schild worauf zu achten ist. Diese Straße führt auf ein Ufer zu. Wasserflächen sind bei Dunkelheit oder schlechter Sicht schwer von der eigentlichen Fahrbahn zu unterscheiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-152.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-153",
+      "text": "Was haben Sie bei diesem Verkehrszeichen zu beachten?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Halten und Parken ist zu vermeiden"
+        },
+        {
+          "id": "B",
+          "text": "Steine könnten auf der Fahrbahn liegen"
+        },
+        {
+          "id": "C",
+          "text": "Vorausfahrende Fahrzeuge könnten plötzlich abbremsen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Achte bitte auf Steine, die auf der Fahrbahn liegen könnten. Das Halten und parken ist zu vermeiden und vorausfahrende Fahrzeuge könnten plötzlich durch herabfallende Steine plötzlich abbremsen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-153.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-154",
+      "text": "Womit müssen Sie bei diesem Verkehrszeichen rechnen?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit plötzlich auftretendem Fluglärm"
+        },
+        {
+          "id": "B",
+          "text": "Mit der Ablenkung anderer Verkehrsteilnehmer"
+        },
+        {
+          "id": "C",
+          "text": "Mit plötzlich bremsenden Fahrzeugen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Dieses Schild besagt, dass du mit Ablenkung anderer Verkehrsteilnehmer rechnen musst, mit plötzlich auftretendem Fluglärm und mit plötzlich bremsenden Fahrzeugen. Alle Antworten sind richtig.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-154.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-155",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Fußgängerüberweg"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Unterführung für Fußgänger"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Überführung für Fußgänger"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Schild (Achtung) weist auf einen Fußgängerüberweg hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2020-04-01/1.4.40-155.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-156",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Was müssen Sie bei diesem Verkehrszeichen berücksichtigen?",
+      "points": 3,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Bremsweg verlängert sich"
+        },
+        {
+          "id": "B",
+          "text": "Bei längerer Betätigung der Bremse kann die Bremswirkung nachlassen"
+        },
+        {
+          "id": "C",
+          "text": "Die Bremswirkung wird besser, wenn kein Gang eingelegt ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Um die Geschwindigkeit bei dem Gefälle nicht zu überschreiten müssen Sie möglicherweise durchgehend leicht bremsen. Erhitzt sich die Bremse lässt die Bremswirkung mit der Zeit nach. Bedenken Sie, dass der Bremsweg sich dadurch auch verlängert. Um die Bremse nicht unnötig zu belasten können Sie niedrigere Gänge wählen um die Motorbremswirkung zu vergrößern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-156.png",
+      "video": null
+    },
+    {
+      "id": "1.4.40-157",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wie verhalten Sie sich bei diesem Verkehrszeichen richtig?",
+      "points": 2,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich schalte gegebenenfalls in einen niedrigeren Gang"
+        },
+        {
+          "id": "B",
+          "text": "Ich schalte stets in einen höheren Gang"
+        },
+        {
+          "id": "C",
+          "text": "Ich befahre vorsichtig dieses Gefälle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Um die Geschwindigkeit bei der Steigung halten zu können müssen Sie ggf. einen Gang runterschalten, da ansonsten das Drehmoment bei der niedrigen Drehzahl nicht ausreichen könnte um das Fahrzeug weiter anzutreiben.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-157.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-001",
+      "text": "In welchem Fall müssen Sie vor diesem Verkehrszeichen warten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn ein Bahnbediensteter eine weiß-rot-weiße Fahne schwenkt"
+        },
+        {
+          "id": "B",
+          "text": "Wenn Sie den Übergang nicht überqueren können, ohne auf ihm anhalten zu müssen"
+        },
+        {
+          "id": "C",
+          "text": "Wenn sich ein Schienenfahrzeug nähert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Andreaskreuz vor einem Bahnübergang signalisiert Vorfahrt für den Schienenverkehr. Nähert sich ein Schienenfahrzeug, haben Sie vor dem Zeichen zu warten. Dasselbe gilt, wenn ein Bahnbediensteter eine weiß-rot-weiße Fahne schwenkt. Besteht die Gefahr, dass Sie aufgrund eines Staus auf dem Bahnübergang zum Stehen kommen, haben Sie ebenfalls vor dem Andreaskreuz zu warten, bis Sie den Bahnübergang zügig überqueren können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-001.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-004",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie müssen die Fahrtrichtungsänderung nach rechts anzeigen"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen nur nach rechts weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen nicht nach rechts abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung rechts“ gestattet nur das Weiterfahren nach rechts. Auch wenn es nur diese eine Option gibt, ist die Änderung der Fahrtrichtung mit dem Fahrtrichtungsanzeiger, dem Blinker, zu signalisieren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-004.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-005",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie müssen die Fahrtrichtungsänderung nach links anzeigen"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen nur nach links weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen nicht nach links weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung hier links“ erlaubt nur, die Fahrt in Richtung links fortzusetzen. Obwohl es nur diese eine Option gibt, ist die Fahrtrichtungsänderung links mit dem Blinker anzuzeigen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-005.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-006",
+      "text": "In welche Richtungen dürfen Sie weiterfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geradeaus"
+        },
+        {
+          "id": "B",
+          "text": "Nach rechts"
+        },
+        {
+          "id": "C",
+          "text": "Nach links"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung geradeaus und rechts“ verbietet das Abbiegen nach links. Erlaubt sind nur die weiteren Fahrtrichtungen geradeaus und rechts. Biegen Sie nach rechts ab, müssen Sie dies mit dem Fahrtrichtungsanzeiger, dem Blinker, signalisieren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-006.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-007",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie müssen an Verkehrsinseln rechts vorbeifahren"
+        },
+        {
+          "id": "B",
+          "text": "Sie sind verpflichtet, nach rechts abzubiegen"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen vor diesem Zeichen nicht nach links abbiegen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorgeschriebene Vorbeifahrt“ zeigt an, dass Sie rechts an einem Hindernis vorbeifahren müssen. Dazu gehören Verkehrsinseln, Baustellen oder Haltestelleninseln. Wenn sich vor der gekennzeichneten Stelle eine Kreuzung oder Einmündung befindet, dürfen Sie sowohl rechts als auch links abbiegen. Wenn Sie zum Umfahren des Hindernisses ausscheren, müssen Sie blinken.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-007.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-008",
+      "text": "Sie nähern sich einer so gekennzeichneten Haltestelle. Wie verhalten Sie sich, wenn Sie dort Kinder sehen?",
+      "points": 5,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vermindern und bremsbereit bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Eine Verminderung der Geschwindigkeit ist nur erforderlich, wenn dort ein Schulbus hält"
+        },
+        {
+          "id": "C",
+          "text": "Die Geschwindigkeit muss nicht vermindert werden, wenn ein Bus in einer Haltebucht hält"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei dieser Haltestelle handelt es sich um eine Bus-Haltestelle, an der zu den angegebenen Zeiten Schulbusse verkehren. Wenn Sie sich dieser Haltestelle nähern, müssen Sie mit Kindern rechnen, die plötzlich auf die Fahrbahn laufen; der Vertrauens-Grundsatz gilt in diesem Fall nicht. Steht ein Schulbus in der Haltebucht oder an der Straße, müssen Sie als Kfz-FahrerIn bremsbereit sein; Sie dürfen nur in Schrittgeschwindigkeit vorbeifahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-008.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-010",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diese Fußgängerzone dürfen Sie mit einem Kraftfahrzeug nicht befahren"
+        },
+        {
+          "id": "B",
+          "text": "In dieser Fußgängerzone dürfen Sie mit einem Kraftfahrzeug mit Schrittgeschwindigkeit fahren"
+        },
+        {
+          "id": "C",
+          "text": "Als Anlieger dürfen Sie in dieser Fußgängerzone mit Kraftfahrzeugen fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Fußgängerzone“ verbietet Kraftfahrzeugen die Einfahrt in diesen Bereich, auch Schrittgeschwindigkeit ist verboten. Dies gilt auch für Anlieger. In Einkaufszonen erlauben häufig Zusatzschilder die Einfahrt zu bestimmten Zeiten. Das ist aber hier nicht gegeben.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-010.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-012",
+      "text": "Womit darf man hier nicht fahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit Mofas"
+        },
+        {
+          "id": "B",
+          "text": "Mit Kleinkrafträdern"
+        },
+        {
+          "id": "C",
+          "text": "Mit Leichtkrafträdern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Verbot für Mofas“ gilt nur für Mofas. Es gilt nicht für Kleinkrafträder und Leichtkrafträder. Die geringe Geschwindigkeit von Mofas würde auf dieser Straße den Verkehrsfluss behindern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-012.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-013",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aus dieser Straße können Fahrzeuge kommen"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen nicht in diese Straße einfahren"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen in diese Straße einfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Verbot der Einfahrt“ verbietet die Einfahrt in die Straße oder Fahrbahn ausnahmslos für alle Fahrzeuge inklusive Fahrräder. Fahrräder dürfen nur einfahren, wenn dies durch ein Zusatzschild erlaubt ist. Fahrzeuge kommen aus dieser Fahrbahn heraus. Es steht immer am Ausgang einer Einbahnstraße oder Ende einer Autobahnausfahrt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-013.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-014",
+      "text": "Was haben Sie bei diesem Verkehrszeichen zu beachten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie dürfen nicht halten"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen halten zum Be- oder Entladen"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen halten, um Mitfahrer aussteigen zu lassen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Absolutes Haltverbot“ verbietet jegliches Halten des/der Kfz-FahrerIn, sofern es nicht durch die Verkehrslage, wie bspw. eine rote Ampel oder eine andere zwingende Verkehrssituation, bedingt ist. Halten, um Personen ein- und aussteigen zu lassen oder das Fahrzeug zu be- oder entladen, ist verboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-014.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-015",
+      "text": "Was ist bei diesem Verkehrszeichen erlaubt?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Halten zum Be- oder Entladen sowie zum Ein- oder Aussteigen"
+        },
+        {
+          "id": "B",
+          "text": "Das Halten bis zu 3 Minuten"
+        },
+        {
+          "id": "C",
+          "text": "Das Parken, wenn eine Parkscheibe benutzt wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Eingeschränktes Haltverbot“ gestattet das Halten von bis zu drei Minuten. Situationen des Be- und Entladens oder des Ein- und Aussteigens dürfen auch länger dauern. Der/die Kfz-FahrerIn muss sich dabei in unmittelbarer Nähe des Fahrzeugs befinden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-015.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-016",
+      "text": "Was ist bei diesen Verkehrszeichen erlaubt?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schwerbehinderte mit entsprechend nummeriertem Parkausweis dürfen hier parken"
+        },
+        {
+          "id": "B",
+          "text": "Das Halten zum Ein- oder Aussteigen für jeden"
+        },
+        {
+          "id": "C",
+          "text": "Mit einem Parkschein aus einem Parkscheinautomaten darf hier jeder unbegrenzt parken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Eingeschränktes Halteverbot“ erlaubt das Halten, um Personen ein- und aussteigen zu lassen oder zum Be- und Entladen. Der Parkplatz ist für eine/n Kfz-FahrerIn mit Behindertenausweis und personalisiertem Parkausweis reserviert. Nur diese Person hat das Recht, auf diesem Platz zu parken und kann widerrechtlich parkende Fahrzeuge abschleppen lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-016.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-017",
+      "text": "Was gilt bei dieser Verkehrszeichenkombination?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- den Radverkehr von links und rechts beachten"
+        },
+        {
+          "id": "B",
+          "text": "- den Verkehr mit Elektrorollern von links und rechts beachten"
+        },
+        {
+          "id": "C",
+          "text": "- nur den Kraftfahrzeugverkehr auf der Vorfahrtstraße von links und rechts beachten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Zusatzzeichen zeigt, dass Radverkehr von links und recht kommen könnte. Achten Sie deshalb auch wenn Sie nur rechts abbiegen möchten auf beide Richtungen. Elektroroller werden immer häufiger genutzt, diese fahren auf dem Radweg, achten Sie zusätzlich auf Rollerfahrer.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-017.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-018",
+      "text": "Welche Fahrzeuge dürfen in eine so gekennzeichnete Fahrradstraße einfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alle Fahrzeuge, die von Anliegern gefahren werden"
+        },
+        {
+          "id": "B",
+          "text": "Alle Mofas mit bauartbedingter Höchstgeschwindigkeit unter 25 km/h"
+        },
+        {
+          "id": "C",
+          "text": "Alle Pkws, wenn sie Schrittgeschwindigkeit fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Anderer Fahrzeugverkehr als Radverkehr darf Fahrradstraßen nicht benutzen, es sei denn, dies ist durch Zusatzzeichen erlaubt. Das Zusatzzeichen erlaubt es Anliegern in die Fahrradstraße hineinzufahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-018.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-019",
+      "text": "Was gilt bezüglich gelber Fahrbahnmarkierungen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- werden nur vorübergehend angebracht (zum Beispiel an Baustellen)"
+        },
+        {
+          "id": "B",
+          "text": "- ersetzen die Gültigkeit weißer Fahrbahnmarkierungen"
+        },
+        {
+          "id": "C",
+          "text": "- gelten nur für Baustellenfahrzeuge"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Gelbe Fahrbahnmarkierungen werden vorübergehend angebracht um z.B. den Fahrstreifenverlauf zu ändern aufgrund einer Baustelle. Die weißen Fahrbahnmarkierungen werden durch die gelben ersetzt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.41-021",
+      "text": "Welche Fahrzeuge dürfen in eine so gekennzeichnete Zone einfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrräder"
+        },
+        {
+          "id": "B",
+          "text": "Elektrokleinstfahrzeuge"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeuge, die von Anwohnern gefahren werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Verkehrsschild zeigt eine Fahrradzone mit dem Zusatzschild Anlieger frei. In Fahrradzonen gilt “rechts vor links”. Radfahrer, Elektrokleinstfahrzeuge und andere zugelassene Fahrzeuge dürfen in Fahrradzonen höchstens 30 km/h fahren. Radfahrer und Elektrokleinstfahrzeuge dürfen in Fahrradzonen nebeneinander fahren. Durch das Zusatzzeichen dürfen auch Anwohner in die Fahrradzone fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-021.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-022",
+      "text": "Was müssen Sie innerorts beim Befahren einer Straße mit dieser Verkehrszeichenkombination beachten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Radfahrer können mir entgegenkommen"
+        },
+        {
+          "id": "B",
+          "text": "Beim Überholen von Radfahrern muss ich einen seitlichen Mindestabstand von 1,5 m einhalten"
+        },
+        {
+          "id": "C",
+          "text": "Radfahrer müssen die Gehwege rechts und links der Fahrbahn nutzen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Einbahnstraßenschild gilt zwar grundsätzlich auch für Radfahrer, allerdings dürfen sie bei dieser Verkehrszeichenkombination in beide Richtungen fahren. Beachte aber das innerorts beim Überholen von Radfahrern immer einen seitlichen Mindestabstand von 1,5 m einhalten werden muss.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-022.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-023",
+      "text": "Dieses Verkehrszeichen ist am rechten Fahrbahnrand aufgestellt. Welche Bedeutung hat es?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- davor nicht halten"
+        },
+        {
+          "id": "B",
+          "text": "- dahinter nicht halten"
+        },
+        {
+          "id": "C",
+          "text": "- davor parken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen signalisiert absolutes Haltverbot im Bereich vor und hinter dem Verkehrsschild. Der Pfeil nach links zeigt an, dass du nach dem Schild nicht halten darfst, der Pfeil nach rechts zeigt an, dass du vor dem Schild nicht halten darfst.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-023.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-024",
+      "text": "Dieses Verkehrszeichen ist am rechten Fahrbahnrand aufgestellt. Welche Bedeutung hat es?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- den Beginn eines absoluten Haltverbots"
+        },
+        {
+          "id": "B",
+          "text": "- das Ende eines absoluten Haltverbots"
+        },
+        {
+          "id": "C",
+          "text": "- den Beginn eines eingeschränkten Haltverbots"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen signalisiert den Beginn eines absoluten Haltverbots ab dem Verkehrsschild. Der Pfeil nach links zeigt, dass das Haltverbot ab dem Schild beginnt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-024.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-025",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- nicht halten"
+        },
+        {
+          "id": "B",
+          "text": "- zum kurzzeitigen Beladen halten"
+        },
+        {
+          "id": "C",
+          "text": "- halten, um Mitfahrer aussteigen zu lassen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen signalisiert ein absolutes Haltverbot in diesem Bereich. Du darfst dort nicht halten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-025.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-027",
+      "text": "Wann dürfen Sie hier halten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Sonntagen"
+        },
+        {
+          "id": "B",
+          "text": "An Feiertagen"
+        },
+        {
+          "id": "C",
+          "text": "An Samstagen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das absolute Halteverbot gilt nur an Werktagen. An Sonntagen und Feiertagen darfst du hier halten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/1.4.41-027.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-029",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- nicht befahren"
+        },
+        {
+          "id": "B",
+          "text": "- mit Schrittgeschwindigkeit befahren"
+        },
+        {
+          "id": "C",
+          "text": "- als Anlieger befahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Grundsätzlich bedeutet das Verkehrsschild „Verbot für Fahrzeuge aller Art“, dass die Straße von Fahrzeugen nicht befahren werden darf. Motorräder oder Fahrräder dürfen jedoch geschoben werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-029.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-030",
+      "text": "Sie befahren eine so beschilderte Einbahnstraße. Was ist richtig?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss mich zum Linksabbiegen möglichst weit links einordnen"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf auch am linken Fahrbahnrand parken"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf entgegen der Fahrtrichtung parken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Fahrtrichtung in einer Einbahnstraße wird immer durch den weißen Pfeil auf dem Verkehrsschild angezeigt. Wenn du dich in deiner Einbahnstraße befindest, darfst du am rechte wie auch am linken Fahrbahnrand in Fahrtrichtung parken. \nUm beim Linksabbiegen den nachfolgenden Verkehr hinter dir nicht zu behindern, musst du dich so weit wie möglich nach links einordnen. So lässt du genügend Platz für Fahrzeuge, die geradeaus fahren oder rechts abbiegen wollen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-030.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-031",
+      "text": "Sie befahren eine Vorfahrtstraße. Welches Verkehrszeichen beendet Ihre Vorfahrt?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-031_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-031_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-031_a3.png"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Ende Vorfahrtsstraße“ signalisiert dir, dass die Vorfahrtsregelung aufgehoben ist und die Vorfahrtsstraße hier endet. \n\nWenn du bisher auf einer Vorfahrtsstraße gefahren bist, weißt dich das Verkehrszeichen „Vorfahrt gewähren“ darauf hin, dass diese Vorfahrtsstraße nun endet. Du musst anderen Verkehrsteilnehmern nun Vorfahrt gewähren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.41-032",
+      "text": "Bei welcher Verkehrsregelung müssen Sie vor dem Rechtsabbiegen grundsätzlich anhalten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-032_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-032_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-032_a3.png"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das „Stop-Schild“ zeigt dir an, dass du grundsätzlich an der Haltelinie oder Sichtlinie anhalten musst. \n\nDer „Grünpfeil“ neben dem roten Ampelsignal signalisiert dir, dass du trotz der roten Ampel nach rechts abbiegen darfst. Jedoch erst, nachdem du an der Halte- oder Sichtlinie angehalten und dich vergewissert hast, dass du niemanden gefährdest.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.41-033",
+      "text": "Welches Verkehrszeichen verbietet Ihnen das Einfahren in den beschilderten Bereich?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-033_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-033_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-033_a3.png"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In eine Straße mit diesem Verkehrsschild darfst du nicht einfahren, da es eine Fußgängerzone anzeigt. Diese darf nur von Fußgängern benutzt werden. \n\nDas Verkehrsschild bedeutet „Einfahren verboten“. Das Einfahren in den beschilderten Bereich ist demnach verboten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.41-102",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie müssen dem Gegenverkehr Vorrang gewähren"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen nicht abbiegen"
+        },
+        {
+          "id": "C",
+          "text": "Sie haben Vorrang vor dem Gegenverkehr"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Fahrbahn ist zu eng für zwei Fahrspuren. Das Verkehrszeichen regelt die Vorfahrt. Dem Gegenverkehr ist Vorfahrt zu gewähren. Kommen Ihnen Fahrzeuge entgegen, müssen Sie frühzeitig anhalten und den Gegenverkehr passieren lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-102.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-106",
+      "text": "In welche Richtungen dürfen Sie weiterfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nach links"
+        },
+        {
+          "id": "B",
+          "text": "Nach rechts"
+        },
+        {
+          "id": "C",
+          "text": "Geradeaus"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung rechts und links“ erlaubt nur das Abbiegen nach rechts oder links. Die gewünschte Fahrtrichtung ist mit einem Fahrtrichtungsanzeiger, dem Blinker, anzuzeigen. Die Fahrtrichtung geradeaus ist nicht erlaubt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-106.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-109",
+      "text": "Etwa 80 m vor Ihnen hält ein Schulbus auf der Fahrbahn. Können daraus Gefahren entstehen?",
+      "points": 5,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, weil Kinder häufig über die Straße rennen, um den Bus noch zu erreichen"
+        },
+        {
+          "id": "B",
+          "text": "Ja, weil Kinder nicht immer auf kürzestem Weg die Fahrbahn überqueren"
+        },
+        {
+          "id": "C",
+          "text": "Nein, weil an jeder Schulbushaltestelle Schülerlotsen den Verkehr sichern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn in rund 80 m Entfernung vor Ihnen ein Schulbus auf der Fahrbahn hält, müssen Sie mit folgender Gefahr rechnen: Kinder könnten plötzlich auf/über die Fahrbahn laufen, um beispielsweise auf kürzestem Weg den Bus zu erreichen. Diese Gefahr besteht auch dann, wenn Schülerlotsen den Verkehr sichern. Sie müssen bremsbereit sein und dürfen nur in Schrittgeschwindigkeit am Schulbus vorbeifahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-109.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-114",
+      "text": "Wer darf auf dieser Straße mit einem Kraftfahrzeug fahren?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wer Waren liefern muss"
+        },
+        {
+          "id": "B",
+          "text": "Wer etwas einkaufen will"
+        },
+        {
+          "id": "C",
+          "text": "Wer jemanden besuchen will"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Straße ist ein ausgewiesener Gehweg, versehen mit dem Zusatzschild „Lieferverkehr frei“. Daher darf diese Straße nur von einem Lieferanten mit einem Kraftfahrzeug befahren werden. Der Lieferant muss nachweislich etwas in dieser Straße auszuliefern haben. Er muss Schrittgeschwindigkeit fahren, unabhängig davon, ob gerade Fußgänger die Straße passieren oder nicht. Auf Fußgänger hat er Rücksicht zu nehmen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-114.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-115",
+      "text": "Welche Fahrzeuge dürfen den so gekennzeichneten Sonderfahrstreifen benutzen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linienbusse"
+        },
+        {
+          "id": "B",
+          "text": "Lkws"
+        },
+        {
+          "id": "C",
+          "text": "Pkws"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der hier dargestellte Sonderfahrstreifen ist für Linienomnibusse bestimmt. Nur diese dürfen den Sonderfahrstreifen benutzen. Für alle anderen Kfz-FahrerInnen ist die Benutzung des Sonderfahrstreifens verboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-115.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-116",
+      "text": "Wer darf in eine so beschilderte Straße einfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bewohner"
+        },
+        {
+          "id": "B",
+          "text": "Besucher der Bewohner"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeuge im Durchgangsverkehr"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Zusatzzeichen signalisiert, dass Kfz-FahrerInnen, die privat, geschäftlich oder dienstlich etwas in dieser Straße zu besorgen haben, einfahren dürfen. Als Anlieger werden die Kunden der Geschäfte, die Patienten der Arztpraxen sowie die Anwohner und deren Besucher bezeichnet. Durchgangsverkehr ist in dieser Straße verboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-116.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-118",
+      "text": "Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lkws"
+        },
+        {
+          "id": "B",
+          "text": "Pkws"
+        },
+        {
+          "id": "C",
+          "text": "Motorräder"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kraftwagen, aber auch andere mehrspurige Kraftfahrzeuge, dürfen eine so beschilderte Straße nicht befahren. Dazu gehören Pkws, Lkws und Busse. Das Verbot gilt nicht für Motorräder, auch mit Beiwagen, und nicht motorisierte Fahrzeuge.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-118.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-119",
+      "text": "Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrräder"
+        },
+        {
+          "id": "B",
+          "text": "Motorräder"
+        },
+        {
+          "id": "C",
+          "text": "Pkws"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses runde Verkehrsschild mit dem roten Rand verbietet die Durchfahrt für Radfahrer. Üblicherweise steht es an Straßen, wo schnell gefahren werden kann und ein Fahrrad wegen seiner geringen Geschwindigkeit in gefährliche Situationen geraten kann. Motorisierte Fahrzeuge wie Krafträder und Pkw dürfen hier weiterfahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-119.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-120",
+      "text": "Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Motorräder"
+        },
+        {
+          "id": "B",
+          "text": "Pkws"
+        },
+        {
+          "id": "C",
+          "text": "Lkws"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein rundes Verkehrsschild mit rotem Rand signalisiert ein allgemeines Verkehrsverbot für Fahrzeuge. Enthält der Kreis ein Symbol, so werden die Fahrzeugarten, für die das Verkehrsverbot gilt, genauer benannt. Hier darf die Straße nicht von MotorradfahrerInnen befahren werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-120.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-121",
+      "text": "Worauf weisen diese Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf das Verbot der Einfahrt in 100 m Entfernung"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Einbahnstraße von 100 m Länge"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Zollstelle in 100 m Entfernung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Durch das Verkehrszeichen „Verbot der Einfahrt“ ist Kfz-FahrerInnen untersagt, mit Fahrzeugen aller Art in diese Straße hereinzufahren. Das Zusatzschild macht deutlich, dass dieses Verbot erst in einer Entfernung von 100 Metern gilt. Es gibt explizit nicht an, wie lang die Sperrung ist. Gehen Sie stets davon aus, dass Fahrzeuge aus dieser Straße herauskommen können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-121.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-124",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zulässigen Höchstgeschwindigkeit von 30 km/h"
+        },
+        {
+          "id": "B",
+          "text": "- vorgeschriebenen Mindestgeschwindigkeit von 30 km/h"
+        },
+        {
+          "id": "C",
+          "text": "- Richtgeschwindigkeit von 30 km/h"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen zeigt den Beginn einer Tempo-30-Zone an. Es wird oft in Wohngebieten und nur einmal am Anfang aufgestellt. In dem gesamten Bereich darf nicht schneller als 30 km/h gefahren werden. Diese Geschwindigkeitsbegrenzung wird mit dem Zeichen „Ende Zone 30“ aufgehoben.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-124.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-125",
+      "text": "Hier beginnt ein verkehrsberuhigter Geschäftsbereich. Wie müssen Sie sich verhalten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf regen Fußgängerverkehr besonders achten"
+        },
+        {
+          "id": "B",
+          "text": "Höchstparkdauer beachten"
+        },
+        {
+          "id": "C",
+          "text": "Mindestgeschwindigkeit von 20 km/h einhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In einem verkehrsberuhigten Geschäftsbereich sind Verkehrsteilnehmer oft durch die Auslagen in den Schaufenstern abgelenkt. Sie müssen daher auf regen und unaufmerksamen Fußgängerverkehr achten. Ihre maximale Geschwindigkeit beträgt 20 km/h. Es besteht eine eingeschränkte Halteverbotszone mit Parkscheibenpflicht. Um vielen Kunden eine Parkmöglichkeit zu bieten, beträgt die maximale Parkzeit zwei Stunden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-125.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-126",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zulässigen Höchstgeschwindigkeit von 30 km/h"
+        },
+        {
+          "id": "B",
+          "text": "- vorgeschriebenen Mindestgeschwindigkeit von 30 km/h"
+        },
+        {
+          "id": "C",
+          "text": "- Richtgeschwindigkeit von 30 km/h"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen zeigt das Ende eines Gebietes an, in dem die zulässige Geschwindigkeit auf Tempo 30 angesetzt war und hebt diese Höchstgeschwindigkeit von 30 km/h somit wieder auf.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-126.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-127",
+      "text": "Darf hier schneller als 60 km/h gefahren werden?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, wenn die Fahrbahn trocken ist"
+        },
+        {
+          "id": "B",
+          "text": "Ja, wenn die Fahrbahn nass ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Aufgrund des Zusatzzeichens gilt die maximal zulässige Höchstgeschwindigkeit von 60 km/h nur bei Nässe. Verringern Sie die Geschwindigkeit Ihres Fahrzeugs entsprechend, wenn die gesamte Fahrbahn mit einem dünnen Wasserfilm überzogen ist und damit als nass gilt. Bei trockener oder nur feuchter Fahrbahn dürfen Sie als Kfz-FahrerIn auch schneller als 60 km/h fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-127.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-128",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie müssen mindestens mit 60 km/h fahren, sofern Sie nicht aus Gründen der Verkehrssicherheit langsamer fahren müssen"
+        },
+        {
+          "id": "B",
+          "text": "Sie dürfen diese Straße nicht benutzen, wenn Sie nicht mindestens 60 km/h fahren können oder dürfen"
+        },
+        {
+          "id": "C",
+          "text": "Sie dürfen nicht schneller als 60 km/h fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen schreibt vor, dass Sie hier mindestens mit einer Geschwindigkeit von 60 km/h fahren müssen. Langsamer zu fahren ist nur dann erlaubt, wenn die Verkehrssicherheit dies erforderlich macht. Ein/eine Kfz-FahrerIn darf diese Straße nicht benutzen, wenn er/sie aufgrund des Fahrzeugs bzw. dessen Ladung oder aufgrund mangelnder persönlicher Fähigkeiten nicht so schnell fahren kann oder darf.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-128.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-129",
+      "text": "Welche Fahrzeuge dürfen Sie bei diesem Verkehrszeichen überholen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Motorrad ohne Beiwagen"
+        },
+        {
+          "id": "B",
+          "text": "Motorrad mit Beiwagen"
+        },
+        {
+          "id": "C",
+          "text": "Pkw"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Durch das hier angezeigte Überholverbot ist es einer/einem Kfz-FahrerIn untersagt, mehrspurige Fahrzeuge wie Pkws, Lkws oder Traktoren sowie Motorräder mit Beiwagen zu überholen. Motorräder ohne Beiwagen sowie Fahrräder dürfen Sie überholen, da es sich hierbei um einspurige Fahrzeuge handelt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-129.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-130",
+      "text": "Worauf weisen diese Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Überholverbotsstrecke von 3 km Länge"
+        },
+        {
+          "id": "B",
+          "text": "Auf ein Überholverbot, das in 3 km Entfernung beginnt"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Fahrbahn mit zwei Fahrstreifen für eine Richtung von 3 km Länge"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen signalisiert ein Überholverbot von mehrspurigen Kraftfahrzeugen oder Krafträdern mit Beiwagen. Die schwarzen Pfeile mit der km-Angabe geben an, dass das Überholverbot auf einer 3 km langen Strecke gilt. Das Überholverbot tritt ab dem Verkehrszeichen in Kraft.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-130.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-131",
+      "text": "Worauf weisen diese Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf ein Überholverbot, das in 200 m Entfernung beginnt"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Überholverbotsstrecke von 200 m Länge"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Überholverbot, das nach 200 m endet"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dem/der Kfz-FahrerIn wird durch dieses Verkehrszeichen das Überholen von mehrspurigen Fahrzeugen sowie von Motorrädern mit Beiwagen verboten. Durch das Zusatzzeichen beginnt das Überholverbot in einer Entfernung von 200 Metern. Da es keine schwarzen Pfeile enthält, bezieht es sich nicht auf eine Strecke von 200 Metern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-131.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-132",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf das Ende der Geschwindigkeitsbeschränkung"
+        },
+        {
+          "id": "B",
+          "text": "Auf ein Verbot, schneller als 60 km/h zu fahren"
+        },
+        {
+          "id": "C",
+          "text": "Auf den Anfang der Geschwindigkeitsbeschränkung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist auf das Ende der Geschwindigkeitsbeschränkung von 60 km/h hin. Der/die Kfz-FahrerIn darf wieder mit der allgemein üblichen Geschwindigkeit fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-132.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-133",
+      "text": "Welche Verbote werden mit diesem Verkehrszeichen aufgehoben?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Überholverbote"
+        },
+        {
+          "id": "B",
+          "text": "Geschwindigkeitsbeschränkungen"
+        },
+        {
+          "id": "C",
+          "text": "Parkverbote"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen hebt sämtliche Streckenverbote auf. Zu den Streckenverboten zählen zum Beispiel Überholverbote und Geschwindigkeitsbeschränkungen. Halteverbote wie ein Parkverbot fallen jedoch nicht unter die Streckenverbote.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-133.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-134",
+      "text": "Worauf weisen diese Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- das auf der Fahrbahn und auch auf dem Seitenstreifen gilt"
+        },
+        {
+          "id": "B",
+          "text": "- das nur auf dem Seitenstreifen gilt"
+        },
+        {
+          "id": "C",
+          "text": "- das nur für Lkws gilt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen signalisiert dem/der Kfz-FahrerIn, dass es verboten ist, auf der Fahrbahn zu halten. Mit dem Zusatzzeichen wird das Halteverbot erweitert und verbietet auch das Anhalten auf dem Seitenstreifen für alle Fahrzeuge, nicht nur für Lkw.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-134.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-135",
+      "text": "Was ist in der hier beginnenden Zone erlaubt?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Halten bis zu 3 Minuten"
+        },
+        {
+          "id": "B",
+          "text": "Das Halten zum Be- oder Entladen sowie zum Aus- oder Einsteigen"
+        },
+        {
+          "id": "C",
+          "text": "Das Parken, wenn eine Parkscheibe benutzt wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit dem Verkehrszeichen „Eingeschränktes Halteverbot für eine Zone“ gilt ein eingeschränktes Halteverbot in einem gesamten Bereich, ohne dass Halteverbotsschilder hier in bestimmten Straßen aufgestellt sind. In der gesamten Zone dürfen Sie als Kfz-FahrerIn bis zu drei Minuten halten. Für das ohne Verzögerungen durchgeführte Be- und Entladen oder das Ein- und Aussteigen dürfen Sie auch mehr als drei Minuten benötigen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-135.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-136",
+      "text": "Was endet hier?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Zone mit eingeschränktem Haltverbot"
+        },
+        {
+          "id": "B",
+          "text": "Eine Zone mit absolutem Haltverbot"
+        },
+        {
+          "id": "C",
+          "text": "Vorausgegangene Streckenverbote"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Hier endet das eingeschränkte Zonenhalteverbot (Parkverbot). Beachten Sie, dass dieses Verkehrszeichen oft nur am linken Fahrbahnrand steht und nicht das absolute Halteverbot aufhebt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-136.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-140-B",
+      "text": "Wann müssen Sie blinken?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Verlassen des Kreisverkehrs"
+        },
+        {
+          "id": "B",
+          "text": "Beim Einfahren in den Kreisverkehr"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Fahren Sie in den Kreisverkehr ein, müssen Sie nicht blinken, da die Einfahrt in den Kreis immer rechtsherum erfolgt. Verlassen Sie den Kreisverkehr hingegen, müssen Sie das durch Blinken anzeigen, um so anderen Kfz-FahrerInnen die Einfahrt in den Kreis zu erleichtern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-140-B.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-141",
+      "text": "Sie nähern sich folgender Verkehrszeichen-Kombination. Was ist hier zu beachten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die im Kreis befindlichen Fahrzeuge haben Vorfahrt"
+        },
+        {
+          "id": "B",
+          "text": "Das Verlassen des Kreises muss durch Blinken angezeigt werden"
+        },
+        {
+          "id": "C",
+          "text": "Beim Einfahren in den Kreis muss geblinkt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die im Kreis fahrenden Fahrzeuge haben Vorfahrt. Das Blinken beim Einfahren in den Kreis ist überflüssig, da in den Kreisverkehr immer nur rechts eingefahren werden darf. Daher ist die Antwort 'Beim Einfahren in den Kreis muss geblinkt werden' falsch. Im Kreisverkehr wird nur beim Verlassen des Kreises geblinkt. Das macht Sinn, weil diese Regelung Fahrzeugen das Einfahren in den Kreisverkehr erleichtert.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-141.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-142",
+      "text": "Was ist bei diesen Verkehrszeichen zu beachten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Halten auf der Kreisfahrbahn ist verboten"
+        },
+        {
+          "id": "B",
+          "text": "Beim Einfahren in den Kreis ist zu blinken"
+        },
+        {
+          "id": "C",
+          "text": "Es darf nur mit Schrittgeschwindigkeit gefahren werden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Den im Kreis fahrenden Fahrzeugen haben Sie Vorfahrt zu gewähren. Im Kreisverkehr besteht stets absolutes Halteverbot. Bei einem Kreisverkehr wird nur beim Verlassen des Kreises geblinkt. Diese Regelung erleichtert Fahrzeugen das Einfahren in den Kreisverkehr. Ein generelles Fahren mit Schrittgeschwindigkeit im Kreisverkehr ist nicht gefordert.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-142.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-143",
+      "text": "Was ist bei diesen Verkehrszeichen zu beachten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dem Verkehr auf der Kreisfahrbahn ist Vorfahrt zu gewähren"
+        },
+        {
+          "id": "B",
+          "text": "Beim Verlassen der Kreisfahrbahn ist zu blinken"
+        },
+        {
+          "id": "C",
+          "text": "Beim Einfahren in den Kreisverkehr ist zu blinken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Verkehrszeichen signalisieren Ihnen, dass die Fahrzeuge im Kreisverkehr Vorfahrt haben. Sie zeigen außerdem an, dass Sie bei der Einfahrt in den Kreisverkehr nicht blinken müssen, da Kfz-FahrerInnen immer nur rechtsherum in den Kreis einfahren können. Sobald Sie den Kreisverkehr verlassen, müssen Sie dies durch Blinken anzeigen, um anderen VerkehrsteilnehmerInnen die Einfahrt in den Kreisverkehr zu erleichtern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-143.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-144",
+      "text": "Wie haben Sie sich bei dieser Verkehrszeichen-Kombination zu verhalten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Verlassen des Kreises muss durch Blinken nach rechts angezeigt werden"
+        },
+        {
+          "id": "B",
+          "text": "Beim Einfahren in den Kreisverkehr ist Vorfahrt zu gewähren"
+        },
+        {
+          "id": "C",
+          "text": "Das Einfahren nach links ist vorgeschrieben"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie müssen beim Einfahren den im Kreis fahrenden Fahrzeugen Vorfahrt gewähren. In den Kreis darf immer nur nach rechts eingefahren werden. Geblinkt wird nur beim Verlassen des Kreisverkehrs. Diese Regelung erleichtert Kfz-FahrerInnen das Einfahren in den Kreisverkehr. Sie können beim Erkennen des Blinkers entscheiden, ob Sie unter Beachtung der Sorgfaltspflicht schon in den Kreis einfahren können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-144.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-145",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen benutzungspflichtigen Radweg"
+        },
+        {
+          "id": "B",
+          "text": "Auf ein Verbot für Radfahrer"
+        },
+        {
+          "id": "C",
+          "text": "Auf Radfahrer, die die Fahrbahn kreuzen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen kennzeichnet einen Radweg, den Radfahrer benutzen müssen, der für andere Verkehrsteilnehmer aber verboten ist. Für die Fahrbahn kreuzende Radfahrer gilt ein eigenes Gefahrenzeichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-145.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-146",
+      "text": "Was wird durch diese Verkehrszeichenkombination angekündigt?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- „Halt. Vorfahrt gewähren.“"
+        },
+        {
+          "id": "B",
+          "text": "- „Vorfahrt gewähren.“"
+        },
+        {
+          "id": "C",
+          "text": "- „Vorrang des Gegenverkehrs“"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen kündigt an, dass Sie nach hundert Metern auf eine bevorrechtigte Straße treffen und dort das Verkehrszeichen „Halt Vorfahrt gewähren“ steht. Sie müssen dort in jedem Fall an der Haltlinie oder Sichtlinie anhalten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-146.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-147",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Gehweg"
+        },
+        {
+          "id": "B",
+          "text": "Auf ein Verbot für Fahrrad- und Mofa-Verkehr"
+        },
+        {
+          "id": "C",
+          "text": "Auf den Beginn eines verkehrsberuhigten Bereichs"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit dem Verkehrszeichen „Gehweg“ sind Wege gekennzeichnet, die ausschließlich Fußgänger und Radfahrer im Alter von bis zu 10 Jahren nutzen dürfen. Kfz-FahrerInnen, FahrradfahrerInnen und sonstige VerkehrsteilnehmerInnen dürfen auf diesen Wegen nicht unterwegs sein. Allerdings können durch Zusatzschilder Ausnahmen geregelt sein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-147.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-148",
+      "text": "Welche Fahrzeuge dürfen diese Straße benutzen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrräder und Krafträder, die geschoben werden"
+        },
+        {
+          "id": "B",
+          "text": "Kraftfahrzeuge"
+        },
+        {
+          "id": "C",
+          "text": "Elektrofahrzeuge"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen \"Verbot für Fahrzeuge aller Art\" schließt alle Fahrzeuge mit ein. Lediglich Krafträder wie Motorräder und Roller sowie Fahrräder dürfen hier geschoben werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-148.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-149",
+      "text": "Wie müssen Sie sich in dieser Straße verhalten, wenn Sie ein Kraftfahrzeug im Lieferverkehr fahren?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich darf nur mit Schrittgeschwindigkeit fahren"
+        },
+        {
+          "id": "B",
+          "text": "Ich muss auf Fußgänger besondere Rücksicht nehmen"
+        },
+        {
+          "id": "C",
+          "text": "Wenn keine Personen in der Nähe sind, darf ich schneller als Schrittgeschwindigkeit fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da hier das Verkehrszeichen „Gehweg“ mit dem Zusatzschild „Lieferverkehr frei“ kombiniert ist, darf man als Lieferant den so gekennzeichneten Straßenteil befahren. Es ist mit Schrittgeschwindigkeit zu fahren, unabhängig davon, ob Fußgänger zu sehen sind oder nicht. Fußgänger haben Vorrang, auf sie ist besondere Rücksicht zu nehmen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-149.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-150",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich darf hier nicht wenden"
+        },
+        {
+          "id": "B",
+          "text": "Ich befinde mich in einer Sackgasse und muss umkehren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf hier nicht links abbiegen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist auf das Verbot hin, zu wenden, um in die Gegenrichtung zu fahren. Links abbiegen ist aber erlaubt. Das Verkehrszeichen gilt nicht für Sackgassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-150.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-151",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich darf nicht schneller als 60 km/h fahren"
+        },
+        {
+          "id": "B",
+          "text": "Die Geschwindigkeit von 60 km/h ist in jedem Fall unbedenklich"
+        },
+        {
+          "id": "C",
+          "text": "Die empfohlene Mindestgeschwindigkeit beträgt 60 km/h"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ab diesen Verkehrszeichen darf unabhängig von den Wetterbedingungen maximal 60 km/h gefahren werden. Bei schlechten Witterungsbedingungen ist die Geschwindigkeit weiter zu verringern. Allerdings besagt das Verkehrszeichen nicht, dass 60 km/h immer unbedenklich gefahren werden dürfen. Für eine empfohlene Mindestgeschwindigkeit gibt es kein Verkehrszeichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-151.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-152",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich darf nur geradeaus weiterfahren"
+        },
+        {
+          "id": "B",
+          "text": "Ich habe Vorrang vor dem Gegenverkehr"
+        },
+        {
+          "id": "C",
+          "text": "Ich befinde mich in einer Einbahnstraße"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen bedeutet „Vorgeschriebene Fahrtrichtung geradeaus“. Sie dürfen hier nur geradeaus fahren und nicht abbiegen. Das Zeichen für „Einbahnstraße“ hat dieselben Farben, ist aber rechteckig.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-152.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-153",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich fahre bremsbereit mit mäßiger Geschwindigkeit heran"
+        },
+        {
+          "id": "B",
+          "text": "Ich gewähre dem Querverkehr die Vorfahrt"
+        },
+        {
+          "id": "C",
+          "text": "Wenn ich rechts abbiege, bin ich nicht wartepflichtig"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen „Vorfahrt gewähren“ signalisiert, dass Sie auf einer untergeordneten Straße fahren und der Querverkehr Vorfahrt hat. Fahren Sie langsam heran und bleiben Sie bremsbereit, sodass Sie kein vorfahrtsberechtigtes Fahrzeug übersehen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-153.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-154",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Reitweg, den Reiter benutzen müssen"
+        },
+        {
+          "id": "B",
+          "text": "Auf einen Reitweg, dessen Benutzung für andere Verkehrsteilnehmer verboten ist"
+        },
+        {
+          "id": "C",
+          "text": "Auf einen Weg, dessen Benutzung für Reiter verboten ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen zeigt Ihnen einen Reiterweg. Auf diesem müssen sich Reiter mit ihren Pferden bewegen. Andere Verkehrsteilnehmer dürfen diesen nicht nutzen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-154.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-155",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- anhalten und Vorfahrt gewähren"
+        },
+        {
+          "id": "B",
+          "text": "- nur anhalten, wenn eine Haltlinie vorhanden ist"
+        },
+        {
+          "id": "C",
+          "text": "- nur bei Querverkehr anhalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Zeichen „Halt! Vorfahrt gewähren!“ schreibt vor, dass Sie unbedingt anhalten und dabei das Fahrzeug bis zum vollständigen Stillstand abbremsen müssen. Es ist unerheblich, ob eine Haltelinie vorhanden ist oder ob gerade Querverkehr kommt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-155.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-156",
+      "text": "Wie müssen Sie sich in dieser Verkehrssituation verhalten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- an der Sichtlinie anhalten und Vorfahrt gewähren"
+        },
+        {
+          "id": "B",
+          "text": "- nicht anhalten, da keine Haltlinie vorhanden ist"
+        },
+        {
+          "id": "C",
+          "text": "- nur bei Querverkehr anhalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei dem Verkehrszeichen „Halt! Vorfahrt gewähren” müssen Sie anhalten und Vorfahrt gewähren. Sie müssen immer anhalten, auch wenn kein Querverkehr kommt. Da keine Haltlinie vorhanden ist, halten Sie an der Sichtlinie. Von der Sichtlinie können Sie die Straße einsehen, in die Sie einfahren wollen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-156.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-157",
+      "text": "Wie müssen Sie sich in dieser Verkehrssituation verhalten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- an der Haltlinie anhalten und Vorfahrt gewähren"
+        },
+        {
+          "id": "B",
+          "text": "- nur am Stoppschild anhalten"
+        },
+        {
+          "id": "C",
+          "text": "- nur bei Querverkehr anhalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Halt! Vorfahrt gewähren”, Stoppschild, fordert, dass Sie anhalten und Vorfahrt gewähren müssen. Da eine Haltlinie vorhanden ist, müssen Sie an der Haltlinie anhalten. Ist keine Haltlinie vorhanden, müssen Sie an der Sichtlinie anhalten, d.h. Räder müssen zum Stehen kommen. Sie müssen immer anhalten, auch wenn kein Querverkehr kommt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-157.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-158",
+      "text": "Sie befahren eine Vorfahrtstraße. Welches Verkehrszeichen beendet Ihre Vorfahrt?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Beispiel 1 bedeutet \"Vorfahrt beachten\", Sie müssen anderen Verkehrsteilnehmern Vorfahrt gewähren. Zeichen 2 gewährt Ihnen Vorfahrt an der nächsten Kreuzung. Zeichen 3 warnt lediglich vor einer Gefahrenstelle.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-158.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-159",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss links blinken"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf nur nach links weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf nicht blinken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen schreibt die Fahrtrichtung vor. Sie dürfen hier ausschließlich nach links abbiegen. Die Änderung der Fahrtrichtung muss durch Blinken angezeigt werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-159.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-160",
+      "text": "Was gilt bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss an Hindernissen links vorbeifahren"
+        },
+        {
+          "id": "B",
+          "text": "Ich bin verpflichtet, nach links abzubiegen"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf vor dem Zeichen nicht nach rechts abbiegen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen schreibt vor, von welcher Seite Sie das Hindernis zu umfahren haben. Sie können das Vorschriftszeichen an Mittel-, Haltestelleninseln oder Baustellen antreffen. Wenn Sie dem Zeichen an einer Kreuzung oder Einmündung begegnen, dürfen Sie in entsprechender Richtung abbiegen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-160.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-161",
+      "text": "Was gilt in dem Bereich von 15 m vor und hinter diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- halten"
+        },
+        {
+          "id": "B",
+          "text": "- ein- oder aussteigende Fahrgäste nicht behindern"
+        },
+        {
+          "id": "C",
+          "text": "- parken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An dem Verkehrszeichen erkennen Sie, dass sich hier eine Haltestelle für Straßenbahnen oder Linienbusse befindet. 15 Meter vor und nach dem Verkehrszeichen dürfen Kfz-FahrerInnen ihre Fahrzeuge nicht parken. Soweit keine öffentlichen Verkehrsmittel behindert oder Fahrgäste gefährdet werden, ist das Halten bis zu drei Minuten erlaubt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-161.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-162",
+      "text": "Was gilt bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss rechts blinken"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf nur nach rechts weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf auch nach links weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die vorgegebene Fahrtrichtung ist bindend. Der/die Kfz-FahrerIn muss vor dem Verkehrszeichen rechts abbiegen und diesen Vorgang durch das Betätigen des Blinkers anderen Verkehrsteilnehmern signalisieren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-162.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-163",
+      "text": "Was gilt bei diesem Verkehrszeichen?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss mit an- und abfahrenden Taxis rechnen"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf halten"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf parken"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen zeigt einen Taxistand an. Es besteht grundsätzlich ein Halteverbot für sämtliche anderen Fahrzeuge. Der/die Kfz-FahrerIn muss in diesem Bereich stets mit abfahrenden und ankommenden Taxis sowie Fahrgästen rechnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-163.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-164",
+      "text": "Worauf weist diese Verkehrszeichenkombination hin?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- von Wintersportlern benutzt werden"
+        },
+        {
+          "id": "B",
+          "text": "- im Winter nicht befahren werden"
+        },
+        {
+          "id": "C",
+          "text": "- nur mit Schneeketten benutzt werden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es handelt sich hier um das Gefahrzeichen \"Gefahrstelle\" sowie um das Zusatzzeichen \"Wintersport erlaubt\". Die Kombination weist darauf hin, dass auch Wintersportler die Straße benutzen dürfen und Verkehrsteilnehmer darauf besonders achten müssen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-164.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-165",
+      "text": "Was müssen Sie in dieser Verkehrssituation beachten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- nicht überfahren"
+        },
+        {
+          "id": "B",
+          "text": "- zum Überholen überfahren"
+        },
+        {
+          "id": "C",
+          "text": "- überfahren, wenn es der Gegenverkehr zulässt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen die Fahrstreifenbegrenzung (durchgezogene Linie), die sich auf der Fahrbahnmitte befindet, nicht nach links überfahren. Das Fahren auf ihr ist ebenso nicht gestattet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-165.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-166",
+      "text": "Was ist auf dieser Vorfahrtstraße zu beachten?",
+      "points": 4,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parken ist verboten"
+        },
+        {
+          "id": "B",
+          "text": "Die Fahrstreifenbegrenzung darf nicht überfahren werden"
+        },
+        {
+          "id": "C",
+          "text": "Parken ist erlaubt, wenn zwischen einem parkenden Fahrzeug und der Fahrstreifenbegrenzung ein Fahrstreifen von mindestens 3 m bleibt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die durchgezogene Leitlinie in der Mitte zwischen beiden Fahrbahnen verbietet das Überqueren oder Überfahren dieser Linie. Zudem verbietet sie außerhalb von geschlossenen Ortschaften das Parken auf Vorfahrtsstraßen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-166.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-167",
+      "text": "Sie möchten überholen. Was ist richtig?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- überholen"
+        },
+        {
+          "id": "B",
+          "text": "- nicht überholen"
+        },
+        {
+          "id": "C",
+          "text": "- nur überholen, wenn ich dabei im rechten Fahrstreifen bleibe"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen überholen, sofern andere Verkehrsteilnehmer nicht gefährdet werden. Die einseitige Fahrbahnbegrenzung erlaubt Ihnen das Überqueren der beiden Linien von der Seite, auf der die unterbrochene Linie aufgemalt ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-167.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-168",
+      "text": "Sie möchten als Anlieger in eine so gekennzeichnete Fahrradstraße einfahren. Was müssen Sie dabei beachten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeuge dürfen nicht schneller als 30 km/h fahren"
+        },
+        {
+          "id": "B",
+          "text": "Fahrräder dürfen nebeneinander fahren"
+        },
+        {
+          "id": "C",
+          "text": "Radverkehr darf nicht behindert werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Für den Verkehr gilt eine Höchstgeschwindigkeit von 30 km/h. Der Radverkehr darf weder gefährdet noch behindert werden. Wenn nötig, muss der Kraftfahrzeugverkehr die Geschwindigkeit weiter verringern. Das Nebeneinanderfahren mit Fahrrädern ist erlaubt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-168.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-169",
+      "text": "Wer darf in eine so gekennzeichnete Straße einfahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alle Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Alle Besucher von Anwohnern"
+        },
+        {
+          "id": "C",
+          "text": "Alle Mofafahrer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Anderer Fahrzeugverkehr als Radverkehr darf Fahrradstraßen nicht benutzen, es sei denn, dies ist durch Zusatzzeichen erlaubt. Das Zusatzzeichen erlaubt es Anliegern in die Fahrradstraße hineinzufahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-169.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-170",
+      "text": "Ihr Fahrstreifen ist mit diesem Verkehrszeichen gekennzeichnet. Was müssen Sie beachten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss mindestens 60 km/h fahren, wenn es die Straßen- und Verkehrsverhältnisse zulassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich benutze diesen Fahrstreifen nur, wenn mein Fahrzeug mindestens 60 km/h fahren kann und dies auch darf"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf nicht schneller als 60 km/h fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen gibt die vorgeschriebene Mindestgeschwindigkeit an. Du musst also mindestens 60 km/h fahren, sofern es die Straßen- und Verkehrsbedingungen zulassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/1.4.41-170.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-171",
+      "text": "Mit welcher Geschwindigkeit dürfen Fahrzeuge in einer so gekennzeichneten Zone höchstens fahren?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [],
+      "correct": [
+        "30"
+      ],
+      "explanation": "Radfahrer, Elektrokleinstfahrzeuge und andere zugelassene Fahrzeuge dürfen in Fahrradzonen höchstens 30 km/h fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.4.41-171.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-172",
+      "text": "Was gilt bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zwischen 22 und 6 Uhr gilt"
+        },
+        {
+          "id": "B",
+          "text": "- zwischen 6 und 22 Uhr gilt"
+        },
+        {
+          "id": "C",
+          "text": "- nicht für Elektrofahrzeuge gilt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Zusatzschild begrenzt die zulässige Höchstgeschwindigkeit in dem Zeitraum von 22 und 6 Uhr.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.4.41-172.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-173",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 2,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- links blinken"
+        },
+        {
+          "id": "B",
+          "text": "- vor dem Verkehrszeichen nach links abbiegen"
+        },
+        {
+          "id": "C",
+          "text": "- hinter dem Verkehrszeichen nach links abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Pfeil auf diesem Verkehrsschild zeigt immer die Fahrtrichtung an. Ist es ein gerader Pfeil, muss vor dem Schild abgebogen werden. Ist es ein gekrümmter Pfeil, muss nach dem Schild abgebogen werden. \nDen Wechsel der Fahrrichtung musst du dich blinken anzeigen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-173.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-174",
+      "text": "Bei welchem Verkehrszeichen ist das Wenden verboten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-174_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-174_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-174_a3.png"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Alle Verkehrszeichen zeigen dir an, dass das Wenden verboten ist.\n\nDas Verkehrszeichen signalisiert dir, dass hier ein Tunnel beginnt. Im Tunnel ist das Wenden strengstens verboten.\n\nDas Verkehrszeichen „Wenden Verboten“ zeigt dir an, dass das Wenden hier verboten ist.\n\nDieses Verkehrsschild zeigt dir an, dass du dich auf einer Autobahn befindest. Auf der Autobahn ist das Wenden strengstens verboten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.41-175",
+      "text": "Ab welchem Verkehrszeichen dürfen Sie eine zulässige Höchstgeschwindigkeit von 60 km/h nicht überschreiten?",
+      "points": 3,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-175_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-175_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.41-175_a3.png"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Verkehrsschilder mit einem roten Rand zeigen grundsätzlich ein Verbot an.\nAuf einer Straße mit einem solchen Verkehrszeichen darfst du die zulässige Höchstgeschwindigkeit von 60 km/h nicht überschreiten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.42-001",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- nur an der nächsten Kreuzung oder Einmündung"
+        },
+        {
+          "id": "B",
+          "text": "- an allen Kreuzungen und Einmündungen dieser Straße"
+        },
+        {
+          "id": "C",
+          "text": "- bis zum Ortsende"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen erlaubt Ihnen die einmalige Vorfahrt an einer bestimmten Stelle. Damit ist die Vorfahrt für den/die Kfz-FahrerIn begrenzt und hat keine allgemeine Gültigkeit.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-001.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-005",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf den Anfang einer Autobahn"
+        },
+        {
+          "id": "B",
+          "text": "Auf das Ende der Autobahn"
+        },
+        {
+          "id": "C",
+          "text": "Auf den Anfang einer Kraftfahrstraße"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen weist darauf hin, dass hier die Autobahn beginnt. Damit treten auch alle Regeln in Kraft, die für diese besondere Art von Straße gelten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-005.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-011",
+      "text": "Ab welchem Verkehrszeichen dürfen Sie nur mit Schrittgeschwindigkeit weiterfahren?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-011_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-011_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-011_a3.png"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "In einem verkehrsberuhigten Bereich darfst du mit deinem Fahrzeug nur in Schrittgeschwindigkeit fahren, da du jederzeit mit Fußgängern oder spielenden Kindern rechnen musst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.42-012",
+      "text": "Bei welchem Verkehrszeichen haben Sie an der nächsten Kreuzung grundsätzlich Vorfahrt?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-012_a1.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-012_a2.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.42-012_a3.png"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen „Einmalige Vorfahrt“ signalisiert dir, dass du bei der nächsten Kreuzung oder Einmündung Vorfahrt hast. Dieses Schild hat jedoch keine Auswirkung auf die übernächste Kreuzung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.42-101",
+      "text": "Welches Verkehrszeichen gibt an der nächsten Kreuzung Vorfahrt?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verkehrszeichen 1"
+        },
+        {
+          "id": "B",
+          "text": "Verkehrszeichen 2"
+        },
+        {
+          "id": "C",
+          "text": "Verkehrszeichen 3"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ausschließlich das Verkehrszeichen Nr. 1 gibt Ihnen an der nächsten Kreuzung Vorfahrt. Das Verkehrszeichen Nr. 2 zeigt hingegen das Ende der Vorfahrtsstraße an und Verkehrszeichen Nr. 3 regelt die Vorfahrt an einer Engstelle.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-101.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-102",
+      "text": "Welches Verkehrszeichen gibt Vorfahrt?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verkehrszeichen 2"
+        },
+        {
+          "id": "B",
+          "text": "Verkehrszeichen 1"
+        },
+        {
+          "id": "C",
+          "text": "Verkehrszeichen 3"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das richtige Verkehrszeichen zur Beachtung der Vorfahrt ist Nummer 2. Nummer 1 zeigt an, dass eine gefährliche Kurve vor dem/der FahrerIn liegt, während Nummer 3 die Nummer einer Bundesstraße angibt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-102.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-104",
+      "text": "Was ist außerorts auf Vorfahrtstraßen erlaubt?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Halten am rechten Fahrbahnrand"
+        },
+        {
+          "id": "B",
+          "text": "Parken auf dem Seitenstreifen"
+        },
+        {
+          "id": "C",
+          "text": "Parken auf der Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Außerhalb geschlossener Ortschaften dürfen Sie auf Vorfahrtstraßen: 1. am rechten Fahrbahnrand halten; 2. auf einem ausreichend befestigen Seitenstreifen parken. Das Parken auf der Fahrbahn ist hingegen verboten. Parkende Fahrzeuge stellen eine Behinderung und/oder Gefährdung für den fließenden Verkehr dar, da Fahrzeuge hier deutlich schneller unterwegs sind als innerhalb des geschlossenen Ortsgebiets. Da ein ausreichend befestigter Seitenstreifen nicht als Fahrbahn gilt, dürfen Sie diesen für das Parken verwenden. Besteht die Möglichkeit, auf einen ausreichend befestigten Seitenstreifen ausweichen, sollten Sie diesen auch zum kurzen Halten nutzen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-104.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-106",
+      "text": "Was endet hier?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Vorfahrtstraße"
+        },
+        {
+          "id": "B",
+          "text": "Ein Zonenhaltverbot"
+        },
+        {
+          "id": "C",
+          "text": "Vorausgegangene Streckenverbote"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrsschild kündigt den Wechsel einer Vorfahrtsregel an. Es kennzeichnet das Ende der bisherigen Vorfahrtsstrecke an. Eine ähnliche Bedeutung haben die Schilder \"Vorfahrt gewähren!\" und \"Halt! Vorfahrt gewähren!\", die Sie an Kreuzungen und Einmündungen finden können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-106.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-107",
+      "text": "Wie verhalten Sie sich bei diesem Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ihren Vorrang dürfen Sie nur dann nutzen, wenn die Engstelle frei ist"
+        },
+        {
+          "id": "B",
+          "text": "Trotz Vorrang müssen Sie sich auf ein Anhalten einstellen"
+        },
+        {
+          "id": "C",
+          "text": "Sie müssen dem Gegenverkehr Vorrang gewähren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen gibt Ihnen den Vorrang vor dem Gegenverkehr. Der Gegenverkehr ist zum Warten vor dem Hindernis verpflichtet. Dennoch müssen Sie sich auf ein Anhalten einstellen, wenn Gegenverkehr bereits in der Engstelle ist. Sie müssen ihn ausfahren lassen. Sie dürfen mit Vorfahrtsrecht weiterfahren, wenn die Engstelle frei ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-107.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-109",
+      "text": "Was ist bei diesen Verkehrszeichen erlaubt?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bewohner mit entsprechend nummeriertem Parkausweis dürfen hier parken"
+        },
+        {
+          "id": "B",
+          "text": "Alle Bewohner dürfen jeden dieser Parkplätze benutzen"
+        },
+        {
+          "id": "C",
+          "text": "Solange noch andere Parkplätze frei sind, darf jeder diesen Parkplatz benutzen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist auf einen Parkplatz hin, der nur von Anwohnern mit entsprechend nummeriertem Parkausweis genutzt werden darf. Andere Verkehrsteilnehmer dürfen dort nicht parken und müssen auf andere Parkmöglichkeiten ausweichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-109.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-110",
+      "text": "Dürfen Sie hier parken?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, als Schwerbehinderter mit amtlichem Parkausweis"
+        },
+        {
+          "id": "B",
+          "text": "Ja, als Begleitperson von Blinden mit amtlichem Parkausweis"
+        },
+        {
+          "id": "C",
+          "text": "Ja, für kurzfristige Einkäufe"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Für Menschen mit einer außergewöhnlichen Gehbehinderung oder Blinde gibt es spezielle Parkplätze. Ein amtlicher Parkausweis kennzeichnet die Fahrzeuge dieser Personen oder ihrer Begleitpersonen. Selbst ein kurzes Parken auf diesen Flächen ist anderen FahrzeugführerInnen untersagt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-110.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-111",
+      "text": "Was ist hier beim Parken zu beachten?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die auf dem Parkschein angegebene Parkzeit darf nicht überschritten werden"
+        },
+        {
+          "id": "B",
+          "text": "Der Parkschein muss für Kontrollen gut lesbar ausgelegt sein"
+        },
+        {
+          "id": "C",
+          "text": "Parkschein und Parkscheibe sind gleichgestellt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf diesem Parkplatz dürfen Sie nur mit einem gültigen Parkschein parken. Bringen Sie den Parkschein gut lesbar hinter der Front- oder Heckscheibe Ihres Pkw an. Achten Sie darauf, die auf dem Parkschein angegebene Parkzeit nicht zu überschreiten. Dabei ersetzt die Parkscheibe den Parkschein nicht: Die Parkscheibe ist nur dann gültig, wenn der Parkautomat außer Betrieb ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-111.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-112",
+      "text": "Welche Fahrzeuge dürfen hier parken?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeuge bis 2,8 t zulässiger Gesamtmasse"
+        },
+        {
+          "id": "B",
+          "text": "Motorräder"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeuge über 3,5 t zulässiger Gesamtmasse"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen regelt die Parksituation für den/die VerkehrsteilnehmerIn. Das Zeichen erlaubt das Parken teilweise auf dem Gehweg, dem Seitenstreifen und dem Grünstreifen für Fahrzeuge bis zu einem Gesamtgewicht von 2,8 Tonnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-112.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-116",
+      "text": "Wie hoch muss die durch die Bauart bestimmte Höchstgeschwindigkeit eines Kraftfahrzeugs mindestens sein, wenn man diese Straße benutzen will?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "61 km/h"
+        },
+        {
+          "id": "B",
+          "text": "51 km/h"
+        },
+        {
+          "id": "C",
+          "text": "81 km/h"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie müssen auf einer Kraftfahrstraße mindestens eine Höchstgeschwindigkeit von 60 km/h mit Ihrem Fahrzeug erzielen können. Der Beginn einer Kraftfahrstraße wird immer durch ein Verkehrszeichen gekennzeichnet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-116.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-119",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Sackgasse"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Unterführung"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine für den Fahrzeugverkehr gesperrte Straße"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Hier handelt es sich um eine Sackgasse. Die Sackgasse kann normal befahren werden, allerdings endet die Straße und Sie müssen Ihr Fahrzeug möglicherweise mit viel Rangieren wenden, um wieder herausfahren zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-119.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-120",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Erste-Hilfe-Station"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Kreuzung"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Gefahrstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen zeigt, dass eine Erste-Hilfe-Station wie beispielsweise „Rotes Kreuz“ oder „Samariter“ an dieser Stelle vorhanden ist. Es weist jedoch auf keine Gefahrenstelle hin.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-120.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-125",
+      "text": "Was ist bei diesem Verkehrszeichen zu beachten?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Straßenbeleuchtung brennt nicht die ganze Nacht"
+        },
+        {
+          "id": "B",
+          "text": "Fahrzeuge dürfen hier ohne Beleuchtung die ganze Nacht geparkt werden"
+        },
+        {
+          "id": "C",
+          "text": "Fahrzeuge dürfen hier nicht geparkt werden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sehen Sie an Laternen dieses Zeichen, dann müssen Sie Ihr Fahrzeug mit einer Parkleuchte sichern. Da diese Laternen nicht die ganze Nacht leuchten, steht ein unbeleuchteter Pkw hier in der Dunkelheit sehr unsicher.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-125.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-126",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Bundesstraße"
+        },
+        {
+          "id": "B",
+          "text": "Es darf nicht schneller als 35 km/h gefahren werden"
+        },
+        {
+          "id": "C",
+          "text": "Es muss mindestens 35 km/h gefahren werden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen weist Sie auf eine Bundesstraße hin. Die angegebene Zahl steht für die Nummer der jeweiligen Bundesstraße und nicht beispielsweise für eine Geschwindigkeitsbegrenzung.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-126.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-128",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine in der Regel weniger befahrene Autobahnstrecke"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine Stelle, an der man die Autobahn verlassen muss"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine vorgeschriebene Umleitung für Fahrzeuge mit gefährlichen Gütern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Umlenkungspfeil weist Sie als Kfz-FahrerIn darauf hin, dass Sie sich auf einem staugefährdeten Autobahnabschnitt befinden und weist eine alternative Strecke aus. Sie sind aber nicht verpflichtet, dieser zu folgen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-128.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-129",
+      "text": "Sie fahren mit Tagfahrlicht in einen so gekennzeichneten beleuchteten Tunnel. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich schalte das Abblendlicht ein"
+        },
+        {
+          "id": "B",
+          "text": "Ich brauche kein Licht einzuschalten"
+        },
+        {
+          "id": "C",
+          "text": "Ich schalte das Standlicht ein"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Als der/die Kfz-FahrerIn müssen Sie das Abblendlicht einschalten. Das Tagfahrlicht reicht nicht aus, da die Lichtverhältnisse im Tunnel nicht an das Tageslicht heranreichen. Sie sind verpflichtet, Ihr Fahrzeug ausreichend kenntlich zu machen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-129.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-130",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "In der nächsten Pannenbucht kann ein Fahrzeug stehen"
+        },
+        {
+          "id": "B",
+          "text": "Im Falle einer Panne soll in der angekündigten Pannenbucht gehalten werden"
+        },
+        {
+          "id": "C",
+          "text": "Um eine Pause zu machen, darf hier gehalten werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen zeigt Ihnen eine Pannenbucht. Dort können und sollen Sie bei einer Panne möglichst halten. Es besteht die Möglichkeit, dass dort bereits ein Fahrzeug steht. Für Pausen darf die Pannenbucht nicht genutzt werden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.42-130.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-131",
+      "text": "Was ist bei diesem Verkehrszeichen zu tun?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sonnenbrille abnehmen"
+        },
+        {
+          "id": "B",
+          "text": "Abblendlicht einschalten"
+        },
+        {
+          "id": "C",
+          "text": "Warnblinklicht einschalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Dieses Verkehrszeichen befindet sich vor der Einfahrt in einen Tunnel. Schalten Sie das Abblendlicht ein und nehmen Sie die Sonnenbrille ab, um eine uneingeschränkte Sicht zu gewährleisten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-131.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-132",
+      "text": "Sie fahren in einen so gekennzeichneten, hell erleuchteten Tunnel. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich fahre mit Abblendlicht"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre ohne Licht"
+        },
+        {
+          "id": "C",
+          "text": "Ich fahre mit Tagfahrlicht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Selbst ein hell beleuchteter Tunnel erreicht keine Tageslichtverhältnisse, von daher müssen Sie hier mit Abblendlicht einfahren, um Ihr Fahrzeug kenntlich zu machen. Das Tagfahrlicht reicht in diesem Fall einfach nicht aus.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-132.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-133",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- eines verkehrsberuhigten Bereichs"
+        },
+        {
+          "id": "B",
+          "text": "- eines Fußgängerbereichs"
+        },
+        {
+          "id": "C",
+          "text": "- eines Spielplatzes"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen weist auf das Ende des verkehrsberuhigten Bereiches hin. Jetzt gelten wieder höhere Geschwindigkeitsvorschriften. Sie haben als der/die Kfz-FahrerIn beim Verlassen keine Vorfahrt und müssen beim Einfahren vorsichtig sein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-133.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-134",
+      "text": "Was bedeutet dieses Verkehrszeichen?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vorfahrtstraße"
+        },
+        {
+          "id": "B",
+          "text": "Parkverbot außerhalb geschlossener Ortschaften auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Kraftfahrstraße"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie fahren auf einer Vorfahrtsstraße. Das Verkehrszeichen wird an jeder Kreuzung oder Einmündung wiederholt, an der Sie Vorfahrt haben. Außerhalb geschlossener Ortschaften ist das Parken auf Vorfahrtstraßen verboten. Auf diesen Straßen wird relativ schnell gefahren und parkende Fahrzeuge würden eine Behinderung bzw. eine Gefährdung darstellen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-134.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-135",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine nummerierte Umleitung"
+        },
+        {
+          "id": "B",
+          "text": "Auf die U-Bahn Linie 3"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine nummerierte Tiefgarage"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Dieses Verkehrszeichen zeigt eine nummerierte Umleitung an. Da es mehrere Umleitungen gibt, werden diese nummeriert. So wissen Sie genau, wo Sie entlangfahren müssen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-135.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-136",
+      "text": "Was müssen Sie bei dieser Verkehrszeichenkombination beachten?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn ich der Vorfahrtstraße folge, muss ich links blinken"
+        },
+        {
+          "id": "B",
+          "text": "Wenn ich geradeaus weiterfahre, muss ich rechts blinken"
+        },
+        {
+          "id": "C",
+          "text": "Die Fahrtrichtung nach links ist vorgeschrieben"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Vorfahrtsstraße wird durch das Zusatzschild um die Ecke geführt. Es ist eine abknickende Vorfahrtsstraße. Wenn Sie auf der Vorfahrtsstraße bleiben, müssen Sie blinken. Sie müssen auf Fußgänger, die die Straße überqueren, Rücksicht nehmen, wenn nötig, müssen Sie anhalten. Die Antwort: „Die Fahrtrichtung nach links ist vorgeschrieben“ ist falsch, da dieses Verkehrszeichen keine Fahrtrichtung vorschreibt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-136.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-137",
+      "text": "Welches Verhalten ist auf Straßen mit solchen Schutzstreifen für Radfahrer richtig?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- den Schutzstreifen bei Bedarf befahren, wenn eine Gefährdung von Radfahrern ausgeschlossen ist"
+        },
+        {
+          "id": "B",
+          "text": "- den Schutzstreifen in keinem Fall befahren"
+        },
+        {
+          "id": "C",
+          "text": "- den Schutzstreifen zum Parken mitbenutzen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Richtzeichen kennzeichnet den Schutzbereich für RadfahrerInnen. Sie dürfen als der/die Kfz-FahrerIn den Schutzstreifen nur befahren, wenn eine Gefährdung für Radfahrer ausgeschlossen ist. Parken ist hier streng verboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.42-137.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-138",
+      "text": "Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss mit mäßiger Geschwindigkeit heranfahren, wenn Fußgänger die Fahrbahn erkennbar überqueren möchten"
+        },
+        {
+          "id": "B",
+          "text": "Ich muss den Fußgängern das Überqueren der Fahrbahn ermöglichen"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf nicht auf dem Fußgängerüberweg zum Stehen kommen, wenn der Verkehr stockt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auf Fußgängerüberwegen haben Fußgänger Vortritt, deswegen sollten Fahrzeuge immer mit mäßiger Geschwindigkeit heranfahren und jederzeit Bremsbereit sein. An Fußgängerüberwegen besteht ein striktes Überholverbot und bei stockendem Verkehr ist es verboten, am Übergang zum Stehen zu kommen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-138.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-139",
+      "text": "Worauf müssen Sie sich hier einstellen?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass der fließende Verkehr anhält"
+        },
+        {
+          "id": "B",
+          "text": "Dass Kinder häufiger als sonst über die Fahrbahn laufen"
+        },
+        {
+          "id": "C",
+          "text": "Dass Kinder unter Anleitung auf der Fahrbahn spielen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Verkehrszeichen ‘Verkehrshelfer‘, früher Schülerlotsen, bedeutet, dass Verkehrshelfer den Verkehr regeln. Sie dürfen den Verkehr anhalten, um Kindern das Überqueren der Straße zu ermöglichen. Sie müssen Sie sich darauf einstellen, dass der fließende Verkehr angehalten wird und Kinder häufiger als sonst über die Fahrbahn laufen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-139.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-140",
+      "text": "Was gilt nach diesem Verkehrszeichen?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss mit Schrittgeschwindigkeit fahren"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf Fußgänger nicht behindern"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf nur auf gekennzeichneten Flächen parken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Sie dürfen innerhalb des verkehrsberuhigten Bereiches maximal Schrittgeschwindigkeit von 4 bis 7 km/h fahren, d.h. erster Gang, ohne Gas zu geben. Die Straße darf vollständig von Fußgängern benutzt werden. Kinder dürfen auf der Straße spielen. Seien Sie besonders aufmerksam und bremsbereit. Fußgänger dürfen nicht behindert oder gefährdet werden, ggf. müssen Sie warten. Da dort das Spielen auf der Straße erlaubt ist, müssen Sie verstärkt auf Kinder achten. Parken dürfen Sie nur auf gekennzeichneten Flächen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-140.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-141",
+      "text": "Was bedeutet diese Verkehrszeichenkombination für Sie?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich befinde mich auf einer Vorfahrtstraße, die nach links abknickt"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf nicht nach rechts abbiegen oder geradeaus fahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich muss die Vorfahrt der von rechts kommenden Fahrzeuge beachten, wenn ich geradeaus weiterfahre"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen gibt den Verlauf der Vorfahrtsstraße an. Das Zusatzschild zeigt die Abknickung nach links an; wenn Sie dieser Richtung folgen, befinden Sie sich weiterhin auf der vorfahrtsberechtigten Straße.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-141.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-142",
+      "text": "Was müssen Sie bei diesem Verkehrszeichen beachten?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kinder dürfen auf der gesamten Straße spielen"
+        },
+        {
+          "id": "B",
+          "text": "Kraftfahrzeuge müssen mit Schrittgeschwindigkeit fahren"
+        },
+        {
+          "id": "C",
+          "text": "Fußgänger dürfen die ganze Straßenbreite nutzen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei dieser Frage sind alle drei Antworten korrekt. In einem \"verkehrsberuhigten Bereich\" dürfen Fußgänger die gesamte Straßenbreite nutzen, Kinder auf der Straße spielen und Sie dürfen nur mit Schrittgeschwindigkeit fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-142.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-143",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Zollstelle"
+        },
+        {
+          "id": "B",
+          "text": "Auf eine mautpflichtige Straße"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Durchfahrtsverbot"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Erblicken Sie dieses Verkehrszeichen, nähern Sie sich einer Zollstelle. Das bedeutet, dass Sie eventuell auf einen Stau auffahren und daher Ihre Geschwindigkeit reduzieren sollten. Vielleicht werden Sie auch kontrolliert, von daher haben Sie alle Papiere am besten parat. Folgen Sie den Anweisungen der ZollbeamtInnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-143.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-144",
+      "text": "Was gilt hier?",
+      "points": 2,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- endet eine geschlossene Ortschaft"
+        },
+        {
+          "id": "B",
+          "text": "- beginnt eine geschlossene Ortschaft"
+        },
+        {
+          "id": "C",
+          "text": "- endet eine Umleitung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Ortstafel zeigt auf ihrer Rückseite im unteren Teil das Ende einer geschlossenen Ortschaft an. Auf dem oberen Teil wird auf die nächste Ortschaft hingewiesen. Sie steht am linken Fahrbahnrand.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-144.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-145",
+      "text": "Was müssen Sie in Verkehrssituationen wie dieser beachten?",
+      "points": 3,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- überfahren, um an Hindernissen vorbeizufahren"
+        },
+        {
+          "id": "B",
+          "text": "- überfahren, um zu überholen"
+        },
+        {
+          "id": "C",
+          "text": "- nicht überfahren, wenn dadurch der Verkehr gefährdet wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Leitlinien haben die Aufgabe, die Fahrbahnen zu trennen. Deswegen dürfen sie nur überfahren werden, wenn Sie Hindernisse umfahren oder Fahrzeuge überholen. Solches ist nur erlaubt, wenn kein Verkehrsteilnehmer gefährdet wird.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-145.png",
+      "video": null
+    },
+    {
+      "id": "1.4.42-146",
+      "text": "Worauf weist dieses Verkehrszeichen hin?",
+      "points": 4,
+      "chapter": "Richtzeichen",
+      "chapterNumber": "1.4.42",
+      "chapterName": "Richtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf eine Nothalte- und Pannenbucht"
+        },
+        {
+          "id": "B",
+          "text": "Auf einen vorübergehenden Zusatzfahrstreifen"
+        },
+        {
+          "id": "C",
+          "text": "Auf eine Haltemöglichkeit für Pausen und Fahrerwechsel"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wer ein Fahrzeug führt, darf nur im Notfall oder bei einer Panne in einer Nothalte- und Pannenbucht halten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.42-146.png",
+      "video": null
+    },
+    {
+      "id": "1.4.43-101",
+      "text": "Worauf können rot-weiße Warntafeln an Fahrzeugen hinweisen?",
+      "points": 3,
+      "chapter": "Verkehrseinrichtungen",
+      "chapterNumber": "1.4.43",
+      "chapterName": "Verkehrseinrichtungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf einen Anhänger, der innerhalb einer geschlossenen Ortschaft auf der Fahrbahn abgestellt ist"
+        },
+        {
+          "id": "B",
+          "text": "Auf ein Fahrzeug mit Überbreite"
+        },
+        {
+          "id": "C",
+          "text": "Auf ein Gefahrgutfahrzeug"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Rot-weiße Warntafeln weisen auf Fahrzeuge mit Überbreite hin (z.B. überbreite landwirtschaftliche Fahrzeuge). Anhänger, die innerhalb einer geschlossenen Ortschaft abgestellt wurden, müssen entweder beleuchtet oder durch reflektierende Warntafeln gekennzeichnet werden. Warntafeln weisen also nicht auf ein Gefahrgutfahrzeug hin.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

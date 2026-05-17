@@ -1,0 +1,873 @@
+{
+  "id": "2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge",
+  "title": "Vorschriften ueber den Betrieb der Fahrzeuge",
+  "themeNumber": "Thema 2.6.",
+  "section": "zusatzstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 2.6. Vorschriften ueber den Betrieb der Fahrzeuge",
+  "questionCount": 32,
+  "questions": [
+    {
+      "id": "2.6.01-003",
+      "text": "Woran können Sie erkennen, wann Sie Ihr Fahrzeug zur nächsten Hauptuntersuchung vorführen müssen?",
+      "points": 2,
+      "chapter": "Untersuchung Der Fahrzeuge",
+      "chapterNumber": "2.6.01",
+      "chapterName": "Untersuchung Der Fahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "An der Prüfplakette auf dem hinteren amtlichen Kennzeichen"
+        },
+        {
+          "id": "B",
+          "text": "An der Eintragung in der Zulassungsbescheinigung Teil I"
+        },
+        {
+          "id": "C",
+          "text": "An der Eintragung in der Bedienungsanleitung meines Fahrzeugs"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Zum einen kannst du es an der Eintragung in der Zulassungsbescheinigung Teil I erkennen und an der Prüfplakette auf dem hinteren amtlichen Kennzeichen. Die Bedienungsanleitung ist keine Hilfe dafür.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.01-105",
+      "text": "Sie haben einen gebrauchten Pkw gekauft. Die Hauptuntersuchung ist neu. Wann ist die nächste Hauptuntersuchung fällig?",
+      "points": 2,
+      "chapter": "Untersuchung Der Fahrzeuge",
+      "chapterNumber": "2.6.01",
+      "chapterName": "Untersuchung Der Fahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nach zwei Jahren"
+        },
+        {
+          "id": "B",
+          "text": "Nach einem Jahr"
+        },
+        {
+          "id": "C",
+          "text": "Nach drei Jahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Liegt die Hauptuntersuchung bei einem gebraucht gekauften Pkw gerade erst zurück, müssen Sie die nächste Hauptuntersuchung nach zwei Jahren durchführen lassen. Lediglich bei neu gekauften Pkws beträgt die Frist bis zur nächsten Hauptuntersuchung drei Jahre.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.01-106",
+      "text": "Sie haben Ihren zugelassenen Wohnanhänger während des Winterhalbjahres auf einem Campingplatz abgestellt. Was gilt hinsichtlich der Hauptuntersuchung?",
+      "points": 2,
+      "chapter": "Untersuchung Der Fahrzeuge",
+      "chapterNumber": "2.6.01",
+      "chapterName": "Untersuchung Der Fahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der auf der Prüfplakette angegebene Termin ist einzuhalten"
+        },
+        {
+          "id": "B",
+          "text": "Der auf der Prüfplakette angegebene Termin verschiebt sich um die Standzeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Auch wenn Sie Ihren Wohnanhänger auf einem Campingplatz abgestellt haben, müssen Sie den Termin für die Hauptuntersuchung einhalten. Technische Mängel wie zum Beispiel Rost können jederzeit auftreten und sich zu einem Sicherheitsrisiko entwickeln, wenn sie nicht behoben werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.01-108",
+      "text": "Sie haben einen 3 Jahre alten Pkw gekauft und möchten diesen privat nutzen. Die Hauptuntersuchung ist neu. Welche Frist gilt für die nächste Hauptuntersuchung?",
+      "points": 2,
+      "chapter": "Untersuchung Der Fahrzeuge",
+      "chapterNumber": "2.6.01",
+      "chapterName": "Untersuchung Der Fahrzeuge",
+      "options": [],
+      "correct": [
+        "24"
+      ],
+      "explanation": "Die erste Hauptuntersuchung eines PKWs erfolgt nach drei Jahren, jede weitere Hauptuntersuchung erfolgt alle 2 Jahre.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-027",
+      "text": "Welche Dokumente müssen Sie mitführen, wenn Sie ein zulassungspflichtiges Kraftfahrzeug führen möchten?",
+      "points": 2,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "Den Führerschein"
+        },
+        {
+          "id": "B",
+          "text": "Die Zulassungsbescheinigung Teil I (Fahrzeugschein)"
+        },
+        {
+          "id": "C",
+          "text": "Die Zulassungsbescheinigung Teil II (Fahrzeugbrief)"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Als Kfz-FahrerIn müssen Sie immer Ihren Führerschein und Ihren Fahrzeugschein (Zulassungsbescheinigung Teil 1) bei sich haben. Den Fahrzeugbrief (Zulassungsbescheinigung Teil 2) sollten Sie sicher zu Hause aufbewahren. Er dient als Eigentumsnachweis und wird unterwegs nicht benötigt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-030",
+      "text": "Durch eine technische Änderung an Ihrem Fahrzeug ist die Betriebserlaubnis erloschen. Mit welchen Folgen müssen Sie rechnen, wenn Sie das Fahrzeug dennoch auf öffentlichen Straßen benutzen?",
+      "points": 3,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mit einem Bußgeld"
+        },
+        {
+          "id": "B",
+          "text": "Mit einem Eintrag im Fahreignungsregister"
+        },
+        {
+          "id": "C",
+          "text": "Mit dem Verlust meines Versicherungsschutzes"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn Sie Ihr Fahrzeug trotz erloschener Betriebserlaubnis auf öffentlichen Straßen nutzen, verlieren Sie Ihren Versicherungsschutz, da das Fahrzeug nicht mehr das ist welches ursprünglich versichert wurde. Da in Deutschland Versicherungspflicht besteht resultiert daraus eine Ordnungswidrigkeit durch das fahren ohne Versicherungsschutz. Bei einer Kontrolle durch die Polizei wird ein Bußgeld verhängt und Sie müssen mit einem Eintrag ins Fahreignungsregister rechnen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-036",
+      "text": "Wegen einer technischen Änderung an Ihrem Fahrzeug ist eine Begutachtung erfolgt. Wozu sind Sie verpflichtet?",
+      "points": 3,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mitführen und gegebenenfalls die Zulassungsbescheinigung Teil I berichtigen lassen"
+        },
+        {
+          "id": "B",
+          "text": "- dem Fahrzeughersteller übersenden"
+        },
+        {
+          "id": "C",
+          "text": "- an der dafür vorgesehenen Stelle in der Zulassungsbescheinigung Teil II einkleben"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Nach der technischen Veränderung eines Fahrzeugs wird bei der Begutachtung in der Regel ein Abnahmeprotokoll erstellt. Es kann jedoch auch eine Eintragung im Teil 1 der Zulassungsbescheinigung erfolgen. Das Protokoll ist durch den/die Kfz-FahrerIn während jeder Fahrt mitzuführen. Auf Verlangen muss das Protokoll beispielsweise bei einer Polizeikontrolle vorgezeigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-038",
+      "text": "Nach Umbauten an Ihrem Fahrzeug ist eine Begutachtung erforderlich. Wann muss diese erfolgen?",
+      "points": 3,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unverzüglich nach dem Umbau"
+        },
+        {
+          "id": "B",
+          "text": "Bei der nächsten Inspektion"
+        },
+        {
+          "id": "C",
+          "text": "Nach Aufforderung durch die Zulassungsstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Begutachtung muss umgehend nach dem Umbau erfolgen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-101",
+      "text": "Wegen \"Tieferlegung\" Ihres Pkw ist eine Begutachtung erforderlich. Wann muss diese erfolgen?",
+      "points": 3,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unverzüglich nach dem Umbau"
+        },
+        {
+          "id": "B",
+          "text": "Zusammen mit der nächsten Hauptuntersuchung, spätestens 1 Jahr nach Umbau"
+        },
+        {
+          "id": "C",
+          "text": "Nach Aufforderung durch die Zulassungsstelle"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Tieferlegen eines Pkws ist eine abnahmepflichtige Änderung, weil Veränderungen am Fahrwerk vorgenommen wurden. Daher muss die Begutachtung unverzüglich erfolgen. Sie müssen das Gutachten oder die Bestätigung immer mitführen und gegebenenfalls diese technische Änderung in die Zulassungsbescheinigung Teil I, den Fahrzeugschein, eintragen lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.02-104",
+      "text": "Sie besitzen die Fahrerlaubnis der Klasse B. Ihr Pkw hat folgende Daten: - Leermasse 1.900 kg - zulässige Gesamtmasse 2.400 kg - zulässige Anhängelast 1.500 kg Welchen Anhänger dürfen Sie mitführen?",
+      "points": 3,
+      "chapter": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "chapterNumber": "2.6.02",
+      "chapterName": "Zulassung Zum Strassenverkehr Fahrzeugpapiere Fahrerlaubnis",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.000 kg"
+        },
+        {
+          "id": "B",
+          "text": "1.200 kg"
+        },
+        {
+          "id": "C",
+          "text": "1.500 kg"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Unabhängig von den Angaben darf ein Fahrzeug plus Anhänger bei Fahrerlaubnis Klasse B nur ein beschränktes Gesamtgewicht von 3.500 kg aufweisen. Bei voller Beladung des Pkws darf der beladene Anhänger also nicht mehr als 1.100 kg wiegen. Ausnahme: Der Pkw hat eine zulässige Gesamtmasse von 3.500 kg und der Anhänger wiegt unter 750 kg.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-001",
+      "text": "Was ist beim Rückwärtsfahren mit einer Fahrzeugkombination richtig, wenn die Sicht nach hinten beeinträchtigt ist?",
+      "points": 4,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn die Sichtverbindung zur einweisenden Person abreißt, muss angehalten werden"
+        },
+        {
+          "id": "B",
+          "text": "Nur beim Einfahren in eine Vorfahrtstraße ist Einweisung erforderlich"
+        },
+        {
+          "id": "C",
+          "text": "Auf einem Betriebsgelände kann auf Einweisung verzichtet werden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Fahren Sie mit einer Fahrzeugkombination rückwärts und ist Ihre Sicht nach hinten eingeschränkt, müssen Sie darauf achten, dass Sie andere Verkehrsteilnehmer nicht gefährden. Sie sollten sich daher in den Straßenverkehr einweisen lassen. Das gilt auch für das Betriebsgelände.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-101",
+      "text": "Wie viele Anhänger dürfen hinter einem Lkw der Klasse B mitgeführt werden?",
+      "points": 2,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [],
+      "correct": [
+        "1"
+      ],
+      "explanation": "Es darf hinter Kraftfahrzeugen (Klasse B) nur ein Anhänger mitgeführt werden. Allerdings nicht zur Personenbeförderung (Omnibusanhänger).",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-102",
+      "text": "Auf einer Straße mit Schlaglöchern kommt Ihr Anhänger ins \"Springen\". Wie müssen Sie sich verhalten?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vermindern, um Schleudern zu verhindern"
+        },
+        {
+          "id": "B",
+          "text": "Beschleunigen, um den Zug gestreckt zu halten"
+        },
+        {
+          "id": "C",
+          "text": "Mit gleich bleibender Geschwindigkeit den Schlaglöchern ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sollten nicht weiter beschleunigen, da dadurch der Anhänger aufschaukeln würde. Bremsen Sie stattdessen leicht ab. Eine verringerte Geschwindigkeit bringt den Anhänger wieder unter Kontrolle.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-105",
+      "text": "Worauf müssen Sie achten, wenn Sie hinter Ihrem Pkw einen Anhänger mit Auflaufbremse mitführen wollen?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dass die tatsächliche Gesamtmasse des Anhängers nicht größer ist als die für den Pkw zugelassene Anhängelast"
+        },
+        {
+          "id": "B",
+          "text": "Dass das Abreißseil mit dem Zugfahrzeug verbunden ist"
+        },
+        {
+          "id": "C",
+          "text": "Dass die zulässige Höchstgeschwindigkeit dieses Zuges auch auf Autobahnen 60 km/h beträgt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Achten Sie darauf, dass das Abreißseil ordnungsgemäß befestigt ist. Es bewirkt, dass im Falle des Ablösens die Bremse des Anhängers automatisch anzieht und den Anhänger zum Stehen bringt. Die Auflaufbremse hat mit der zulässigen Höchstgeschwindigkeit nichts zu tun.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-106",
+      "text": "Was bezeichnet man als Anhängelast?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die tatsächlich gezogene Last"
+        },
+        {
+          "id": "B",
+          "text": "Die zulässige Gesamtmasse des Anhängers"
+        },
+        {
+          "id": "C",
+          "text": "Die Nutzlast des Anhängers"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Als Anhängelast wird nur die tatsächlich gezogene Last bezeichnet, also das Gewicht des Anhängers. Der Hersteller legt diesen Wert fest für das Mitführen eines Anhängers.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-111",
+      "text": "Sie möchten einen Anhänger mitführen. Wann müssen zusätzliche Rückspiegel an Ihrem Kraftfahrzeug angebracht werden?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn nicht alle wesentlichen Verkehrsvorgänge ohne zusätzliche Rückspiegel beobachtet werden können"
+        },
+        {
+          "id": "B",
+          "text": "Wenn die Ladefläche des Anhängers eine Breite von 1,5 m und eine Höhe von 1 m überschreitet"
+        },
+        {
+          "id": "C",
+          "text": "Wenn es sich um einen Wohnanhänger oder um einen land- und forstwirtschaftlich genutzten Anhänger handelt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie als Kfz-FahrerIn sind für ausreichende Sicht am Fahrzeug verantwortlich. Wird die Sicht durch einen Anhänger beeinträchtigt und reichen die vorgeschriebenen Spiegel nicht mehr aus, müssen Sie zusätzliche Spiegel anbringen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-112",
+      "text": "Sie möchten einen gebremsten Anhänger mitführen. Wo finden Sie Angaben bzw. Hinweise zur zulässigen Anhängelast Ihres Pkws?",
+      "points": 2,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "In der Zulassungsbescheinigung Teil I meines Pkws"
+        },
+        {
+          "id": "B",
+          "text": "In der Zulassungsbescheinigung Teil I meines Anhängers"
+        },
+        {
+          "id": "C",
+          "text": "Im Versicherungsschein"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Information, wie viel Anhängelast ein Zugfahrzeug ziehen kann, befindet sich in der Zulassungsbescheinigung (1. Teil) und in der Betriebsanleitung des Fahrzeugs.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-113",
+      "text": "Sie möchten an Ihren Pkw einen Anhänger ankuppeln. Wo können Sie die Angabe über die zulässige Stützlast Ihres Pkws finden?",
+      "points": 2,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Betriebsanleitung"
+        },
+        {
+          "id": "B",
+          "text": "- Zulassungsbescheinigung Teil I"
+        },
+        {
+          "id": "C",
+          "text": "- Zulassungsbescheinigung Teil II"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Informationen über die zulässige Anhängelast finden Sie in Teil 1 der Zulassungsbescheinigung des Pkws als Zufahrzeug und in dessen Betriebsanleitung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-114",
+      "text": "Sie möchten einen Anhänger mitführen. Was müssen Sie beachten?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Anhängelast des Zugfahrzeugs"
+        },
+        {
+          "id": "B",
+          "text": "- Stützlast an der Anhängekupplung"
+        },
+        {
+          "id": "C",
+          "text": "- Zuladung des Anhängers"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Hersteller gibt vor wir hoch die maximale Stützlast, die Zuladung und die Anhängelast sein darf. Werden die Werte nicht eingehalten kann es Auswirkungen auf das Fahrverhalten haben und somit zu einem Unfall führen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-115",
+      "text": "Sie fahren mit einem Anhänger auf einer Straße mit Schlaglöchern. Ihre Fahrzeugkombination schaukelt sich auf. Wie müssen Sie sich jetzt verhalten?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Geschwindigkeit verringern, um ein Schleudern zu verhindern"
+        },
+        {
+          "id": "B",
+          "text": "- beschleunigen, um die Fahrzeugkombination gestreckt zu halten"
+        },
+        {
+          "id": "C",
+          "text": "- schnell gegenlenken, um ein Schleudern zu verhindern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Durch das Verringern der Geschwindigkeit kannst du das Schleudern verhindern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-116",
+      "text": "Wie viele Anhänger dürfen hinter einem Pkw mitgeführt werden?",
+      "points": 2,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [],
+      "correct": [
+        "1"
+      ],
+      "explanation": "Laut  StVZO § 32 a Mitführen von Anhängern: Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförderung (Omnibusanhänger), mitgeführt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-117",
+      "text": "Sie möchten einen Anhänger mit einer zulässigen Gesamtmasse über 750 kg mit Ihrem Pkw verbinden. Was müssen Sie dabei beachten?",
+      "points": 2,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Handgriff der Zugkugelkupplung muss mechanisch und optisch überprüft werden"
+        },
+        {
+          "id": "B",
+          "text": "Das Abreißseil muss sachgerecht angebracht sein"
+        },
+        {
+          "id": "C",
+          "text": "Die Beleuchtungseinrichtung des Anhängers muss nach dem Ankuppeln auf ihre Funktion hin überprüft werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Damit der Anhänger richtig angeschlossen ist, muss die Kupplungsklaue den Kugelkopf vollständig umschließen. Wenn die Sicherung einrastet, ist gewährleistet, dass sich die Kupplungsklaue nicht selbstständig lösen kann. Prüfe dies mit Hand und Auge. Zusätzlich müssen Anhänger mit einer zulässigen Gesamtmasse von über 750 kg zusätzlich mit einem Abreißseil gesichert werden. Prüfe vor Fahrtantritt, ob es sachgerecht angebracht ist. \nNachdem du alle Verbindungen geprüft hast, musst du vor Fahrtantritt auch noch die Beleuchtung kontrollieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-118",
+      "text": "Sie fahren einen Pkw mit einem voll beladenen auflaufgebremsten Anhänger. Welche Besonderheit ist zu beachten?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei längeren Bergabfahrten kann es zur Überhitzung der Anhängerbremse kommen"
+        },
+        {
+          "id": "B",
+          "text": "Die Auflaufbremse ist bei einer bergauf stehenden Fahrzeugkombination unwirksam"
+        },
+        {
+          "id": "C",
+          "text": "Vor dem Trennen der Fahrzeugkombination muss die Feststellbremse des Anhängers angezogen werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Damit der Anhänger nicht wegrollt, wenn du ihn vom Zugfahrzeug trennst, solltest du die Feststellbremse des Anhängers anziehen. Die Anhängerbremse kann bei längeren Bergabfahrten überhitzen. Möglicherweise musst du in dem Fall Pausen bei der Abfahrt einlegen.\nDie Auflaufbremse wird nur aktiviert, wenn der Anhänger auf das Zugfahrzeug aufläuft. Wenn du bergauf fährst, ist das beim Bremsen möglicherweise nicht der Fall, je nachdem wie stark du bremst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-119",
+      "text": "Was ist beim Führen eines Pkws zu beachten, nachdem Sie einen Wohnanhänger angekuppelt haben?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "- verlängert sich der Überholweg"
+        },
+        {
+          "id": "B",
+          "text": "- verschlechtert sich das Beschleunigungsvermögen"
+        },
+        {
+          "id": "C",
+          "text": "- verkleinert sich der benötigte Kurvenradius beim Abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Beim Überholen verlängert sich dein Überholweg um die Länge des Wohnanhängers. Da dein Fahrzeug durch das Gewicht des Wohnanhängers schlechter beschleunigt, verlängert sich der Überholweg zusätzlich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-120",
+      "text": "Sie besitzen eine Fahrerlaubnis der Klasse B. Welchen Anhänger dürfen Sie mitführen?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "- bis 750 kg"
+        },
+        {
+          "id": "B",
+          "text": "- über 750 kg, wenn die zulässige Gesamtmasse der Fahrzeugkombination 3.500 kg nicht überschreitet"
+        },
+        {
+          "id": "C",
+          "text": "- von 3.500 kg"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahrer mit der Führerscheinklasse B dürfen einen Anhänger mit einer zulässigen Gesamtmasse von 750 kg mitführen. Solange die zulässige Gesamtmasse der Fahrzeugkombination 3.500 kg nicht überschreitet, darf die zulässige Gesamtmasse deines Anhängers auch größer als 750 kg sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.03-121",
+      "text": "Was kann die Fahrstabilität eines mitgeführten Anhängers beeinträchtigen?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein weit hinten im Anhänger liegender Ladungsschwerpunkt"
+        },
+        {
+          "id": "B",
+          "text": "Ein zu niedriger Reifenfülldruck der Anhängerreifen"
+        },
+        {
+          "id": "C",
+          "text": "Ein undichter Stoßdämpfer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Ladung eines Anhängers sollte so verteilt sein, dass der Ladungsschwerpunkt möglichst nah an der Achse des Anhängers liegt. Das sorgt für eine optimale Fahrstabilität und Kontrollierbarkeit des Anhängers.\nEin weit hinten liegender Ladungsschwerpunkt kann die Fahrstabilität deines Anhängers stark beeinträchtigen. Dadurch kann der Anhänger bei plötzlichen Lenkbewegungen oder höheren Geschwindigkeiten leichter ins Schlingern geraten und die Unfallgefahr erhöhen.\nEin zu niedriger Reifendruck beim Anhänger kann die Fahrstabilität deines Anhängers beeinträchtigen. Zum einen führt der niedrige Reifendruck zu einer schlechteren Straßenhaftung, was deinen Anhänger in Kurven unkontrollierbarer macht. Zum anderen führt der niedrige Reifendruck zu einem erhöhtem Reifenverschleiß, welcher Reifenschäden während der Fahrt begünstigt.\nAuch ein bereits undichter Stoßdämpfer kann die Fahrstabilität deines Anhängers negativ beeinflussen. Der undichte Stoßdämpfer an deinem Anhänger verliert seine Dämpfungseigenschaft, was zu einem unruhigen Fahrverhalten und zu schwer kontrollierbaren Gefahrensituationen führen kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.06-101",
+      "text": "Was müssen Sie beim Betrieb von Fahrzeugen hinsichtlich der Fahrzeughöhe beachten?",
+      "points": 3,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mich über die tatsächliche Höhe des Fahrzeugs informieren"
+        },
+        {
+          "id": "B",
+          "text": "- mich über die tatsächliche Höhe der Ladung informieren, die über den Fahrzeugumriss hinausragt"
+        },
+        {
+          "id": "C",
+          "text": "- die Verbote zur tatsächlichen Höhe beachten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Vor Fahrtantritt solltest du dich über die tatsächliche Höhe des Fahrzeugs informieren, dich über die tatsächliche Höhe der Ladung informieren, die über den Fahrzeugumriss hinausragt und die Verbote zur tatsächlichen Höhe beachten (Sichtwort Unterführungen/Brücken)",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.06-102",
+      "text": "Was bezeichnet man als zulässige Nutzlast?",
+      "points": 3,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die maximal zulässige Zuladung"
+        },
+        {
+          "id": "B",
+          "text": "Die Differenz aus zulässiger Gesamtmasse und Leermasse"
+        },
+        {
+          "id": "C",
+          "text": "Die zulässige Gesamtmasse"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die zulässige Nutzlast - also das Gewicht, das du beladen darfst - ist leider nicht im Fahrzeugschein zu finden. Sie lässt sich aber durch zwei andere Angaben herausfinden: Das Leergewicht und die zulässige Gesamtmasse.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.06-103",
+      "text": "Wie lang darf eine Fahrzeugkombination bestehend aus Pkw und Anhänger ohne überstehende Ladung höchstens sein?",
+      "points": 2,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [],
+      "correct": [
+        "18"
+      ],
+      "explanation": "Ohne Ladung darf dein Pkw mit Anhänger bis zu 18,00 m lang sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.06-104",
+      "text": "Was gilt beim Betrieb von Fahrzeugen hinsichtlich der Fahrzeughöhe einschließlich der Höhe der Ladung?",
+      "points": 3,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mich in der Zulassungsbescheinigung Teil I über die Fahrzeughöhe informieren"
+        },
+        {
+          "id": "B",
+          "text": "- bei nach oben über den Fahrzeugumriss hinausragender Ladung die tatsächliche Höhe ermitteln"
+        },
+        {
+          "id": "C",
+          "text": "- die gesetzlich zulässige Höhe von maximal 4,5 m einhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du musst dich in der Zulassungsbeschränkung Teil 1, dem sogenannten Fahrzeugschein, über deine genaue Fahrzeughöhe informieren. So verhinderst du zum einen Gefahrensituationen auf Straßenabschnitten mit begrenzter Höhe und zum anderen Verstöße gegen die zulässige Gesamthöhe. \nFalls die Ladung über den Fahrzeugumriss hinausragt, musst du die tatsächliche Höhe deines Fahrzeugs mit jeweiliger Ladung ermitteln. So stellst du sicher, dass die zulässige Gesamthöhe nicht überschritten wird.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.07-001",
+      "text": "Was müssen Sie bei der Benutzung von Navigationssystemen und Straßenkarten beachten?",
+      "points": 2,
+      "chapter": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "chapterNumber": "2.6.07",
+      "chapterName": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Inhalte können schon kurz nach dem Kauf veraltet sein"
+        },
+        {
+          "id": "B",
+          "text": "Auch aktuelle Inhalte können von der Realität abweichen"
+        },
+        {
+          "id": "C",
+          "text": "Alle Navigationssysteme können sich automatisch aktualisieren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei der Benutzung eines Navis, solltest du darauf achten, dass auch aktuelle Inhalte von der Realität abweichen können und die Inhalte können schon kurz nach dem Kauf veraltet sein. Eine Garantie auf Aktualität trotz automatischer Aktualisierung gibt es nicht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.07-101",
+      "text": "Was sollten Sie bei der Streckenplanung ins Ausland beachten?",
+      "points": 2,
+      "chapter": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "chapterNumber": "2.6.07",
+      "chapterName": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Bedingungen für die innerstädtische Straßennutzung gelten (zum Beispiel City-Maut)"
+        },
+        {
+          "id": "B",
+          "text": "- Kennzeichnungspflichten für das Befahren von Umweltzonen bestehen"
+        },
+        {
+          "id": "C",
+          "text": "- Geschwindigkeitsbeschränkungen gelten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Erkundigen Sie sich vor der Fahrt welche Bestimmungen im Ausland gelten.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

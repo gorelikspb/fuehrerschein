@@ -1,0 +1,284 @@
+{
+  "id": "1-3-vorfahrt-vorrang",
+  "title": "Vorfahrt Vorrang",
+  "themeNumber": "Thema 1.3.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.3. Vorfahrt Vorrang",
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "1.3.01-001",
+      "text": "An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Straßenkreuzungen und -einmündungen"
+        },
+        {
+          "id": "B",
+          "text": "An Grundstücksausfahrten"
+        },
+        {
+          "id": "C",
+          "text": "Am Ende eines verkehrsberuhigten Bereiches"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt „rechts vor links“. Wenn ein Fahrzeug aus einem Grundstück oder einem verkehrsberuhigten Bereich hinausfährt, haben alle anderen Verkehrsteilnehmer Vorrang, auch Fußgänger und Kinder, die auf dem Gehweg fahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-002",
+      "text": "An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Straßenkreuzungen und -einmündungen"
+        },
+        {
+          "id": "B",
+          "text": "An Einmündungen mit abgesenktem Bordstein"
+        },
+        {
+          "id": "C",
+          "text": "Wo Feld- oder Waldwege in eine andere Straße münden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An Kreuzungen und Einmündungen ohne Vorfahrtsschilder haben die von rechts kommenden Fahrzeuge Vorfahrt. Gleiches gilt für Straßen, die gemäß ihrer Beschilderung gleichrangig sind. Eine Ausnahme bilden Fahrbahnen mit abgesenktem Bordstein, Grundstücksausfahrten sowie Feld- und Waldwege. Befinden Sie sich auf einer dieser Straßen, haben Sie den anderen Verkehrsteilnehmern Vorrang zu gewähren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-003",
+      "text": "Sie kommen an eine Kreuzung, an der Sie die Vorfahrtlage nicht gleich überblicken. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warten, beobachten und sich gegebenenfalls mit anderen verständigen"
+        },
+        {
+          "id": "B",
+          "text": "Nach der Regel „rechts vor links“ fahren"
+        },
+        {
+          "id": "C",
+          "text": "Als Geradeausfahrer immer durchfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es gibt Situationen, die bezüglich der Vorfahrtsregelung schwierig zu überblicken sind. Hier sollten Sie abwarten und die anderen Kfz-FahrerInnen beobachten. Falls sich die Lage nicht klärt, kann man durch deutliche Handzeichen miteinander kommunizieren. Einfach geradeaus weiterzufahren oder nach der Regel \"rechts vor links\" zu agieren, wäre zu riskant und unfallträchtig.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-052",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss die Radfahrerin durchfahren lassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich verzichte auf meine Vorfahrt, um die Kreuzung nicht zu verstopfen"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf vor der Radfahrerin links abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aufgrund der Regel \"rechts vor links\" hätten Sie gegenüber dem grünen Pkw Vorrang. Allerdings müssen Sie dem entgegenkommenden Radfahrer, dessen Fahrbahn Sie kreuzen würden, Vorfahrt gewähren. Um den Verkehrsfluss zu gewährleisten, empfiehlt es sich daher, auch den/die FahrerIn des grünen Pkw zuerst in die Kreuzung einfahren zu lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-052.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-053",
+      "text": "Sie möchten nach rechts in eine Vorfahrtstraße einbiegen. Worauf müssen Sie achten?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf von links und von rechts kommende Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Auf Radfahrer und Fußgänger, die rechts neben oder noch hinter Ihnen sind"
+        },
+        {
+          "id": "C",
+          "text": "Nur auf die von links kommenden Fahrzeuge"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie rechts in eine Vorfahrtsstraße einbiegen, müssen Sie sämtlichen Verkehrsteilnehmern den Vorrang gewähren. Dies betrifft sowohl Fahrzeuge, die von rechts kommen, als auch solche, die von links vorbeifahren. Darüber hinaus sollten Sie unbedingt auf Radfahrer und Fußgänger aufpassen, die sich rechts von Ihnen befinden oder die hinter Ihnen unterwegs sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-112",
+      "text": "Sie wollen nach links abbiegen. Wer muss warten?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Das blaue Fahrzeug muss warten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt die Regelung „rechts vor links“. Feld- und Waldwege sind jedoch untergeordnete Verkehrswege. Wenn Sie aus einem Feld- oder Waldweg auf eine Straße abbiegen möchten, müssen Sie warten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-112.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-113",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Der Radfahrer muss warten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn Sie in einen Kreisverkehr einbiegen möchten, werden Sie durch das Verkehrszeichen „Vorfahrt gewähren“ aufgefordert, zu warten. Die im Kreis fahrenden Verkehrsteilnehmer haben hier Vorfahrt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-113.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-115",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Der Radfahrer muss warten"
+        },
+        {
+          "id": "C",
+          "text": "Ich muss an der Sichtlinie anhalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Verkehrsteilnehmer von rechts kommt, müssen Sie die Vorfahrtsregel „rechts vor links“ beachten und warten. Dies gilt auch, wenn es sich um eine/n FahrradfahrerIn handelt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.3.01-115.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-116",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss den Radfahrer durchfahren lassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf vor dem Radfahrer abbiegen"
+        },
+        {
+          "id": "C",
+          "text": "Der blaue Lkw darf zuerst fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An dieser Stelle ist die Vorfahrt nicht durch Verkehrszeichen geregelt. Daher gilt an dieser Kreuzung rechts vor links. Hier hat der geradeaus fahrende Radfahrer/die Radfahrerin Vorrang vor Ihnen, da Sie abbiegen wollen. Der von links kommende Lkw darf zuletzt fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-116.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-119",
+      "text": "Sie möchten eine Vorfahrtstraße überqueren. Die Sicht nach beiden Seiten ist durch parkende Fahrzeuge stark eingeschränkt. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich taste mich vorsichtig in die Kreuzung hinein"
+        },
+        {
+          "id": "B",
+          "text": "Ich überquere die Kreuzung zügig"
+        },
+        {
+          "id": "C",
+          "text": "Ich warne den kreuzenden Verkehr durch Hupen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei eingeschränkter Sicht dürfen Sie nur vorsichtig weiterfahren. Tasten Sie sich langsam in die Kreuzung hinein, bis Sie die Vorfahrtstraße einsehen können. So handeln Sie verantwortlich.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

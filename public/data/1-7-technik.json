@@ -1,0 +1,67 @@
+{
+  "id": "1-7-technik",
+  "title": "Technik",
+  "themeNumber": "Thema 1.7.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.7. Technik",
+  "questionCount": 2,
+  "questions": [
+    {
+      "id": "1.7.01-003",
+      "text": "Wodurch wird die Größe der Fliehkraft in Kurven beeinflusst?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "1.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch den Kurvenradius"
+        },
+        {
+          "id": "B",
+          "text": "Durch die Geschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "Durch den Fahrtwind"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Fliehkraft kann Ihr Fahrzeug aus der Kurve schleudern. Bei der Verdopplung der Geschwindigkeit vervierfacht sich die Fliehkraft. Zusätzlich beeinflusst der Kurvenradius diese. Je enger die Kurve ist, desto stärker erhöht sich die Fliehkraft. Daher müssen Sie bei engen Kurven frühzeitig abbremsen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.7.01-006",
+      "text": "Nässe kann die Wirkung von Trommelbremsen beeinträchtigen. Was sollten Sie dann tun?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "1.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich fahre die Bremse vorsichtig trocken"
+        },
+        {
+          "id": "B",
+          "text": "Ich betätige die Bremse mehrfach im Stand"
+        },
+        {
+          "id": "C",
+          "text": "Ich fülle Bremsflüssigkeit nach"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Trommelbremse kann trocken gefahren werden. Dafür bremsen Sie als der/die Kfz-FahrerIn vorsichtig. Dabei erwärmt sich die Trommelbremse und das Wasser kann verdunsten. Natürlich bremsen Sie nur, wenn der Verkehrsfluss es zulässt. Ein Auffahrunfall muss unbedingt vermieden werden. Behalten Sie daher den rückwärtigen Verkehr im Blick.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

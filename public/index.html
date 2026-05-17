@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Führerschein Theorie Klasse B – Üben nach Themen">
+  <title>Führerschein Theorie – Klasse B</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-row">
+      <div>
+        <h1>Führerschein Theorie</h1>
+        <p>Klasse B · Amtlicher Fragenkatalog · Nach Themen üben</p>
+      </div>
+      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="study-hub" class="study-hub" aria-labelledby="study-hub-title">
+      <h2 id="study-hub-title" class="study-hub-title"></h2>
+      <div class="study-hub-grid">
+        <a id="study-exam-link" class="study-card study-card--exam" href="exam.html">
+          <h3 id="study-exam-heading"></h3>
+          <p id="study-exam-desc" class="study-card-desc"></p>
+        </a>
+        <a id="study-review-link" class="study-card study-card--review" href="review.html">
+          <h3 id="study-review-heading"></h3>
+          <p id="study-review-desc" class="study-card-desc"></p>
+        </a>
+      </div>
+      <p id="study-readiness" class="study-readiness" aria-live="polite"></p>
+      <p id="study-tip-session" class="study-tip"></p>
+      <p id="study-tip-exam" class="study-tip"></p>
+    </section>
+
+    <h2 class="sr-only">Themen</h2>
+    <ul id="topic-list" class="topic-list" aria-live="polite">
+      <li><p>Themen werden geladen …</p></li>
+    </ul>
+  </main>
+
+  <footer class="site-footer">
+    <aside class="site-disclaimer container" data-site-disclaimer>
+      <p class="site-disclaimer-catalog"></p>
+      <p class="site-disclaimer-ru hidden"></p>
+    </aside>
+    <p id="footer-time" class="footer-time"></p>
+    <button type="button" id="time-reset-btn" class="footer-link-btn"></button>
+    <p class="footer-data"><span id="footer-data-label"></span> <a href="https://github.com/yowmamasita/driving-theory" target="_blank" rel="noopener noreferrer">yowmamasita/driving-theory</a></p>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/study-stats.js"></script>
+  <script src="js/time-tracker.js"></script>
+  <script src="js/topics.js"></script>
+</body>
+</html>

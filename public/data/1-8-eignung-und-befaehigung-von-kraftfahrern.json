@@ -1,0 +1,38 @@
+{
+  "id": "1-8-eignung-und-befaehigung-von-kraftfahrern",
+  "title": "Eignung und Befaehigung von Kraftfahrern",
+  "themeNumber": "Thema 1.8.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.8. Eignung und Befaehigung von Kraftfahrern",
+  "questionCount": 1,
+  "questions": [
+    {
+      "id": "1.8.01-003",
+      "text": "Wann werden im Fahreignungsregister eingetragene Ordnungswidrigkeiten getilgt, die mit zwei Punkten bewertet wurden?",
+      "points": 3,
+      "chapter": "Eignung Und Befaehigung Von Kraftfahrern",
+      "chapterNumber": "1.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- 5 Jahren"
+        },
+        {
+          "id": "B",
+          "text": "- 3 Jahren"
+        },
+        {
+          "id": "C",
+          "text": "- 2 Jahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Eingetragene Ordnungswidrigkeiten, die im Fahreignungsregister mit zwei Punkten bewertet und eingetragen wurden, verjähren erst nach fünf Jahren. Schwere Verstöße werden immer mit zwei Punkten geahndet.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

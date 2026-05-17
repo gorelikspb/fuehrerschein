@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thema – Führerschein Theorie</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-row">
+      <div>
+        <a class="back-link" id="back-link" href="index.html" style="color:rgba(255,255,255,0.85)">← Alle Themen</a>
+        <h1 id="topic-title">Thema</h1>
+      </div>
+      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <p id="loading">Fragen werden geladen …</p>
+    <aside class="site-disclaimer" data-site-disclaimer>
+      <p class="site-disclaimer-catalog"></p>
+      <p class="site-disclaimer-ru hidden"></p>
+    </aside>
+
+    <nav id="mode-tabs" class="mode-tabs hidden" aria-label="Ansicht">
+      <button type="button" class="mode-tab is-active" data-mode="quiz" id="mode-quiz"></button>
+      <button type="button" class="mode-tab" data-mode="list" id="mode-list"></button>
+      <button type="button" class="mode-tab" data-mode="progress" id="mode-progress"></button>
+    </nav>
+
+    <section id="progress-view" class="hidden">
+      <div class="quiz-card progress-panel">
+        <h2 class="progress-heading" id="progress-heading"></h2>
+        <p id="progress-overall-text" class="progress-overall-text"></p>
+        <div class="progress-bar progress-bar-overall" id="progress-overall-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <span id="progress-overall-fill" class="progress-fill"></span>
+        </div>
+        <div id="progress-chapters" class="progress-chapters"></div>
+        <div class="btn-row progress-actions">
+          <button type="button" class="btn btn-secondary" id="progress-reset-btn"></button>
+        </div>
+      </div>
+    </section>
+
+    <section id="quiz" class="hidden">
+      <div id="quiz-chapter-wrap" class="quiz-chapter-wrap hidden">
+        <label class="quiz-chapter-label" for="quiz-chapter" id="quiz-chapter-label"></label>
+        <select id="quiz-chapter" class="quiz-chapter-select"></select>
+      </div>
+      <div class="quiz-card">
+        <div class="quiz-mastery">
+          <div class="quiz-mastery-label">
+            <span id="quiz-mastery-text"></span>
+          </div>
+          <div class="progress-bar progress-bar-mastery" role="progressbar" id="quiz-mastery-bar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+            <span id="quiz-mastery-fill" class="progress-fill progress-fill-mastery"></span>
+          </div>
+        </div>
+        <div class="progress-bar progress-bar-session"><span id="progress-fill" class="progress-fill progress-fill-session"></span></div>
+        <div class="quiz-meta">
+          <span id="question-official" class="question-official-meta"></span>
+          <span class="quiz-meta-end">
+            <span id="question-counter" class="question-session-counter"></span>
+            <span id="question-answered-badge" class="question-status-badge hidden"></span>
+          </span>
+        </div>
+        <div id="question-media-wrap" class="question-media-wrap">
+          <video id="question-video" class="question-video hidden" controls playsinline preload="metadata"></video>
+          <img id="question-image" class="question-image hidden" alt="">
+          <p class="question-media-error hidden" aria-live="polite"></p>
+        </div>
+        <p id="question-text" class="question-text"></p>
+        <div id="options" class="options"></div>
+        <div id="feedback" class="feedback hidden"></div>
+        <div class="btn-row">
+          <button type="button" class="btn btn-secondary" id="random-btn">Zufällige Frage</button>
+          <button type="button" class="btn btn-primary" id="check-btn">Antwort prüfen</button>
+          <button type="button" class="btn btn-secondary hidden" id="next-btn">Nächste Frage</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="list-view" class="hidden">
+      <div class="list-toolbar">
+        <label class="sr-only" for="list-search" id="list-search-label"></label>
+        <input type="search" id="list-search" class="list-search" autocomplete="off">
+        <p id="list-count" class="list-count" aria-live="polite"></p>
+      </div>
+      <nav id="list-chapter-nav" class="list-chapter-nav hidden" aria-labelledby="list-chapter-nav-label">
+        <span id="list-chapter-nav-label" class="sr-only"></span>
+        <p id="list-chapter-position" class="list-chapter-position" aria-live="polite"></p>
+        <h2 id="list-chapter-title" class="list-chapter-heading"></h2>
+        <label class="sr-only" for="list-chapter-select" id="list-chapter-select-label"></label>
+        <select id="list-chapter-select" class="list-chapter-select"></select>
+        <div class="list-chapter-nav-buttons">
+          <button type="button" id="list-chapter-prev" class="btn btn-secondary list-chapter-btn"></button>
+          <button type="button" id="list-chapter-next" class="btn btn-secondary list-chapter-btn"></button>
+        </div>
+      </nav>
+      <div id="list-questions" class="list-questions"></div>
+      <p id="list-empty" class="list-empty hidden"></p>
+    </section>
+
+    <section id="result" class="hidden">
+      <div class="quiz-card result-card">
+        <h2 id="result-title"></h2>
+        <p class="result-score" id="result-score"></p>
+        <div class="btn-row" style="justify-content:center">
+          <button type="button" class="btn btn-primary" id="restart-btn">Nochmal üben</button>
+          <a class="btn btn-secondary" href="index.html">Alle Themen</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/question-media.js"></script>
+  <script src="js/question-answers.js"></script>
+  <script src="js/de-peek.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/time-tracker.js"></script>
+  <script src="js/list.js"></script>
+  <script src="js/progress-view.js"></script>
+  <script src="js/quiz.js"></script>
+</body>
+</html>

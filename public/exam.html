@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Probeklausur – Führerschein Theorie</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-row">
+      <div>
+        <a class="back-link" id="back-link" href="index.html" style="color:rgba(255,255,255,0.85)">← Alle Themen</a>
+        <h1 id="exam-page-title">Probeklausur</h1>
+      </div>
+      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="exam-intro" class="quiz-card exam-intro">
+      <h2 id="exam-intro-title"></h2>
+      <aside class="site-disclaimer" data-site-disclaimer>
+        <p class="site-disclaimer-catalog"></p>
+        <p class="site-disclaimer-ru hidden"></p>
+      </aside>
+      <aside id="exam-pass-rules" class="exam-pass-rules" aria-labelledby="exam-pass-rules-title">
+        <h3 id="exam-pass-rules-title"></h3>
+        <section>
+          <h4 id="exam-pass-rules-official-title"></h4>
+          <ul id="exam-pass-rules-official" class="exam-pass-rules-list"></ul>
+        </section>
+        <section>
+          <h4 id="exam-pass-rules-training-title"></h4>
+          <p id="exam-pass-rules-training" class="exam-pass-rules-note"></p>
+        </section>
+      </aside>
+      <details class="exam-pass-rules-details">
+        <summary id="exam-rules-details-summary"></summary>
+        <ul id="exam-rules" class="exam-rules"></ul>
+      </details>
+      <p id="exam-pool-note" class="exam-pool-note"></p>
+      <div class="btn-row">
+        <button type="button" class="btn btn-primary" id="exam-start-btn"></button>
+      </div>
+    </section>
+
+    <p id="exam-loading" class="exam-loading hidden"></p>
+
+    <section id="exam-run" class="hidden">
+      <div class="quiz-card">
+        <label class="exam-settings-toggle" id="exam-show-explanations-wrap">
+          <input type="checkbox" id="exam-show-explanations" checked>
+          <span id="exam-show-explanations-label"></span>
+        </label>
+        <div class="progress-bar progress-bar-session"><span id="exam-progress-fill" class="progress-fill progress-fill-session"></span></div>
+        <div class="quiz-meta">
+          <span id="exam-official" class="question-official-meta"></span>
+          <span id="exam-counter" class="question-session-counter"></span>
+        </div>
+        <div id="exam-media-wrap" class="question-media-wrap">
+          <video id="exam-video" class="question-video hidden" controls playsinline preload="metadata"></video>
+          <img id="exam-image" class="question-image hidden" alt="">
+          <p class="question-media-error hidden" aria-live="polite"></p>
+        </div>
+        <p id="exam-text" class="question-text"></p>
+        <div id="exam-options" class="options"></div>
+        <div id="exam-feedback" class="feedback hidden"></div>
+        <div class="btn-row exam-nav-row">
+          <button type="button" class="btn btn-secondary" id="exam-prev-btn"></button>
+          <button type="button" class="btn btn-primary" id="exam-check-btn"></button>
+          <button type="button" class="btn btn-primary hidden" id="exam-next-btn"></button>
+        </div>
+        <p id="exam-answered-hint" class="exam-answered-hint" aria-live="polite"></p>
+      </div>
+      <div class="btn-row exam-submit-row">
+        <button type="button" class="btn btn-primary btn-wide" id="exam-submit-btn"></button>
+      </div>
+    </section>
+
+    <section id="exam-result" class="hidden">
+      <div class="quiz-card result-card exam-result-card">
+        <h2 id="exam-result-title"></h2>
+        <p id="exam-result-verdict" class="exam-result-verdict"></p>
+        <p id="exam-result-detail" class="exam-result-detail"></p>
+        <p id="exam-result-streak" class="exam-result-streak"></p>
+        <aside id="exam-result-rules" class="exam-pass-rules exam-pass-rules--result" aria-labelledby="exam-result-rules-title">
+          <h3 id="exam-result-rules-title"></h3>
+          <ul id="exam-result-rules-list" class="exam-pass-rules-list"></ul>
+        </aside>
+        <div id="exam-review-list" class="exam-review-list hidden"></div>
+        <div class="btn-row" style="justify-content:center">
+          <button type="button" class="btn btn-primary" id="exam-retry-btn"></button>
+          <a class="btn btn-secondary" id="exam-home-btn" href="index.html"></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/question-media.js"></script>
+  <script src="js/question-answers.js"></script>
+  <script src="js/de-peek.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/exam-pool.js"></script>
+  <script src="js/study-stats.js"></script>
+  <script src="js/time-tracker.js"></script>
+  <script src="js/exam.js"></script>
+</body>
+</html>

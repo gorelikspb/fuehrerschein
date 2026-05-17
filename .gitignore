@@ -1,0 +1,46 @@
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Dev notes & local planning (not for deploy) ---
+edit.md
+PROJECT_NOTES.md
+*_NOTES.md
+docs/
+
+# --- Source data & rebuild tooling (site ships built JSON in public/data/) ---
+/data/
+scripts/
+
+# --- Dependencies & caches ---
+node_modules/
+.cache/
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# --- Editor / agent ---
+.cursor/
+.vscode/
+.idea/
+*.code-workspace
+.agent/
+agent-transcripts/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Optional local tooling (Playwright etc.) ---
+package-lock.json
+package.json

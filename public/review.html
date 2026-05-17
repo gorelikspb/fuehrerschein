@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fehler wiederholen – Führerschein Theorie</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-row">
+      <div>
+        <a class="back-link" id="back-link" href="index.html" style="color:rgba(255,255,255,0.85)">← Alle Themen</a>
+        <h1 id="review-page-title">Fehler wiederholen</h1>
+      </div>
+      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <p id="review-loading" class="review-loading"></p>
+
+    <section id="review-empty" class="quiz-card hidden">
+      <p id="review-empty-text"></p>
+      <a class="btn btn-secondary" id="review-empty-link" href="index.html"></a>
+    </section>
+
+    <section id="review-quiz" class="hidden">
+      <div class="quiz-card">
+        <div class="progress-bar progress-bar-session"><span id="review-progress-fill" class="progress-fill progress-fill-session"></span></div>
+        <div class="quiz-meta">
+          <span id="review-official" class="question-official-meta"></span>
+          <span id="review-counter" class="question-session-counter"></span>
+        </div>
+        <div id="review-media-wrap" class="question-media-wrap">
+          <video id="review-video" class="question-video hidden" controls playsinline preload="metadata"></video>
+          <img id="review-image" class="question-image hidden" alt="">
+          <p class="question-media-error hidden" aria-live="polite"></p>
+        </div>
+        <p id="review-text" class="question-text"></p>
+        <div id="review-options" class="options"></div>
+        <div id="review-feedback" class="feedback hidden"></div>
+        <div class="btn-row">
+          <button type="button" class="btn btn-primary" id="review-check-btn"></button>
+          <button type="button" class="btn btn-secondary hidden" id="review-next-btn"></button>
+        </div>
+      </div>
+    </section>
+
+    <section id="review-result" class="hidden">
+      <div class="quiz-card result-card">
+        <h2 id="review-result-title"></h2>
+        <p class="result-score" id="review-result-score"></p>
+        <div class="btn-row" style="justify-content:center">
+          <button type="button" class="btn btn-primary" id="review-restart-btn"></button>
+          <a class="btn btn-secondary" id="review-home-btn" href="index.html"></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/question-media.js"></script>
+  <script src="js/de-peek.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/time-tracker.js"></script>
+  <script src="js/review.js"></script>
+</body>
+</html>

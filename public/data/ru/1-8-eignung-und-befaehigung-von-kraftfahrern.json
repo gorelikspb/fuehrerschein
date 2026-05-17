@@ -1,0 +1,45 @@
+{
+  "id": "1-8-eignung-und-befaehigung-von-kraftfahrern",
+  "title": "Eignung und Befaehigung von Kraftfahrern",
+  "titleDe": "Eignung und Befaehigung von Kraftfahrern",
+  "titleRu": "Квалификация и способность водителей",
+  "themeNumber": "Thema 1.8.",
+  "section": "grundstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 1.8. Eignung und Befaehigung von Kraftfahrern",
+  "questionCount": 1,
+  "deQuestionCount": 1,
+  "questions": [
+    {
+      "id": "1.8.01-003",
+      "text": "Когда аннулируются административные нарушения, внесённые в центральный реестр нарушений правил движения на транспорте, за которые были начислены два балла?",
+      "points": 3,
+      "chapter": "1.8.01 Глава 1 вопросы Квалификация и способность водителей",
+      "chapterNumber": "1.8.01",
+      "chapterName": "Eignung Und Befaehigung Von Kraftfahrern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- 5 лет"
+        },
+        {
+          "id": "B",
+          "text": "- 3 года"
+        },
+        {
+          "id": "C",
+          "text": "- 2 года"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Зарегистрированные нарушения, которые были оценены и внесены в реестр пригодности водителя с двумя пунктами, становятся утратившими силу после пяти лет. Серьезные нарушения всегда наказываются двумя пунктами.",
+      "image": null,
+      "video": null
+    }
+  ],
+  "locale": "ru",
+  "translationSource": "clickclickdrive-official-ru",
+  "translationUrl": "https://www.clickclickdrive.de/fragenkatalog/ru",
+  "ruComplete": true
+}

@@ -1,0 +1,4695 @@
+{
+  "id": "2-7-technik",
+  "title": "Technik",
+  "themeNumber": "Thema 2.7.",
+  "section": "zusatzstoff",
+  "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
+  "questionCount": 164,
+  "questions": [
+    {
+      "id": "2.7.01-043",
+      "text": "Welche besondere Eigenschaft von Scheibenbremsen müssen Sie bei nasser Fahrbahn berücksichtigen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Wirkung von Scheibenbremsen setzt in der Regel später ein als auf trockener Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Die Wirkung von Scheibenbremsen setzt in der Regel früher ein als auf trockener Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie als Kfz-FahrerIn müssen berücksichtigen, dass bei Nässe die Wirkung von Scheibenbremsen meist erst später einsetzt als auf einer trockenen Fahrbahn.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-044",
+      "text": "Was erhöht die Gefahr, bei schneller Fahrt aus der Kurve zu \"fliegen\"?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Beschleunigen"
+        },
+        {
+          "id": "C",
+          "text": "Auskuppeln"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie Ihr Kfz abbremsen oder beschleunigen, werden weniger Lenkkräfte übertragen. Hierdurch besteht eine erhöhte Gefahr, bei schneller Geschwindigkeit aus der Kurve zu „fliegen“. Kuppeln Sie aus, damit Ihnen mehr Lenkkräfte zur Verfügung stehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-045",
+      "text": "Was ist beim Kontrollieren des Reifenluftdrucks zu berücksichtigen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beladung/Besetzung des Fahrzeugs"
+        },
+        {
+          "id": "B",
+          "text": "Temperatur der Reifen"
+        },
+        {
+          "id": "C",
+          "text": "Werkstoff der Felgen (Stahl/Leichtmetall)"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie den Reifenluftdruck überprüfen, müssen Sie auch die Temperatur und die Beladung des Fahrzeuges berücksichtigen. Diese können den Reifenluftdruck beeinflussen. Keine Rolle spielt dagegen der Werkstoff der Felge.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-046",
+      "text": "Sie befahren eine Kurve ein Mal mit 30 km/h und ein anderes Mal mit 60 km/h. Wie ändert sich dabei die Fliehkraft?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- viermal so groß"
+        },
+        {
+          "id": "B",
+          "text": "- doppelt so groß"
+        },
+        {
+          "id": "C",
+          "text": "- gleich groß"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Fliehkraft vervierfacht sich mit der Verdoppelung der Geschwindigkeit, hier also, wenn Sie die Kurve beim zweiten Mal mit 60 km/h nehmen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-047",
+      "text": "Wodurch wird die auf ein Fahrzeug wirkende Fliehkraft bei Kurvenfahrt vergrößert?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch höhere Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Durch kleineren Kurvenradius"
+        },
+        {
+          "id": "C",
+          "text": "Durch höheren Reifenluftdruck"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Geschwindigkeit wirkt sich unmittelbar auf die Höhe der Fliehkraft aus. Ihr Bremsweg vervierfacht sich, wenn Sie mit doppelter Geschwindigkeit fahren. Die Fliehkraft wird größer, je kleiner der Kurvenradius ist. Keinerlei Auswirkung auf die Fliehkraft hat der Reifendruck.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-058",
+      "text": "Sie fahren bei Nässe mit einem Pkw und Anhänger auf einer schmalen Landstraße und nähern sich einer übersichtlichen, aber engen Linkskurve. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verringere die Geschwindigkeit vor der Kurve"
+        },
+        {
+          "id": "B",
+          "text": "Ich bleibe in der Mitte des Fahrstreifens und beschleunige erst wieder beim Übergang in die Gerade"
+        },
+        {
+          "id": "C",
+          "text": "Ich bremse erst im Scheitelpunkt der Kurve"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Verringern Sie vor der Kurve Ihre Geschwindigkeit. Berücksichtigen Sie dabei die Witterungsverhältnisse. Bedenken Sie, dass die Fliehkraft doppelt so schnell wächst wie die Geschwindigkeit. Erst im Kurven-Scheitelpunkt sollten Sie wieder beschleunigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-063",
+      "text": "Wozu können Fahrerassistenzsysteme beitragen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zur Erhöhung der Verkehrssicherheit"
+        },
+        {
+          "id": "B",
+          "text": "Zur Unterstützung des Fahrers"
+        },
+        {
+          "id": "C",
+          "text": "Zum Ausgleich von Fahruntüchtigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahrassistenzsysteme sind technische Systeme und tragen natürlich nur zur Unterstützung bei und können die Verkehrssicherheit erhöhen. Einen Ausgleich der Fahruntüchtigkeit kann es allerdings nicht ersetzen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-065",
+      "text": "Was müssen Sie beim Fahren mit einem Quad beachten?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Tragen eines geeigneten Schutzhelms ist Pflicht"
+        },
+        {
+          "id": "B",
+          "text": "Beim Durchfahren von engen Kurven neigen Quads zum Kippen"
+        },
+        {
+          "id": "C",
+          "text": "Die Fahreigenschaften entsprechen denen von Pkws"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Verringern Sie die Geschwindigkeit bei Abbiegevorgängen, weil Quads durch Ihren hohen Schwerpunkt zum kippen neigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-066",
+      "text": "Was ist beim Fahren mit einem Quad zu beachten?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Es sollte Motorradschutzkleidung getragen werden"
+        },
+        {
+          "id": "B",
+          "text": "Es muss ein Warndreieck mitgeführt werden"
+        },
+        {
+          "id": "C",
+          "text": "Die notwendigen Lenkkräfte können deutlich höher sein als bei einem Pkw"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Quad hat keine Lenkunterstützung, deshalb könnte das Lenken schwerer sein als beim Autofahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-072",
+      "text": "Wodurch erhöht sich in Kurven mit schlechtem Straßenzustand das Risiko, ins Schleudern zu geraten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch ein beschädigtes Fahrwerk"
+        },
+        {
+          "id": "B",
+          "text": "Durch einen falschen Reifenfülldruck"
+        },
+        {
+          "id": "C",
+          "text": "Durch eine falsche Beladung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Idealerweise drücken alle Räder mit gleicher Kraft auf die Straße, um eine optimale Haftung und optimales Fahrverhalten zu haben. Ist das nicht der Fall, kann es bei schlechten Fahrbahnbedingungen das Risiko erhöhen, ins Schleudern zu kommen.\nDas Fahrwerk hat z.B. die Aufgabe, alle Reifen mit gleicher Kraft auf der Straße zu halten. Ist das Fahrwerk beschädigt, kann es dies nicht mehr tun. Ebenso erhöht sich das Risiko ins Schleudern zu geraten bei falschem Reifendruck oder bei falscher bzw. ungleichmäßiger Fahrzeugbeladung.\nDenn dadurch können die Reifen nicht die gleiche Kraft auf die Straße bringen und man verliert schneller an Haftung.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-102",
+      "text": "Was ändert sich durch das Mitführen eines Wohnanhängers?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Überholweg wird wesentlich länger"
+        },
+        {
+          "id": "B",
+          "text": "Hastige Lenkbewegungen erhöhen die Schleudergefahr"
+        },
+        {
+          "id": "C",
+          "text": "Der Bremsweg wird wesentlich kürzer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Führen Sie als Kfz-FahrerIn einen Wohnanhänger mit, so erhöht sich nicht nur die Schleudergefahr, auch Überhol- und Bremsweg werden länger. Das liegt an der zusätzlich zu ziehenden Last und der Zugbewegung des Anhängers.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-103",
+      "text": "Was ändert sich durch das Mitführen eines zweiachsigen Anhängers hinter einem Pkw?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Abbiegen und in Kurven wird mehr Platz benötigt"
+        },
+        {
+          "id": "B",
+          "text": "Das Beschleunigungsvermögen nimmt ab"
+        },
+        {
+          "id": "C",
+          "text": "Die Fahrstabilität nimmt zu"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Gespann aus Pkw und Anhänger benötigt mehr Platz beim Befahren von Kurven sowie beim Abbiegen. Ebenso verändert sich durch die Masse das Beschleunigungsvermögen. Es nimmt deutlich ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-104",
+      "text": "Sie fahren mit Ihrem Pkw und Anhänger auf einer Straße mit Gegenverkehr und wollen nach links abbiegen. Was ist beim Wiederanfahren besonders wichtig?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "An die eigene Zuglänge denken"
+        },
+        {
+          "id": "B",
+          "text": "Das geringere Beschleunigungsvermögen berücksichtigen"
+        },
+        {
+          "id": "C",
+          "text": "Den Gegenverkehr mit der Lichthupe warnen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit einem Anhänger haben Sie ein geringeres Beschleunigungsvermögen, eine veränderte Masse und eine größere Gesamtlänge. Dies müssen Sie beim Wiederanfahren berücksichtigen. Der Gegenverkehr darf in diesem Fall nicht durch Einsatz der Lichthupe gewarnt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-105",
+      "text": "Sie fahren einen Pkw mit einem ungebremsten Anhänger. Es kommt ein längeres, starkes Gefälle. Was ist richtig?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn nötig Geschwindigkeit verringern, rechtzeitig niedrigen Gang einlegen, bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Schieben des Anhängers berücksichtigen"
+        },
+        {
+          "id": "C",
+          "text": "Bremse des Pkws durch häufiges Auskuppeln entlasten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Verringern Sie die Geschwindigkeit rechtzeitig. Legen Sie einen möglichst niedrigen Gang ein. Die dadurch aktivierte Motorbremse unterstützt die Bremswirkung der Pedalbremsung. Kuppeln Sie auf keinen Fall aus in den Leerlauf. Dadurch würde das Fahrzeug schneller werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-107",
+      "text": "Was müssen Sie bei einem Pkw mit Wohnanhänger vor Fahrtbeginn prüfen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ob die Beleuchtungseinrichtung des Anhängers funktioniert"
+        },
+        {
+          "id": "B",
+          "text": "Ob die Sicht nach hinten durch die Rückspiegel ausreicht"
+        },
+        {
+          "id": "C",
+          "text": "Ob die Mitfahrer im Wohnanhänger die Sicherheitsgurte angelegt haben"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wohnanhänger schränken die Sicht nach hinten ein. Deswegen müssen Sie vor Fahrtbeginn prüfen, ob die Spiegel eine ausreichende Sicht nach hinten bieten. Außerdem müssen Sie sicherstellen, dass auch die Beleuchtungseinrichtung funktioniert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-108",
+      "text": "Sie fahren einen Pkw mit voll beladenem Anhänger ohne eigene Bremse. Was ist richtig?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Bremsweg wird länger"
+        },
+        {
+          "id": "B",
+          "text": "Der Reaktionsweg wird länger"
+        },
+        {
+          "id": "C",
+          "text": "Der Anhalteweg wird kürzer"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Beachten Sie, dass der voll beladene Anhänger ohne eigene Bremse den Bremsweg und damit auch den Anhalteweg um die jeweilige Anhängelast verlängert. Der Reaktionsweg verändert sich in diesem Fall nicht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-109",
+      "text": "Sie wollen an Ihren Pkw einen einachsigen Wohnwagen anhängen. Was müssen Sie prüfen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ob die zulässige Anhängelast oder die zulässige Stützlast des Pkws überschritten wird"
+        },
+        {
+          "id": "B",
+          "text": "Ob wegen der Breite des Wohnwagens zusätzliche Rückspiegel angebracht werden müssen"
+        },
+        {
+          "id": "C",
+          "text": "Ob der Wohnwagen für die Beförderung von Personen zugelassen ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Wohnwagen mindert die Sicht nach hinten. Sie als Kfz-FahrerIn müssen prüfen, ob die Sicht nach hinten durch die vorhandenen Spiegel ausreicht. Gegebenenfalls müssen Sie zusätzliche Spiegel an Ihrem Pkw anbringen. Zugfahrzeug und Anhänger müssen immer aufeinander abgestimmt sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-110",
+      "text": "Sie wollen mit einem Automatik-Pkw (hydraulischer Wandler) losfahren. Was müssen Sie wissen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Einlegen einer Fahrstufe muss der Pkw in der Regel mit der Betriebsbremse festgehalten werden"
+        },
+        {
+          "id": "B",
+          "text": "Der Wählhebel darf nur bei stehendem Motor betätigt werden"
+        },
+        {
+          "id": "C",
+          "text": "Die Drehzahl muss wesentlich erhöht werden, damit der Motor nicht abgewürgt wird"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Geben Sie als Kfz-FührerIn einem Fahrzeug mit Automatikgetriebe ein „Go“ mit eingelegter Fahrstufe, versucht es, loszufahren. Dies kann nur mit Betätigen der Betriebsbremse verhindert werden. Der Wählhebel kann und darf bei stehenden und laufenden Motor betätigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-111",
+      "text": "Worauf ist beim Luftdruck der Reifen zu achten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Luftdruck regelmäßig kontrollieren, einschließlich Reserverad"
+        },
+        {
+          "id": "B",
+          "text": "Luftdruck bei starker Beladung nach Betriebsanleitung erhöhen"
+        },
+        {
+          "id": "C",
+          "text": "Luftdruck vor längeren Fahrten verringern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch die regelmäßige Überprüfung des Luftdrucks der Reifen lassen sich Reifenschäden vermeiden, es lässt sich aber auch Kraftstoff sparen. Sollten Sie Ihr Fahrzeug einer stärkeren Belastung aussetzen, müssen Sie den Reifendruck anpassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-112",
+      "text": "Sie mussten nach einer Reifenpanne das Notrad montieren. Was ist bei der Weiterfahrt verboten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schneller als 80 km/h zu fahren"
+        },
+        {
+          "id": "B",
+          "text": "Mit dem Notrad länger als unbedingt erforderlich zu fahren"
+        },
+        {
+          "id": "C",
+          "text": "Personen mitzunehmen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Noträder haben eine andere Bauform als herkömmliche Räder und sind nur bis zu einer Geschwindigkeit von 80 km/h zugelassen. Sie besitzen schlechtere Laufeigenschaften. Mit ihnen sollte nur so weit wie nötig gefahren werden. Mitnahme von Personen ist nicht eingeschränkt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-113",
+      "text": "Beim Fahren merken Sie, dass Ihr Pkw stets nach links zieht. Welche Ursachen sind möglich?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zu wenig Luft im linken Vorderreifen"
+        },
+        {
+          "id": "B",
+          "text": "Falsche Radeinstellung an der Vorderachse (Spur, Sturz)"
+        },
+        {
+          "id": "C",
+          "text": "Linker Hinterreifen stark abgefahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Zieht Ihr Fahrzeug nach links, sodass Gegenlenken erforderlich ist, könnte zu wenig Luftdruck im linken Reifen die Ursache sein oder eine veränderte Radeinstellung. Ein stark abgefahrener Reifen hat in der Regel nicht diesen Effekt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-114",
+      "text": "Wozu neigt ein Pkw mit Vorderradantrieb, wenn man in der Kurve zu viel Gas gibt?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Er neigt dazu, vorne auszubrechen"
+        },
+        {
+          "id": "B",
+          "text": "Er neigt zum Übersteuern"
+        },
+        {
+          "id": "C",
+          "text": "Er neigt dazu, hinten auszubrechen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Als Kfz-FahrerIn müssen Sie stets damit rechnen, dass Ihr Fahrzeug mit Vorderradantrieb nach vorne ausbricht, wenn Sie in einer Kurve zu viel Gas geben. Ihr Fahrzeug wird eher unter- als übersteuern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-115",
+      "text": "Wozu neigt ein Pkw mit Hinterradantrieb, wenn man in der Kurve zu viel Gas gibt?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Er neigt dazu, hinten auszubrechen"
+        },
+        {
+          "id": "B",
+          "text": "Er neigt dazu, vorne auszubrechen"
+        },
+        {
+          "id": "C",
+          "text": "Er neigt zum Untersteuern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sollten stets damit rechnen, dass Ihr Fahrzeug mit Hinterradantrieb nach hinten ausbricht, wenn Sie in einer Kurve zu viel Gas geben. Es tritt eher ein Übersteuern ein als ein Untersteuern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-118",
+      "text": "Welche Vorteile bietet eine Antriebs-Schlupf-Regelung (ASR)?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Anfahren wird das Durchdrehen der Räder verhindert"
+        },
+        {
+          "id": "B",
+          "text": "Beim Anfahren auf glatter Fahrbahn wird die Gefahr des seitlichen Wegrutschens geringer"
+        },
+        {
+          "id": "C",
+          "text": "Beim Bremsen wird das Blockieren der Räder verhindert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Antriebs-Schlupf-Regelung (ASR) eines Kfz verhindert, dass die Räder des Fahrzeugs vor allem beim stärkeren Beschleunigen durchdrehen. Ein seitliches Wegrutschen beim Anfahren auf glatter Fahrbahn wird hierdurch weitestgehend verhindert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-120",
+      "text": "Sie wollen einen Anhänger mit Kugelkupplung ankuppeln. Was ist richtig?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Kupplungsklaue muss den Kugelkopf sicher umschließen. Die Sicherung muss einrasten"
+        },
+        {
+          "id": "B",
+          "text": "Die elektrische Verbindung muss hergestellt werden"
+        },
+        {
+          "id": "C",
+          "text": "Stützrad so einstellen, dass es während der Fahrt mitlaufen kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei einem Anhänger mit Kugelkupplung muss die Kupplungsklaue den Kugelkopf fest umschließen. Die Sicherung muss einrasten. Stellen Sie sicher, dass die elektrische Verbindung funktioniert. Das Stützrad darf während der Fahrt nicht mitlaufen. Es muss in Hochstellung arretiert werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-121",
+      "text": "Was müssen Sie nach dem Ankuppeln eines einachsigen Anhängers mit Auflaufbremse tun?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Funktion der Bremse prüfen"
+        },
+        {
+          "id": "B",
+          "text": "Vorhandenes Stützrad in die oberste Stellung bringen"
+        },
+        {
+          "id": "C",
+          "text": "Abreißseil an der Anhängekupplung des Motorwagens einhängen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Abrissseil muss an der Anhängerkupplung des Zugfahrzeuges eingehängt werden. Bei einer Auflaufbremse bremst der Anhänger beim Abriss der Verbindung zum Zugfahrzeug so automatisch. Die Funktion der Bremse ist zu prüfen. Das Stützrad darf während der Fahrt nicht mitlaufen, deshalb ist es in die obere Stellung zu bringen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-122",
+      "text": "Was müssen Sie beim Beladen eines einachsigen Anhängers beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Achslast"
+        },
+        {
+          "id": "B",
+          "text": "- Stützlast"
+        },
+        {
+          "id": "C",
+          "text": "- Gesamtmasse"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Beim Beladen eines einachsigen Anhängers müssen Sie darauf achten, dass die Gesamtmasse eingehalten wird und dass Sie mit Ihrer Ladung die zulässige Achs- und Stützlast nicht überschreiten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-123",
+      "text": "Sie wollen Ihren einachsigen Anhänger (Auflaufbremse, 1.000 kg zulässige Gesamtmasse) im Gefälle abstellen. Was müssen Sie tun?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feststellbremse anziehen"
+        },
+        {
+          "id": "B",
+          "text": "Unterlegkeile vor die Räder legen"
+        },
+        {
+          "id": "C",
+          "text": "Rückfahrsperre verriegeln"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie müssen Ihren Anhänger immer gegen ein mögliches Wegrollen sichern. Dazu müssen Sie die Feststellbremse anziehen und die Unterlegkeile vor die Räder legen. Normalerweise verfügen solche Anhänger über keine Rückfahrsperre.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-124",
+      "text": "Welche gefährlichen Mängel können an einem auflaufgebremsten Anhänger nach längerer Standzeit vorhanden sein?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Bremse kann wegen Rost wirkungslos sein"
+        },
+        {
+          "id": "B",
+          "text": "Kabelverbindungen können beschädigt sein"
+        },
+        {
+          "id": "C",
+          "text": "Der Reifendruck kann sich durch Sonneneinstrahlung stark erhöht haben"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie einen Anhänger längere Zeit stehen lassen, können durch die Witterung Schäden entstehen: Elektrische Verbindungen können beschädigt werden, an den Bremsen kann sich Rost bilden. Durch Sonneneinstrahlung wird der Reifendruck nicht zu stark erhöht, sodass hierdurch keine gefährlichen Mängel auftreten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-125",
+      "text": "Was müssen Sie beim Beladen eines Anhängers beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- muss sicher verstaut werden"
+        },
+        {
+          "id": "B",
+          "text": "- darf nach hinten ohne zusätzliche Kennzeichnung höchstens 1 m über die Rückstrahler hinausragen"
+        },
+        {
+          "id": "C",
+          "text": "- darf nach vorn höchstens 1 m über das Zugfahrzeug hinausragen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Achten Sie immer auf die sachgerechte Sicherung Ihrer Ladung. Um sich und andere Verkehrsteilnehmer nicht zu gefährden, müssen Sie stets freie Sicht sowie die volle Kontrolle über Ihr Fahrzeug haben. Die Ladung muss hinten gekennzeichnet werden und darf vorne höchstens 50 cm hinausragen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-126",
+      "text": "Warum soll beim Befahren eines längeren Gefälles nicht die Kupplung getreten und der Motor gleichzeitig ausgeschaltet werden?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei Fahrzeugen mit Lenkhilfe wird die Lenkung sofort ungewohnt schwergängig"
+        },
+        {
+          "id": "B",
+          "text": "Bei Fahrzeugen mit Bremskraftverstärker kann trotz erhöhter Pedalkraft die volle Bremswirkung nicht erreicht werden"
+        },
+        {
+          "id": "C",
+          "text": "Die Batterie wird überladen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei ausgeschaltetem Motor kann die Motorbremse (Bremskraftverstärker) nicht wirken. Auch die Lenkhilfe ist dann nicht angeschaltet. Um auf Gefahrenlagen schnell und wirksam reagieren zu können, benötigen Sie möglicherweise beides.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-127",
+      "text": "Warum soll ein längeres, starkes Gefälle nicht mit getretener Kupplung durchfahren werden?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil die Motorbremswirkung nicht zum Tragen kommen kann"
+        },
+        {
+          "id": "B",
+          "text": "Weil dadurch unnötiger Verschleiß an den Bremsen eintritt"
+        },
+        {
+          "id": "C",
+          "text": "Weil dann der Bremskraftverstärker nicht mehr wirken kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Treten Sie im Gefälle die Kupplung, wirkt die Motorbremse nicht und Sie müssen die Betriebsbremse mehr nutzen. Als Folge davon kann es zu Überhitzung und erhöhtem Verschleiß der Bremse kommen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-128",
+      "text": "Was ist beim Ankuppeln eines Mehrachsanhängers richtig?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- sollte im Sichtbereich des Fahrers stehen und einweisen"
+        },
+        {
+          "id": "B",
+          "text": "- warnt vor Hindernissen und Verkehrsteilnehmern, die der Fahrer nicht sehen kann"
+        },
+        {
+          "id": "C",
+          "text": "- hält die Zuggabel, bis diese in der Anhängerkupplung eingerastet ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du solltest beim Ankuppeln eines Mehrachsanhängers darauf achten, dass sich eine geeignete Person im Sichtbereich von dir befindet und dich einweist und das diese Person dich vor Hindernissen und Verkehrsteilnehmern, die du nicht sehen kannst, warnt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-129",
+      "text": "Sie fahren zu zweit mit Gepäck. Was ist bei einer Vollbremsung zu beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mehr Bremskraft aufbringen muss"
+        },
+        {
+          "id": "B",
+          "text": "- die Hinterradbremse stärker betätigen kann"
+        },
+        {
+          "id": "C",
+          "text": "- weniger Bremskraft aufbringen muss"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie mit mehr Gewicht fahren, sollten Sie mehr Bremskraft einsetzen. Durch das zusätzliche Gewicht bremsen auch die Hinterradbremsen stärker.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-130",
+      "text": "Sie müssen in einer Kurve auf nasser Fahrbahn plötzlich bremsen. Welche Besonderheiten bestehen bei einem Fahrzeug mit Antiblockiersystem (ABS)?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Lenkfähigkeit bleibt länger erhalten"
+        },
+        {
+          "id": "B",
+          "text": "Das Fahrzeug bleibt immer fahrstabil"
+        },
+        {
+          "id": "C",
+          "text": "Das Fahrzeug kann nicht aus der Kurve rutschen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Auf nasser Fahrbahn verhindert ABS das Blockieren der Räder und verkürzt den Bremsweg. Außerdem bleibt das Fahrzeug beim Bremsen länger lenkfähig. Auf Schotter oder Schnee kann der Bremsweg allerdings deutlich länger sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-131",
+      "text": "Wie wirken sich die Kurvenlaufeigenschaften einer Fahrzeugkombination (Pkw mit Wohnanhänger) beim Abbiegen aus?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- kann ausschwenken"
+        },
+        {
+          "id": "B",
+          "text": "- kann die Kurve schneiden"
+        },
+        {
+          "id": "C",
+          "text": "- läuft in der Regel in der Spur des Pkws"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Trotz sorgfältiger Fahrweise ist es möglich, dass der Anhänger die Kurve schneidet oder sogar ausschwenkt. Der/Die Kfz-FahrerIn muss daher umsichtig vorgehen, um Gefährdungen anderer auszuschließen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-132",
+      "text": "An Ihrem Motorrad treten Pendelbewegungen auf. Wodurch können diese ausgelöst worden sein?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch die Beladung"
+        },
+        {
+          "id": "B",
+          "text": "Durch eine Unwucht der Räder"
+        },
+        {
+          "id": "C",
+          "text": "Durch untertouriges Fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Ihr gesamtes Motorrad nach vorne und hinten schwingt, kann dies durch eine schwere Last oder eine Unwucht im Rad verursacht werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-133",
+      "text": "Was kann die Funktion eines Spurhalteassistenten einschränken?",
+      "points": 2,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine verschmutzte Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Fehlende Fahrbahnmarkierungen"
+        },
+        {
+          "id": "C",
+          "text": "Fehlende Leitplanken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Spurhalteassistent ist ein elektronisches Hilfsmittel, welches den Fahrer warnt, wenn sein Kraftfahrzeug die Spur verlässt. Fehlende Fahrbahnmarkierungen und eine verschmutzte Fahrbahn, schränken diese Funktion ein. Fehlende Leitplanken sind nicht entscheidend.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-134",
+      "text": "Worüber sollten Sie sich vor einer Fahrt mit einem reinen Elektrofahrzeug informieren?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "An welchen Orten ich das Fahrzeug aufladen kann"
+        },
+        {
+          "id": "B",
+          "text": "Wie ich mich nach einem Unfall verhalten muss"
+        },
+        {
+          "id": "C",
+          "text": "Über Einflussfaktoren auf die Reichweite"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der/die Kfz-FahrerIn sollte sich vor dem Fahrtantritt unbedingt über die Reichweite des Elektrofahrzeugs informieren. Diese weicht deutlich von der Reichweite herkömmlicher Fahrzeuge ab, wodurch häufiger Stopps zum Wiederaufladen der Akkus notwendig sind. Ebenfalls sollten Sie berücksichtigen, dass sich in einem Elektrofahrzeug mehr Technik befindet. Zwar gilt grundsätzlich, dass E-Fahrzeuge genauso sicher sind wie herkömmliche Autos. Doch verlaufen in ihren Karosserien gewöhnlich Kabel, die für enorm hohe Stromspannungen ausgelegt sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-135",
+      "text": "Sie planen eine längere Reise mit einem reinen Elektrofahrzeug. Was sollten Sie beachten?",
+      "points": 2,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Verfügbarkeit von Elektrotankstellen"
+        },
+        {
+          "id": "B",
+          "text": "Die Ladezeit der Batterien"
+        },
+        {
+          "id": "C",
+          "text": "Den Einfluss extremer Außentemperaturen auf die Reichweite"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn Sie eine längere Reise mit einem reinen Elektrofahrzeug planen, sollten Sie berücksichtigen, dass Ihr Wagen im Vergleich zu herkömmlichen Fahrzeugen eine deutlich geringere Reichweite hat. Zusätzlich wird die Kapazität der Batterien von der Außentemperatur beeinflusst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-136",
+      "text": "Was sollten Sie beim Laden von reinen Elektrofahrzeugen beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Ladedauer hängt vom Stromanschluss ab"
+        },
+        {
+          "id": "B",
+          "text": "Das Laden sollte nur mit Ladekabeln erfolgen, die vom Hersteller freigegeben sind"
+        },
+        {
+          "id": "C",
+          "text": "Das Laden kann an jeder Tankstelle erfolgen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Beim Laden von reinen Elektrofahrzeugen müssen Sie beachten, dass sie nicht an jeder Tankstelle aufladbar sind. Benutzen Sie nur die vom Hersteller zugelassenen Ladekabel. Abhängig vom Stromanschluss variiert die Ladedauer.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-137",
+      "text": "Was unterscheidet reine Elektrofahrzeuge von Fahrzeugen mit Verbrennungsmotor?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ein geringeres Motorgeräusch"
+        },
+        {
+          "id": "B",
+          "text": "- keinen direkten Schadstoffausstoß"
+        },
+        {
+          "id": "C",
+          "text": "- einen geringeren Luftwiderstand"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Reine Elektrofahrzeuge sind nahezu geräuschlos. Reine Elektrofahrzeuge haben keinen direkten Schadstoffausstoß. Der Luftwiderstand richtet sich nach dem Volumen des Körpers und nicht nach der Antriebsart.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-138",
+      "text": "Sie fahren ein reines Elektrofahrzeug in einem Wohngebiet. Worauf sollten Sie sich aufgrund Ihrer geringen Fahrgeräusche einstellen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fußgänger nehmen mich nicht oder verspätet wahr"
+        },
+        {
+          "id": "B",
+          "text": "Vorausfahrende Radfahrer biegen nach links ab, ohne nach hinten zu schauen"
+        },
+        {
+          "id": "C",
+          "text": "Nachfolgende Fahrzeuge fahren zu dicht auf"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Mit einem reinen Elektrofahrzeug sind Sie nahezu geräuschlos unterwegs und können von anderen Verkehrsteilnehmern akustisch kaum wahrgenommen werden. Besonders Radfahrer sind gefährdet, wenn sie keine Motorengeräusche hören. Ohne nach hinten zu schauen, biegen sie dann häufig ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-139",
+      "text": "Sie fahren ein Kraftfahrzeug mit einem Automatischen Blockierverhinderer (ABV). Wie erreichen Sie einen möglichst kurzen Bremsweg?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- schlagartig und mit maximaler Pedalkraft"
+        },
+        {
+          "id": "B",
+          "text": "- vorsichtig und dann zunehmend kräftiger"
+        },
+        {
+          "id": "C",
+          "text": "- mehrfach in kurzen Abständen mit maximaler Pedalkraft"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei einer Gefahrenbremsung ist der Bremsweg der kürzeste und deswegen ist schlagartig und mit maximaler Pedal kraft richtig. Mehrfach kurze oder vorsichtige Bremsbetätigungen hätten nicht den Effekt der zu erreichen gewünscht ist.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-140",
+      "text": "Ein Spurhalte-Assistent mit Lenkeingriff kann Sie beim Fahren unterstützen. Was sollten Sie beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- das Fahrzeug bei guter Fahrstreifenmarkierung auf dem Fahrstreifen halten"
+        },
+        {
+          "id": "B",
+          "text": "- bei schlechter Fahrstreifenmarkierung nicht funktionieren"
+        },
+        {
+          "id": "C",
+          "text": "- mangelnde Fahrtüchtigkeit (z. B. Müdigkeit) kompensieren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Spurhalte-Assistenten mit Lenkeingriff kann das Kraftfahrzeug bei guter Fahrstreifenmarkierung auf dem Streifen halten. Bei schlechter Markierung kann es sein das dieser nicht funktioniert. Mangelnde Fahrtüchtigkeit kann es nicht kompensieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-141",
+      "text": "Sie fahren sehr schnell in eine enge Kurve. Was kann passieren, wenn Sie plötzlich stark bremsen müssen?",
+      "points": 4,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- verliert die Straßenhaftung"
+        },
+        {
+          "id": "B",
+          "text": "- rutscht aus der Kurve"
+        },
+        {
+          "id": "C",
+          "text": "- bleibt mit Stabilitätskontrolle jederzeit fahrstabil"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn du schnell in eine enge Kurve fährst, verlierst du bei einer starken Bremsung die Straßenhaftung und rutscht aus der Kurve. (Fliehkraft)",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-142",
+      "text": "Was kann in Kurven zum Schleudern Ihres Kraftfahrzeugs führen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starke Lenkeinschläge"
+        },
+        {
+          "id": "B",
+          "text": "Zu schnelles Fahren"
+        },
+        {
+          "id": "C",
+          "text": "Leichtes Beschleunigen am Kurvenausgang"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch starke Lenkeinschläge kann es in Kurven dazu kommen, dass dein Fahrzeug ins Schleudern gerät. Auch durch zu schnelles Fahren passieren kann das passieren. Passe deine Geschwindigkeit in Kurven an.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-143",
+      "text": "Der Spurhalte-Assistent warnt Sie durch akustische, haptische oder optische Signale. Was kann die Ursache dafür sein?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mein Fahrzeug nähert sich der seitlichen Fahrbahnmarkierung an"
+        },
+        {
+          "id": "B",
+          "text": "Mein Fahrzeug unterschreitet den Sicherheitsabstand zum vorausfahrenden Fahrzeug"
+        },
+        {
+          "id": "C",
+          "text": "Ein anderes Fahrzeug überholt mich mit zu geringem Seitenabstand"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Geraten Sie aus Ihrem Fahrstreifen erkennt das der Spurhalte-Assistent, indem es das Heranfahren an die Fahrbahnmarkierung erkennt. Die zulässige Gesamtmasse darf nicht überschritten werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-144",
+      "text": "In welcher Situation kann Sie der Spurhalte-Assistent mit Lenkeingriff unterstützen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- auf Autobahnen"
+        },
+        {
+          "id": "B",
+          "text": "- auf Landstraßen"
+        },
+        {
+          "id": "C",
+          "text": "- in engen Baustellen mit schlechter Markierung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf Autobahnen und Landstraßen kann ein Lenkeingriff durch den Spurhalte-Assistent hilfreich sein, da die Markierungen dort eindeutig zu erkennen sind.\nDurch schlechte Markierungen und enger Fahrbahnen in Baustellen ist der Lenkeingriff des Spurhalte-Assistenten nicht möglich, da sie mit hoher Wahrscheinlichkeit nicht richtig erkannt werden wird.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-145",
+      "text": "Bei welcher Fahraufgabe kann der Spurhalte-Assistent mit Lenkeingriff den Fahrzeugführer unterstützen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Geradeausfahren"
+        },
+        {
+          "id": "B",
+          "text": "Beim Abbiegen"
+        },
+        {
+          "id": "C",
+          "text": "Beim Überholen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei guten Fahrbahnmarkierungen kann dir der Spurhalte-Assistent mit Lenkeingriff helfen beim Geradeausfahren das Fahrzeug auf der Fahrbahn zu halten.\nBeim Abbiegen kreuzt du Fahrstreifen und Markierungen, der Spurhalte-Assistent kann hierbei nicht unterstützend eingreifen. Auch beim Überholen signalisierst du dem Spurhalte-Assistenten durch Blinken, dass du die Fahrbahnmarkierung absichtlich überquerst. Somit greift er während des Überholvorgangs nicht ein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-146",
+      "text": "Was kann die Funktion des Spurhalte-Assistenten mit Lenkeingriff beeinträchtigen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Witterungsverhältnisse"
+        },
+        {
+          "id": "B",
+          "text": "Der Zustand der Fahrbahnmarkierungen"
+        },
+        {
+          "id": "C",
+          "text": "Zusätzliche Fahrbahnmarkierungen im Baustellenbereich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ist die Fahrbahnmarkierung in einem schlechten Zustand, kann der Spurhalte-Assistent nicht erkennen, wo die einzuhaltende Fahrspur verläuft. Durch zusätzliche Fahrbahnmarkierungen in Baustellenbereichen ist es nicht ersichtlich, welche die einzuhaltende Fahrbahn ist.\nDie Witterungsverhältnisse können die Sensoren des Spurhalte-Assistenten beeinträchtigen. Außerdem können Wasser oder Schnee die Markierungen verfälschen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-147",
+      "text": "Unter welcher Voraussetzung funktioniert der Spurhalte-Assistent mit Lenkeingriff bestmöglich?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei eindeutigen Fahrbahnmarkierungen"
+        },
+        {
+          "id": "B",
+          "text": "Bei Schneeresten auf der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Bei zusätzlichen Baustellenmarkierungen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Spurhalte-Assistent funktioniert bei eindeutigen Fahrbahnmarkierungen am Besten. \nDurch schlechte oder zusätzliche Markierungen in Baustellen ist der Lenkeingriff des Spurhalte-Assistenten nicht möglich, da sie mit hoher Wahrscheinlichkeit nicht richtig erkannt werden wird.\nDie Witterungsverhältnisse können die Sensoren des Spurhalte-Assistenten beeinträchtigen. Außerdem kann Schnee die Markierungen verfälschen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-148",
+      "text": "Welches Fahrerassistenzsystem bietet ein hohes Verkehrssicherheitspotenzial?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Bremsassistent"
+        },
+        {
+          "id": "B",
+          "text": "Der Autonome Notbremsassistent"
+        },
+        {
+          "id": "C",
+          "text": "Die Geschwindigkeitsregelanlage (Tempomat)"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Autonome Notbremsassistent erkennt ständig den Verkehr vor dem Fahrzeug. Droht eine Gefahr, kann der Notbremsassistent eine Notbremsung durchführen. \nZu spätes oder zu zaghaftes Bremsen sind oftmals Ursachen für Verkehrsunfälle. Bremsassistenten reagieren in der Regel schneller als der Mensch und bieten somit mehr Sicherheit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-149",
+      "text": "Wie können Fahrerassistenzsysteme Sie unterstützen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mich vor Gefahren warnen"
+        },
+        {
+          "id": "B",
+          "text": "- mir bei der Bewältigung von Fahraufgaben helfen"
+        },
+        {
+          "id": "C",
+          "text": "- in kritischen Verkehrssituationen automatisch eingreifen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "In kritischen Verkehrssituationen können Fahrerassistenzsysteme schnell reagieren und durch Lenken oder Bremsen etc. automatisch eingreifen.\nDroht eine Gefahr, können sie dich durch Licht-, Ton- und Haptiksignale warnen. Fahrerassistenzsysteme können dich auch bei Fahraufgaben, wie z. B. das Halten der Fahrspur, unterstützen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-150",
+      "text": "Was kann die Folge sein, wenn Sie bei einem Pkw mit Frontantrieb in der Kurve zu stark beschleunigen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- über die Vorderachse ausbrechen"
+        },
+        {
+          "id": "B",
+          "text": "- in der Lenkfähigkeit eingeschränkt sein"
+        },
+        {
+          "id": "C",
+          "text": "- über die Hinterachse ausbrechen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Gibst du bei einem Pkw mit Frontantrieb in der Kurve zu viel Gas, kann er über die Vorderachse ausbrechen. Die Frontreifen verlieren dabei die Haftung zur Straße und dadurch lässt sich dein Fahrzeug nicht mehr lenken, sondern fährt es geradeaus weiter und bricht somit ausbrechen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-151",
+      "text": "Unter welcher Voraussetzung kann ein Aktiver Spurwechsel-Assistent einen Fahrstreifenwechsel durchführen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- eine ausreichend markierte Fahrbahn mit mehreren Fahrstreifen erkannt hat"
+        },
+        {
+          "id": "B",
+          "text": "- keine Fahrzeuge im relevanten Sicherheitsbereich erkannt hat"
+        },
+        {
+          "id": "C",
+          "text": "- eine ausreichende Lücke im Gegenverkehr erkannt hat"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Für einen aktiven Spurwechsel muss der Assistent zuerst eine markierte Fahrbahn mit mehreren Fahrstreifen erkennen.\nDer Spurwechsel-Assistent führt erst einen Spurwechsel durch, wenn er kein Fahrzeug im relevanten Sicherheitsbereich erkennen kann.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-152",
+      "text": "Ihr Kraftfahrzeug ist mit einem Aktiven Spurhalte-Assistenten ausgerüstet. Welche Information kann über die Statusanzeige dieses Systems angezeigt werden?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ist eingeschaltet"
+        },
+        {
+          "id": "B",
+          "text": "- ist ausgeschaltet"
+        },
+        {
+          "id": "C",
+          "text": "- hat eine Störung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das System muss anzeigen können, wenn es eingeschaltet, ausgeschaltet ist oder eine Störung hat. Da dies für den Fahrer wichtig ist.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-153",
+      "text": "Ihr Kraftfahrzeug ist mit einem Spurhalte-Assistenten ausgerüstet. In welcher Situation kann Sie dieses System unterstützen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- unbeabsichtigten Verlassen der Fahrspur"
+        },
+        {
+          "id": "B",
+          "text": "- Überschreiten der zulässigen Höchstgeschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "- zu schnellen Durchfahren von Spurrillen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Spurhalte-Assistent unterstützt dich dabei, die Fahrspur zu halten. Er warnt dich bei unabsichtlichem Verlassen der Fahrspur.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-154",
+      "text": "Sie nutzen in Ihrem Kraftfahrzeug den Spurhalte-Assistenten. Er warnt Sie während der Fahrt mit einem Signal. Was kann die Ursache dafür sein?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich habe beim Fahrstreifenwechsel vergessen, den Blinker zu betätigen"
+        },
+        {
+          "id": "B",
+          "text": "Ich verlasse unbeabsichtigt meinen Fahrstreifen"
+        },
+        {
+          "id": "C",
+          "text": "Ich unterschreite den Mindestabstand zum vorausfahrenden Fahrzeug"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei unbeabsichtigtem Verlassen deines Fahrstreifens warnt der Spurhalte-Assistent. Vergisst du beim Fahrstreifenwechsel das Blinken, erkennt der Spurhalte-Assistent dies als unbeabsichtigtes Verlassen deines Fahrstreifens und warnt dich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-155",
+      "text": "Sie nutzen in Ihrem Kraftfahrzeug während der Fahrt den Spurhalte-Assistenten. Das System reagiert beim Verlassen des Fahrstreifens nicht. Was kann die Ursache dafür sein?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine unzureichende Fahrbahnausleuchtung"
+        },
+        {
+          "id": "B",
+          "text": "Starker Niederschlag"
+        },
+        {
+          "id": "C",
+          "text": "Fehlende Fahrstreifenmarkierungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch fehlende Fahrstreifenmarkierungen, unzureichende Fahrbahnausleuchtung und starkem Niederschlag sind die Sensoren des Spurhalte-Assistenten beeinträchtigt, wodurch die Spur nicht zuverlässig erkannt wird.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-156",
+      "text": "Ihr Kraftfahrzeug ist mit einem Spurwechsel-Assistenten ohne Lenkeingriff ausgerüstet. Im Bereich des linken Außenspiegels leuchtet während der Fahrt die Warnleuchte auf. Worauf weist Sie diese Warnleuchte hin?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Im Überwachungsbereich befindet sich ein anderes Fahrzeug"
+        },
+        {
+          "id": "B",
+          "text": "Ein Fahrstreifenwechsel nach links darf jetzt nicht vorgenommen werden"
+        },
+        {
+          "id": "C",
+          "text": "Ein Fahrstreifenwechsel nach links ist jetzt gefahrlos möglich"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Befindet sich ein Fahrzeug im Überwachungsbereich, wird dies durch das Aufleuchten der Warnleuchte am Außenspiegel signalisiert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-157",
+      "text": "Sie nutzen während der Fahrt den Aktiven Spurhalte-Assistenten. Wie können Sie dieses Fahrerassistenzsystem im Falle des Systemeingriffs manuell übersteuern?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Gegenlenken"
+        },
+        {
+          "id": "B",
+          "text": "Durch Betätigung des Blinkers"
+        },
+        {
+          "id": "C",
+          "text": "Durch Beschleunigen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch Gegenlenken und Betätigen des Blinkers wird der Eingriff des Spurhalte-Assistenten übersteuert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-158",
+      "text": "In welcher Situation kann ein Aktiver Spurwechsel-Assistent sinnvoll eingesetzt werden?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Autobahnen"
+        },
+        {
+          "id": "B",
+          "text": "- autobahnähnlichen Straßen"
+        },
+        {
+          "id": "C",
+          "text": "- Straßen ohne Markierung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf Autobahnen oder autobahnähnlichen Straßen sind die Fahrstreifenmarkierungen gut zu sehen und die Fahrbahnen verlaufen meist gerade. Hier bietet sich ein Aktiver Spurwechsel-Assistent an.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-159",
+      "text": "Sie möchten überholen und haben über den Aktiven Spurwechsel-Assistenten einen Spurwechsel eingeleitet. Was ist richtig?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das System führt den Spurwechsel selbstständig durch"
+        },
+        {
+          "id": "B",
+          "text": "Ich muss den Spurwechsel überwachen"
+        },
+        {
+          "id": "C",
+          "text": "Das System hält immer alle Sicherheitsabstände selbstständig ein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Aktive Spurwechsel-Assistent kann den Spurwechsel nach Einleitung selbstständig durchführen. Allerdings musst du diesen immer überwachen, da z. B. Sicherheitsabstände nicht immer selbstständig eingehalten werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-160",
+      "text": "Welches Fahrerassistenzsystem müssen Sie manuell aktivieren, wenn Sie in bestimmten Situationen unterstützt werden möchten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Den Aktiven Park-Assistenten"
+        },
+        {
+          "id": "B",
+          "text": "Die Adaptive Geschwindigkeitsregelanlage (AGR)"
+        },
+        {
+          "id": "C",
+          "text": "Den Notbremsassistenten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der aktive Parkassistent und die Adaptive Geschwindigkeitsregelanlage (AGR) zählen nicht zu den Sicherheitsrelevanten Assistenten. Daher kannst du diese manuell aktivieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-161",
+      "text": "Sie möchten mit dem dargestellten Kleintransporter (bis 3,5 t) Möbel transportieren. Was müssen Sie im Vergleich zum Führen eines Pkws beachten?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- kann in Kurven leichter umkippen"
+        },
+        {
+          "id": "B",
+          "text": "- erfordert eine besondere Beachtung der Durchfahrtshöhe"
+        },
+        {
+          "id": "C",
+          "text": "- ist anfälliger für Seitenwind"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ein Transporter ist sehr viel höher, länger und breiter als ein normaler PKW. Daher solltest du immer auf die Beschilderung der Durchfahrtshöhe achten. Du solltest auch darauf achten, dass du gerade in Kurven deine Geschwindigkeit anpasst, da Transporter leichter umkippen könnten. Außerdem greift der Seitenwind an einer noch größeren Fläche an, was das Risiko aus der Fahrspur gedrückt zu werden deutlich erhöht.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.7.01-161.png",
+      "video": null
+    },
+    {
+      "id": "2.7.01-162",
+      "text": "Wie kann Sie der Aktive Park-Assistent beim Einparken unterstützen?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- erkennt ausreichend große Parklücken"
+        },
+        {
+          "id": "B",
+          "text": "- erkennt alle Hindernisse während des Parkens"
+        },
+        {
+          "id": "C",
+          "text": "- prüft, ob das Parken an einer bestimmten Stelle erlaubt ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der aktive Park-Assistent muss manuell von dir aktiviert werden. Nachdem du den Assistenten aktiviert hast, unterstützt dich das System dabei, eine geeignete Parklücke zu finden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-163",
+      "text": "Was kann der Grund dafür sein, dass ein Abbiegeassistent einen Radfahrer nicht zuverlässig erkennt?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Verschmutzung des Sensors"
+        },
+        {
+          "id": "B",
+          "text": "Eine Verdeckung des Radfahrers durch parkende Fahrzeuge"
+        },
+        {
+          "id": "C",
+          "text": "Eine Beschädigung des Sensors"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ein Abbiegeassistent kann durch verschiedene Umstände fehlerhaft arbeiten. So ist es möglich, dass ein Radfahrer oder ein Fußgänger nicht vom System erkannt wird, wenn zwischen dir und dem Radfahrer Hindernisse sind. Solche können beispielsweise parkende Fahrzeuge oder Bäume am Fahrbahnrand sein. Ebenso kann ganz einfach die Verschmutzung oder Beschädigung des Sensors Grund für eine fehlerhafte Funktion sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-164",
+      "text": "Was müssen Sie bei der Nutzung des Aktiven Park-Assistenten beachten?",
+      "points": 2,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- muss bei entstehenden Gefahren manuell übersteuert werden"
+        },
+        {
+          "id": "B",
+          "text": "- entbindet mich von der Verkehrsbeobachtung"
+        },
+        {
+          "id": "C",
+          "text": "- erkennt während des Parkens zuverlässig alle Hindernisse"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Nachdem du den aktiven Park-Assistenten aktiviert hast, unterstützt dich das System dabei, eine geeignete Parklücke zu finden und zu parken. Du musst dennoch weiterhin den Verkehr beobachten und bei entstehenden Gefahren manuell eingreifen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-165",
+      "text": "Sie fahren ein Elektrofahrzeug. In welchem Fall kann die Bremswirkung durch Rekuperation eingeschränkt sein?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mit vollgeladener Batterie"
+        },
+        {
+          "id": "B",
+          "text": "- unterhalb der Betriebstemperatur der Batterie"
+        },
+        {
+          "id": "C",
+          "text": "- im Eco-Modus"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch die Rekuperation funktioniert der Motor des Elektrofahrzeugs beim Bremsen wie ein Generator. Das Bremsen erzeugt also Strom und lädt automatisch den Akku des Autos auf. Wenn also die Batterie des Elektrofahrzeugs bereits vollständig aufgeladen ist, kann das Fahrzeug die Energie nicht zurückgewinnen und die Bremswirkung durch Rekuperation ist möglicherweise nicht verfügbar. Stattdessen muss das Fahrzeug auf herkömmliche Bremsen zurückgreifen. Ebenso kann die Rekuperation reduziert oder deaktiviert werden, wenn die Batterie zu kalt ist. Dadurch kann sich die Bremswirkung durch Rekuperation verringern.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-166",
+      "text": "Ihr Fahrzeug ist mit einer Berganfahrhilfe ausgerüstet. Welchen Vorteil bietet Ihnen dieses Assistenzsystem?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ein ungewolltes Zurückrollen meines Fahrzeugs verhindern"
+        },
+        {
+          "id": "B",
+          "text": "- das Lösen der Bremse übernehmen"
+        },
+        {
+          "id": "C",
+          "text": "- alle Räder gleichzeitig antreiben"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Berganfahrhilfe kann dir das Anfahren an einem Berg erleichtern, indem sie das Lösen der Bremsen übernimmt, dadurch wird ungewolltes Zurückrollen verhindert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.01-167",
+      "text": "Was gilt bei der Nutzung von Fahrerassistenzsystemen für die Längs- und Querführung Ihres Kraftfahrzeugs?",
+      "points": 3,
+      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "chapterNumber": "2.7.01",
+      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss die Systemgrenzen des Fahrerassistenzsystems kennen"
+        },
+        {
+          "id": "B",
+          "text": "Ich muss bei einer Fehlfunktion das Fahrerassistenzsystem unverzüglich übersteuern"
+        },
+        {
+          "id": "C",
+          "text": "Ich kann bei Müdigkeit die Längs- und Querführung dem Fahrerassistenzsystem überlassen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Du solltest dich vor dem Benutzen des Fahrerassistenzsystems mit den Grenzen des Systems auseinandersetzen. So weißt du genau, auf welche Gefahrensituationen und Fehlfunktion du vermehrt achten musst. \nWenn du eine Fehlfunktion des Fahrerassistenzsystems bemerkst, solltest du so schnell wie möglich übersteuern. Durch gezieltes Übersteuern kann auf eventuelle Fehler des Fahrerassistenzsystems bei der Längs- und Querführung manuell reagiert werden. Das Übersteuern lässt sich in der Regel durch das behutsame Betätigen von Gaspedal und Bremse oder durch vorsichtiges Gegenlenken auslösen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-015",
+      "text": "Was können Sie am Reifen kontrollieren?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die gleichmäßige Abnutzung des Profils"
+        },
+        {
+          "id": "B",
+          "text": "Die Profiltiefe"
+        },
+        {
+          "id": "C",
+          "text": "Das Alter des Reifens"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der/Die Kfz-FahrerIn kann am Reifen kontrollieren, ob die vorgeschriebene Profiltiefe vorhanden ist und ob das Profil eine gleichmäßige Abnutzung aufweist. Außerdem lässt sich das Alter des Reifens anhand der sogenannten DOT-Nummer ablesen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-016",
+      "text": "Wann müssen Bremsbeläge erneuert werden?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn sie verölt sind"
+        },
+        {
+          "id": "B",
+          "text": "Wenn sie an der Verschleißgrenze sind"
+        },
+        {
+          "id": "C",
+          "text": "Wenn sie nass geworden sind"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der/Die Kfz-FahrerIn muss die Bremsbeläge am Fahrzeug erneuern, wenn diese starke Verunreinigungen durch Öl aufweisen. Ein Austausch ist ebenso beim Erreichen der Verschleißgrenze notwendig und vorgeschrieben.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-017",
+      "text": "Gleich nach dem Losfahren machen Sie eine Bremsprobe. Warum?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Um die Wirkung der Betriebsbremse zu prüfen"
+        },
+        {
+          "id": "B",
+          "text": "Um die Bremsanlage schnell zu entlüften"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Unmittelbar nach Fahrtbeginn sollten Sie die Wirksamkeit der Betriebsbremse durch eine Bremsprobe zu Ihrer eigenen Sicherheit überprüfen. Diese können Sie anders als das Entlüften der Bremsanlage durch das Betätigen der Bremse bequem selber durchführen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-019",
+      "text": "Warum muss die Bremsflüssigkeit nach Anweisung des Fahrzeugherstellers ausgetauscht werden?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Damit die Bremsanlage auch bei hoher Belastung funktionstüchtig bleibt"
+        },
+        {
+          "id": "B",
+          "text": "Damit der Wasseranteil in der Bremsflüssigkeit nicht unzulässig hoch wird"
+        },
+        {
+          "id": "C",
+          "text": "Damit die Bremsanlage nicht undicht wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Bremsflüssigkeit zieht Wasser auch aus der Luft, mit der Zeit steigt also der Wasseranteil in der Bremsflüssigkeit. Ein zu hoher Wasseranteil schlägt Blasen in der Bremsflüssigkeit. Gelangen Luftblasen in die Bremsleitung, kann die Bremswirkung komplett ausfallen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-020",
+      "text": "In welchen Fällen ist eine Bremsprobe unerlässlich?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bei Übernahme eines anderen Fahrzeugs"
+        },
+        {
+          "id": "B",
+          "text": "Nach längerer Standzeit eines Fahrzeugs"
+        },
+        {
+          "id": "C",
+          "text": "Nach jedem Motorölwechsel"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine Bremsprobe ist immer dann unerlässlich, wenn ein Fahrzeug über einen längeren Zeitraum nicht bewegt wurde oder Sie ein fremdes Fahrzeug übernehmen. Wurde bei einem Fahrzeug ein Ölwechsel durchgeführt, hat das keine Auswirkung auf die Bremsanlage.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-021",
+      "text": "Worauf müssen Sie in regelmäßigen Abständen die Reifen Ihres Fahrzeugs überprüfen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf richtigen Luftdruck"
+        },
+        {
+          "id": "B",
+          "text": "Auf ausreichende Profiltiefe"
+        },
+        {
+          "id": "C",
+          "text": "Auf äußere Beschädigungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "In regelmäßigen Abständen sollten Sie bei den Reifen Ihres Fahrzeugs den Luftdruck und die Profiltiefe überprüfen. Zudem sollten Sie regelmäßig die Reifen an Ihrem Fahrzeug hinsichtlich äußerer Beschädigungen kontrollieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-022",
+      "text": "Welche Folgen kann zu hoher oder zu niedriger Luftdruck in den Reifen haben?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Fahrverhalten kann sich verschlechtern"
+        },
+        {
+          "id": "B",
+          "text": "Der Reifenverschleiß kann sich erhöhen"
+        },
+        {
+          "id": "C",
+          "text": "Der Reaktionsweg kann sich verlängern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ist der Reifeninnendruck zu hoch oder zu gering, verschlechtert sich das Fahrverhalten. Außerdem erhöht sich der Reifenverschleiß. Bei zu geringem Reifendruck erwärmt sich der Reifen durch Walken, der „weiche“ Reifen wird an der Aufstandsfläche übermäßig stark zusammengepresst und wieder entlastet. Die Folgen sind ein erhöhter Kraftstoffverbrauch und ein hoher Rollwiderstand, außerdem nimmt die Fahrstabilität ab. Ist der Reifendruck zu hoch, kann der Reifen platzen. Es ist wichtig, den Reifendruck regelmäßig zu kontrollieren und die vom Hersteller empfohlenen Angaben zu berücksichtigen. Der Reifendruck hat keinen Einfluss auf den Reaktionsweg.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-023",
+      "text": "Sie sind mit einem Reifen heftig gegen ein hartes Hindernis gefahren. Was müssen Sie tun?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reifen und Felge umgehend überprüfen lassen"
+        },
+        {
+          "id": "B",
+          "text": "Die Radschrauben nachziehen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Reifen und Felge müssen vor der Weiterfahrt gründlich überprüft werden. Schäden an den Reifenflanken sind besonders kritisch. Eine verformte Felge kann zum Abrutschen des Reifens von der Felge führen. Eine gerissene Alufelge kann ebenfalls schlimme Folgen haben. Die Radschrauben werden nicht außergewöhnlich belastet, daher brauchen sie auch nicht nachgezogen werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-024",
+      "text": "Was geschieht, wenn Sie mit wesentlich zu niedrigem Reifenluftdruck fahren?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Reifen erhitzen sich übermäßig"
+        },
+        {
+          "id": "B",
+          "text": "Die Fahrstabilität nimmt ab"
+        },
+        {
+          "id": "C",
+          "text": "Der Reifenverschleiß nimmt ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie mit wesentlich zu niedrigem Reifeninnendruck fahren, kann sich der Reifen übermäßig erhitzen. Durch den geringen Luftdruck nimmt die Fahrstabilität ab, das Fahrzeug „schwimmt“ auf der Fahrbahn. Eine Verringerung der Reifenaufstandsfläche durch Einwölbung in der Laufflächenmitte erhöht den Reifenverschleiß. Ein zu geringer Reifendruck erhöht zudem den Kraftstoffverbrauch.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-025",
+      "text": "Was kann die Ursache für den Ausfall eines Schlusslichtes sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glühlampe defekt"
+        },
+        {
+          "id": "B",
+          "text": "Sicherung durchgebrannt"
+        },
+        {
+          "id": "C",
+          "text": "Anlasser defekt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn das Schlusslicht ausfällt, sollten Sie zuerst die Glühlampe überprüfen. Auch eine defekte Sicherung kann einen Ausfall verursachen. Der Anlasser spielt dagegen keine Rolle, da er nicht mit dem Beleuchtungssystem zusammenhängt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-026",
+      "text": "Die Kontrollleuchte des Blinkers blinkt erheblich schneller als üblich. Welche Ursache kann vorliegen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eine Glühlampe ist defekt"
+        },
+        {
+          "id": "B",
+          "text": "Der Blinkerschalter ist defekt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Blinkintervall der Kontrolllampe verkürzt sich deutlich, wenn eine Glühlampe des Blinkers defekt ist. Ein Defekt am Blinklichtschalter kann nicht die Ursache für das schnellere Blinken sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-027",
+      "text": "Warum muss eine durchgerostete Auspuffanlage unverzüglich repariert werden?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen der Lärmbelästigung"
+        },
+        {
+          "id": "B",
+          "text": "Weil Teile der Auspuffanlage auf die Fahrbahn fallen können"
+        },
+        {
+          "id": "C",
+          "text": "Weil der Motor sonst zu heiß wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie müssen eine durchgerostete Auspuffanlage unverzüglich reparieren, weil sonst Teile des Auspuffs auf die Fahrbahn fallen können. Das führt zu einer Gefährdung der übrigen Verkehrsteilnehmer. Außerdem erzeugen verrostete Auspuffteile unnötigen Lärm. Auf die Temperatur des Motors hat eine durchgerostete Auspuffanlage keine Auswirkungen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-028",
+      "text": "Das Auspuffgeräusch ist plötzlich lauter als normal. Was tun Sie?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auspuffanlage überprüfen"
+        },
+        {
+          "id": "B",
+          "text": "Nichts, weil niemand gefährdet wird"
+        },
+        {
+          "id": "C",
+          "text": "Motor-Luftfilter erneuern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es ist zu vermuten, dass die Auspuffanlage defekt oder durchgerostet ist. Eine durchgerostete Auspuffanlage kann durch abfallende Teile andere Verkehrsteilnehmer gefährden. Der Auspuff muss überprüft und repariert werden. Der Luftfilter kann nicht die Ursache für das laute Auspuffgeräusch sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-029",
+      "text": "Woran kann es liegen, wenn die Hupe nicht funktioniert?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sicherung durchgebrannt"
+        },
+        {
+          "id": "B",
+          "text": "Betätigungseinrichtung der Hupe defekt"
+        },
+        {
+          "id": "C",
+          "text": "Anlasser defekt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sollte die Hupe Ihres Fahrzeuges nicht funktionieren, kann das an einer defekten Sicherung oder einem defekten Schalter liegen. Eine Störung am Anlasser hat dagegen keine Auswirkungen auf die Funktion der Hupe.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-030",
+      "text": "Beim Bremsen bemerken Sie, dass Ihr Fahrzeug nach rechts zieht. Wie verhalten Sie sich?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich suche eine Fachwerkstatt auf"
+        },
+        {
+          "id": "B",
+          "text": "Ich brauche das Problem nicht beheben, solange ich es durch Gegenlenken ausgleichen kann"
+        },
+        {
+          "id": "C",
+          "text": "Ich öle die Bremsbeläge"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Von einer defekten Bremsanlage geht eine erhebliche Gefahr aus, die zu Unfällen führen kann. Der/Die Kfz-FahrerIn muss das Problem in einer Fachwerkstatt beheben lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-032",
+      "text": "Welche Profiltiefe müssen alle Reifen Ihres Fahrzeugs am Hauptprofil mindestens aufweisen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [],
+      "correct": [
+        "1,6"
+      ],
+      "explanation": "Reifen von Krafträder und PKW müssen eine Profiltiefe von mindesten 1,6 mm aufweisen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-033",
+      "text": "Das Bremslicht Ihres Fahrzeugs funktioniert nicht. Was kann die Ursache sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die entsprechende Sicherung ist defekt"
+        },
+        {
+          "id": "B",
+          "text": "Das Leuchtmittel ist defekt"
+        },
+        {
+          "id": "C",
+          "text": "Der Füllstand der Bremsflüssigkeit ist zu gering"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein funktionierendes Bremslicht ist erheblich für die Teilnahme am Straßenverkehr. Bemerkt der/die Kfz-FahrerIn eine Störung am Fahrzeug, muss ein direkter Austausch der entsprechenden Teile erfolgen. Als Ursachen kommen defekte Leuchtmittel sowie kaputte Sicherungen infrage.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-034",
+      "text": "Wie müssen Sie sich verhalten, wenn nach dem Motorstart die Öldruckkontrollleuchte nicht erlischt?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich stelle den Motor umgehend ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich kontrolliere den Motorölstand"
+        },
+        {
+          "id": "C",
+          "text": "Ich fahre bis zum nächsten Ölwechsel weiter"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Um Schäden am Motor zu vermeiden, sollten Sie den Motor umgehend abstellen und den Motorölstand kontrollieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-037",
+      "text": "Sie sind mit einem Rad heftig gegen eine Bordsteinkante gefahren. Was sollten Sie beachten?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Fahrzeug sollte in der Werkstatt überprüft werden"
+        },
+        {
+          "id": "B",
+          "text": "Das Fahrverhalten des Fahrzeugs kann sich verschlechtern"
+        },
+        {
+          "id": "C",
+          "text": "Der Reifen kann schleichend Luft verlieren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn du gegen ein hartes Hindernis gefahren bist, solltest du Reifen und Felge umgehend auf mögliche Schäden prüfen lassen, um eine sichere Weiterfahrt zu garantieren.\nWenn das Rad bei dem Zusammenstoß Schaden genommen hat, könnte sich dieser negativ auf das Fahrverhalten des Fahrzeugs auswirken. Ist der Reifen nur gering oder nicht offensichtlich beschädigt, könnte er trotzdem schleichend Luft verlieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-038",
+      "text": "Die Schlussleuchte Ihres Fahrzeugs funktioniert nicht. Was kann die Ursache dafür sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die entsprechende Sicherung ist defekt"
+        },
+        {
+          "id": "B",
+          "text": "Das Leuchtmittel ist defekt"
+        },
+        {
+          "id": "C",
+          "text": "Der Fernlichtschalter ist defekt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine durchgebrannte Sicherung oder eine defekte Glühlampe können die Ursache für den Ausfall eines Schlusslichtes sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-040",
+      "text": "Das Bremslicht an Ihrem Fahrzeug ist ohne Funktion. Wie verhalten Sie sich richtig?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich lasse das Fahrzeug in einer Werkstatt reparieren"
+        },
+        {
+          "id": "B",
+          "text": "Ich versuche, die Ursache zu erkennen, und behebe den Fehler selbst"
+        },
+        {
+          "id": "C",
+          "text": "Ich lasse die Bremsflüssigkeit austauschen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn das Leuchtmittel defekt ist, funktioniert das Bremslicht des Fahrzeugs nicht, solltest du diesen Schaden umgehend beheben. Wenn nur das Leuchtmittel defekt ist, kannst du dieses selbst austauschen oder durch eine Werkstatt austauschen lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-044",
+      "text": "Wie können Sie einen defekten Blinker erkennen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Kontrollleuchte für den Blinker blinkt schneller als üblich"
+        },
+        {
+          "id": "B",
+          "text": "Durch eine Funktionsprüfung vor Fahrtantritt"
+        },
+        {
+          "id": "C",
+          "text": "Die Kontrollleuchte für den Blinker leuchtet dauerhaft rot"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Prüfe vor Fahrtantritt die Funktion des Blinkers, indem du den Blinkhebel betätigst und das Blinken kontrollierst.\nWenn die Blinker-Kontrollleuchte während der Fahrt schneller als üblich blinkt, ist möglicherweise ein Blinker defekt. Behebe den Defekt unverzüglich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-049",
+      "text": "Eine Anzeige Ihres flüssigkeitsgekühlten Kraftfahrzeugs informiert Sie über eine zu hohe Motortemperatur. Wie sollten Sie sich jetzt verhalten?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich halte schnellstmöglich an geeigneter Stelle an"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre für eine bessere Motorkühlung mit erhöhter Motordrehzahl langsam weiter"
+        },
+        {
+          "id": "C",
+          "text": "Ich fahre in niedrigem Gang bis zur nächsten geplanten Fahrtunterbrechung weiter"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Halte so schnell wie möglich an einer geeigneten Stelle an und schalte den Motor aus, um Motorschäden durch Überhitzung zu vermeiden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-050",
+      "text": "Eine Anzeige Ihres flüssigkeitsgekühlten Fahrzeugs informiert Sie über eine zu hohe Kühlmitteltemperatur. Was kann die Ursache dafür sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Kühler ist verschmutzt"
+        },
+        {
+          "id": "B",
+          "text": "Der Kühlerlüfter ist ausgefallen"
+        },
+        {
+          "id": "C",
+          "text": "Das Kühlsystem ist undicht"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Grund für eine zu hohe Kühlmitteltemperatur können Ablagerung und Schmutz sein, denn sie verringern die Wärmeableitung. \nDurch Lecks oder defekte Dichtungen kann Kühlmittel austreten. Wenn du weniger Kühlmittel hast, erwärmt es sich schneller. Kontrolliere dein Fahrzeug auf sichtbare Lecks und lasse sie gegebenenfalls reparieren.\nWenn der Kühlerlüfter defekt ist, steigt die Temperatur schnell an. Prüfe den Kühlerlüfter auf Verstopfungen und lasse ihn, wenn nötig, in einer Werkstatt instand setzen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-103",
+      "text": "Das Lenkrad lässt sich schwerer als normal drehen. Was kann die Ursache dafür sein?",
+      "points": 4,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lenkgetriebe defekt"
+        },
+        {
+          "id": "B",
+          "text": "Lenkhilfe ausgefallen"
+        },
+        {
+          "id": "C",
+          "text": "Reifenluftdruck zu hoch"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ist die Lenkung schwergängig, kann ein Defekt am Lenkgetriebe die Ursache dafür sein. Auch der Ausfall der Lenkhilfe, der Servolenkung, kann dazu führen, dass das Lenkrad sich schwerer als normal bewegen lässt. Einen ähnlichen Effekt hat man bei zu niedrigem Reifendruck, nicht aber bei zu hohem.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-107",
+      "text": "Die Bremse an Ihrem Pkw wirkt stark einseitig. Welche Folgen können beim Bremsen eintreten?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seitliches Ausbrechen des Fahrzeugs"
+        },
+        {
+          "id": "B",
+          "text": "Längerer Bremsweg"
+        },
+        {
+          "id": "C",
+          "text": "Ausfall des Antiblockiersystems (ABS)"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wirkt die Bremse am Pkw stark einseitig, hat dies erhebliche negative Auswirken auf das Fahrverhalten des Fahrzeuges. Das Fahrzeug kann seitlich in benachbarte Fahrspuren ausbrechen oder ins Schleudern geraten. Der Bremsweg wird länger. Das ABS bleibt dabei funktionstüchtig.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-109",
+      "text": "Das Bremspedal lässt sich bis zum Fahrzeugboden durchtreten. Erst bei mehrmaliger Betätigung wird der Pedalweg kürzer. Was müssen Sie tun?",
+      "points": 5,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeug sofort abstellen"
+        },
+        {
+          "id": "B",
+          "text": "Bremse reparieren lassen"
+        },
+        {
+          "id": "C",
+          "text": "Bremsflüssigkeit nachfüllen genügt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Lässt sich das Bremspedal bis zum Fahrzeugboden durchtreten und wird der Pedalweg nach mehrmaligem Pumpen/ Durchtreten kürzer, ist Luft in der Bremsanlage. Das bedeutet, dass die Bremse sofort gewartet und repariert werden muss. Eine Weiterfahrt ist nicht möglich. Auch das Nachfüllen der Bremsflüssigkeit schafft keine Abhilfe des Problems.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-112",
+      "text": "Die Bremsleuchten sind ohne Funktion. Was tun Sie?",
+      "points": 4,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unverzüglich reparieren"
+        },
+        {
+          "id": "B",
+          "text": "Bremsflüssigkeit erneuern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein Defekt an den Bremsleuchten muss sofort behoben werden, um im Straßenverkehr niemanden zu gefährden und Unfälle zu vermeiden. Als Ursachen für nicht funktionierende Bremsleuchten kommen defekte Leuchtmittel oder kaputte Sicherungen infrage.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-113",
+      "text": "Woran können Sie während der Fahrt eine defekte Blinkleuchte erkennen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Kontrollleuchte für den Blinker blinkt schneller als üblich"
+        },
+        {
+          "id": "B",
+          "text": "Eine defekte Blinkleuchte ist während der Fahrt nicht erkennbar"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Eine defekte Blinkleuchte macht sich dadurch bemerkbar, dass die Kontrolllampe in der Instrumentenanzeige erheblich schneller blinkt, als es sonst üblich ist. Sie als FahrerIn sind also in der Lage, während der Fahrt den Defekt schnell zu erkennen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-114",
+      "text": "Sie fahren bei Dunkelheit mit Abblendlicht. Entgegenkommende blenden auf und ab. Was kann das bedeuten?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Scheinwerfer Ihres Fahrzeuges können falsch eingestellt sein und blenden"
+        },
+        {
+          "id": "B",
+          "text": "Die Leuchtweitenregelung an Ihrem Fahrzeug ist nicht dem Beladungszustand angepasst"
+        },
+        {
+          "id": "C",
+          "text": "Die anderen fordern Sie auf, Fernlicht einzuschalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Auf- und Abblenden der entgegenkommenden Kfz-FahrerInnen ist ein typisches Zeichen dafür, dass Sie den Gegenverkehr mit ihren Vorderleuchten blenden. Als Ursache hierfür kommen falsch eingestellte Scheinwerfer oder eine dem Beladungszustand nicht entsprechende Einstellung der Leuchtweitenregulierung infrage. Verstehen Sie das Auf- und Abblenden nicht als Aufforderung, das Fernlicht Ihres Kfz einzuschalten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-115",
+      "text": "Das Spiegelglas des linken Außenspiegels ist gesprungen. Was tun Sie?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spiegelglas erneuern"
+        },
+        {
+          "id": "B",
+          "text": "Spiegelglas nicht erneuern, da Beobachtung nach hinten noch teilweise möglich ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An jedem Fahrzeug ist ein linker Außenspiegel zwingend vorgeschrieben. Wenn das Glas gesprungen ist, müssen Sie den Spiegel unverzüglich austauschen, auch wenn alle anderen Spiegel einwandfrei funktionieren. Nur so können Sie Ihre Fahrt ordnungsgemäß fortsetzen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-117",
+      "text": "Die Scheibenwaschanlage funktioniert nicht. Woran kann das liegen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kein Wasser im Vorratsbehälter"
+        },
+        {
+          "id": "B",
+          "text": "Sicherung defekt"
+        },
+        {
+          "id": "C",
+          "text": "Düsen verstopft"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn die Scheibenwaschanlage nicht funktioniert, kann das entweder an verstopften Düsen liegen oder an einer defekten Sicherung. Es ist jedoch auch möglich, dass sich kein Wasser mehr in dem Vorratsbehälter befindet und die Scheibenwaschanlage deswegen nicht funktioniert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-118",
+      "text": "Aus den Düsen der Scheibenwaschanlage kommt zu wenig Wasser. Was kann die Ursache dafür sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Düsen sind teilweise verstopft"
+        },
+        {
+          "id": "B",
+          "text": "Wasserförderpumpe defekt"
+        },
+        {
+          "id": "C",
+          "text": "Zu viel Wasser im Vorratsbehälter"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Düsen der Scheibenwaschanlage Ihres Fahrzeugs könnten teilweise verstopft sein, wenn zu wenig Wasser aus ihnen herauskommt. Eventuell ist auch ein Defekt der Wasserförderpumpe die Ursache für die Fehlfunktion der Scheibenwaschanlage. Zu viel Wasser kommt als Ursache für den Fehler nicht in Betracht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-119",
+      "text": "Woran kann es liegen, wenn die Scheibenwischer nicht mehr sauber wischen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scheibenwischerblätter sind abgenutzt"
+        },
+        {
+          "id": "B",
+          "text": "Ölfilm auf der Scheibe"
+        },
+        {
+          "id": "C",
+          "text": "Scheibenheizung ist defekt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn die Scheibenwischer nicht mehr sauber wischen, kann das an einem Ölfilm auf der Scheibe liegen. Auch abgenutzte Scheibenwischerblätter können die Funktion des Scheibenwischers beeinträchtigen. Ein Defekt an der Scheibenheizung hat dagegen keine Auswirkungen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-120",
+      "text": "Die Scheibenwischer an Ihrem Pkw funktionieren nicht. Was kann die Ursache dafür sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sicherung durchgebrannt"
+        },
+        {
+          "id": "B",
+          "text": "Scheibenwischermotor defekt"
+        },
+        {
+          "id": "C",
+          "text": "Zu viel Wasser in der Scheibenwaschanlage"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn die Scheibenwischer an Ihrem Pkw nicht funktionieren, kann das an einem defekten Motor in der Scheibenwaschanlage liegen. Auch eine durchgebrannte Sicherung kann die Ursache sein. Eine zu große Menge an Wasser ist dagegen nicht für einen Ausfall verantwortlich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-121",
+      "text": "Das Schloss eines Sicherheitsgurtes schließt nicht. Was tun Sie?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schloss instand setzen lassen"
+        },
+        {
+          "id": "B",
+          "text": "Nichts, weil der Sitz mit Airbag ausgerüstet ist"
+        },
+        {
+          "id": "C",
+          "text": "Mit geringer Geschwindigkeit fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn das Schloss eines Sicherheitsgurtes nicht richtig schließt, müssen Sie sich zuerst um die Reparatur oder einen Ersatz kümmern. Ohne ordnungsgemäße Funktion der Gurte ist eine Fahrt auch bei geringer Geschwindigkeit nicht erlaubt, da intakte Sicherheitsgurte zwingend vorgeschrieben sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-122",
+      "text": "Der Sicherheitsgurt rollt sich nicht mehr automatisch auf. Woran kann das liegen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sicherheitsgurt ist verdreht"
+        },
+        {
+          "id": "B",
+          "text": "Automatische Aufrollvorrichtung ist defekt"
+        },
+        {
+          "id": "C",
+          "text": "Sitzverstellung ist defekt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Manchmal passiert es beim Abschnallen, dass sich der Gurt verdreht und in der vorgesehenen Führung klemmt. Ein Aufrollen ist dann nicht mehr möglich. Außerdem kann die Vorrichtung als Bauteil einen Defekt aufweisen. Sie muss dann repariert oder ausgetauscht werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-123",
+      "text": "In Ihrem Pkw flattert das Lenkrad während der Fahrt. Woran kann das liegen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Räder haben Unwucht"
+        },
+        {
+          "id": "B",
+          "text": "Stoßdämpfer sind defekt"
+        },
+        {
+          "id": "C",
+          "text": "Federung ist schadhaft"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wenn das Lenkrad während der Fahrt flattert, können defekte Stoßdämpfer der Grund dafür sein. Sie unterbinden Vertikalbewegungen der Reifen. Auch Schäden an der Federung können eine mögliche Ursache sein. Den gleichen Flatter-Effekt verursachen auch Räder mit einer Unwucht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-124",
+      "text": "Woran kann es liegen, wenn sich an der Vorderachse ein Reifen einseitig stärker abnutzt?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spureinstellung nicht in Ordnung"
+        },
+        {
+          "id": "B",
+          "text": "Achslenker verbogen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Grundsätzlich sind zwei Ursachen für die unterschiedlich starke Abnutzung der Vorderreifen denkbar: Entweder ist die Spureinstellung nicht in Ordnung oder ein Achslenker ist verbogen. Sie sollten umgehend die Spureinstellung korrigieren bzw. eine Reparatur des Achslenkers durchführen lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-125",
+      "text": "Was kann die Ursache für eine übermäßige Abnutzung der Reifen sein?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Schaden an der Federung"
+        },
+        {
+          "id": "B",
+          "text": "Falscher Reifenluftdruck"
+        },
+        {
+          "id": "C",
+          "text": "Anbau eines Frontspoilers"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Falscher Reifeninnendruck und Schäden an der Federung sind die häufigsten Ursachen von übermäßiger Abnutzung der Reifen. Beim Reifendruck geht es dabei um zu wenig Luftdruck. Dies erhöht den Abrieb. Der Anbau eines Frontspoilers führt nicht zu Reifenschäden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-126",
+      "text": "Während der Fahrt zieht Ihr Fahrzeug nach rechts. Woran kann das liegen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Achslenker verbogen"
+        },
+        {
+          "id": "B",
+          "text": "Radeinstellung nicht in Ordnung"
+        },
+        {
+          "id": "C",
+          "text": "Lenkungsdämpfer lose"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn während der Fahrt Ihr Fahrzeug nach rechts zieht, kann dafür die Radstellung verantwortlich sein. Doch auch ein verbogener Achslenker kann die Ursache dafür sein. Der Lenkungsdämpfer hat hingegen meistens keinen Einfluss auf den Geradeauslauf Ihres Fahrzeugs.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-127",
+      "text": "Welche Auswirkung hat das Lenken im Stand für Ihr Fahrzeug?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "An der Lauffläche des Reifens können Beschädigungen entstehen"
+        },
+        {
+          "id": "B",
+          "text": "Die Mechanik der Vorderachse wird stark belastet"
+        },
+        {
+          "id": "C",
+          "text": "Die Lenkung wird leichtgängiger"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Während des Lenkens im Stand können auf der Lauffläche des Reifens Beschädigungen entstehen. Die Mechanik der Vorderachse wird stark belastet und sollte deswegen verwiesen werden. Die Lenkung wird nicht leichtgängiger.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-128",
+      "text": "Wann sollten Sie bei Ihrem Pkw die Bremsanlage überprüfen lassen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn die Bremskontrollleuchte während der Fahrt aufleuchtet"
+        },
+        {
+          "id": "B",
+          "text": "Wenn mein Pkw bei einer Bremsung nicht in der Spur bleibt"
+        },
+        {
+          "id": "C",
+          "text": "Wenn mit meinem Pkw eine Gefahrbremsung durchgeführt wurde"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Bremskontrolleuchte warnt vor defekter Bremsanlage, leuchtet diese während der Fahrt, sollten Sie das Fahrzeug umgehend überprüfen lassen. Bei einseitiger Bremsung kann das Fahrzeug nicht die Spur halten. Lassen Sie die Bremsanlage überprüfen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-129",
+      "text": "Während der Fahrt merken Sie, dass Ihr Pkw beim Bremsen stark nach links zieht. Wie verhalten Sie sich richtig?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- meinen Pkw umgehend in einer Werkstatt überprüfen lassen"
+        },
+        {
+          "id": "B",
+          "text": "- nur mit geringer Geschwindigkeit weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "- nur noch mit der Handbremse bremsen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn sich dein Fahrzeug ungewöhnlich verhält, solltest du immer umgehend eine Werkstatt aufsuchen. Somit kannst du mögliche Unfälle verhindern. Da mit deiner Bremse offensichtlich etwas nicht in Ordnung ist, solltest du Situationen vermeiden, in denen du stark bzw. vollbremsen musst.\nDas Bremsen mit der Handbremse kann dazu führen, dass dein Pkw aus der Spur ausbricht. Dies solltest du während der Fahrt keines Falls machen",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-130",
+      "text": "Ihr Fahrzeug lässt sich deutlich schwerer lenken als üblich. Wie verhalten Sie sich richtig?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich lasse das Fahrzeug umgehend in einer Werkstatt überprüfen"
+        },
+        {
+          "id": "B",
+          "text": "Ich achte zunächst bei weiteren Fahrten auf dieses Lenkverhalten"
+        },
+        {
+          "id": "C",
+          "text": "Ich verringere den Reifenfülldruck an der Vorderachse"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn sich dein Fahrzeug ungewöhnlich verhält, solltest du immer sofort eine Werkstatt aufsuchen.\nWeitere Fahrten würden zu viel Risiko mit sich bringen. Dadurch würdest du dich und andere Verkehrsteilnehmer in Gefahr bringen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-131",
+      "text": "Sie stellen fest, dass die Reifen an der Vorderachse Ihres Fahrzeugs ungleichmäßig abgenutzt sind. Was sollte überprüft werden?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Fahrwerkseinstellungen"
+        },
+        {
+          "id": "B",
+          "text": "Der Reifenfülldruck"
+        },
+        {
+          "id": "C",
+          "text": "Die Stoßdämpfer"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Für ungleichmäßig abgenutzte Reifen gibt es mehrere Ursachen. Du solltest den Reifendruck prüfen. \nEin defekter Stoßdämpfer oder auch eine falsche Fahrwerkseinstellung kann zu ungleichmäßiger Abnutzung führen. Beides sollte in einer Fachwerkstatt geprüft werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-132",
+      "text": "Während der Fahrt zieht Ihr Fahrzeug nach rechts. Wie verhalten Sie sich richtig?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich überprüfe den Reifenfülldruck und fahre bei Bedarf in eine Werkstatt"
+        },
+        {
+          "id": "B",
+          "text": "Ich beobachte nur das Lenkverhalten bei weiteren Fahrten"
+        },
+        {
+          "id": "C",
+          "text": "Ich versuche, das Fahrverhalten durch kräftiges Bremsen zu verbessern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Zieht dein Fahrzeug während der Fahrt nach rechts, könnte dies auf einen falschen Reifendruck hinweisen. Überprüfe ihn und fahre gegebenenfalls in eine Werkstatt.\nDurch kräftiges Bremsen lässt sich das Fahrverhalten nicht verbessern. Es führt nur zu einer riskanteren Fahrweise und könnte dich und andere Verkehrsteilnehmer gefährden.\nWenn sich dein Fahrzeug ungewöhnlich verhält, solltest du immer sofort eine Werkstatt aufsuchen.\nWeitere Fahrten würden zu viel Risiko mit sich bringen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-133",
+      "text": "Wann müssen Sie Ihren Pkw in einer Werkstatt überprüfen lassen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- am Fahrwerk"
+        },
+        {
+          "id": "B",
+          "text": "- an der Lenkanlage"
+        },
+        {
+          "id": "C",
+          "text": "- an der Lackierung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Stellst du Mängel an deinem Fahrwerk oder an der Lenkanlage fest, solltest du umgehend eine Werkstatt aufsuchen. Diese könnten sehr gefährlich für dich und Andere  sein und sich negativ auf das Fahrverhalten und insbesondere die Sicherheit deines Pkws auswirken.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-134",
+      "text": "Die Kontrollleuchte des Blinkers blinkt erheblich schneller als üblich. Was kann die Ursache dafür sein?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein Leuchtmittel ist defekt"
+        },
+        {
+          "id": "B",
+          "text": "Die Sicherung ist defekt"
+        },
+        {
+          "id": "C",
+          "text": "Das Warnblinklicht ist eingeschaltet"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Als Hinweis auf eine defekte Glühlampe blinkt die Kontrollleuchte des Blinkers doppelt so schnell. Das schnellere Blinken kannst du auch im Fahrzeug-Cockpit erkennen. Somit sieht man sogar während der Fahrt, dass ein Blinker ausgefallen ist.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-135",
+      "text": "Wann sollten Sie Ihren Pkw in einer Werkstatt überprüfen lassen?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn beim Bremsen dauerhaft Geräusche auftreten"
+        },
+        {
+          "id": "B",
+          "text": "Wenn die Airbag-Kontrollleuchte nach dem Motorstart nicht erlischt"
+        },
+        {
+          "id": "C",
+          "text": "Wenn beim Geradeausfahren ein ständiges Gegenlenken erforderlich ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Du solltest dein Auto in einer Werkstatt prüfen lassen, wenn nach dem Motorstart die Airbag-Kontrollleuchte nicht nach kurzer Zeit erlischt. Dies könnte darauf hinweisen das etwas mit dem Airbag oder z. B. der Gurtanlage nicht stimmen. \nEin dauerhaftes Geräusch beim Bremsen könnte auf Schäden an der Bremsanlage hinweisen. \nIm Normalfall fährt dein Auto, auch ohne das Lenkrad festzuhalten, geradeaus. Musst du beim Geradeausfahren ständig gegenlenken, um die Spur zu halten, solltest du das in einer Werkstatt prüfen lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-136",
+      "text": "Beim Beschleunigen stellen Sie fest, dass das Lenkrad „flattert“. Wie sollten Sie sich verhalten?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Vorderräder auf Beschädigungen"
+        },
+        {
+          "id": "B",
+          "text": "- Radbefestigung der Vorderräder"
+        },
+        {
+          "id": "C",
+          "text": "- Lenkradbefestigung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn das Lenkrad bei Beschleunigung \"flattert\" solltest du dir die Vorderräder genauer ansehen. Dabei solltest du die Vorderräder zuerst nach Beschädigungen untersuchen und dann prüfen, ob die Vorderräder noch richtig befestigt sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-137",
+      "text": "Der Sicherheitsgurt für den Beifahrer ist defekt. Wie müssen Sie sich verhalten?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss den Sicherheitsgurt austauschen lassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf den Sitzplatz nicht mehr nutzen"
+        },
+        {
+          "id": "C",
+          "text": "Ich muss die Gurthöhenverstellung anpassen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein defekter Sicherheitsgurt muss fachmännisch ausgetauscht werden. Solange der Sicherheitsgurt defekt ist, darf der Sitzplatz nicht mehr genutzt werden, da die Person auf diesem Platz sehr gefährdet ist.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-138",
+      "text": "Sie fahren bei Dunkelheit innerorts. Entgegenkommende Fahrzeugführer warnen Sie mit der Lichthupe. Was kann das in dieser Situation bedeuten?",
+      "points": 3,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mein Fahrzeug blendet entgegenkommende Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Ich habe vergessen, das Abblendlicht einzuschalten"
+        },
+        {
+          "id": "C",
+          "text": "Ich sollte das Fernlicht einschalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Geben dir entgegenkommende Fahrzeuge eine Lichthupe, dann kann dies daran liegen, dass du dein Fernlicht eingeschaltet hast und sie damit blendest. Dies kann jedoch ebenso eine Erinnerung für dich sein, da du z.B. vergessen hast das Abblendlicht einzuschalten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-139",
+      "text": "Die Kontrollleuchte der Fahrdynamikregelung (ESC) Ihres Pkws leuchtet dauerhaft. Worauf kann das hinweisen?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- wurde deaktiviert"
+        },
+        {
+          "id": "B",
+          "text": "- ist defekt"
+        },
+        {
+          "id": "C",
+          "text": "- ist aktiv"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine dauerhaft leuchtende ESP Warnleuchte im Auto weist auf ein Problem mit der Fahrdynamikregelung des Fahrzeugs hin – auch eine Deaktivierung des Fahrassistenzsystems hat in vielen Autos eine dauerhaft leuchtende ESP-Kontrollleuchte zur Folge.\nSolltest du bei einer dauerhaft leuchtenden ESP Warnlampe das System nicht selbst deaktiviert oder ausgeschaltet haben, solltest du zeitnah in eine Werkstatt fahren, um die Funktionsweise der Fahrdynamikregelung prüfen zu lassen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.02-140",
+      "text": "In Ihrem Pkw ist der Sicherheitsgurt für den Beifahrer defekt. Wie verhalten Sie sich richtig?",
+      "points": 2,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich lasse den Sicherheitsgurt reparieren"
+        },
+        {
+          "id": "B",
+          "text": "Ich lasse keinen Beifahrer mitfahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich passe die Gurthöhenverstellung an"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Sitzplatz mit defektem Sicherheitsgurt darf nicht mehr benutzt werden. Dazu muss ein defekter Sicherheitsgurt fachkundig ausgewechselt oder repariert werden, um die Sicherheit der jeweiligen Person zu gewährleisten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.03-101",
+      "text": "Welche Folge kann eine zu geringe Menge Kühlflüssigkeit im Motor haben?",
+      "points": 2,
+      "chapter": "Verbrennungsmaschine Fluessigkeiten Kraftstoffsystem Elektrische Anlage Zuendung Kraftuebertragung",
+      "chapterNumber": "2.7.03",
+      "chapterName": "Verbrennungsmaschine Fluessigkeiten Kraftstoffsystem Elektrische Anlage Zuendung Kraftuebertragung",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zum Motorschaden führen"
+        },
+        {
+          "id": "B",
+          "text": "- zur Überhitzung des Motors führen"
+        },
+        {
+          "id": "C",
+          "text": "- zur Erhöhung des Kraftstoffverbrauchs führen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine zu geringe Menge Kühlflüssigkeit kann zu einem Motorschaden führen und sollte stets von dir kontrolliert werden. Eine weitere Folge ist das Überhitzen des Motors. Achte auf ausreichend Kühlflüssigkeit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.03-102",
+      "text": "Sie fahren mit Schrittgeschwindigkeit in einem Stau. Wann ist der Kupplungsverschleiß an Ihrem Kraftfahrzeug mit manuellem Schaltgetriebe am geringsten?",
+      "points": 2,
+      "chapter": "Verbrennungsmaschine Fluessigkeiten Kraftstoffsystem Elektrische Anlage Zuendung Kraftuebertragung",
+      "chapterNumber": "2.7.03",
+      "chapterName": "Verbrennungsmaschine Fluessigkeiten Kraftstoffsystem Elektrische Anlage Zuendung Kraftuebertragung",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in einem niedrigen Gang möglichst ohne Betätigung der Kupplung fahre"
+        },
+        {
+          "id": "B",
+          "text": "- wiederholt anfahre und anhalte"
+        },
+        {
+          "id": "C",
+          "text": "- langsam mit schleifender Kupplung fahre"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Kuppeln Sie vollständig ein um die Kupplung nicht unnötig abzunutzen. Wählen Sie sich einen Gang in dem Sie ohne Kupplung und Gas rollen können.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.04-001",
+      "text": "Was sollten Sie beim Nachfüllen von Motoröl beachten?",
+      "points": 2,
+      "chapter": "Schmier Und Frostschutzmittel",
+      "chapterNumber": "2.7.04",
+      "chapterName": "Schmier Und Frostschutzmittel",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verwende Motoröl nach der Spezifikation des Fahrzeugherstellers"
+        },
+        {
+          "id": "B",
+          "text": "Ich überschreite den maximalen Füllstand nicht"
+        },
+        {
+          "id": "C",
+          "text": "Ich fülle das Motoröl bei laufendem Motor nach"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da es sehr unterschiedliche Öle gibt, solltest du darauf achten, das das verwendetet Motoröl den Spezifikationen des Herstellers entspricht. Auch solltest auf eine Überschreitung des maximalen Füllstandes vermeiden. Bei laufendem Motor ist falsch.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.04-002",
+      "text": "Welche Aufgabe hat Motoröl in einem Verbrennungsmotor?",
+      "points": 2,
+      "chapter": "Schmier Und Frostschutzmittel",
+      "chapterNumber": "2.7.04",
+      "chapterName": "Schmier Und Frostschutzmittel",
+      "options": [
+        {
+          "id": "A",
+          "text": "- dem Verschleißschutz"
+        },
+        {
+          "id": "B",
+          "text": "- der Kühlung"
+        },
+        {
+          "id": "C",
+          "text": "- der Reinigung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Motoröl wirkt sich verschieden auf einen Verbrennungsmotor aus. Es dient dem Verschleißschutz, der Kühlung und auch der Reinigung. Achte auf einen ausreichenden Motorölstand.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.04-101",
+      "text": "Wie können Sie den Motorölstand kontrollieren?",
+      "points": 2,
+      "chapter": "Schmier Und Frostschutzmittel",
+      "chapterNumber": "2.7.04",
+      "chapterName": "Schmier Und Frostschutzmittel",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Fahrerinformationssystem"
+        },
+        {
+          "id": "B",
+          "text": "- Ölmessstab"
+        },
+        {
+          "id": "C",
+          "text": "- Momentanverbrauchsanzeige"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Je nach Fahrzeug lässt sich der Motorölstand auf unterschieldiche Weise kontrollieren. Moderne Fahrzeuge können den Ölstand im Infotainmentsystem anzeigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-001",
+      "text": "Welche Bedeutung hat das auf dem Reifen angegebene Herstellungsdatum „1217“?",
+      "points": 2,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in der 12. Kalenderwoche des Jahres 2017 hergestellt"
+        },
+        {
+          "id": "B",
+          "text": "- im 12. Monat (Dezember) des Jahres 2017 hergestellt"
+        },
+        {
+          "id": "C",
+          "text": "- am 1.2.2017 hergestellt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Herstellerdatum 1217 bedeutet, dass der Reifen in der 12. Kalenderwoche des Jahres 2017 hergestellt wurde.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.7.05-001.png",
+      "video": null
+    },
+    {
+      "id": "2.7.05-002",
+      "text": "Wann sollten Sie den Reifendruck überprüfen?",
+      "points": 2,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regelmäßig bei kalten Reifen"
+        },
+        {
+          "id": "B",
+          "text": "Unmittelbar nach jedem Reifenwechsel"
+        },
+        {
+          "id": "C",
+          "text": "Unmittelbar nach jeder Fahrt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Den Reifendruck solltest du regelmäßig bei kalten Reifen und unmittelbar nach jedem Reifenwechsel überprüfen. Die Prüfung muss nicht nach jeder Fahrt erfolgen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-005",
+      "text": "Sie fahren mit deutlich zu niedrigem Reifenfülldruck im Straßenverkehr. Was ist die Folge?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Lenkverhalten des Fahrzeugs verschlechtert sich erheblich"
+        },
+        {
+          "id": "B",
+          "text": "Die Fahrstabilität in Kurven nimmt gefährlich ab"
+        },
+        {
+          "id": "C",
+          "text": "Der Reifenverschleiß nimmt stark ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein niedriger Reifendruck hat zur Folge, dass eine größere Fläche vom Reifen während der Fahrt auf dem Asphalt liegt. Zudem hat der Reifen keine runde Form mehr und kann nicht mehr sauber abrollen. Bei deutlich zu niedrigem Reifendruck nimmt also die Fahrstabilität in Kurven gefährlich ab und das Lenkverhalten verschlechtert sich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-006",
+      "text": "Worauf müssen Sie bei der regelmäßigen Überprüfung der Reifen Ihres Fahrzeugs achten?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf den Luftdruck"
+        },
+        {
+          "id": "B",
+          "text": "Auf die Profiltiefe"
+        },
+        {
+          "id": "C",
+          "text": "Auf äußere Beschädigungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Du solltest in regelmäßigen Abständen deine Reifen überprüfen. Wichtig dabei ist das du den äußeren Zustand der Reifen kontrollierst, achte darauf das die Reifen keine äußeren Beschädigungen aufweist und das die gesetzlich vorgeschriebene Mindestprofiltiefe von 1,6 mm nicht unterschritten wird. \nGerade vor längeren Fahrten oder bei einer höheren Beladung solltest du darauf achten, den Reifendruck vorher zu kontrollieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-101",
+      "text": "Was ist beim Radwechsel mit einem Wagenheber zu beachten?",
+      "points": 2,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Wagenheber darf nur an den vom Fahrzeughersteller festgelegten Aufnahmepunkten angesetzt werden"
+        },
+        {
+          "id": "B",
+          "text": "Der Untergrund sollte immer stabil und rutschfest sein"
+        },
+        {
+          "id": "C",
+          "text": "Der Wagenheber ist immer mittig an der Längsseite des Fahrzeugs anzubringen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Wagenheber darf nur an den vom Fahrzeughersteller festgelegten Aufnahmepunkten angesetzt werden. Machst du das nicht, kann es zu einem Schaden führen. Der Untergrund sollte immer stabil und rutschfest sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-102",
+      "text": "Sie müssen ein defektes Rad demontieren. In welcher Reihenfolge sollten Sie vorgehen?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeug gegen Wegrollen sichern, Wagenheber ansetzen, Radmuttern lösen, Fahrzeug anheben, Radmuttern herausdrehen"
+        },
+        {
+          "id": "B",
+          "text": "Fahrzeug gegen Wegrollen sichern, Wagenheber ansetzen, Fahrzeug anheben, Radmuttern lösen, Radmuttern herausdrehen"
+        },
+        {
+          "id": "C",
+          "text": "Wagenheber ansetzen, Fahrzeug gegen Wegrollen sichern, Radmuttern lösen, Fahrzeug anheben, Radmuttern herausdrehen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die richtige Reihenfolge ist: Fahrzeug gegen Wegrollen sichern, Wagenheber ansetzten, Radmuttern lösen, Fahrzeug anheben, Radmuttern herausdrehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-103",
+      "text": "Was bedeutet das rot gekennzeichnete Symbol auf dem Reifen?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ist für winterliche Wetterverhältnisse geeignet"
+        },
+        {
+          "id": "B",
+          "text": "- unterstützt die Fahreigenschaften auch bei Schnee"
+        },
+        {
+          "id": "C",
+          "text": "- darf nur in Verbindung mit Schneeketten benutzt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Zeichen bedeutet, dieser Reifen ist für winterliche Wetterverhältnisse geeignet und unterstützt die Fahreigenschaft auch bei Schnee. Schneeketten werden nicht benötigt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.7.05-103.png",
+      "video": null
+    },
+    {
+      "id": "2.7.05-104",
+      "text": "Was müssen Sie beim Fahren mit Winterreifen besonders beachten?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die zulässige Höchstgeschwindigkeit für diese Reifen nicht überschreiten"
+        },
+        {
+          "id": "B",
+          "text": "- nicht schneller als 80 km/h fahren"
+        },
+        {
+          "id": "C",
+          "text": "- höchstens so schnell fahren wie bei der Nutzung von Schneeketten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Mit Winterreifen musst du darauf achten, dass du die zulässige Höchstgeschwindigkeit für die Reifen nicht überschreitest. Diese kannst du im Geschwindigkeitsindex nachsehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-105",
+      "text": "Ihr Pkw ist mit Winterreifen ausgerüstet. Welche Bedeutung hat der Geschwindigkeits-Aufkleber „max. 190 km/h“ am Armaturenbrett?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- darf nicht überschritten werden"
+        },
+        {
+          "id": "B",
+          "text": "- gilt nur bei winterlichen Straßenverhältnissen"
+        },
+        {
+          "id": "C",
+          "text": "- gilt nicht bei trockenen Straßenverhältnissen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Du darfst die Geschwindigkeit von maximal 190 km/h deiner Winterreifen nicht überschreiten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-106",
+      "text": "Was ist nach dem Anbau von Winterreifen an Ihrem Pkw zu beachten?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Reifenfülldruck ist entsprechend den Herstellervorgaben zu überprüfen"
+        },
+        {
+          "id": "B",
+          "text": "Die zulässige Höchstgeschwindigkeit der Reifen ist zu berücksichtigen"
+        },
+        {
+          "id": "C",
+          "text": "Der Luftdruck sollte 0,5 bar niedriger sein als die Herstellervorgabe für Sommerreifen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Nach dem Anbau von Winterreifen solltest du den Reifendruck der entsprechenden Herstellervorgaben überprüfen und die zulässige Höchstgeschwindigkeit der Reifen berücksichtigen. Diese darf nicht überschritten werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.05-107",
+      "text": "Diese Kontrollleuchte leuchtet auf. Was kann die Ursache dafür sein?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein zu niedriger Reifenfülldruck in einem Reifen"
+        },
+        {
+          "id": "B",
+          "text": "Ein kürzlich erfolgter Radwechsel"
+        },
+        {
+          "id": "C",
+          "text": "Eine lose Radmutter"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Reifendruckkontrollleuchte zeigt üblicherweise einen zu geringen Reifendruck an, kontrolliere also deinen Reifendruck.\nAber auch durch einen kürzlich erfolgten Reifenwechsel kann mit den Reifendrucksensoren viel schiefgehen. Kontrolliere zunächst, ob dir äußerlich etwas am Reifen auffällt. Falls der Reifen optisch in Ordnung ist und die Kontrollleuchte noch immer leuchtet, frage in der Werkstatt nach.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.7.05-107.png",
+      "video": null
+    },
+    {
+      "id": "2.7.05-108",
+      "text": "Welche gesetzlich vorgeschriebene Mindestprofiltiefe müssen alle Reifen Ihres Pkws am Hauptprofil aufweisen?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [],
+      "correct": [
+        "1,6"
+      ],
+      "explanation": "Die gesetzlich vorgeschriebene Mindestprofiltiefe der Reifen beträgt 1,6 mm. Das Hauptprofil sind die Rillen in den mittleren Laufflächenbereichen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-101",
+      "text": "Was bewirkt ein Antiblockiersystem (ABS)?",
+      "points": 4,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auch bei glatter Fahrbahn wird das Fahrzeug bestmöglich gebremst"
+        },
+        {
+          "id": "B",
+          "text": "Beim Bremsen bleibt die Lenkfähigkeit weitgehend erhalten"
+        },
+        {
+          "id": "C",
+          "text": "Aquaplaning wird verhindert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Antiblockiersystem (ABS) bewirkt, dass die Räder eines Fahrzeugs auch dann nicht blockieren, wenn der/die Kfz-FahrerIn eine Vollbremsung durchführt. Das Kfz bleibt zumindest begrenzt lenkfähig und der Bremsweg ändert sich auch auf glatter Fahrbahn nicht. Beim Aquaplaning entsteht im Wesentlichen durch hohe Geschwindigkeiten ein Wasserkeil zwischen der Fahrbahnoberfläche und den Reifen. Das dadurch verursachte Aufschwimmen des Fahrzeugs wird auch durch ABS nicht verhindert.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-103",
+      "text": "Welche Vorteile bietet ein Antiblockiersystem (ABS)?",
+      "points": 4,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Bremsen wird das Blockieren der Räder verhindert"
+        },
+        {
+          "id": "B",
+          "text": "Selbst bei starkem Bremsen bleibt die Lenkfähigkeit erhalten"
+        },
+        {
+          "id": "C",
+          "text": "Kurven können wesentlich schneller durchfahren werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das Antiblockiersystem (ABS) bietet den Vorteil, dass es beim Bremsen auf nassen oder verschmutzten Strecken ein Blockieren der Räder verhindert. Dazu wird der Bremsdruck in kurzen Intervallen geregelt. Normale Fahreigenschaften werden durch das ABS nicht beeinflusst.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-104",
+      "text": "Welche Vorteile bietet ein Antiblockiersystem (ABS)?",
+      "points": 4,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Starkes Bremsen und gleichzeitiges Ausweichen ist möglich"
+        },
+        {
+          "id": "B",
+          "text": "Das Durchdrehen der Räder beim Anfahren wird verhindert"
+        },
+        {
+          "id": "C",
+          "text": "Beim Bremsen in Kurven wird die Kippgefahr vermindert"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein Antiblockiersystem ist besonders hilfreich bei starken Bremsungen auf nasser oder verschmutzter Fahrbahn. Es wirkt einem möglichen Blockieren der Räder durch Regelung des Bremsdrucks in kurzen Intervallen entgegen. So verhindert es das Ausbrechen des Fahrzeugs aus der Spur. Auf Fahreigenschaften in Kurven hat ABS keine Auswirkungen. Das Durchdrehen der Räder beim Anfahren kann die Antriebsschlupfregelung (ASR) verhindern, nicht ABS.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-105",
+      "text": "Wann tritt bei einem Anhänger mit Auflaufbremse die Bremswirkung ein?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Auflaufen des Anhängers auf das Zugfahrzeug"
+        },
+        {
+          "id": "B",
+          "text": "Zeitgleich mit der Betätigung des Bremspedals im Zugfahrzeug"
+        },
+        {
+          "id": "C",
+          "text": "Vor Eintreten der Bremswirkung beim Zugfahrzeug, damit der Zug gestreckt bleibt"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Beim Auflaufen des Anhängers auf das Zugfahrzeug tritt bei einem Anhänger mit Auflaufbremse die Bremswirkung ein. Wie der Name nahelegt, wird die Bremse des Anhängers erst ausgelöst, wenn der Anhänger auf das Zugfahrzeug auffährt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-107",
+      "text": "Wann ist für eine Fahrzeugkombination die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn ruckartig gelenkt wird"
+        },
+        {
+          "id": "B",
+          "text": "Wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird"
+        },
+        {
+          "id": "C",
+          "text": "Wenn dosiert beschleunigt wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Bei einer Fahrzeugkombination ist die Gefahr dann besonders groß,  wenn ruckartig gelenkt wird und wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-108",
+      "text": "Wann ist für einen druckluftgebremsten Lastzug die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
+      "points": 4,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn der Retarder bei Kurvenfahrt voll betätigt wird"
+        },
+        {
+          "id": "B",
+          "text": "Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger"
+        },
+        {
+          "id": "C",
+          "text": "Wenn die Ladung überwiegend die Antriebsachse belastet"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger, ist die Gefahr auf glatter Fahrbahn besonders groß einzuknicken oder zu schleudern. Wenn der Retarder (Dauerbremsanlage) bei Kurvenfahrt voll betätigt wird kann es zu unterschiedlichen Bremswirkungen/kräften kommen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-109",
+      "text": "Sie nutzen einen Anhänger mit Auflaufbremse. Was müssen Sie beachten?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- rückwärtsfahren kann"
+        },
+        {
+          "id": "B",
+          "text": "- vorwärtsfahren kann"
+        },
+        {
+          "id": "C",
+          "text": "- ankuppeln kann"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Demnächst...",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-110",
+      "text": "Was kann aus einem zu späten Ausschalten der Geschwindigkeitsregelanlage (Tempomat) folgen?",
+      "points": 2,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ein zu dichtes Auffahren"
+        },
+        {
+          "id": "B",
+          "text": "Eine zu hohe Kurvengeschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "Eine Überschreitung der zulässigen Höchstgeschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Aus einem zu späten Ausschalten der Geschwindigkeitsregelanlage (Tempomat) kann ein zu dichtes Auffahren folgen. Eine zu hohe Kurvengeschwindigkeit und aber auch eine Überschreitung der zulässigen Höchstgeschwindigkeit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-111",
+      "text": "Wobei kann Sie eine Geschwindigkeitsregelanlage (Tempomat) unterstützen?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beim Einhalten einer gleichbleibenden Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Bei einer energiesparenden Fahrweise"
+        },
+        {
+          "id": "C",
+          "text": "Beim Einhalten des Mindestabstands zum vorausfahrenden Fahrzeug"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine Geschwindigkeitsregelanlage (Tempomat) kann dich beim Einhalten einer gleichbleibenden Geschwindigkeit unterstützen. Außerdem bei einer energiesparenden Fahrweise.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-112",
+      "text": "Was sollten Sie bei der Benutzung einer adaptiven Geschwindigkeitsregelanlage beachten?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auch bei längerer Nutzung des Systems muss ich stets aufmerksam bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Durch starken Regen oder Schneefall kann das System beeinträchtigt werden"
+        },
+        {
+          "id": "C",
+          "text": "Durch die Benutzung von Gas- oder Bremspedal kann das System jederzeit übersteuert werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bei der Benutzung einer adaptiven Geschwindigkeitsregelanlage solltest du beachten, dass du auch bei längerer Nutzung des Systems stets aufmerksam bleibst. Durch starken Regen oder Schneefall kann das System beeinträchtigt werden und durch die Benutzung von Gas- oder Bremspedal kann das System jederzeit übersteuert werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-113",
+      "text": "Welche Funktion übernimmt eine adaptive Geschwindigkeitsregelanlage bei Kraftfahrzeugen?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- beschleunigt selbständig bis zu einer vorher eingestellten Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "- bremst selbständig, wenn das vorausfahrende Fahrzeug langsamer fährt"
+        },
+        {
+          "id": "C",
+          "text": "- stellt den Abstand automatisch auf den vorgeschriebenen Sicherheitsabstand ein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die adaptive Geschwindigkeitsregelanlage übernimmt folgende Funktionen: Das System beschleunigt selbständig bis zu einer vorher eingestellten Geschwindigkeit und es bremst selbständig, wenn das vorausfahrende Fahrzeug langsamer fährt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-114",
+      "text": "Welchen Vorteil bringt die Nutzung einer Geschwindigkeitsregelanlage (Tempomat) für den Fahrer eines Kraftfahrzeugs?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- hält eine eingestellte Fahrgeschwindigkeit auf ebener Fahrbahn konstant"
+        },
+        {
+          "id": "B",
+          "text": "- entlastet den Fahrer bei der Fahrzeugbedienung"
+        },
+        {
+          "id": "C",
+          "text": "- passt die Geschwindigkeit an die Verkehrsdichte an"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Tempomat hält eine konstant eingestellte Fahrgeschwindigkeit auf ebener Fahrbahn und entlastet dich bei der Fahrzeugbedienung. Die Verkehrsdichte kann nicht an die Geschwindigkeit angepasst werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-115",
+      "text": "In welcher Situation ist die Nutzung einer Adaptiven Geschwindigkeitsregelanlage (AGR) zweckmäßig?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Autobahnen"
+        },
+        {
+          "id": "B",
+          "text": "- Kraftfahrstraßen"
+        },
+        {
+          "id": "C",
+          "text": "- kurvenreichen Straßen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Adaptive Geschwindigkeitsregelanlage kontrolliert den Abstand zum vorausfahrenden Fahrzeug und passt deine Geschwindigkeit dementsprechend an. Beim Fahren auf Autobahnen und auf Kraftfahrstraßen bietet sich die Nutzung einer Adaptiven Geschwindigkeitsregelanlage an.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-116",
+      "text": "Wie können Sie eine aktivierte Geschwindigkeitsregelanlage (einen Tempomaten) manuell übersteuern?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Durch Beschleunigen"
+        },
+        {
+          "id": "C",
+          "text": "Durch Lenken"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Eine aktive Geschwindigkeitregelanlage wird durch Betätigen der Bremse oder bei Beschleunigung übersteuert. Dass heißt das Fahrzeug wird langsamer oder schneller als die im Tempomat eingestellte Geschwindigkeit",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-117",
+      "text": "Welche Funktion übernimmt eine Adaptive Geschwindigkeitsregelanlage (AGR) bei Kraftfahrzeugen?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- beschleunigt selbstständig bis zu einer vorher eingestellten Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "- bremst selbstständig, wenn es ein vorausfahrendes Fahrzeug mit geringerer Geschwindigkeit erkannt hat"
+        },
+        {
+          "id": "C",
+          "text": "- hält immer den vorgeschriebenen Sicherheitsabstand zum vorausfahrenden Fahrzeug ein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die AGR regelt das Fahrzeug auf die von dir eingestellte Geschwindigkeit ein, wie ein gewöhnlicher Tempomat.\nAußerdem bremst es ab, wenn es vorausfahrende Fahrzeuge erkennt. Es bremst nicht ab, wenn es diese nicht erkennen kann, wie z. B. nachts, bei starkem Regen, Nebel usw.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.06-119",
+      "text": "Welche Funktion erfüllt der Notbremsassistent?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- warnt vor der unmittelbaren Gefahr eines Auffahrunfalls"
+        },
+        {
+          "id": "B",
+          "text": "- kann bei einer unvermeidbaren Kollision das Verletzungsrisiko reduzieren"
+        },
+        {
+          "id": "C",
+          "text": "- bremst mein Fahrzeug beim versehentlichen Überfahren der Fahrbahnbegrenzung ab"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ein Notbremsassistent ist ein Sicherheitssystem für Kraftfahrzeuge, das dich in kritischen Situationen vor einer Kollision warnt. Außerdem unterstützt er die Notbremsung, wenn eine Kollision erkennt, indem er den Bremsdruck verstärkt und somit die Kollisionsgeschwindigkeit herabsetzt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.08-001",
+      "text": "Warum müssen Sie die Bremsflüssigkeit regelmäßig nach Vorgaben des Fahrzeugherstellers austauschen lassen?",
+      "points": 3,
+      "chapter": "Wartung Von Kraftfahrzeugen Und Rechtzeitige Veranlassung Von Reparaturen",
+      "chapterNumber": "2.7.08",
+      "chapterName": "Wartung Von Kraftfahrzeugen Und Rechtzeitige Veranlassung Von Reparaturen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Damit die Bremsanlage auch bei hoher Belastung funktionstüchtig bleibt"
+        },
+        {
+          "id": "B",
+          "text": "Damit der Wasseranteil in der Bremsflüssigkeit nicht unzulässig hoch wird"
+        },
+        {
+          "id": "C",
+          "text": "Damit die Bauteile der Bremsanlage nicht beschädigt werden"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Bremsflüssigkeit nach Vorgaben des Herstellers solltest du regelmäßig austauschen lassen, weil damit die Bremsanlage auch bei hoher Belastung funktionstüchtig bleibt, damit der Wasseranteil in der Bremsflüssigkeit nicht unzulässig hoch wird und damit die Bauteile der Bremsanlage nicht beschädigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.10-101",
+      "text": "Ein Pkw ist mit Winterreifen (M+S) ausgerüstet. Am Armaturenbrett ist ein Aufkleber \"Mit M+S 160\" angebracht. Was bedeutet das?",
+      "points": 3,
+      "chapter": "Ausruestung Von Fahrzeugen",
+      "chapterNumber": "2.7.10",
+      "chapterName": "Ausruestung Von Fahrzeugen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Man darf höchstens 160 km/h fahren"
+        },
+        {
+          "id": "B",
+          "text": "Der Aufkleber gilt nicht bei trockener Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "Der Aufkleber gilt nicht bei regennasser Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen bei Fahrten mit diesen Reifen die auf dem Aufkleber angegebene Geschwindigkeit nicht überschreiten, die Reifen sind für höhere Geschwindigkeiten nicht zugelassen. Wenn Sie schneller fahren, könnten die Reifen überhitzen und dadurch beschädigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.10-102",
+      "text": "Was ist nach der Umrüstung auf Winterreifen (M+S) zu beachten?",
+      "points": 3,
+      "chapter": "Ausruestung Von Fahrzeugen",
+      "chapterNumber": "2.7.10",
+      "chapterName": "Ausruestung Von Fahrzeugen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Der Luftdruck soll etwas höher als bei Sommerreifen sein (ca. 0,2 bar)"
+        },
+        {
+          "id": "B",
+          "text": "Auf trockener Fahrbahn können die Fahreigenschaften anders sein"
+        },
+        {
+          "id": "C",
+          "text": "Der Luftdruck soll niedriger als bei Sommerreifen sein"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der optimale Luftdruck für Winterreifen kann ein anderer sein, wenn kein Schnee liegt und die Fahrbahn trocken ist. Es gilt die Empfehlung, den Luftdruck dann um ca. 0,2 bar im Vergleich zu den Sommerreifen zu erhöhen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.7.10-103",
+      "text": "Sie fahren einen Bus im Linienverkehr. Wo ist die Zahl der zugelassenen Sitz- und Stehplätze angegeben?",
+      "points": 2,
+      "chapter": "Ausruestung Von Fahrzeugen",
+      "chapterNumber": "2.7.10",
+      "chapterName": "Ausruestung Von Fahrzeugen",
+      "options": [
+        {
+          "id": "A",
+          "text": "In der Zulassungsbescheinigung Teil I (Fahrzeugschein)"
+        },
+        {
+          "id": "B",
+          "text": "An einer gut sichtbaren Stelle im Bus"
+        },
+        {
+          "id": "C",
+          "text": "Auf dem Typenschild"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Demnächst...",
+      "image": null,
+      "video": null
+    }
+  ]
+}
