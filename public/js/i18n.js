@@ -356,7 +356,15 @@ const I18N = {
 
 const LANG_STORAGE_KEY = "fuehrerschein-lang";
 
+function pathWithoutRuPrefix(pathname) {
+  if (pathname === "/ru" || pathname === "/ru/") return "/";
+  if (pathname.startsWith("/ru/")) return pathname.slice(3) || "/";
+  return pathname;
+}
+
 function getLang() {
+  const path = window.location.pathname;
+  if (path === "/ru" || path.startsWith("/ru/")) return "ru";
   const params = new URLSearchParams(window.location.search);
   const fromUrl = params.get("lang");
   if (fromUrl === "ru" || fromUrl === "de") return fromUrl;
@@ -368,8 +376,16 @@ function getLang() {
 function setLang(lang) {
   localStorage.setItem(LANG_STORAGE_KEY, lang);
   const url = new URL(window.location.href);
-  if (lang === "de") url.searchParams.delete("lang");
-  else url.searchParams.set("lang", lang);
+  url.searchParams.delete("lang");
+  const basePath = pathWithoutRuPrefix(url.pathname);
+  if (lang === "ru") {
+    url.pathname =
+      basePath === "/" || basePath === "/index.html"
+        ? "/ru/"
+        : `/ru${basePath.startsWith("/") ? basePath : `/${basePath}`}`;
+  } else {
+    url.pathname = basePath === "/index.html" ? "/" : basePath;
+  }
   window.location.href = url.toString();
 }
 
@@ -391,9 +407,41 @@ function withLang(href) {
   const lang = getLang();
   if (lang === "de") return href;
   const url = new URL(href, window.location.href);
-  url.searchParams.set("lang", "ru");
+  if (url.origin !== window.location.origin) return href;
+  let path = url.pathname;
+  if (path === "/ru" || path.startsWith("/ru/")) {
+    url.searchParams.delete("lang");
+    return url.pathname + url.search + url.hash;
+  }
+  if (path === "/" || path === "/index.html") {
+    url.pathname = "/ru/";
+  } else {
+    url.pathname = `/ru${path.startsWith("/") ? path : `/${path}`}`;
+  }
+  url.searchParams.delete("lang");
   return url.pathname + url.search + url.hash;
 }
+
+/** Shareable /ru/ URLs; keep ?lang=ru working for crawlers via middleware. */
+(function migrateRuShareUrl() {
+  const u = new URL(window.location.href);
+  if (u.searchParams.get("lang") !== "ru") return;
+  if (u.pathname === "/ru" || u.pathname.startsWith("/ru/")) {
+    u.searchParams.delete("lang");
+    const next = u.pathname + u.search + u.hash;
+    if (next !== window.location.pathname + window.location.search + window.location.hash) {
+      window.history.replaceState(null, "", next);
+    }
+    return;
+  }
+  u.searchParams.delete("lang");
+  const rest = pathWithoutRuPrefix(u.pathname);
+  u.pathname =
+    rest === "/" || rest === "/index.html"
+      ? "/ru/"
+      : `/ru${rest.startsWith("/") ? rest : `/${rest}`}`;
+  window.location.replace(u.toString());
+})();
 
 function applyDocumentLang() {
   document.documentElement.lang = getLang() === "ru" ? "ru" : "de";
