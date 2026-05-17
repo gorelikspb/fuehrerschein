@@ -34,7 +34,6 @@ function renderTopicCard(topic) {
           <span class="topic-theme-number">${escapeHtml(topic.themeNumber || "")}</span>
           <h2>${renderTopicHeadingHtml(topic)}</h2>
         </div>
-        <p class="topic-card-desc">${escapeHtml(topic.description)}</p>
         ${ruNote}
       </div>
     </li>`;
@@ -46,7 +45,6 @@ function renderTopicCard(topic) {
           <span class="topic-theme-number">${escapeHtml(topic.themeNumber || "")}</span>
           <h2>${renderTopicHeadingHtml(topic)}</h2>
         </div>
-        <p class="topic-card-desc">${escapeHtml(topic.description)}</p>
         <div class="topic-meta">${t("questionsMeta", topic.questionCount)}</div>
         ${ruNote}
         <div class="topic-progress" data-topic-id="${escapeHtml(topic.id)}" data-total="${topic.questionCount}">
