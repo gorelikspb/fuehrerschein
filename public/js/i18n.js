@@ -100,7 +100,7 @@ const I18N = {
     timeResetConfirm: "Gespeicherte Lernzeit löschen?",
     examPageTitle: "Probeklausur",
     examIntroTitle: "Theorieprüfung Klasse B (Simulation)",
-    examStart: "Klausur starten",
+    examStart: "Probeklausur starten",
     examPassRulesTitle: "Prüfungsregeln",
     examPassRulesOfficialTitle: "Offiziell bestanden (TÜV/DEKRA)",
     examPassRulesOfficialList: [
@@ -269,7 +269,7 @@ const I18N = {
     timeResetConfirm: "Удалить сохранённое время обучения?",
     examPageTitle: "Пробный экзамен",
     examIntroTitle: "Теория класса B (симуляция)",
-    examStart: "Начать экзамен",
+    examStart: "Начать пробный экзамен",
     examPassRulesTitle: "Условия сдачи",
     examPassRulesOfficialTitle: "Официально сдано (TÜV/DEKRA)",
     examPassRulesOfficialList: [

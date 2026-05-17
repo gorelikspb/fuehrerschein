@@ -37,6 +37,9 @@
   <main class="container">
     <section id="exam-intro" class="quiz-card exam-intro">
       <h2 id="exam-intro-title"></h2>
+      <div class="btn-row exam-intro-cta">
+        <button type="button" class="btn btn-primary" id="exam-start-btn"></button>
+      </div>
       <aside class="site-disclaimer" data-site-disclaimer>
         <p class="site-disclaimer-catalog"></p>
         <p class="site-disclaimer-ru hidden"></p>
@@ -57,19 +60,12 @@
         <ul id="exam-rules" class="exam-rules"></ul>
       </details>
       <p id="exam-pool-note" class="exam-pool-note"></p>
-      <div class="btn-row">
-        <button type="button" class="btn btn-primary" id="exam-start-btn"></button>
-      </div>
     </section>
 
     <p id="exam-loading" class="exam-loading hidden"></p>
 
     <section id="exam-run" class="hidden">
       <div class="quiz-card">
-        <label class="exam-settings-toggle" id="exam-show-explanations-wrap">
-          <input type="checkbox" id="exam-show-explanations" checked>
-          <span id="exam-show-explanations-label"></span>
-        </label>
         <div class="progress-bar progress-bar-session"><span id="exam-progress-fill" class="progress-fill progress-fill-session"></span></div>
         <div class="quiz-meta">
           <span id="exam-official" class="question-official-meta"></span>
@@ -89,6 +85,10 @@
           <button type="button" class="btn btn-primary hidden" id="exam-next-btn"></button>
         </div>
         <p id="exam-answered-hint" class="exam-answered-hint" aria-live="polite"></p>
+        <label class="exam-settings-toggle" id="exam-show-explanations-wrap">
+          <input type="checkbox" id="exam-show-explanations" checked>
+          <span id="exam-show-explanations-label"></span>
+        </label>
       </div>
       <div class="btn-row exam-submit-row">
         <button type="button" class="btn btn-primary btn-wide" id="exam-submit-btn"></button>
