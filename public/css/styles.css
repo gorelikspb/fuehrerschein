@@ -553,8 +553,12 @@ a:hover {
 }
 
 .option.disabled {
-  pointer-events: none;
+  cursor: default;
   opacity: 0.95;
+}
+
+.option.disabled input {
+  pointer-events: none;
 }
 
 .answer-text-entry {
