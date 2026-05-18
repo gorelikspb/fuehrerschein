@@ -386,14 +386,14 @@ function applyPageCopy() {
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;
-    back.href = withLang("index.html");
+    back.href = localizedHref("index.html");
   }
   els.checkBtn.textContent = t("checkAnswer");
   if (els.randomBtn) els.randomBtn.textContent = t("randomQuestion");
   const allTopicsLink = document.querySelector("#result a.btn-secondary");
   if (allTopicsLink) {
     allTopicsLink.textContent = t("allTopics");
-    allTopicsLink.href = withLang("index.html");
+    allTopicsLink.href = localizedHref("index.html");
   }
   els.restartBtn.textContent = t("practiceAgain");
   if (els.modeQuiz) els.modeQuiz.textContent = t("modeQuiz");

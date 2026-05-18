@@ -362,9 +362,24 @@ function pathWithoutRuPrefix(pathname) {
   return pathname;
 }
 
-function getLang() {
+function isRuPath(pathname) {
+  return pathname === "/ru" || pathname.startsWith("/ru/");
+}
+
+/** Canonical pathname for DE (/) or RU (/ru/…). */
+function pathnameForLang(lang, pathname) {
+  const base = pathWithoutRuPrefix(pathname);
+  if (lang === "ru") {
+    return base === "/" || base === "/index.html"
+      ? "/ru/"
+      : `/ru${base.startsWith("/") ? base : `/${base}`}`;
+  }
+  return base === "/index.html" ? "/" : base;
+}
+
+function resolveLang() {
   const path = window.location.pathname;
-  if (path === "/ru" || path.startsWith("/ru/")) return "ru";
+  if (isRuPath(path)) return "ru";
   const params = new URLSearchParams(window.location.search);
   const fromUrl = params.get("lang");
   if (fromUrl === "ru" || fromUrl === "de") return fromUrl;
@@ -373,19 +388,15 @@ function getLang() {
   return "de";
 }
 
+function getLang() {
+  return resolveLang();
+}
+
 function setLang(lang) {
   localStorage.setItem(LANG_STORAGE_KEY, lang);
   const url = new URL(window.location.href);
   url.searchParams.delete("lang");
-  const basePath = pathWithoutRuPrefix(url.pathname);
-  if (lang === "ru") {
-    url.pathname =
-      basePath === "/" || basePath === "/index.html"
-        ? "/ru/"
-        : `/ru${basePath.startsWith("/") ? basePath : `/${basePath}`}`;
-  } else {
-    url.pathname = basePath === "/index.html" ? "/" : basePath;
-  }
+  url.pathname = pathnameForLang(lang, url.pathname);
   window.location.href = url.toString();
 }
 
@@ -403,44 +414,67 @@ function dataUrl(relativePath) {
   return base + relativePath.replace(/^data\//, "");
 }
 
-function withLang(href) {
-  const lang = getLang();
-  if (lang === "de") return href;
-  const url = new URL(href, window.location.href);
-  if (url.origin !== window.location.origin) return href;
-  let path = url.pathname;
-  if (path === "/ru" || path.startsWith("/ru/")) {
+/** Locale-aware internal link (canonical /ru/ prefix when RU). */
+function localizedHref(href) {
+  if (!href || href.startsWith("#")) return href;
+  try {
+    const url = new URL(href, window.location.href);
+    if (url.origin !== window.location.origin) return href;
     url.searchParams.delete("lang");
+    url.pathname = pathnameForLang(getLang(), url.pathname);
     return url.pathname + url.search + url.hash;
+  } catch {
+    return href;
   }
-  if (path === "/" || path === "/index.html") {
-    url.pathname = "/ru/";
-  } else {
-    url.pathname = `/ru${path.startsWith("/") ? path : `/${path}`}`;
-  }
-  url.searchParams.delete("lang");
-  return url.pathname + url.search + url.hash;
 }
 
-/** Shareable /ru/ URLs; keep ?lang=ru working for crawlers via middleware. */
-(function migrateRuShareUrl() {
+const withLang = localizedHref;
+
+/** Rewrite static anchors so navigation stays on /ru/ before other scripts run. */
+function applyLocaleToAnchors(root = document) {
+  if (getLang() !== "ru") return;
+  root.querySelectorAll("a[href]").forEach((a) => {
+    const href = a.getAttribute("href");
+    if (!href || href.startsWith("#") || /^(mailto:|tel:|javascript:)/i.test(href)) return;
+    const next = localizedHref(href);
+    if (next !== href) a.setAttribute("href", next);
+  });
+}
+
+/** ?lang=ru → /ru/…; stored RU without /ru/ → redirect; persist lang for later navigations. */
+(function initLocaleRouting() {
   const u = new URL(window.location.href);
-  if (u.searchParams.get("lang") !== "ru") return;
-  if (u.pathname === "/ru" || u.pathname.startsWith("/ru/")) {
-    u.searchParams.delete("lang");
-    const next = u.pathname + u.search + u.hash;
-    if (next !== window.location.pathname + window.location.search + window.location.hash) {
-      window.history.replaceState(null, "", next);
+  if (u.searchParams.get("lang") === "ru") {
+    if (isRuPath(u.pathname)) {
+      u.searchParams.delete("lang");
+      const next = u.pathname + u.search + u.hash;
+      if (next !== window.location.pathname + window.location.search + window.location.hash) {
+        window.history.replaceState(null, "", next);
+      }
+    } else {
+      u.searchParams.delete("lang");
+      u.pathname = pathnameForLang("ru", u.pathname);
+      window.location.replace(u.toString());
+      return;
     }
+  }
+
+  const lang = resolveLang();
+  localStorage.setItem(LANG_STORAGE_KEY, lang);
+
+  if (lang === "ru" && !isRuPath(window.location.pathname)) {
+    const target = new URL(window.location.href);
+    target.searchParams.delete("lang");
+    target.pathname = pathnameForLang("ru", target.pathname);
+    window.location.replace(target.toString());
     return;
   }
-  u.searchParams.delete("lang");
-  const rest = pathWithoutRuPrefix(u.pathname);
-  u.pathname =
-    rest === "/" || rest === "/index.html"
-      ? "/ru/"
-      : `/ru${rest.startsWith("/") ? rest : `/${rest}`}`;
-  window.location.replace(u.toString());
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => applyLocaleToAnchors());
+  } else {
+    applyLocaleToAnchors();
+  }
 })();
 
 function applyDocumentLang() {
@@ -514,3 +548,6 @@ function applyTopicHeading(el, topic) {
   if (secondary) el.innerHTML = renderTopicHeadingHtml(topic);
   else el.textContent = getTopicDisplayTitle(topic).primary;
 }
+
+window.applyLocaleToAnchors = applyLocaleToAnchors;
+window.localizedHref = localizedHref;

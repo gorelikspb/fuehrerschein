@@ -209,7 +209,7 @@ function applyPageCopy() {
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;
-    back.href = withLang("index.html");
+    back.href = localizedHref("index.html");
   }
   const title = document.getElementById("review-page-title");
   if (title) title.textContent = t("reviewPageTitle");
@@ -218,7 +218,7 @@ function applyPageCopy() {
   const home = document.getElementById("review-home-btn");
   if (home) {
     home.textContent = t("allTopics");
-    home.href = withLang("index.html");
+    home.href = localizedHref("index.html");
   }
 }
 
@@ -269,7 +269,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       if (els.emptyText) els.emptyText.textContent = t("reviewEmpty");
       if (els.emptyLink) {
         els.emptyLink.textContent = t("allTopics");
-        els.emptyLink.href = withLang("index.html");
+        els.emptyLink.href = localizedHref("index.html");
       }
       showScreen("empty");
       return;

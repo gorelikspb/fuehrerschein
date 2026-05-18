@@ -40,7 +40,7 @@ function renderTopicCard(topic) {
   }
   return `
     <li>
-      <a class="topic-card" href="${withLang(`topic.html?id=${encodeURIComponent(topic.id)}`)}">
+      <a class="topic-card" href="${localizedHref(`topic.html?id=${encodeURIComponent(topic.id)}`)}">
         <div class="topic-card-head">
           <span class="topic-theme-number">${escapeHtml(topic.themeNumber || "")}</span>
           <h2>${renderTopicHeadingHtml(topic)}</h2>
@@ -97,6 +97,7 @@ function renderTopics(data) {
 
   list.innerHTML = parts.join("") + totalNote;
   applyTopicProgressIndicators();
+  if (typeof applyLocaleToAnchors === "function") applyLocaleToAnchors(list);
 }
 
 function initLangSwitcher() {
@@ -116,7 +117,7 @@ function renderStudyHub() {
   const examLink = document.getElementById("study-exam-link");
   const examHeading = document.getElementById("study-exam-heading");
   const examDesc = document.getElementById("study-exam-desc");
-  if (examLink) examLink.href = withLang("exam.html");
+  if (examLink) examLink.href = localizedHref("exam.html");
   if (examHeading) examHeading.textContent = t("studyExamLink");
   if (examDesc) examDesc.textContent = t("studyExamDesc");
 
@@ -124,7 +125,7 @@ function renderStudyHub() {
   const reviewHeading = document.getElementById("study-review-heading");
   const reviewDesc = document.getElementById("study-review-desc");
   const wrongCount = countWrongQuestions();
-  if (reviewLink) reviewLink.href = withLang("review.html");
+  if (reviewLink) reviewLink.href = localizedHref("review.html");
   if (reviewHeading) reviewHeading.textContent = t("studyReviewLink");
   if (reviewDesc) reviewDesc.textContent = t("studyReviewDesc", wrongCount);
   if (reviewLink && wrongCount === 0) {

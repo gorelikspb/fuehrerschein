@@ -385,7 +385,7 @@ function applyPageCopy() {
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;
-    back.href = withLang("index.html");
+    back.href = localizedHref("index.html");
   }
   const title = document.getElementById("exam-page-title");
   if (title) title.textContent = t("examPageTitle");
@@ -406,7 +406,7 @@ function applyPageCopy() {
   const home = document.getElementById("exam-home-btn");
   if (home) {
     home.textContent = t("allTopics");
-    home.href = withLang("index.html");
+    home.href = localizedHref("index.html");
   }
   renderPassRulesIntro();
   renderRules();
