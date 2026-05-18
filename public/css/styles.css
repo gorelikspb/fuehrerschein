@@ -1081,6 +1081,8 @@ a:hover {
   vertical-align: baseline;
   flex: 0 0 auto;
   align-self: auto;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .de-peek-trigger:hover,

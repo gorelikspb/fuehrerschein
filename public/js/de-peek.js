@@ -161,11 +161,36 @@
     hoverCloseTimer = setTimeout(hidePopover, 120);
   }
 
+  function stopAnswerLabelActivation(e) {
+    e.preventDefault();
+    e.stopPropagation();
+  }
+
+  function togglePopover(trigger, deText) {
+    if (openTrigger === trigger && popoverEl && !popoverEl.hidden) {
+      hidePopover();
+    } else {
+      showPopover(trigger, deText);
+    }
+  }
+
   function bindPeekTrigger(trigger, deText) {
     if (!deText) return;
 
     trigger.setAttribute("aria-label", `${t("dePeekLabel")}: ${deText}`);
     trigger.setAttribute("aria-expanded", "false");
+    let skipNextClick = false;
+    let openedByFocus = false;
+
+    function activatePopover() {
+      if (openedByFocus && openTrigger === trigger && popoverEl && !popoverEl.hidden) {
+        openedByFocus = false;
+        showPopover(trigger, deText);
+        return;
+      }
+      openedByFocus = false;
+      togglePopover(trigger, deText);
+    }
 
     trigger.addEventListener("mouseenter", (e) => {
       if (e.target !== trigger) return;
@@ -177,8 +202,12 @@
       scheduleHidePopover();
     });
 
-    trigger.addEventListener("focus", () => showPopover(trigger, deText));
+    trigger.addEventListener("focus", () => {
+      openedByFocus = true;
+      showPopover(trigger, deText);
+    });
     trigger.addEventListener("blur", () => {
+      openedByFocus = false;
       setTimeout(() => {
         if (document.activeElement === trigger) return;
         if (popoverEl && popoverEl.matches(":hover")) return;
@@ -186,29 +215,56 @@
       }, 0);
     });
 
-    trigger.addEventListener("click", (e) => {
-      e.stopPropagation();
-      if (openTrigger === trigger && popoverEl && !popoverEl.hidden) {
-        hidePopover();
-      } else {
-        showPopover(trigger, deText);
-      }
+    trigger.addEventListener("pointerdown", (e) => {
+      skipNextClick = false;
+      stopAnswerLabelActivation(e);
     });
 
     trigger.addEventListener("mousedown", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
+      stopAnswerLabelActivation(e);
+    });
+
+    trigger.addEventListener("pointerup", (e) => {
+      if (e.pointerType === "mouse") return;
+      stopAnswerLabelActivation(e);
+      activatePopover();
+      skipNextClick = true;
+    });
+
+    trigger.addEventListener(
+      "touchstart",
+      (e) => {
+        skipNextClick = false;
+        stopAnswerLabelActivation(e);
+      },
+      { passive: false }
+    );
+
+    trigger.addEventListener(
+      "touchend",
+      (e) => {
+        stopAnswerLabelActivation(e);
+        if (skipNextClick) return;
+        activatePopover();
+        skipNextClick = true;
+      },
+      { passive: false }
+    );
+
+    trigger.addEventListener("click", (e) => {
+      stopAnswerLabelActivation(e);
+      if (skipNextClick) {
+        skipNextClick = false;
+        return;
+      }
+      activatePopover();
     });
 
     trigger.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        e.stopPropagation();
-        if (openTrigger === trigger && popoverEl && !popoverEl.hidden) {
-          hidePopover();
-        } else {
-          showPopover(trigger, deText);
-        }
+        stopAnswerLabelActivation(e);
+        openedByFocus = false;
+        togglePopover(trigger, deText);
       }
     });
   }
