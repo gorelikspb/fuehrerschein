@@ -87,6 +87,9 @@ const I18N = {
     ruPartialMeta: (ru, de) => `RU: ${ru} von ${de} Fragen (Rest: Scraping ausstehend)`,
     dePeekLabel: "Original (DE)",
     studyHubTitle: "Lernmethoden",
+    continueReadingCta: "Weiterlesen",
+    continueReadingSubtitle: (topic, chapter) =>
+      chapter ? `${topic} · ${chapter}` : topic,
     studyExamLink: "Probeklausur (TÜV-Simulation)",
     studyExamDesc: "30 Fragen · 20 Grundstoff + 10 Zusatzstoff · Bewertung wie in der Prüfung",
     studyReviewLink: "Fehler wiederholen",
@@ -262,6 +265,9 @@ const I18N = {
     ruPartialMeta: (ru, de) => `RU: ${ru} из ${de} (остальное — после скрапинга)`,
     dePeekLabel: "Оригинал (DE)",
     studyHubTitle: "Методы подготовки",
+    continueReadingCta: "Продолжить чтение",
+    continueReadingSubtitle: (topic, chapter) =>
+      chapter ? `${topic} · ${chapter}` : topic,
     studyExamLink: "Пробный экзамен (как TÜV)",
     studyExamDesc: "30 вопросов · 20 Grundstoff + 10 Zusatzstoff · оценка как на экзамене",
     studyReviewLink: "Повтор ошибок",

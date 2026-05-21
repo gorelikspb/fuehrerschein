@@ -256,3 +256,63 @@ function getChapterViewedStats(topicId, questions) {
     ...getTopicViewedStats(topicId, group.questions),
   }));
 }
+
+/** Last list-reading position for "continue" on home. */
+const LAST_READ_STORAGE_KEY = "fuehrershein-last-read";
+
+/**
+ * @typedef {Object} LastReadPosition
+ * @property {string} topicId
+ * @property {string} [chapter] - chapter number (e.g. "1.1.01")
+ * @property {number} [page] - 1-based chapter page when no chapter number
+ * @property {string} [chapterName] - display hint for home subtitle
+ * @property {string} [questionId] - last seen question in chapter
+ * @property {number} [updatedAt] - ms timestamp
+ */
+
+function loadLastReadPosition() {
+  try {
+    const raw = localStorage.getItem(LAST_READ_STORAGE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== "object" || !parsed.topicId) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+/** @param {LastReadPosition} pos */
+function saveLastReadPosition(pos) {
+  if (!pos?.topicId) return;
+  const payload = {
+    topicId: pos.topicId,
+    updatedAt: Date.now(),
+  };
+  if (pos.chapter) payload.chapter = pos.chapter;
+  if (Number.isFinite(pos.page) && pos.page >= 1) payload.page = pos.page;
+  if (pos.chapterName) payload.chapterName = pos.chapterName;
+  if (pos.questionId) payload.questionId = pos.questionId;
+  localStorage.setItem(LAST_READ_STORAGE_KEY, JSON.stringify(payload));
+  window.dispatchEvent(
+    new CustomEvent("fuehrershein-last-read", { detail: payload })
+  );
+}
+
+/** @param {LastReadPosition} pos */
+function buildLastReadListHref(pos) {
+  if (!pos?.topicId) return null;
+  const params = new URLSearchParams();
+  params.set("id", pos.topicId);
+  params.set("view", "list");
+  if (pos.chapter) {
+    params.set("chapter", pos.chapter);
+  } else if (Number.isFinite(pos.page) && pos.page >= 1) {
+    params.set("page", String(pos.page));
+  }
+  let path = `topic.html?${params.toString()}`;
+  if (pos.questionId) {
+    path += `#${encodeURIComponent(pos.questionId)}`;
+  }
+  return typeof localizedHref === "function" ? localizedHref(path) : path;
+}

@@ -118,9 +118,57 @@ function initLangSwitcher() {
   });
 }
 
-function renderStudyHub() {
+function findTopicById(topics, topicId) {
+  return topics.find((topic) => topic.id === topicId) ?? null;
+}
+
+function chapterSubtitleFromLastRead(pos) {
+  if (!pos) return "";
+  if (pos.chapterName) return pos.chapterName;
+  if (pos.chapter) return pos.chapter;
+  if (Number.isFinite(pos.page) && pos.page >= 1) {
+    return getLang() === "ru"
+      ? `Глава ${pos.page}`
+      : `Kapitel ${pos.page}`;
+  }
+  return "";
+}
+
+function renderContinueReading(topics) {
+  const wrap = document.getElementById("continue-reading-wrap");
+  const link = document.getElementById("continue-reading-link");
+  const desc = document.getElementById("continue-reading-desc");
+  if (!wrap || !link) return;
+
+  const pos =
+    typeof loadLastReadPosition === "function" ? loadLastReadPosition() : null;
+  const topic = pos?.topicId && topics?.length ? findTopicById(topics, pos.topicId) : null;
+  const href =
+    topic && typeof buildLastReadListHref === "function"
+      ? buildLastReadListHref(pos)
+      : null;
+
+  if (!href) {
+    wrap.classList.add("hidden");
+    return;
+  }
+
+  wrap.classList.remove("hidden");
+  link.href = href;
+  link.textContent = t("continueReadingCta");
+  if (desc) {
+    const topicLabel = getTopicDisplayTitle(topic).document;
+    const chapterLabel = chapterSubtitleFromLastRead(pos);
+    desc.textContent = t("continueReadingSubtitle", topicLabel, chapterLabel);
+  }
+  if (typeof applyLocaleToAnchors === "function") applyLocaleToAnchors(wrap);
+}
+
+function renderStudyHub(topics) {
   const hubTitle = document.getElementById("study-hub-title");
   if (hubTitle) hubTitle.textContent = t("studyHubTitle");
+
+  renderContinueReading(topics);
 
   const examLink = document.getElementById("study-exam-link");
   const examHeading = document.getElementById("study-exam-heading");
@@ -168,6 +216,8 @@ function renderStudyHub() {
   }
 }
 
+let catalogTopics = [];
+
 function applyPageCopy() {
   applyDocumentLang();
   document.title = `${t("siteTitle")} – Klasse B`;
@@ -178,15 +228,16 @@ function applyPageCopy() {
   const footerLabel = document.getElementById("footer-data-label");
   if (footerLabel) footerLabel.textContent = t("footerData");
   applySiteDisclaimer();
-  renderStudyHub();
+  renderStudyHub(catalogTopics);
 }
 
-window.addEventListener("fuehrershein-exam", () => renderStudyHub());
+window.addEventListener("fuehrershein-exam", () => renderStudyHub(catalogTopics));
 window.addEventListener("fuehrershein-progress", () => {
   applyTopicProgressIndicators();
-  renderStudyHub();
+  renderStudyHub(catalogTopics);
 });
 window.addEventListener("fuehrershein-viewed", () => applyTopicProgressIndicators());
+window.addEventListener("fuehrershein-last-read", () => renderContinueReading(catalogTopics));
 
 document.addEventListener("DOMContentLoaded", async () => {
   applyPageCopy();
@@ -195,7 +246,9 @@ document.addEventListener("DOMContentLoaded", async () => {
   const list = document.getElementById("topic-list");
   try {
     const data = await loadTopics();
+    catalogTopics = data.topics || [];
     renderTopics(data);
+    renderContinueReading(catalogTopics);
   } catch (err) {
     list.innerHTML = `<li><p style="color:var(--bad)">${escapeHtml(err.message)}</p></li>`;
   }
