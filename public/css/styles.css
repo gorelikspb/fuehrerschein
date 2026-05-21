@@ -7,6 +7,8 @@
   --accent-dark: #0847c7;
   --ok: #0d7a3f;
   --ok-bg: #e8f5ee;
+  --viewed: #e67e22;
+  --viewed-bg: #fef3e7;
   --bad: #b42318;
   --bad-bg: #fdecea;
   --border: #d8dee6;
@@ -287,6 +289,14 @@ a:hover {
   background: var(--ok);
 }
 
+.progress-fill-solved {
+  background: var(--ok);
+}
+
+.progress-fill-viewed {
+  background: var(--viewed);
+}
+
 .progress-fill-session {
   background: var(--accent-dark);
 }
@@ -343,6 +353,8 @@ a:hover {
 
 .topic-progress {
   margin-top: 0.65rem;
+  display: grid;
+  gap: 0.35rem;
 }
 
 .topic-progress-bar {
@@ -356,8 +368,15 @@ a:hover {
   display: block;
   height: 100%;
   width: 0%;
-  background: var(--ok);
   transition: width 0.2s ease;
+}
+
+.topic-progress-fill--solved {
+  background: var(--ok);
+}
+
+.topic-progress-fill--viewed {
+  background: var(--viewed);
 }
 
 .topic-progress-label {
@@ -861,6 +880,44 @@ a:hover {
   font-weight: 700;
   line-height: 1.35;
   color: var(--accent-dark);
+}
+
+.list-chapter-progress {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 0.85rem;
+}
+
+.list-chapter-progress-row {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr auto;
+  gap: 0.4rem 0.5rem;
+  align-items: center;
+}
+
+.list-chapter-progress-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.list-chapter-progress-count {
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.list-go-next-chapter {
+  display: block;
+  width: 100%;
+  max-width: 22rem;
+  margin: 1.25rem auto 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+.list-go-next-chapter:hover {
+  text-decoration: none;
 }
 
 .list-chapter-select {

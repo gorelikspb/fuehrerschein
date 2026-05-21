@@ -1,5 +1,6 @@
 /** Per-question progress in localStorage (global across DE/RU). */
 const PROGRESS_STORAGE_KEY = "fuehrershein-progress";
+const VIEWED_STORAGE_KEY = "fuehrershein-viewed";
 
 function loadProgressStore() {
   try {
@@ -54,6 +55,7 @@ function resetTopicProgress(topicId) {
   const store = loadProgressStore();
   delete store[topicId];
   saveProgressStore(store);
+  resetTopicViewed(topicId);
   window.dispatchEvent(
     new CustomEvent("fuehrershein-progress", { detail: { topicId, reset: true } })
   );
@@ -173,5 +175,84 @@ function countWrongQuestions() {
 
 function resetAllProgress() {
   localStorage.removeItem(PROGRESS_STORAGE_KEY);
+  localStorage.removeItem(VIEWED_STORAGE_KEY);
   window.dispatchEvent(new CustomEvent("fuehrershein-progress", { detail: { resetAll: true } }));
+  window.dispatchEvent(new CustomEvent("fuehrershein-viewed", { detail: { resetAll: true } }));
+}
+
+function loadViewedStore() {
+  try {
+    const raw = localStorage.getItem(VIEWED_STORAGE_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveViewedStore(store) {
+  localStorage.setItem(VIEWED_STORAGE_KEY, JSON.stringify(store));
+}
+
+function isQuestionViewed(topicId, questionId) {
+  const store = loadViewedStore();
+  return store[topicId]?.[questionId] === true;
+}
+
+function markQuestionViewed(topicId, questionId) {
+  if (!topicId || !questionId) return false;
+  const store = loadViewedStore();
+  if (store[topicId]?.[questionId]) return false;
+  if (!store[topicId]) store[topicId] = {};
+  store[topicId][questionId] = true;
+  saveViewedStore(store);
+  window.dispatchEvent(
+    new CustomEvent("fuehrershein-viewed", { detail: { topicId, questionId } })
+  );
+  return true;
+}
+
+function resetTopicViewed(topicId) {
+  const store = loadViewedStore();
+  delete store[topicId];
+  saveViewedStore(store);
+  window.dispatchEvent(
+    new CustomEvent("fuehrershein-viewed", { detail: { topicId, reset: true } })
+  );
+}
+
+function countTopicViewed(topicId, questions) {
+  const store = loadViewedStore();
+  const topic = store[topicId];
+  if (!topic) return 0;
+  if (!questions?.length) {
+    return Object.values(topic).filter(Boolean).length;
+  }
+  let count = 0;
+  for (const q of questions) {
+    if (topic[q.id]) count += 1;
+  }
+  return count;
+}
+
+function getTopicViewedPercent(topicId, questionCount) {
+  if (!questionCount) return 0;
+  const viewed = Math.min(countTopicViewed(topicId, []), questionCount);
+  return Math.round((viewed / questionCount) * 100);
+}
+
+function getTopicViewedStats(topicId, questions) {
+  const total = questions.length;
+  const viewed = Math.min(countTopicViewed(topicId, questions), total);
+  const pct = total > 0 ? Math.round((viewed / total) * 100) : 0;
+  return { total, viewed, pct };
+}
+
+function getChapterViewedStats(topicId, questions) {
+  return progressGroupByChapter(questions).map((group) => ({
+    chapter: chapterProgressLabel(group),
+    chapterNumber: group.chapterNumber,
+    ...getTopicViewedStats(topicId, group.questions),
+  }));
 }

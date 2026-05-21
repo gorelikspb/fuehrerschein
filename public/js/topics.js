@@ -8,13 +8,18 @@ function applyTopicProgressIndicators() {
   for (const block of document.querySelectorAll(".topic-progress")) {
     const id = block.dataset.topicId;
     const total = parseInt(block.dataset.total, 10) || 0;
-    const pct = getTopicPercent(id, total);
-    const fill = block.querySelector(".topic-progress-fill");
+    const solvedPct = getTopicPercent(id, total);
+    const viewedPct = getTopicViewedPercent(id, total);
+    const solvedFill = block.querySelector(".topic-progress-fill--solved");
+    const viewedFill = block.querySelector(".topic-progress-fill--viewed");
+    const solvedBar = block.querySelector(".topic-progress-bar--solved");
+    const viewedBar = block.querySelector(".topic-progress-bar--viewed");
     const label = block.querySelector(".topic-progress-label");
-    const bar = block.querySelector(".topic-progress-bar");
-    if (fill) fill.style.width = `${pct}%`;
-    if (bar) bar.setAttribute("aria-valuenow", String(pct));
-    if (label) label.textContent = t("topicProgressLabel", pct);
+    if (solvedFill) solvedFill.style.width = `${solvedPct}%`;
+    if (viewedFill) viewedFill.style.width = `${viewedPct}%`;
+    if (solvedBar) solvedBar.setAttribute("aria-valuenow", String(solvedPct));
+    if (viewedBar) viewedBar.setAttribute("aria-valuenow", String(viewedPct));
+    if (label) label.textContent = t("topicProgressDualLabel", solvedPct, viewedPct);
   }
 }
 
@@ -48,8 +53,11 @@ function renderTopicCard(topic) {
         <div class="topic-meta">${t("questionsMeta", topic.questionCount)}</div>
         ${ruNote}
         <div class="topic-progress" data-topic-id="${escapeHtml(topic.id)}" data-total="${topic.questionCount}">
-          <div class="topic-progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
-            <span class="topic-progress-fill"></span>
+          <div class="topic-progress-bar topic-progress-bar--solved" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="${escapeHtml(t("progressSolvedShort"))}">
+            <span class="topic-progress-fill topic-progress-fill--solved"></span>
+          </div>
+          <div class="topic-progress-bar topic-progress-bar--viewed" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="${escapeHtml(t("progressViewedShort"))}">
+            <span class="topic-progress-fill topic-progress-fill--viewed"></span>
           </div>
           <span class="topic-progress-label"></span>
         </div>
@@ -174,7 +182,11 @@ function applyPageCopy() {
 }
 
 window.addEventListener("fuehrershein-exam", () => renderStudyHub());
-window.addEventListener("fuehrershein-progress", () => renderStudyHub());
+window.addEventListener("fuehrershein-progress", () => {
+  applyTopicProgressIndicators();
+  renderStudyHub();
+});
+window.addEventListener("fuehrershein-viewed", () => applyTopicProgressIndicators());
 
 document.addEventListener("DOMContentLoaded", async () => {
   applyPageCopy();

@@ -5,8 +5,7 @@
   let filterQuery = "";
   let chapterGroups = [];
   let currentChapterIndex = 0;
-
-  const collapseMobile = window.matchMedia("(max-width: 599px)");
+  let viewedObserver = null;
 
   const els = {
     section: document.getElementById("list-view"),
@@ -23,6 +22,8 @@
     chapterSelect: document.getElementById("list-chapter-select"),
     chapterPrev: document.getElementById("list-chapter-prev"),
     chapterNext: document.getElementById("list-chapter-next"),
+    chapterProgress: document.getElementById("list-chapter-progress"),
+    goNextChapter: document.getElementById("list-go-next-chapter"),
   };
 
   function chapterNumberFromQuestion(q) {
@@ -156,6 +157,12 @@
     return li;
   }
 
+  function setQuestionCollapsed(article, header, toggle, collapsed) {
+    article.classList.toggle("is-collapsed", collapsed);
+    header?.setAttribute("aria-expanded", collapsed ? "false" : "true");
+    if (toggle) toggle.textContent = collapsed ? "▶" : "▼";
+  }
+
   function buildQuestionCard(q, index) {
     const deQ =
       typeof window.getDeQuestionForPeek === "function"
@@ -165,6 +172,13 @@
     const article = document.createElement("article");
     article.className = "list-question";
     article.dataset.index = String(index);
+    if (topic?.id) {
+      article.dataset.questionId = q.id;
+      if (isQuestionViewed(topic.id, q.id)) {
+        article.classList.add("list-question--viewed");
+        article.dataset.viewedObserved = "1";
+      }
+    }
 
     const header = document.createElement("button");
     header.type = "button";
@@ -277,19 +291,64 @@
     }
 
     header.addEventListener("click", () => {
-      const collapsed = article.classList.toggle("is-collapsed");
-      header.setAttribute("aria-expanded", collapsed ? "false" : "true");
-      toggle.textContent = collapsed ? "▶" : "▼";
+      setQuestionCollapsed(article, header, toggle, !article.classList.contains("is-collapsed"));
     });
 
-    if (collapseMobile.matches) {
-      article.classList.add("is-collapsed");
-      header.setAttribute("aria-expanded", "false");
-      toggle.textContent = "▶";
-    }
+    const alreadyViewed = topic?.id && isQuestionViewed(topic.id, q.id);
+    setQuestionCollapsed(article, header, toggle, !!alreadyViewed);
 
     article.append(header, body);
     return article;
+  }
+
+  function collapseQuestionAfterViewed(article) {
+    const header = article.querySelector(".list-question-header");
+    const toggle = article.querySelector(".list-question-toggle");
+    article.classList.add("list-question--viewed");
+    setQuestionCollapsed(article, header, toggle, true);
+  }
+
+  function markVisibleQuestionViewed(article) {
+    if (!topic?.id) return;
+    const questionId = article.dataset.questionId;
+    if (!questionId || article.dataset.viewedObserved === "1") return;
+    if (isQuestionViewed(topic.id, questionId)) {
+      article.dataset.viewedObserved = "1";
+      return;
+    }
+    article.dataset.viewedObserved = "1";
+    if (markQuestionViewed(topic.id, questionId)) {
+      collapseQuestionAfterViewed(article);
+      updateChapterProgressBars();
+      updateGoNextChapter();
+    }
+  }
+
+  function disconnectViewedObserver() {
+    if (viewedObserver) {
+      viewedObserver.disconnect();
+      viewedObserver = null;
+    }
+  }
+
+  function setupViewedObserver() {
+    disconnectViewedObserver();
+    if (!topic?.id || !els.container) return;
+    const cards = els.container.querySelectorAll(".list-question[data-question-id]");
+    if (!cards.length) return;
+    viewedObserver = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            markVisibleQuestionViewed(entry.target);
+          }
+        }
+      },
+      { root: null, rootMargin: "0px 0px -15% 0px", threshold: 0.35 }
+    );
+    for (const card of cards) {
+      viewedObserver.observe(card);
+    }
   }
 
   function updateCount(shown, chapterTotal, topicTotal) {
@@ -305,12 +364,81 @@
     }
   }
 
+  function updateChapterProgressBars() {
+    if (!els.chapterProgress || !topic?.id) return;
+    const group = chapterGroups[currentChapterIndex];
+    if (!group) {
+      els.chapterProgress.classList.add("hidden");
+      return;
+    }
+    const questionIds = group.items.map(({ q }) => q);
+    const solvedStats = getTopicProgressStats(topic.id, questionIds);
+    const viewedStats = getTopicViewedStats(topic.id, questionIds);
+    const solvedPct =
+      solvedStats.total > 0
+        ? Math.round((solvedStats.solved / solvedStats.total) * 100)
+        : 0;
+    const viewedPct =
+      viewedStats.total > 0
+        ? Math.round((viewedStats.viewed / viewedStats.total) * 100)
+        : 0;
+
+    els.chapterProgress.classList.remove("hidden");
+    els.chapterProgress.innerHTML = `
+      <div class="list-chapter-progress-row">
+        <span class="list-chapter-progress-label">${escapeHtml(t("progressSolvedShort"))}</span>
+        <div class="progress-bar progress-bar-chapter progress-bar-solved" role="progressbar" aria-valuenow="${solvedPct}" aria-valuemin="0" aria-valuemax="100">
+          <span class="progress-fill progress-fill-solved" style="width:${solvedPct}%"></span>
+        </div>
+        <span class="list-chapter-progress-count">${escapeHtml(
+          t("progressChapterCount", solvedStats.solved, solvedStats.total)
+        )}</span>
+      </div>
+      <div class="list-chapter-progress-row">
+        <span class="list-chapter-progress-label">${escapeHtml(t("progressViewedShort"))}</span>
+        <div class="progress-bar progress-bar-chapter progress-bar-viewed" role="progressbar" aria-valuenow="${viewedPct}" aria-valuemin="0" aria-valuemax="100">
+          <span class="progress-fill progress-fill-viewed" style="width:${viewedPct}%"></span>
+        </div>
+        <span class="list-chapter-progress-count">${escapeHtml(
+          t("progressViewedCount", viewedStats.viewed, viewedStats.total)
+        )}</span>
+      </div>`;
+  }
+
+  function nextChapterHref() {
+    if (!topic?.id || currentChapterIndex >= chapterGroups.length - 1) return null;
+    const nextGroup = chapterGroups[currentChapterIndex + 1];
+    const params = new URLSearchParams();
+    params.set("id", topic.id);
+    params.set("view", "list");
+    if (nextGroup?.chapterNumber) {
+      params.set("chapter", nextGroup.chapterNumber);
+    } else {
+      params.set("page", String(currentChapterIndex + 2));
+    }
+    return localizedHref(`topic.html?${params.toString()}`);
+  }
+
+  function updateGoNextChapter() {
+    if (!els.goNextChapter) return;
+    const href = nextChapterHref();
+    const hasNext = !!href;
+    els.goNextChapter.classList.toggle("hidden", !hasNext);
+    if (!hasNext) return;
+    els.goNextChapter.textContent = t("listGoNextChapter");
+    els.goNextChapter.href = href;
+  }
+
   function updateChapterNav() {
     const multi = chapterGroups.length > 1;
     if (els.chapterNav) {
       els.chapterNav.classList.toggle("hidden", !multi);
     }
-    if (!multi) return;
+    if (!multi) {
+      updateChapterProgressBars();
+      updateGoNextChapter();
+      return;
+    }
 
     const group = chapterGroups[currentChapterIndex];
     const chapterNum = currentChapterIndex + 1;
@@ -330,6 +458,8 @@
       els.chapterNext.textContent = t("listChapterNext");
       els.chapterNext.disabled = currentChapterIndex >= totalChapters - 1;
     }
+    updateChapterProgressBars();
+    updateGoNextChapter();
     if (els.chapterSelect) {
       const prevValue = els.chapterSelect.value;
       els.chapterSelect.innerHTML = "";
@@ -394,6 +524,8 @@
       els.empty.textContent = noResults ? t("listNoResults") : "";
     }
     els.container.classList.toggle("hidden", noResults);
+    setupViewedObserver();
+    updateGoNextChapter();
   }
 
   function applyListCopy() {
@@ -418,6 +550,7 @@
       els.chapterSelectLabel.textContent = t("listChapterSelectLabel");
     }
     updateChapterNav();
+    updateGoNextChapter();
   }
 
   function bindSearch() {
@@ -461,23 +594,6 @@
     }
   }
 
-  collapseMobile.addEventListener("change", () => {
-    if (!els.container) return;
-    for (const article of els.container.querySelectorAll(".list-question")) {
-      const header = article.querySelector(".list-question-header");
-      const toggle = article.querySelector(".list-question-toggle");
-      if (collapseMobile.matches) {
-        article.classList.add("is-collapsed");
-        header?.setAttribute("aria-expanded", "false");
-        if (toggle) toggle.textContent = "▶";
-      } else {
-        article.classList.remove("is-collapsed");
-        header?.setAttribute("aria-expanded", "true");
-        if (toggle) toggle.textContent = "▼";
-      }
-    }
-  });
-
   window.initQuestionList = function (topicData) {
     topic = topicData;
     rebuildChapterGroups();
@@ -513,5 +629,12 @@
 
   window.addEventListener("fuehrershein-progress", () => {
     if (topic) renderList();
+  });
+
+  window.addEventListener("fuehrershein-viewed", () => {
+    if (topic) {
+      updateChapterProgressBars();
+      updateGoNextChapter();
+    }
   });
 })();
