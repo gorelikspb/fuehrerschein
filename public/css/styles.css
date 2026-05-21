@@ -1037,7 +1037,7 @@ a:hover {
 }
 
 .list-question.is-collapsed .list-question-preview {
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 4;
 }
 
 .list-question-text {
@@ -1204,6 +1204,33 @@ a:hover {
 .study-hub-title {
   margin: 0 0 0.75rem;
   font-size: 1.1rem;
+}
+
+.continue-reading-wrap {
+  margin: 0 0 1rem;
+}
+
+.continue-reading-wrap.hidden {
+  display: none;
+}
+
+.continue-reading-btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.continue-reading-btn:hover {
+  text-decoration: none;
+}
+
+.continue-reading-desc {
+  margin: 0.45rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.4;
+  text-align: center;
 }
 
 .study-hub-grid {

@@ -8,6 +8,7 @@
   let viewedObserver = null;
   /** Question IDs already viewed in localStorage when this page session started. */
   let viewedAtSessionStart = new Set();
+  let shouldScrollToQuestionHash = false;
 
   const els = {
     section: document.getElementById("list-view"),
@@ -113,6 +114,33 @@
     return 0;
   }
 
+  function persistLastRead(overrides = {}) {
+    if (!topic?.id || typeof saveLastReadPosition !== "function") return;
+    const group = chapterGroups[currentChapterIndex];
+    const pos = { topicId: topic.id, updatedAt: Date.now() };
+    if (group?.chapterNumber) pos.chapter = group.chapterNumber;
+    else if (chapterGroups.length > 1) pos.page = currentChapterIndex + 1;
+    if (group?.chapterName) pos.chapterName = group.chapterName;
+    if (overrides.questionId) pos.questionId = overrides.questionId;
+    saveLastReadPosition(pos);
+  }
+
+  function scrollToQuestionHash() {
+    const raw = window.location.hash.slice(1);
+    if (!raw || !els.container) return;
+    const id = decodeURIComponent(raw);
+    const card = els.container.querySelector(
+      `.list-question[data-question-id="${CSS.escape(id)}"]`
+    );
+    if (!card) return;
+    const header = card.querySelector(".list-question-header");
+    const toggle = card.querySelector(".list-question-toggle");
+    setQuestionCollapsed(card, header, toggle, false);
+    requestAnimationFrame(() => {
+      card.scrollIntoView({ behavior: "smooth", block: "center" });
+    });
+  }
+
   function setChapterInUrl(index) {
     const url = new URL(window.location.href);
     const group = chapterGroups[index];
@@ -157,6 +185,24 @@
     buildOptionLabel(span, opt, deOptText, mark);
     li.appendChild(span);
     return li;
+  }
+
+  const LIST_PREVIEW_MIN_CHARS = 100;
+  const LIST_PREVIEW_MAX_CHARS = 280;
+
+  function stripHtmlToPlainText(value) {
+    const div = document.createElement("div");
+    div.innerHTML = value == null ? "" : String(value);
+    return (div.textContent || "").replace(/\s+/g, " ").trim();
+  }
+
+  /** Plain-text preview for collapsed header: at least MIN chars when possible, ellipsis if longer. */
+  function formatListQuestionPreview(text) {
+    const plain = stripHtmlToPlainText(text);
+    if (!plain) return "";
+    if (plain.length <= LIST_PREVIEW_MAX_CHARS) return plain;
+    const sliceAt = Math.max(LIST_PREVIEW_MIN_CHARS, LIST_PREVIEW_MAX_CHARS);
+    return `${plain.slice(0, sliceAt).trimEnd()}…`;
   }
 
   function setQuestionCollapsed(article, header, toggle, collapsed) {
@@ -210,10 +256,11 @@
 
     const preview = document.createElement("span");
     preview.className = "list-question-preview";
+    const previewText = formatListQuestionPreview(q.text);
     if (typeof window.fillDePeek === "function") {
-      window.fillDePeek(preview, q.text, deQ?.text || "");
+      window.fillDePeek(preview, previewText, deQ?.text || "");
     } else {
-      preview.textContent = q.text;
+      preview.textContent = previewText;
     }
 
     const toggle = document.createElement("span");
@@ -318,16 +365,15 @@
     if (!topic?.id) return;
     const questionId = article.dataset.questionId;
     if (!questionId || article.dataset.viewedObserved === "1") return;
-    if (isQuestionViewed(topic.id, questionId)) {
-      article.dataset.viewedObserved = "1";
-      return;
-    }
     article.dataset.viewedObserved = "1";
-    if (markQuestionViewed(topic.id, questionId)) {
-      article.classList.add("list-question--viewed");
-      updateChapterProgressBars();
-      updateGoNextChapter();
+    if (!isQuestionViewed(topic.id, questionId)) {
+      if (markQuestionViewed(topic.id, questionId)) {
+        article.classList.add("list-question--viewed");
+        updateChapterProgressBars();
+        updateGoNextChapter();
+      }
     }
+    persistLastRead({ questionId });
   }
 
   function disconnectViewedObserver() {
@@ -492,9 +538,14 @@
       filterQuery = "";
     }
     if (updateUrl) setChapterInUrl(currentChapterIndex);
+    persistLastRead();
     renderList();
     if (scroll && els.section) {
       els.section.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+    if (shouldScrollToQuestionHash) {
+      shouldScrollToQuestionHash = false;
+      scrollToQuestionHash();
     }
   }
 
@@ -532,6 +583,10 @@
     els.container.classList.toggle("hidden", noResults);
     setupViewedObserver();
     updateGoNextChapter();
+    if (shouldScrollToQuestionHash) {
+      shouldScrollToQuestionHash = false;
+      scrollToQuestionHash();
+    }
   }
 
   function applyListCopy() {
@@ -605,9 +660,11 @@
     captureViewedAtSessionStart();
     rebuildChapterGroups();
     currentChapterIndex = getChapterIndexFromUrl();
+    shouldScrollToQuestionHash = !!window.location.hash.slice(1);
     applyListCopy();
     bindSearch();
     bindChapterNav();
+    persistLastRead();
     renderList();
   };
 
@@ -620,6 +677,7 @@
         els.search.value = "";
         filterQuery = "";
       }
+      persistLastRead();
       renderList();
     }
   });
