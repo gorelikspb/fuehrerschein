@@ -6,6 +6,8 @@
   let chapterGroups = [];
   let currentChapterIndex = 0;
   let viewedObserver = null;
+  /** Question IDs already viewed in localStorage when this page session started. */
+  let viewedAtSessionStart = new Set();
 
   const els = {
     section: document.getElementById("list-view"),
@@ -294,18 +296,22 @@
       setQuestionCollapsed(article, header, toggle, !article.classList.contains("is-collapsed"));
     });
 
-    const alreadyViewed = topic?.id && isQuestionViewed(topic.id, q.id);
-    setQuestionCollapsed(article, header, toggle, !!alreadyViewed);
+    const collapseFromPriorSession =
+      topic?.id && viewedAtSessionStart.has(q.id);
+    setQuestionCollapsed(article, header, toggle, collapseFromPriorSession);
 
     article.append(header, body);
     return article;
   }
 
-  function collapseQuestionAfterViewed(article) {
-    const header = article.querySelector(".list-question-header");
-    const toggle = article.querySelector(".list-question-toggle");
-    article.classList.add("list-question--viewed");
-    setQuestionCollapsed(article, header, toggle, true);
+  function captureViewedAtSessionStart() {
+    viewedAtSessionStart = new Set();
+    if (!topic?.id) return;
+    for (const q of topic.questions) {
+      if (isQuestionViewed(topic.id, q.id)) {
+        viewedAtSessionStart.add(q.id);
+      }
+    }
   }
 
   function markVisibleQuestionViewed(article) {
@@ -318,7 +324,7 @@
     }
     article.dataset.viewedObserved = "1";
     if (markQuestionViewed(topic.id, questionId)) {
-      collapseQuestionAfterViewed(article);
+      article.classList.add("list-question--viewed");
       updateChapterProgressBars();
       updateGoNextChapter();
     }
@@ -596,6 +602,7 @@
 
   window.initQuestionList = function (topicData) {
     topic = topicData;
+    captureViewedAtSessionStart();
     rebuildChapterGroups();
     currentChapterIndex = getChapterIndexFromUrl();
     applyListCopy();
