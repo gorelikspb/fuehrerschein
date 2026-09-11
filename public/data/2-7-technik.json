@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.7.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
-  "questionCount": 164,
+  "questionCount": 159,
   "questions": [
     {
       "id": "2.7.01-043",
@@ -929,64 +929,6 @@
       "video": null
     },
     {
-      "id": "2.7.01-128",
-      "text": "Was ist beim Ankuppeln eines Mehrachsanhängers richtig?",
-      "points": 4,
-      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "- sollte im Sichtbereich des Fahrers stehen und einweisen"
-        },
-        {
-          "id": "B",
-          "text": "- warnt vor Hindernissen und Verkehrsteilnehmern, die der Fahrer nicht sehen kann"
-        },
-        {
-          "id": "C",
-          "text": "- hält die Zuggabel, bis diese in der Anhängerkupplung eingerastet ist"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Du solltest beim Ankuppeln eines Mehrachsanhängers darauf achten, dass sich eine geeignete Person im Sichtbereich von dir befindet und dich einweist und das diese Person dich vor Hindernissen und Verkehrsteilnehmern, die du nicht sehen kannst, warnt.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.01-129",
-      "text": "Sie fahren zu zweit mit Gepäck. Was ist bei einer Vollbremsung zu beachten?",
-      "points": 3,
-      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "- mehr Bremskraft aufbringen muss"
-        },
-        {
-          "id": "B",
-          "text": "- die Hinterradbremse stärker betätigen kann"
-        },
-        {
-          "id": "C",
-          "text": "- weniger Bremskraft aufbringen muss"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Wenn Sie mit mehr Gewicht fahren, sollten Sie mehr Bremskraft einsetzen. Durch das zusätzliche Gewicht bremsen auch die Hinterradbremsen stärker.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.7.01-130",
       "text": "Sie müssen in einer Kurve auf nasser Fahrbahn plötzlich bremsen. Welche Besonderheiten bestehen bei einem Fahrzeug mit Antiblockiersystem (ABS)?",
       "points": 4,
@@ -1040,35 +982,6 @@
         "B"
       ],
       "explanation": "Trotz sorgfältiger Fahrweise ist es möglich, dass der Anhänger die Kurve schneidet oder sogar ausschwenkt. Der/Die Kfz-FahrerIn muss daher umsichtig vorgehen, um Gefährdungen anderer auszuschließen.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.01-132",
-      "text": "An Ihrem Motorrad treten Pendelbewegungen auf. Wodurch können diese ausgelöst worden sein?",
-      "points": 3,
-      "chapter": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "Durch die Beladung"
-        },
-        {
-          "id": "B",
-          "text": "Durch eine Unwucht der Räder"
-        },
-        {
-          "id": "C",
-          "text": "Durch untertouriges Fahren"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Wenn Ihr gesamtes Motorrad nach vorne und hinten schwingt, kann dies durch eine schwere Last oder eine Unwucht im Rad verursacht werden.",
       "image": null,
       "video": null
     },
@@ -4113,6 +4026,35 @@
       "video": null
     },
     {
+      "id": "2.7.05-217",
+      "text": "Welche Folgen kann es haben, wenn die Radbefestigungen nach einem Radwechsel nicht nachgezogen werden?",
+      "points": 3,
+      "chapter": "Verwendung Und Wartung Von Reifen",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Rad kann beschädigt werden"
+        },
+        {
+          "id": "B",
+          "text": "Das Rad kann sich vom Fahrzeug lösen"
+        },
+        {
+          "id": "C",
+          "text": "Der Reifen kann sich von der Felge lösen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn die Radbefestigungen nach einem Radwechsel nicht nachgezogen werden bzw. dies aus Fahrlässigkeit versäumt wurde, kann sich während der Fahrt durch Vibrationsbewegungen das Rad vom Fahrzeug lösen. Dies kann einen schweren Unfall verursachen. Das Rad kann sich nicht von der Felge lösen.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.7.06-101",
       "text": "Was bewirkt ein Antiblockiersystem (ABS)?",
       "points": 4,
@@ -4223,92 +4165,6 @@
         "A"
       ],
       "explanation": "Beim Auflaufen des Anhängers auf das Zugfahrzeug tritt bei einem Anhänger mit Auflaufbremse die Bremswirkung ein. Wie der Name nahelegt, wird die Bremse des Anhängers erst ausgelöst, wenn der Anhänger auf das Zugfahrzeug auffährt.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-107",
-      "text": "Wann ist für eine Fahrzeugkombination die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
-      "points": 3,
-      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "Wenn ruckartig gelenkt wird"
-        },
-        {
-          "id": "B",
-          "text": "Wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird"
-        },
-        {
-          "id": "C",
-          "text": "Wenn dosiert beschleunigt wird"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Bei einer Fahrzeugkombination ist die Gefahr dann besonders groß,  wenn ruckartig gelenkt wird und wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-108",
-      "text": "Wann ist für einen druckluftgebremsten Lastzug die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
-      "points": 4,
-      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "Wenn der Retarder bei Kurvenfahrt voll betätigt wird"
-        },
-        {
-          "id": "B",
-          "text": "Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger"
-        },
-        {
-          "id": "C",
-          "text": "Wenn die Ladung überwiegend die Antriebsachse belastet"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger, ist die Gefahr auf glatter Fahrbahn besonders groß einzuknicken oder zu schleudern. Wenn der Retarder (Dauerbremsanlage) bei Kurvenfahrt voll betätigt wird kann es zu unterschiedlichen Bremswirkungen/kräften kommen.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-109",
-      "text": "Sie nutzen einen Anhänger mit Auflaufbremse. Was müssen Sie beachten?",
-      "points": 3,
-      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "- rückwärtsfahren kann"
-        },
-        {
-          "id": "B",
-          "text": "- vorwärtsfahren kann"
-        },
-        {
-          "id": "C",
-          "text": "- ankuppeln kann"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Demnächst...",
       "image": null,
       "video": null
     },
@@ -4576,6 +4432,36 @@
       "video": null
     },
     {
+      "id": "2.7.06-405",
+      "text": "Sie möchten mit einem Fahrzeug mit auflaufgebremstem Anhänger fahren. Was müssen Sie vor Fahrtantritt überprüfen?",
+      "points": 3,
+      "chapter": "Bremsanlagen Und Geschwindigkeitsregler",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Verriegelung der Verbindungseinrichtung"
+        },
+        {
+          "id": "B",
+          "text": "- Funktion der Beleuchtungsanlage"
+        },
+        {
+          "id": "C",
+          "text": "- Anbringung des Abreiß-Bremsseils"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Beachten Sie, dass eine Auflaufbremse eine mechanische Einrichtung ist, deren Verriegelung vor dem Fahrtantritt geprüft werden muss. Kontrollieren Sie auch die Funktion der gesamten Beleuchtungsanlage sowie die richtige Anbringung des Abreiß-Bremsseils.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.7.08-001",
       "text": "Warum müssen Sie die Bremsflüssigkeit regelmäßig nach Vorgaben des Fahrzeugherstellers austauschen lassen?",
       "points": 3,
@@ -4659,35 +4545,6 @@
         "B"
       ],
       "explanation": "Der optimale Luftdruck für Winterreifen kann ein anderer sein, wenn kein Schnee liegt und die Fahrbahn trocken ist. Es gilt die Empfehlung, den Luftdruck dann um ca. 0,2 bar im Vergleich zu den Sommerreifen zu erhöhen.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.10-103",
-      "text": "Sie fahren einen Bus im Linienverkehr. Wo ist die Zahl der zugelassenen Sitz- und Stehplätze angegeben?",
-      "points": 2,
-      "chapter": "Ausruestung Von Fahrzeugen",
-      "chapterNumber": "2.7.10",
-      "chapterName": "Ausruestung Von Fahrzeugen",
-      "options": [
-        {
-          "id": "A",
-          "text": "In der Zulassungsbescheinigung Teil I (Fahrzeugschein)"
-        },
-        {
-          "id": "B",
-          "text": "An einer gut sichtbaren Stelle im Bus"
-        },
-        {
-          "id": "C",
-          "text": "Auf dem Typenschild"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Demnächst...",
       "image": null,
       "video": null
     }

@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.6.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.6. Vorschriften ueber den Betrieb der Fahrzeuge",
-  "questionCount": 32,
+  "questionCount": 36,
   "questions": [
     {
       "id": "2.6.01-003",
@@ -708,6 +708,34 @@
       "video": null
     },
     {
+      "id": "2.6.03-406",
+      "text": "Ein einachsiger Anhänger hat eine tatsächliche Gesamtmasse von 600 kg. Wie groß muss die Stützlast mindestens sein?",
+      "points": 3,
+      "chapter": "Anhaengerbetrieb",
+      "chapterNumber": "2.6.03",
+      "chapterName": "Anhaengerbetrieb",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 kg (= 4 %)"
+        },
+        {
+          "id": "B",
+          "text": "60 kg (= 10 %)"
+        },
+        {
+          "id": "C",
+          "text": "90 kg (= 15 %)"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Stützlast ist diejenige Masse, die auf der Anhängerkupplung des ziehenden Fahrzeugs aufliegt. Um sie zu ermitteln, kann der/die Kfz-FahrerIn unter den Kupplungspunkt des waagerecht stehenden Anhängers ein Holzstück oder ein Rohr stellen und darunter eine Personenwaage platzieren. Angezeigt wird dann die Stützlast. Die vom Zugfahrzeug aufzunehmende Mindeststützlast darf bei Anhängern mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 Tonnen nicht weniger als 4 % des Gesamtgewichts des Anhängers betragen. Eine Mindeststützlast von 25 kg ist jedoch ausreichend. In diesem Beispiel beträgt die Mindeststützlast 24 kg. Wenn Sie den Anhänger beladen, müssen Sie als Kfz-FahrerIn darauf achten, die minimal und maximal zulässige Stützlast nicht zu unter- bzw. zu überschreiten. Durch das Verschieben der Ladung können Sie die Stützlast beeinflussen.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.6.06-101",
       "text": "Was müssen Sie beim Betrieb von Fahrzeugen hinsichtlich der Fahrzeughöhe beachten?",
       "points": 3,
@@ -811,6 +839,59 @@
       "video": null
     },
     {
+      "id": "2.6.06-213",
+      "text": "Wann dürfen Sie in dieser Situation weiter auf dem linken Fahrstreifen verbleiben?",
+      "points": 3,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [
+        {
+          "id": "A",
+          "text": "- einschließlich Ladung tatsächlich maximal 2 m breit ist"
+        },
+        {
+          "id": "B",
+          "text": "- gemäß Zulassungsbescheinigung Teil I (Fahrzeugschein) 2 m breit ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Das Verkehrszeichen gibt an, wie breit Ihr Fahrzeug einschließlich Außenspiegel und Ladung maximal sein darf. Achten Sie darauf, ob die Außenspiegel bei den Maßen in Ihren Fahrzeugpapieren mit eingerechnet wurden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.6.06-213.png",
+      "video": null
+    },
+    {
+      "id": "2.6.06-216",
+      "text": "Was müssen Sie in dieser Situation beachten?",
+      "points": 3,
+      "chapter": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "chapterNumber": "2.6.06",
+      "chapterName": "Abmessungen Gewichte Und Geschwindigkeitsbegrenzer",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nach 200 m verringert sich die Breite des linken Fahrstreifens"
+        },
+        {
+          "id": "B",
+          "text": "Mein Fahrzeug ist mit Außenspiegeln breiter als in den Fahrzeugpapieren angegeben"
+        },
+        {
+          "id": "C",
+          "text": "Auf einer Länge von 200 m verringert sich die Breite des linken Fahrstreifens"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Das obere Verkehrszeichen zeigt an, dass sich die Fahrbahn auf die im Verkehrszeichen angegebene Breite verringert. Das Zusatzzeichen informiert darüber, dass die Fahrbahnverengung erst in ca. 200 Meter beginnt. Außenspiegel sind zu dem in den Fahrzeugpapieren angegebenen Maß in der Breite hinzuzurechnen. Neigungen bei unebener Fahrbahn können zudem mehr Breite erfordern. Berücksichtigen Sie diese Faktoren bei der weiteren Durchfahrt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.6.06-216.png",
+      "video": null
+    },
+    {
       "id": "2.6.07-001",
       "text": "Was müssen Sie bei der Benutzung von Navigationssystemen und Straßenkarten beachten?",
       "points": 2,
@@ -866,6 +947,36 @@
         "C"
       ],
       "explanation": "Erkundigen Sie sich vor der Fahrt welche Bestimmungen im Ausland gelten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.6.07-220",
+      "text": "Welche Tätigkeiten können beim Fahren zu risikoreichen Ablenkungen führen?",
+      "points": 3,
+      "chapter": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "chapterNumber": "2.6.07",
+      "chapterName": "Lesen Einer Strassenkarte Und Streckenplanung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Eingabe einer Adresse in ein Navigationsgerät"
+        },
+        {
+          "id": "B",
+          "text": "Das Schreiben einer Textnachricht"
+        },
+        {
+          "id": "C",
+          "text": "Das Telefonieren auch mit Freisprecheinrichtung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Alle Anworten können zu risikoreichen Ablenkungen führen. Die Eingabe einer Adresse in ein Navigationsgerät / das Schreiben einer Textnachricht und das Telefonieren auch mit einer Freisprecheinrichtung.",
       "image": null,
       "video": null
     }

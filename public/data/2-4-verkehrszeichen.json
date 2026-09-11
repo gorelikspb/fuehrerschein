@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.4.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
-  "questionCount": 31,
+  "questionCount": 30,
   "questions": [
     {
       "id": "2.4.40-002",
@@ -776,35 +776,6 @@
       ],
       "explanation": "Das Verkehrszeichen P + R auf blauem Hintergrund steht für „Parken und Reisen“ („Park and Ride“). Es kennzeichnet einen Parkplatz mit Anschluss an öffentliche Verkehrsmittel. Der Parkplatz besteht kontinuierlich oder aber temporär.",
       "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-107.png",
-      "video": null
-    },
-    {
-      "id": "2.4.42-108",
-      "text": "Sie führen einen mautpflichtigen Lkw und nähern sich dem dargestellten Verkehrszeichen. Wie verhalten Sie sich?",
-      "points": 3,
-      "chapter": "Richtzeichen",
-      "chapterNumber": "2.4.42",
-      "chapterName": "Richtzeichen",
-      "options": [
-        {
-          "id": "A",
-          "text": "Ich überprüfe an der On-Board-Unit (OBU), ob die Anzahl der Achsen korrekt eingestellt ist"
-        },
-        {
-          "id": "B",
-          "text": "Ich darf ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen der Strecke Maut entrichtet wurde"
-        },
-        {
-          "id": "C",
-          "text": "Ich zahle die Maut am Mautterminal, wenn ich die mautpflichtige Strecke verlasse"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Du darfst hier ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen der Strecke Maut entrichtet wurde und du solltest die korrekte Anzahl der Achsen prüfen, ob diese richtig eingestellt ist. Wenn nicht, stelle Sie bitte richtig ein.",
-      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-108.png",
       "video": null
     },
     {

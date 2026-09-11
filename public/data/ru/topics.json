@@ -99,8 +99,8 @@
       "themeNumber": "Thema 2.1.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.1. Gefahrenlehre",
-      "questionCount": 167,
-      "deQuestionCount": 167,
+      "questionCount": 171,
+      "deQuestionCount": 171,
       "ruComplete": true,
       "file": "data/ru/2-1-gefahrenlehre.json"
     },
@@ -112,8 +112,8 @@
       "themeNumber": "Thema 2.2.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.2. Verhalten im Strassenverkehr",
-      "questionCount": 229,
-      "deQuestionCount": 229,
+      "questionCount": 226,
+      "deQuestionCount": 226,
       "ruComplete": true,
       "file": "data/ru/2-2-verhalten-im-strassenverkehr.json"
     },
@@ -125,8 +125,8 @@
       "themeNumber": "Thema 2.4.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
-      "questionCount": 31,
-      "deQuestionCount": 31,
+      "questionCount": 30,
+      "deQuestionCount": 30,
       "ruComplete": true,
       "file": "data/ru/2-4-verkehrszeichen.json"
     },
@@ -138,8 +138,8 @@
       "themeNumber": "Thema 2.5.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.5. Umweltschutz",
-      "questionCount": 38,
-      "deQuestionCount": 38,
+      "questionCount": 44,
+      "deQuestionCount": 44,
       "ruComplete": true,
       "file": "data/ru/2-5-umweltschutz.json"
     },
@@ -151,8 +151,8 @@
       "themeNumber": "Thema 2.6.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.6. Vorschriften ueber den Betrieb der Fahrzeuge",
-      "questionCount": 32,
-      "deQuestionCount": 32,
+      "questionCount": 36,
+      "deQuestionCount": 36,
       "ruComplete": true,
       "file": "data/ru/2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge.json"
     },
@@ -164,8 +164,8 @@
       "themeNumber": "Thema 2.7.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
-      "questionCount": 164,
-      "deQuestionCount": 164,
+      "questionCount": 159,
+      "deQuestionCount": 159,
       "ruComplete": true,
       "file": "data/ru/2-7-technik.json"
     },
@@ -184,8 +184,9 @@
     }
   ],
   "locale": "ru",
-  "totalQuestions": 1311,
-  "totalDeQuestions": 1311,
+  "totalQuestions": 1316,
+  "totalDeQuestions": 1316,
   "ruCacheEntries": 2224,
-  "catalog": "klasse-b"
+  "catalog": "klasse-b",
+  "catalogSnapshot": "2026-09-11"
 }

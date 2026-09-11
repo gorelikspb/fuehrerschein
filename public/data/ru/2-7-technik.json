@@ -6,8 +6,8 @@
   "themeNumber": "Thema 2.7.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
-  "questionCount": 164,
-  "deQuestionCount": 164,
+  "questionCount": 159,
+  "deQuestionCount": 159,
   "questions": [
     {
       "id": "2.7.01-043",
@@ -932,64 +932,6 @@
       "video": null
     },
     {
-      "id": "2.7.01-128",
-      "text": "Что важно при соединении многоосного прицепа?",
-      "points": 4,
-      "chapter": "2.7.01 Глава 169 вопросы Операция по вождению, физика вождения, техника вождения",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "- должно стоять в поле зрения водителя и давать указания"
-        },
-        {
-          "id": "B",
-          "text": "- предупреждает о препятствиях и участниках дорожного движения, которые водителю не видны"
-        },
-        {
-          "id": "C",
-          "text": "- держит дышло вильчатой формы, пока оно не зацепилось в тяговосцепное устройство"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Вы должны убедиться в том, что подходящий человек в области просмотра о вас и инструкторах вы и что этот человек препятствия и участники дорожного движения, которые вы не можете видеть, предупреждают вас о Mehrachsanhängers при соединении. - You should make sure that a suitable person in the viewing area is about you and instructor you and that this person obstacles and road users that you can not see, warns you of a Mehrachsanhängers when coupling. - Du solltest beim Ankuppeln eines Mehrachsanhängers darauf achten, dass sich eine geeignete Person im Sichtbereich von dir befindet und dich einweist und das diese Person dich vor Hindernissen und Verkehrsteilnehmern, die du nicht sehen kannst, warnt.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.01-129",
-      "text": "Вы едете вдвоём с багажом. Что Вы должны учесть при торможении до полной остановки?",
-      "points": 3,
-      "chapter": "2.7.01 Глава 169 вопросы Операция по вождению, физика вождения, техника вождения",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "- применить большую тормозную силу"
-        },
-        {
-          "id": "B",
-          "text": "- сильнее привести в действие тормоз заднего колеса"
-        },
-        {
-          "id": "C",
-          "text": "- применить меньшую тормозную силу"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Если вы едете с большим весом, вы должны применять более тормозное усилие. Из-за дополнительным весом, задние колесные тормоза будут тормозить больше, а также - If you are driving with more weight, you should apply more braking force. Due to the additional weight, the rear wheel brakes will brake more as well - Wenn Sie mit mehr Gewicht fahren, sollten Sie mehr Bremskraft einsetzen. Durch das zusätzliche Gewicht bremsen auch die Hinterradbremsen stärker.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.7.01-130",
       "text": "Вы едете по мокрой дороге и должны внезапно затормозить в повороте. Какие особенности имеются при транспортном средстве с антиблокировочной системой (АБС)?",
       "points": 4,
@@ -1043,35 +985,6 @@
         "B"
       ],
       "explanation": "На поворотах прицеп срезает изгиб и может качаться. Поэтому водитель автомобиля должен действовать с осторожностью, чтобы исключить опасность для окружающих.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.01-132",
-      "text": "Ваш мотоцикл начинает раскачиваться. Чем это может быть вызвано?",
-      "points": 3,
-      "chapter": "2.7.01 Глава 169 вопросы Операция по вождению, физика вождения, техника вождения",
-      "chapterNumber": "2.7.01",
-      "chapterName": "Fahrbetrieb Fahrphysik Fahrtechnik",
-      "options": [
-        {
-          "id": "A",
-          "text": "Нагрузка"
-        },
-        {
-          "id": "B",
-          "text": "Неуравновешенность колёсной пары"
-        },
-        {
-          "id": "C",
-          "text": "Cпособ управления с преимущественным использованием низкого диапазона частот вращения вала двигателя"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Если весь ваш мотоцикл качается на передней и задней части, это может быть вызвано тяжелой нагрузкой или дисбаланса в колесе - If your entire motorcycle swings to the front and back, this could be caused by heavy load or imbalance in the wheel - Wenn Ihr gesamtes Motorrad nach vorne und hinten schwingt, kann dies durch eine schwere Last oder eine Unwucht im Rad verursacht werden.",
       "image": null,
       "video": null
     },
@@ -4116,6 +4029,35 @@
       "video": null
     },
     {
+      "id": "2.7.05-217",
+      "text": "Какие могут быть последствия если крепление колеса не подтягивается после замены колеса?",
+      "points": 3,
+      "chapter": "2.7.05 Глава 39 вопросы Использование и обслуживание шин",
+      "chapterNumber": "2.7.05",
+      "chapterName": "Verwendung Und Wartung Von Reifen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Колесо может быть повреждено"
+        },
+        {
+          "id": "B",
+          "text": "Колесо может открутиться от транспортного средства"
+        },
+        {
+          "id": "C",
+          "text": "Колесо может отделиться от колёсного обода"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Если крепежные элементы не затягиваются после замены колеса или этим пренебрегают, то колесо может отвалиться во время движения из-за вибрации. Это может привести к серьезной аварии. Колесо не может соскочить с обода.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.7.06-101",
       "text": "Как проявляет себя автоматическое устройство предохранения от блокирования (АВS)?",
       "points": 4,
@@ -4226,92 +4168,6 @@
         "A"
       ],
       "explanation": "Когда прицеп прикреплен к буксирующему транспортному средству, торможение прицепа происходит на опережение. Это означает, что  тормоз прицепа не будет отпущен до тех пор, пока прицеп не достигнет тягача",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-107",
-      "text": "Когда для состава транспортного средства существует повышенная опасность складывания частей состава или скольжения на скользкой дороге?",
-      "points": 3,
-      "chapter": "2.7.06 Глава 75 вопросы Тормозные системы и круиз -контроль",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "При прерывистом рулевом управлении"
-        },
-        {
-          "id": "B",
-          "text": "Когда при движении по кривой тормозится с максимальным замедлением помощью рабочей тормозной системы"
-        },
-        {
-          "id": "C",
-          "text": "Когда регулируемо увеличивается скорость"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "В комбинации транспортных средств, опасность особенно велика, когда рулевое управление и прерывистое при торможении при прохождении поворотов с рабочим тормозом с максимальной задержкой. - In a vehicle combination, the danger is particularly great when steering is jerky and when braking when cornering with the service brake with maximum delay. - Bei einer Fahrzeugkombination ist die Gefahr dann besonders groß,  wenn ruckartig gelenkt wird und wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-108",
-      "text": "Когда для грузового автопоезда с пневматическим тормозом существует повышенная опасность складывания частей состава или скольжения на скользкой дороге?",
-      "points": 4,
-      "chapter": "2.7.06 Глава 75 вопросы Тормозные системы и круиз -контроль",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "Когда при движении в повороте тормоз-замедлитель полностью активируется"
-        },
-        {
-          "id": "B",
-          "text": "Когда при движении в повороте грузовой автомобиль тормозит сильнее чем прицеп"
-        },
-        {
-          "id": "C",
-          "text": "Когда груз большей частью нагруджает ведущий мост"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Если грузовик при повороте тормоза больше, чем прицеп, риск на поверхность скользкой особенно большая пряжка или швыряя. Когда замедлитель (замедлитель) полностью приводятся в действие при прохождении поворотов, он может / прийти к различным эффектам тормозных сил. - If the truck when cornering brake more than the trailer, the risk on a slippery surface is particularly large buckle or hurling. When the retarder (retarder) is fully actuated when cornering, it may / come to different braking forces effects. - Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger, ist die Gefahr auf glatter Fahrbahn besonders groß einzuknicken oder zu schleudern. Wenn der Retarder (Dauerbremsanlage) bei Kurvenfahrt voll betätigt wird kann es zu unterschiedlichen Bremswirkungen/kräften kommen.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.06-109",
-      "text": "Вы едете с прицепом, имеющим тормоз наката. На что Вы должны обратить внимание?",
-      "points": 3,
-      "chapter": "2.7.06 Глава 75 вопросы Тормозные системы и круиз -контроль",
-      "chapterNumber": "2.7.06",
-      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
-      "options": [
-        {
-          "id": "A",
-          "text": "- ехать назад"
-        },
-        {
-          "id": "B",
-          "text": "- ехать вперед"
-        },
-        {
-          "id": "C",
-          "text": "- присоединить прицеп к тянущему транспортному средству"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "",
       "image": null,
       "video": null
     },
@@ -4579,6 +4435,36 @@
       "video": null
     },
     {
+      "id": "2.7.06-405",
+      "text": "Вы собираетесь управлять транспортным средством с прицепом, оснащённым инерционной тормозной системой. Что Вы должны проверить перед началом поездки?",
+      "points": 3,
+      "chapter": "2.7.06 Глава 75 вопросы Тормозные системы и круиз -контроль",
+      "chapterNumber": "2.7.06",
+      "chapterName": "Bremsanlagen Und Geschwindigkeitsregler",
+      "options": [
+        {
+          "id": "A",
+          "text": "- фиксирующее приспособление сцепного устройства"
+        },
+        {
+          "id": "B",
+          "text": "- функционирование осветительного оборудования"
+        },
+        {
+          "id": "C",
+          "text": "- крепление тормозного страховочного троса"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Обратите внимание, что тормоз - это механическое устройство, блокировку которого необходимо проверить перед началом движения. Также проверьте работу всей системы освещения и правильное крепление страховочного тормозного троса.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.7.08-001",
       "text": "Почему необходимо регулярно производить замену тормозной жидкости согласно инструкции производителя ТС?",
       "points": 3,
@@ -4662,35 +4548,6 @@
         "B"
       ],
       "explanation": "Оптимальное давление воздуха для зимних шин может быть разным, когда снега нет, а дорога сухая. Рекомендуется увеличить давление воздуха прибл. 0,2 бар по сравнению с летней резиной.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.7.10-103",
-      "text": "Вы управляете автобусом в регулярном транспортном сообщении. Где указано количество разрешенных сидячих и стоячих мест?",
-      "points": 2,
-      "chapter": "2.7.10 Глава 16 вопросы Оборудование транспортных средств",
-      "chapterNumber": "2.7.10",
-      "chapterName": "Ausruestung Von Fahrzeugen",
-      "options": [
-        {
-          "id": "A",
-          "text": "В свидетельстве о допуске транспортного средства к участию в дорожном движении часть I (технический паспорт)"
-        },
-        {
-          "id": "B",
-          "text": "На хорошо видном месте внутри автобуса"
-        },
-        {
-          "id": "C",
-          "text": "На заводской табличке с основными техническими данными"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "",
       "image": null,
       "video": null
     }

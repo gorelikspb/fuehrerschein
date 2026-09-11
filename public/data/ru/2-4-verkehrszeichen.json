@@ -6,8 +6,8 @@
   "themeNumber": "Thema 2.4.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
-  "questionCount": 31,
-  "deQuestionCount": 31,
+  "questionCount": 30,
+  "deQuestionCount": 30,
   "questions": [
     {
       "id": "2.4.40-002",
@@ -779,35 +779,6 @@
       ],
       "explanation": "Дорожный знак P + R на синем фоне означает \"парковка и движение\". Он идентифицирует парковку с общественным транспортом. Парковка является длительной или временной.",
       "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-107.png",
-      "video": null
-    },
-    {
-      "id": "2.4.42-108",
-      "text": "Вы управляете транспортным средством, за движение на котором нужно оплатить пошлину. Как Вы поступите?",
-      "points": 3,
-      "chapter": "2.4.42 Глава 17 вопросы Направленный знак",
-      "chapterNumber": "2.4.42",
-      "chapterName": "Richtzeichen",
-      "options": [
-        {
-          "id": "A",
-          "text": "Я проверю бортовое устройство (OBU), правильно ли указано количество осей"
-        },
-        {
-          "id": "B",
-          "text": "Я могу ехать без бортового устройства (OBU) только в том случае, если я уже оплатил дорожный сбор"
-        },
-        {
-          "id": "C",
-          "text": "Я заплачу пошлину на терминале для дорожного сбора при съезде с дороги, на которой взимается пошлина"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Вы можете продолжить, только если потери были оплачены с использованием маршрута, и вы должны проверить, правильно ли установлены правильное число осей здесь без бортового блока (OBU). Если нет, спросите меня правильно. - You can only continue if the toll was paid for using the route and you should check whether it is correctly set the correct number of axles here without on-board unit (OBU). If not, ask me correctly. - Du darfst hier ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen der Strecke Maut entrichtet wurde und du solltest die korrekte Anzahl der Achsen prüfen, ob diese richtig eingestellt ist. Wenn nicht, stelle Sie bitte richtig ein.",
-      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.4.42-108.png",
       "video": null
     },
     {

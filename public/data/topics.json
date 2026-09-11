@@ -69,7 +69,7 @@
       "themeNumber": "Thema 2.1.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.1. Gefahrenlehre",
-      "questionCount": 167,
+      "questionCount": 171,
       "file": "data/2-1-gefahrenlehre.json"
     },
     {
@@ -78,7 +78,7 @@
       "themeNumber": "Thema 2.2.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.2. Verhalten im Strassenverkehr",
-      "questionCount": 229,
+      "questionCount": 226,
       "file": "data/2-2-verhalten-im-strassenverkehr.json"
     },
     {
@@ -87,7 +87,7 @@
       "themeNumber": "Thema 2.4.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.4. Verkehrszeichen",
-      "questionCount": 31,
+      "questionCount": 30,
       "file": "data/2-4-verkehrszeichen.json"
     },
     {
@@ -96,7 +96,7 @@
       "themeNumber": "Thema 2.5.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.5. Umweltschutz",
-      "questionCount": 38,
+      "questionCount": 44,
       "file": "data/2-5-umweltschutz.json"
     },
     {
@@ -105,7 +105,7 @@
       "themeNumber": "Thema 2.6.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.6. Vorschriften ueber den Betrieb der Fahrzeuge",
-      "questionCount": 32,
+      "questionCount": 36,
       "file": "data/2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge.json"
     },
     {
@@ -114,7 +114,7 @@
       "themeNumber": "Thema 2.7.",
       "section": "zusatzstoff",
       "description": "Amtlicher Fragenkatalog · Thema 2.7. Technik",
-      "questionCount": 164,
+      "questionCount": 159,
       "file": "data/2-7-technik.json"
     },
     {
@@ -127,6 +127,7 @@
       "file": "data/2-8-eignung-und-befaehigung-von-kraftfahrern.json"
     }
   ],
-  "totalQuestions": 1311,
-  "catalog": "klasse-b"
+  "totalQuestions": 1316,
+  "catalog": "klasse-b",
+  "catalogSnapshot": "2026-09-11"
 }

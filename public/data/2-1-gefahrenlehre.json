@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.1.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.1. Gefahrenlehre",
-  "questionCount": 167,
+  "questionCount": 171,
   "questions": [
     {
       "id": "2.1.01-001",
@@ -1098,93 +1098,6 @@
       ],
       "explanation": "Die Sichtverhältnisse sind witterungsbedingt sehr schlecht und die Straße ist nicht ausreichend einsehbar. Um niemanden zu gefährden, sollten Sie den Überholvorgang so schnell wie möglich abbrechen und beim Wiedereinscheren auf ausreichenden Sicherheitsabstand zum Vorausfahrenden achten.",
       "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-111.png",
-      "video": null
-    },
-    {
-      "id": "2.1.03-112",
-      "text": "Sie fahren in einer Gruppe mit mehreren Krafträdern. Welches Verhalten verringert Unfallgefahren?",
-      "points": 3,
-      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
-      "chapterNumber": "2.1.03",
-      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
-      "options": [
-        {
-          "id": "A",
-          "text": "- ihre Position beibehalten"
-        },
-        {
-          "id": "B",
-          "text": "- geringere Sicherheitsabstände einnehmen"
-        },
-        {
-          "id": "C",
-          "text": "- nebeneinander im selben Fahrstreifen fahren"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Wenn Sie mit einer Gruppe von Motorrädern zusammen fahren, sollten alle ihren Abstand hintereinander halten und genügend Abstand zum Bremsen und Anhalten haben.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.1.03-113",
-      "text": "Wo besteht bei Lenk- oder Bremsvorgängen erhöhte Sturzgefahr?",
-      "points": 4,
-      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
-      "chapterNumber": "2.1.03",
-      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
-      "options": [
-        {
-          "id": "A",
-          "text": "Auf nassem Kopfsteinpflaster"
-        },
-        {
-          "id": "B",
-          "text": "Auf nassem Asphalt"
-        },
-        {
-          "id": "C",
-          "text": "Auf Fahrbahnen mit Rollsplitt"
-        }
-      ],
-      "correct": [
-        "A",
-        "B",
-        "C"
-      ],
-      "explanation": "Beim Abbiegen in Kurven oder beim Bremsen erhöhen rutschige Oberflächen wie Fahrbahnmarkierungen, Öl auf der Straße, Schmutz, Schächte, Sand, Staub, Kies, nasse Oberflächen, Kopfsteinpflaster oder Blätter die Sturzgefahr.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.1.03-114",
-      "text": "Von nassen Fahrbahnmarkierungen geht eine erhöhte Sturzgefahr aus. Wie kann man diese Sturzgefahr verringern?",
-      "points": 4,
-      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
-      "chapterNumber": "2.1.03",
-      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
-      "options": [
-        {
-          "id": "A",
-          "text": "Fahrbahnmarkierungen in den Zwischenräumen überqueren"
-        },
-        {
-          "id": "B",
-          "text": "Auf Markierungen nicht beschleunigen und nicht bremsen"
-        },
-        {
-          "id": "C",
-          "text": "Längsmarkierungen in spitzem Winkel überqueren"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Nasse Markierungen sind ähnlich wie Straßenbahnschienen rutschig. Man sollte sie so senkrecht wie möglich überqueren und versuchen, nicht zu beschleunigen oder zu bremsen.",
-      "image": null,
       "video": null
     },
     {
@@ -2998,6 +2911,206 @@
         "C"
       ],
       "explanation": "Auf kurvigen Straße können Motorradfahrer die Kurven schneiden oder wegen ihrer starken Schräglage in Kurven auf deine Fahrbahn ragen. Auch Motorradfahrer, die in die gleiche Fahrtrichtung wie du fahren, können die Kurven ausnutzen und könnten dazu neigen, riskante Überholmanöver durchführen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-202",
+      "text": "Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit verringern, bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Auf den linken Fahrstreifen wechseln"
+        },
+        {
+          "id": "C",
+          "text": "Weiterfahren, Lichtzeichen geben"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein vor Ihnen fahrender Pkw parkt ein. Sie müssen Ihre Geschwindigkeit verringern und können erst dann den Fahrstreifen wechseln, um dem einparkenden Pkw auszuweichen, wenn das Motorrad an Ihnen vorbeigefahren ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-202_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-202.mp4"
+    },
+    {
+      "id": "2.1.07-203",
+      "text": "Was müssen Sie über die Benutzung der Rückspiegel wissen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeuge und Fußgänger im toten Winkel kann ich nicht sehen"
+        },
+        {
+          "id": "B",
+          "text": "Rückspiegel müssen auf den Fahrer eingestellt sein"
+        },
+        {
+          "id": "C",
+          "text": "Nach rechts hat der Innenspiegel keinen toten Winkel"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Über die Benutzung der Rückspiegel müssen Sie Folgendes wissen: 1. Vor Fahrtantritt müssen Rückspiegel auf den Fahrer eingestellt werden. 2. Bei allen Arten von Rückspiegeln gibt es tote Winkel. Diese bezeichnen uneinsehbare Bereiche, in denen Fußgänger, kleine Fahrzeuge oder Hindernisse übersehen werden können. Durch optimales Einstellen der äußeren Rückspiegel und des Innenspiegels halten Sie den toten Winkel so gering wie möglich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-204",
+      "text": "Sie fahren in eine Rechtskurve. Ein Motorradfahrer kommt Ihnen mit hoher Geschwindigkeit entgegen. Mit welchen Gefahren müssen Sie rechnen?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ragt wegen starker Schräglage in meinen Fahrstreifen hinein"
+        },
+        {
+          "id": "B",
+          "text": "- schneidet die Kurve und befährt meinen Fahrstreifen"
+        },
+        {
+          "id": "C",
+          "text": "- wird rechtzeitig bremsen und meinen Fahrstreifen nicht befahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Während Sie in eine Rechtskurve einfahren, fährt der entgegenkommende Motorradfahrer eine Linkskurve. Sein Oberkörper ist in Schräglage zu Ihnen geneigt. Bedenken Sie, dass der Motorradfahrer dabei fast so breit ist wie ein Pkw. Falls der Motorradfahrer zu weit an der Mittellinie fährt, um den Kurvenradius zu vergrößern und Fliehkräfte zu senken, könnte sein Oberkörper von Ihrem Fahrzeug erfasst werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-205",
+      "text": "In einer schmalen Straße wollen Sie in einer Steigung Radfahrer überholen. Wie verhalten Sie sich?",
+      "points": 4,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- größeren Seitenabstand einhalten"
+        },
+        {
+          "id": "B",
+          "text": "- den Gegenverkehr vor dem Überholen vorbeifahren lassen"
+        },
+        {
+          "id": "C",
+          "text": "- vorsichtig dicht an den Radfahrern vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Radfahrer neigen in der Steigung zum verstärkten Pendeln. Der geforderte Mindestabstand zum Radfahrer von 1,5 m sollte daher noch vergrößert werden. Der Gegenverkehr muss vor dem Überholen vorbeigelassen werden. Fahren Sie auf keinen Fall dicht an den Radfahrern vorbei.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-206",
+      "text": "Sie fahren auf einer Landstraße. Vor Ihnen hat sich eine langsam fahrende Fahrzeugschlange von ca. 15 Fahrzeugen gebildet. Wie verhalten Sie sich?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bleibe zunächst hinter der Fahrzeugschlange"
+        },
+        {
+          "id": "B",
+          "text": "Ich fordere Vorausfahrende durch Lichthupe und Blinken zum Überholen auf"
+        },
+        {
+          "id": "C",
+          "text": "Ich überhole die Fahrzeugschlange schnellstmöglich"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "In einer solchen Kolonne gilt es, die Ruhe zu bewahren und den notwendigen Sicherheitsabstand einzuhalten. Das sogenannte Kolonnenspringen, also das Überholen einzelner Fahrzeuge, bringt keinen Zeitgewinn und führt zu einem hohen Unfallrisiko.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-207",
+      "text": "Sie halten mit Ihrem Fahrzeug an, um Mitfahrende rechts aussteigen zu lassen. Dort verläuft ein Radweg. Was sollten Sie tun?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich sollte mich vergewissern, dass keine Radfahrer kommen"
+        },
+        {
+          "id": "B",
+          "text": "Ich sollte die Aussteigenden auf den Radweg hinweisen"
+        },
+        {
+          "id": "C",
+          "text": "Ich sollte nur den Verkehr im Innenspiegel beobachten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie haben als FahrzeugführerIn eine besondere Fürsorgepflicht. Wenn Sie also mit einer Begleitperson an einem Radweg anhalten, sollten sie diese vor RadfahrerInnen warnen, bevor sie aussteigt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.07-208",
+      "text": "Sie erhöhen Ihre Geschwindigkeit von 50 km/h auf 100 km/h. Wie verändert sich der Reaktionsweg entsprechend der Faustformel?",
+      "points": 3,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Er verdoppelt sich von 15 m auf 30 m"
+        },
+        {
+          "id": "B",
+          "text": "Er vervierfacht sich von 25 m auf 100 m"
+        },
+        {
+          "id": "C",
+          "text": "Er halbiert sich von 50 m auf 25 m"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Erhöht der/die Kfz-FahrerIn die Geschwindigkeit des Fahrzeugs auf das Doppelte, so verdoppelt sich der Reaktionsweg von bisher 15 auf 30 Meter.",
       "image": null,
       "video": null
     },

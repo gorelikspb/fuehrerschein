@@ -6,8 +6,8 @@
   "themeNumber": "Thema 2.2.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.2. Verhalten im Strassenverkehr",
-  "questionCount": 229,
-  "deQuestionCount": 229,
+  "questionCount": 226,
+  "deQuestionCount": 226,
   "questions": [
     {
       "id": "2.2.02-006",
@@ -412,21 +412,6 @@
       "video": null
     },
     {
-      "id": "2.2.03-108",
-      "text": "Какова макимальная допустимая скорость для грузового автомобиля с допустимым общим весом в 5,5 т и прицепом с допустимым общим весом в 2 т на проселочных дорогах?",
-      "points": 3,
-      "chapter": "2.2.03 Глава 40 вопросы Скорость",
-      "chapterNumber": "2.2.03",
-      "chapterName": "Geschwindigkeit",
-      "options": [],
-      "correct": [
-        "60"
-      ],
-      "explanation": "С вашим грузовиком 5,5 т допустимой полной массы и прицепом 2 т вы должны на шоссе высокого 60 км / ч привода. - With your truck of 5.5 t permissible gross weight and a trailer 2 t you must on a highway highest 60 km / h drive. - Mit deinem Lkw von 5,5 t zulässiger Gesamtmasse und einem Anhänger von 2 t darfst du auf einer Landstraße höchsten 60 km/h fahren.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.03-109",
       "text": "Вы управляете комбинированным транспортным средством. Оно состоит из механического транспортного средства с разрешенной полной массой до 3,5 т и прицепа без регистрации на 100 км/ч. Каково максимальное ограничение скорости на автомагистралях?",
       "points": 3,
@@ -453,6 +438,93 @@
         "80"
       ],
       "explanation": "Максимально допустимая скорость на федеральных дорогах — 80 км/ч. Вам разрешено двигаться со скоростью 100 км/ч по автомагистралям и специально отведенным автомагистралям только в том случае, если ваш прицеп имеет необходимое разрешение.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-303",
+      "text": "На проселочной дороге Вы переключили на ближний свет. В пределах какого расстояния Вы должны будете смочь остановиться?",
+      "points": 4,
+      "chapter": "2.2.03 Глава 40 вопросы Скорость",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ближнего света"
+        },
+        {
+          "id": "B",
+          "text": "- дальнего света"
+        },
+        {
+          "id": "C",
+          "text": "- стояночного света"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Максимальная допустимая скорость должна позволять вам остановиться в пределах подлежащего оценке расстояния. В данной ситуации таким расстоянием считается диапазон ближнего света.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-304",
+      "text": "Для каких транспортных средств на автомагистрале действует рекомендованная скорость?",
+      "points": 3,
+      "chapter": "2.2.03 Глава 40 вопросы Скорость",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "- легковых автомобилей"
+        },
+        {
+          "id": "B",
+          "text": "- мотоциклов"
+        },
+        {
+          "id": "C",
+          "text": "- грузовых автомобилей с разрешённой максимальной массой более 3,5 т"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "На автомагистралях все автомобили и транспортные средства максимальным весом до 3,5 тонн должны соблюдать ограничение скорости. Превышение этого лимита скорости не рекомендуется даже при благоприятных дорожных условиях.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-305",
+      "text": "На каких дорогах действует рекомендованная скорость в 130 км/ч?",
+      "points": 3,
+      "chapter": "2.2.03 Глава 40 вопросы Скорость",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "На автомагистралях"
+        },
+        {
+          "id": "B",
+          "text": "На автомобильных дорогах вне населённых пунктов с ограждениями между полосами движения в каждом направлении"
+        },
+        {
+          "id": "C",
+          "text": "На автомобильных дорогах вне населённых пунктов, имеющих не менее двух маркированных полос движения в каждом направлении"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "На шоссе и загородных трассах с разделением полос рекомендуемое ограничение скорости составляет 130 км/ч. Тем не менее, вы должны сохранять достаточную дистанцию, чтобы иметь возможность в любой момент остановиться.",
       "image": null,
       "video": null
     },
@@ -619,64 +691,6 @@
         "7"
       ],
       "explanation": "Транспортные средства, на которые распространяется специальное ограничение скорости, и транспортные средства длиной более 7 метров должны находиться на фиксированном расстоянии от других транспортных средств, находящихся перед ними, чтобы их могли обогнать другие проезжающие транспортные средства.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.04-103",
-      "text": "Вы движетесь по автомагистрали на транспортном средстве с разрешённой максимальной массой более 3,5 т. Ваша скорость составляет более 50 км/ч. Почему Вы должны держать минимальное безопасное расстояние 50 м к движущемуся впереди транспортному средству?",
-      "points": 3,
-      "chapter": "2.2.04 Глава 21 вопросы Расстояние",
-      "chapterNumber": "2.2.04",
-      "chapterName": "Abstand",
-      "options": [
-        {
-          "id": "A",
-          "text": "- таким образом снижу опасность столкновения с движущимся впереди автомобилем"
-        },
-        {
-          "id": "B",
-          "text": "- в таком случае у меня больше времени, чтобы отреагировать"
-        },
-        {
-          "id": "C",
-          "text": "- таким образом я быстрее доеду до места назначения"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Если участники дорожного движения сильно тормозит перед вами, у вас есть больше времени, чтобы среагировать и может\nтем самым снижая риск столкновения. Минимальное расстояние не используется, чтобы быть сделать с целью. - If the road users strongly brakes in front of you, you have more time to react and can\nthereby reducing the risk of a collision. The minimum distance is not used to be to do with the goal. - Wenn der Verkehrsteilnehmer vor dir stark abbremst, hast du mehr Zeit zum Reagieren und kannst\ndadurch die Gefahr eines Auffahrunfalls verringern. Der Mindestabstand hat nicht damit zu tun früher am Ziel zu sein.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.04-104",
-      "text": "Вы движетесь по автомагистрали на автобусе с скоростью более 50 км/ч. Почему Вы должны держать минимальное безопасное расстояние 50 м к движущемуся впереди транспортному средству?",
-      "points": 3,
-      "chapter": "2.2.04 Глава 21 вопросы Расстояние",
-      "chapterNumber": "2.2.04",
-      "chapterName": "Abstand",
-      "options": [
-        {
-          "id": "A",
-          "text": "- таким образом снижу опасность столкновения с движущимся впереди автомобилем"
-        },
-        {
-          "id": "B",
-          "text": "- в таком случае у меня больше времени, чтобы отреагировать"
-        },
-        {
-          "id": "C",
-          "text": "- таким образом я быстрее доеду до места назначения"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "",
       "image": null,
       "video": null
     },
@@ -980,35 +994,6 @@
       "explanation": "Автобус включил сигнальные огни и продолжает движение к остановке. В этом случае обгонять автобус запрещено. Кроме того, мотоцикл позади вас начал обгон.",
       "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019_anfang.png",
       "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019.mp4"
-    },
-    {
-      "id": "2.2.05-104",
-      "text": "Вы движетесь по автомагистрали на транспортном средстве с разрешённой максимальной массой более 7,5 т. Из-за сильного снегопада видимое расстояние менее 50 м. Как Вы должны поступить?",
-      "points": 4,
-      "chapter": "2.2.05 Глава 21 вопросы Обгон",
-      "chapterNumber": "2.2.05",
-      "chapterName": "Ueberholen",
-      "options": [
-        {
-          "id": "A",
-          "text": "Я не должен/должна использовать крайнюю левую полосу движения"
-        },
-        {
-          "id": "B",
-          "text": "Я не могу ехать быстрее, чем 50 км/ч"
-        },
-        {
-          "id": "C",
-          "text": "Я должен/должна покинуть автомагистраль на следующем cъезде"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "С вашего автомобиля, что превышает максимально допустимый вес брутто 7,5 т, вы не можете на крайнюю левую полосу движения, потому что это там для обгона для более быстрых автомобилей. Вы не можете с вашим автомобилем быстрее, чем 50 км / ч езды. Вы можете продолжать ездить на шоссе даже при снегопаде. - With your vehicle that exceeds a maximum permissible gross weight of 7.5 t, you are not allowed on the leftmost lane driving, because this is there for overtaking for faster cars. You can not with your vehicle faster than 50 km / h drive. You can continue to drive on the highway even with snowfall. - Mit deinem Fahrzeug, welches eine zulässige Gesamtmasse von 7,5 t übersteigt, darfst du nicht auf äußerst linken Fahrstreifen fahren, denn dieser ist zum Überholen für schnellere Kraftfahrzeuge da. Du darfst mit deinem Gefährt nicht schneller als 50 km/h fahren. Du kannst auch bei Schneefall weiterhin auf der Autobahn fahren.",
-      "image": null,
-      "video": null
     },
     {
       "id": "2.2.07-002",
@@ -1504,6 +1489,50 @@
         "B"
       ],
       "explanation": "Пожалуйста, обратите внимание, что вы не можете парковать прицепы на обычных парковочных местах на более, чем две недели, если они не прикреплены к транспортному средству. Кстати, то же самое относится и к обочинам. Это правило не распространяется на специально помеченные парковочные места.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.12-203",
+      "text": "Перед какими знаками Вы должны выдержать расстояние не менее 10 м, если они будут закрыты Вашим транспортным средством?",
+      "points": 3,
+      "chapter": "2.2.12 Глава 18 вопросы Остановка и парковка",
+      "chapterNumber": "2.2.12",
+      "chapterName": "Halten Und Parken",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"Железнодорожный перезд без шлагбаума\" (Андреас-кройц/Андреевский крест)"
+        },
+        {
+          "id": "B",
+          "text": "Стоп. Уступи дорогу."
+        },
+        {
+          "id": "C",
+          "text": "Запрещение остановки"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Перед такими знаками, как диагональные кресты, световые сигналы или знак «Стоп! Уступи дорогу на перекрестке», вы должны соблюдать дистанцию как минимум 10 метров. Это особенно необходимо, если знаки будут перекрыты вашим автомобилем. Например, вы имеете право остановиться перед знаком «Стоп». Однако, за ним останавливаться нельзя.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.12-204",
+      "text": "Вы хотите припарковаться у правого края проезжей части. Каким должно быть минимальное расстояние между Вашим транспортным средством и cплошной разделительной линией?",
+      "points": 2,
+      "chapter": "2.2.12 Глава 18 вопросы Остановка и парковка",
+      "chapterNumber": "2.2.12",
+      "chapterName": "Halten Und Parken",
+      "options": [],
+      "correct": [
+        "3"
+      ],
+      "explanation": "Если при парковке наблюдается минимальное расстояние в 3 метра от границы полосы движения, припаркованный автомобиль не будет препятствием.",
       "image": null,
       "video": null
     },
@@ -2853,6 +2882,92 @@
       "video": null
     },
     {
+      "id": "2.2.17-402",
+      "text": "Вы едете в темноте с включенным дальным светом. Когда Вы должны переключить дальний свет на ближний свет?",
+      "points": 4,
+      "chapter": "2.2.17 Глава 30 вопросы Осветительные приборы",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "При приближении встречного транспорта"
+        },
+        {
+          "id": "B",
+          "text": "При небольшом расстоянии до движущегося впреди транспортного средства"
+        },
+        {
+          "id": "C",
+          "text": "Когда люди перед Вами движутся в попутном направлении"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Вы не должны ослеплять встречный транспорт дальним светом. Итак, немедленно выключите его, если вы понимаете, что другие транспортные средства едут навстречу вам. Пешеходы не будут ослеплены вашим дальним светом, если они будут двигаться в том же направлении, что и вы.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.17-403",
+      "text": "Вы едете в темноте с включенным дальным светом. Когда Вы должны переключить дальний свет на ближний свет?",
+      "points": 3,
+      "chapter": "2.2.17 Глава 30 вопросы Осветительные приборы",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Когда я еду по дороге с постоянным и достаточным освещением"
+        },
+        {
+          "id": "B",
+          "text": "Если я должен ждать перед железнодорожным переездом и светом фар ослепляю других участников дорожного движения"
+        },
+        {
+          "id": "C",
+          "text": "Когда пешеходы перед Вами движутся в попутном направлении"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Когда вы едете в темноте с дальним светом, вам нужно отключить его при приближении к встречному движению. Вы не имеете права ездить с дальним светом на дорогах, которые имеют достаточное освещение. Фары стоящих транспортных средств не должны ослеплять других. Вот почему вы должны приглушать свои огни на железнодорожных переездах. Если пешеходы идут в том же направлении, они не ослепляются дальним светом.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.17-404",
+      "text": "Почему Вы должны также днем передвигаться с включенным ближним светом при значительном ухудшении видимости во время тумана, дождя или снегопада?",
+      "points": 4,
+      "chapter": "2.2.17 Глава 30 вопросы Осветительные приборы",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Чтобы быть лучше замеченным другими участниками дорожного движения"
+        },
+        {
+          "id": "B",
+          "text": "Чтобы иметь возможность ехать с более высокой скоростью"
+        },
+        {
+          "id": "C",
+          "text": "Чтобы иметь возможность на большем расстоянии лучше различить дорожные знаки"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "В условиях плохой видимости вам нужно включить ближний свет, чтобы другие участники дорожного движения могли лучше видеть вас, а также для лучшей видимости. В условиях низкой освещенности ближний свет не имеет большого эффекта и, следовательно, не помогает лучше видеть дорожные знаки вдалеке.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.2.18-003",
       "text": "Какая рекомендуемая скорость действует на автобанах для легковых автомобилей и мотоциклов?",
       "points": 2,
@@ -3253,6 +3368,35 @@
         "C"
       ],
       "explanation": "Согласно STVO § 18 автомагистралей и двигательных драйверов:\n(7) Поворот и обращение запрещены.\n(8) Держать, также на боковых полосах, запрещено.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.18-215",
+      "text": "Почему следует включить радио при езде на автомагистрали?",
+      "points": 3,
+      "chapter": "2.2.18 Глава 41 вопросы Автомагистрали и автомагистрали",
+      "chapterNumber": "2.2.18",
+      "chapterName": "Autobahnen Und Kraftfahrstrassen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- предупреждает о водителях, едущих против направления движения"
+        },
+        {
+          "id": "B",
+          "text": "- сообщает о пробках"
+        },
+        {
+          "id": "C",
+          "text": "- является обязательным при езде на автомагистрали"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Водители не обязаны слушать новости дорожного движения, но новости дорожного движения незаменимы для удобства движения. Дорожные новости сообщают о пробках, дорожно-транспортных происшествиях и строительных площадках. Предупреждения о неправильном направлении пути   уже предотвратили много серьезных аварий.",
       "image": null,
       "video": null
     },
@@ -4243,64 +4387,6 @@
       "video": null
     },
     {
-      "id": "2.2.22-115",
-      "text": "Вы намериваетесь управлять грузовым автомобилем с разрешенным максимальным весом в 5,0т с прикреплёнными на нём предупредительными щитами оранжевого цвета. Какие из следующих условий Вы должны выполнить?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- действительный документ в соответствии Европейскому соглашениу о международной дорожной перевозке опасных грузов"
-        },
-        {
-          "id": "B",
-          "text": "- действительное дополнительное удостоверение о перевозке пассажиров"
-        },
-        {
-          "id": "C",
-          "text": "- действительное доказательство об уже совершённых перевозках опасных грузов"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Требование, что вы должны выполнить: Вам необходимы дополнительно к действующему сертификату ADR требуемого водительских прав. Это позволяет перевозить опасные грузы (оранжевый предупреждающий знак). - The requirement that you should fulfill: You need additional to the required driving license valid ADR certificate. This allows you to transport dangerous goods (orange warning sign). - Die Voraussetzung die du erfüllen solltest: Du benötigst zusätzliche zur erforderlichen Fahrerlaubnis eine gültige ADR-Bescheinigung. Diese erlaubt dir Gefahrengüter (orangefarbene Warntafel) zu transportieren.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-116",
-      "text": "На что Вы должны обратить внимание при укладке груза, удовлетворяющей требованиям безопасности движения?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "На размещение груза"
-        },
-        {
-          "id": "B",
-          "text": "На крепление груза"
-        },
-        {
-          "id": "C",
-          "text": "На надежность крепления вспомогательных средств для крепления груза"
-        }
-      ],
-      "correct": [
-        "A",
-        "B",
-        "C"
-      ],
-      "explanation": "Распределение заряда и фиксация того же самое и резервное устройство для закрепления груза вы должны знать, так что безопасность гарантирована. Все три правильные ответы. - A distribution of the charge and the fixing of the selfsame and a backup of the device for securing the load you should be aware so that security is guaranteed. All three answers are correct. - Eine Verteilung der Ladung und die Befestigung der selbigen und eine Sicherung der Geräte zur Ladungssicherung solltest du beachten, damit die Sicherheit gewährleistet ist. Alle 3 Antworten sind richtig.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.22-117",
       "text": "На что следует обратить внимание при загрузке транспортных средств?",
       "points": 3,
@@ -4326,122 +4412,6 @@
         "B"
       ],
       "explanation": "Груз может выступать вперед на высоту от 2,50 м до 50 см над транспортным средством. Если груз выступает более чем на 1 м за пределы задних отражателей транспортного средства, то его конец должен быть визуально обозначен. Груз должен быть тщательно закреплен. Тяжелая нагрузка сзади  может стать причиной опасных маятниковых движений на высоких скоростях. Для мотоциклов:  убедитесь, что нагрузка равномерно распределена по бокам.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-118",
-      "text": "Что Вы должны соблюсти при транспортировке длинных стальных труб?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- обезопасить подходящими средствами"
-        },
-        {
-          "id": "B",
-          "text": "- обозначить особым образом, если они выступают назад более чем на 1 м"
-        },
-        {
-          "id": "C",
-          "text": "- перевозить на транспортном средстве без передней стенки кузова"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Стальные трубы должны быть обеспечены соответствующими средствами и обозначены на заднем свесе более 1 м. Если вы заметили это, вы находитесь на безопасной стороне. - The steel pipes must be secured with appropriate means and are indicated at rear overhang of more than 1 m. If you notice this, you're on the safe side. - Die Stahlrohre müssen mit geeigneten Mitteln gesichert werden und bei Überhang nach hinten von mehr als 1 m gekennzeichnet werden. Wenn du dies beachtest, bist du auf der sicheren Seite.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-119",
-      "text": "Какое влияние имеет неравномерное распределение груза на транспортное средство и характеристику движения?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "Допустимая осевая нагрузка может быть превышена"
-        },
-        {
-          "id": "B",
-          "text": "Влияет на управляемость автомобиля"
-        },
-        {
-          "id": "C",
-          "text": "Снижается расход топлива"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Неравномерное распределение нагрузки нагрузки может привести допустимые нагрузки на ось может быть превышена и влиять на рулевое управление. Расход топлива не имеет решающего значения. - An uneven load distribution of the load can cause the permissible axle loads can be exceeded and affect the steering. The fuel consumption is not critical. - Eine ungleichmäßige Lastverteilung der Ladung kann dazu führen, dass die zulässigen Achslasten überschritten werden können und das Lenkverhalten beeinflusst. Der Kraftstoffverbrauch ist nicht entscheidend.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-120",
-      "text": "Когда воздействует центробежная сила на груз грузового автомобиля?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "При езде на повороте"
-        },
-        {
-          "id": "B",
-          "text": "При торможении"
-        },
-        {
-          "id": "C",
-          "text": "При движении в прямом направлении"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Центробежная сила влияет на грузовик при прохождении поворотов. идут прямые тормоза или не имеют круговое движение и, следовательно, не имеет решающего значения. - The centrifugal force affects your truck when cornering. go straight brakes or have no circular motion and are therefore not decisive. - Die Fliehkraft wirkt sich bei Kurvenfahrten deines Lkws aus. Bremsen oder Geradeaus fahren haben keine Kreisbewegung und sind deswegen nicht entscheidend.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-121",
-      "text": "Что может повлечь незакреплённый груз при езде на повороте?",
-      "points": 3,
-      "chapter": "2.2.22 Глава 59 вопросы Нагрузка",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- привести к повреждению кузова транспортного средства"
-        },
-        {
-          "id": "B",
-          "text": "- привести к опрокидыванию транспортного средства"
-        },
-        {
-          "id": "C",
-          "text": "- отрицательно влиять на характеристику движения"
-        }
-      ],
-      "correct": [
-        "A",
-        "B",
-        "C"
-      ],
-      "explanation": "Необеспеченная нагрузка во время движения на повороте может привести к повреждению корпуса транспортного средства, облегчает опрокидывание транспортного средства и вызывает ухудшение управляемости. - Unsecured load during cornering can result in damage to the vehicle body, facilitate overturning of the vehicle and cause a deterioration of the drivability. - Ungesicherte Ladung bei Kurvenfahrten kann zu einer Beschädigung des Fahrzeugaufbaus führen, ein Umkippen des Fahrzeugs begünstigen und eine Verschlechterung des Fahrverhaltens bewirken.",
       "image": null,
       "video": null
     },
@@ -5222,93 +5192,6 @@
       "video": null
     },
     {
-      "id": "2.2.23-114",
-      "text": "Вы хотите двигаться назад. На что Вы должны обратить внимание?",
-      "points": 4,
-      "chapter": "2.2.23 Глава 97 вопросы Другие обязанности водителя",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "При необходимости третьее лицо должно дать мне указания"
-        },
-        {
-          "id": "B",
-          "text": "Я должен/должна учесть выступающий назад груз"
-        },
-        {
-          "id": "C",
-          "text": "Мне достаточно камеры заднего вида"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Для того, чтобы не подвергать опасности других, вы должны знать, и пусть проинструктировать вас, в случае необходимости, к задним выступающим нагрузкам. Только камера заднего вида не достаточно. - In order not to endanger others, you should be aware and let instruct you, if necessary, to the rear projecting load. Only the reversing camera is not enough. - Um andere nicht zu gefährden, solltest du nach hinten überstehende Ladung berücksichtigen und dich erforderlichenfalls einweisen lassen. Nur die Rückfahrkamera reicht nicht aus.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.23-115",
-      "text": "Вы установили на Вашем тягаче рабочие устройства. Что Вы должны сделать, если хотите двигаться с ними по дорогам общего пользования?",
-      "points": 4,
-      "chapter": "2.2.23 Глава 97 вопросы Другие обязанности водителя",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "- собрать информацию о соответствующих правилах по установке машины на транспортном средстве"
-        },
-        {
-          "id": "B",
-          "text": "- хорошо обшить опасные детали"
-        },
-        {
-          "id": "C",
-          "text": "- ехать со включённой аварийной сигнализацией"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Вы должны сообщить в рабочем орудии монтажа вашего трактора через соответствующие требования для транспортного положения и опасных части эффективна маскировкой, так что вы не травмировать окружающие. Сигнальная лампа не один из них. - You have to inform to the working implement mounting your tractor through the respective requirements for the transport position and dangerous parts effectively disguise so you do not endanger others. Warning light not one of them. - Du musst dich, nach dem Arbeitsgeräteanbau deiner Zugmaschine über die jeweiligen Vorgaben zur Transportstellung informieren und gefährliche Teile wirksam verkleiden damit Sie andere nicht gefährden. Warnblinklicht gehört nicht dazu.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.23-116",
-      "text": "Вы на грузовом автомобиле хотите задним ходом повернуть с вашего земельного участка на улицу. Как Вы должны поступить?",
-      "points": 4,
-      "chapter": "2.2.23 Глава 97 вопросы Другие обязанности водителя",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "- при необходимости третьее лицо должно дать мне указания"
-        },
-        {
-          "id": "B",
-          "text": "- я должен/должна обратить внимание на участников движения, приближающихся по тротуару"
-        },
-        {
-          "id": "C",
-          "text": "- я не должен/должна включить указатель поворота"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Вы должны при обратной erfoderlichenfalls проинструктировать позволяет исключить опасность для других участников дорожного движения. Предварительно Coming участники на тротуаре также включены. - You have to when reverse erfoderlichenfalls instruct allow to rule out a risk to other road users. Pre Coming participants on the sidewalk also included. - Du musst dich beim rückwärtsfahren erfoderlichenfalls einweisen lassen um eine Gefährdung anderer Verkehrsteilnehmer ausschließen zu können. Herankommende Teilnehmer auf dem Gehweg gehören auch dazu.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.23-117",
       "text": "Ваше транспортное средство занесено снегом. Что Вы должны сделать до начала движения?",
       "points": 3,
@@ -5659,6 +5542,36 @@
         "C"
       ],
       "explanation": "Прежде чем тронуться с места, необходимо удалить снег со всего автомобиля, так как он может упасть во время движения, подвергнуть опасности других участников дорожного движения и, в худшем случае, стать причиной аварии. Кроме того, снег может попасть на лобовое стекло при торможении, закрывая обзор и лишая вас возможности действовать.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.23-406",
+      "text": "Кто не имеет право пользоваться во время езды мобильным телефоном без устройства громкой связи?",
+      "points": 3,
+      "chapter": "2.2.23 Глава 97 вопросы Другие обязанности водителя",
+      "chapterNumber": "2.2.23",
+      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
+      "options": [
+        {
+          "id": "A",
+          "text": "- легкового автомобиля"
+        },
+        {
+          "id": "B",
+          "text": "- грузового автомобиля"
+        },
+        {
+          "id": "C",
+          "text": "- одноколейных транспортных средств"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Водителям автомобилей разрешается пользоваться мобильными и автомобильными телефонами во время движения только с громкой связью. Как только вам нужно поднять трубку или удерживать телефон, чтобы сделать звонок, запрещается звонить во время вождения.",
       "image": null,
       "video": null
     },

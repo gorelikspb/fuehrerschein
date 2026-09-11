@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.2.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.2. Verhalten im Strassenverkehr",
-  "questionCount": 229,
+  "questionCount": 226,
   "questions": [
     {
       "id": "2.2.02-006",
@@ -409,21 +409,6 @@
       "video": null
     },
     {
-      "id": "2.2.03-108",
-      "text": "Wie schnell dürfen Sie mit einem Lkw von 5,5 t zulässiger Gesamtmasse und einem Anhänger von 2 t zulässiger Gesamtmasse auf Landstraßen höchstens fahren?",
-      "points": 3,
-      "chapter": "Geschwindigkeit",
-      "chapterNumber": "2.2.03",
-      "chapterName": "Geschwindigkeit",
-      "options": [],
-      "correct": [
-        "60"
-      ],
-      "explanation": "Mit deinem Lkw von 5,5 t zulässiger Gesamtmasse und einem Anhänger von 2 t darfst du auf einer Landstraße höchsten 60 km/h fahren.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.03-109",
       "text": "Sie fahren eine Fahrzeugkombination. Diese besteht aus einem Kraftfahrzeug bis 3,5 t zulässiger Gesamtmasse und einem Anhänger ohne 100-km/h-Zulassung. Wie schnell dürfen Sie auf Autobahnen höchstens fahren?",
       "points": 3,
@@ -450,6 +435,93 @@
         "80"
       ],
       "explanation": "Auf Bundesstraßen gilt die zulässige Höchstgeschwindigkeit von 80 km/h. Nur auf Autobahnen und ausgewiesenen Kraftfahrstraßen darfst du, wenn dein Anhänger die notwendige Zulassung hat, 100 km/h fahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-303",
+      "text": "Sie haben auf einer Landstraße abgeblendet. Innerhalb welcher Strecke müssen Sie anhalten können?",
+      "points": 4,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Abblendlichts"
+        },
+        {
+          "id": "B",
+          "text": "- Fernlichts"
+        },
+        {
+          "id": "C",
+          "text": "- Standlichts"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen nur so schnell fahren, dass Sie auch innerhalb der übersehbaren Strecke halten können. In dieser Situation entspricht das der Reichweite Ihres Abblendlichtes.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-304",
+      "text": "Für welche Kraftfahrzeuge gilt auf Autobahnen die Richtgeschwindigkeit?",
+      "points": 3,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Pkws"
+        },
+        {
+          "id": "B",
+          "text": "- Motorräder"
+        },
+        {
+          "id": "C",
+          "text": "- Lkws mit einer zulässigen Gesamtmasse über 3,5 t"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf Autobahnen müssen alle Pkw und Fahrzeuge bis 3,5 t zulässige Gesamtmasse die Autobahn-Richtgeschwindigkeit beachten. Ein Überschreiten wird auch bei günstigen Verkehrsverhältnissen nicht empfohlen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.03-305",
+      "text": "Auf welchen Straßen gilt die Richtgeschwindigkeit von 130 km/h?",
+      "points": 3,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "2.2.03",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Autobahnen"
+        },
+        {
+          "id": "B",
+          "text": "Auf Kraftfahrstraßen außerhalb geschlossener Ortschaften mit baulich getrennten Fahrbahnen für jede Richtung"
+        },
+        {
+          "id": "C",
+          "text": "Auf Kraftfahrstraßen außerhalb geschlossener Ortschaften mit mindestens zwei markierten Fahrstreifen für jede Richtung"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Auf Autobahnen und Straßen außerorts, deren Fahrbahnen baulich getrennt sind, gilt eine Richtgeschwindigkeit von 130 kmh. Sie müssen jedoch genug Abstand halten, um jederzeit rechtzeitig anhalten zu können.",
       "image": null,
       "video": null
     },
@@ -616,64 +688,6 @@
         "7"
       ],
       "explanation": "StVO § 4 Abs. 2: \"Kraftfahrzeuge, für die eine besondere Geschwindigkeitsbeschränkung gilt, sowie für Züge, die länger als 7 m sind, müssen außerhalb geschlossener Ortschaften ständig so großen Abstand zu vorausfahrenden Fahrzeugen halten, das ein überholendes Fahrzeug einscheren kann. (...)\"",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.04-103",
-      "text": "Sie fahren auf der Autobahn einen Lkw, dessen zulässige Gesamtmasse mehr als 3,5 t beträgt. Ihre Geschwindigkeit ist höher als 50 km/h. Warum müssen Sie einen Mindestabstand von 50 m zum Vorausfahrenden einhalten?",
-      "points": 3,
-      "chapter": "Abstand",
-      "chapterNumber": "2.2.04",
-      "chapterName": "Abstand",
-      "options": [
-        {
-          "id": "A",
-          "text": "- dadurch die Gefahr eines Auffahrunfalls verringere"
-        },
-        {
-          "id": "B",
-          "text": "- dann mehr Zeit zum Reagieren habe"
-        },
-        {
-          "id": "C",
-          "text": "- dann früher am Ziel bin"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Wenn der Verkehrsteilnehmer vor dir stark abbremst, hast du mehr Zeit zum Reagieren und kannst \ndadurch die Gefahr eines Auffahrunfalls verringern. Der Mindestabstand hat nicht damit zu tun früher am Ziel zu sein.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.04-104",
-      "text": "Sie fahren einen Kraftomnibus mit einer Geschwindigkeit von mehr als 50 km/h auf der Autobahn. Warum müssen Sie einen Mindestabstand von 50 m zum Vorausfahrenden einhalten?",
-      "points": 3,
-      "chapter": "Abstand",
-      "chapterNumber": "2.2.04",
-      "chapterName": "Abstand",
-      "options": [
-        {
-          "id": "A",
-          "text": "- dadurch die Gefahr eines Auffahrunfalls verringere"
-        },
-        {
-          "id": "B",
-          "text": "- dann mehr Zeit zum Reagieren habe"
-        },
-        {
-          "id": "C",
-          "text": "- dann früher am Ziel bin"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Demnächst...",
       "image": null,
       "video": null
     },
@@ -977,35 +991,6 @@
       "explanation": "Der Bus hat das Warnblinklicht eingeschaltet und befindet sich noch in der Anfahrt auf die Haltestelle. In diesem Fall ist es nicht gestattet den Bus zu Überholen. Zudem hat das Motorrad hinter dir zum Überholen angesetzt.",
       "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019_anfang.png",
       "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019.mp4"
-    },
-    {
-      "id": "2.2.05-104",
-      "text": "Sie befahren die Autobahn mit einem Kraftfahrzeug, dessen zulässige Gesamtmasse 7,5 t übersteigt. Die Sichtweite beträgt aufgrund starken Schneefalls weniger als 50 m. Wie müssen Sie sich verhalten?",
-      "points": 4,
-      "chapter": "Ueberholen",
-      "chapterNumber": "2.2.05",
-      "chapterName": "Ueberholen",
-      "options": [
-        {
-          "id": "A",
-          "text": "Ich darf den äußerst linken Fahrstreifen nicht benutzen"
-        },
-        {
-          "id": "B",
-          "text": "Ich darf nicht schneller als 50 km/h fahren"
-        },
-        {
-          "id": "C",
-          "text": "Ich muss die Autobahn an der nächsten Ausfahrt verlassen"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Mit deinem Fahrzeug, welches eine zulässige Gesamtmasse von 7,5 t übersteigt, darfst du nicht auf äußerst linken Fahrstreifen fahren, denn dieser ist zum Überholen für schnellere Kraftfahrzeuge da. Du darfst mit deinem Gefährt nicht schneller als 50 km/h fahren. Du kannst auch bei Schneefall weiterhin auf der Autobahn fahren.",
-      "image": null,
-      "video": null
     },
     {
       "id": "2.2.07-002",
@@ -1501,6 +1486,50 @@
         "B"
       ],
       "explanation": "Beachten Sie, dass Sie Kraftfahrzeuganhänger, die über kein Zugfahrzeug verfügen, nicht länger als zwei Wochen auf regulären Parkplätzen abstellen dürfen. Das gleiche gilt übrigens auch für befestigte Seitenstreifen. Ausgenommen von dieser Regelung sind entsprechend gekennzeichnete Parkplätze.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.12-203",
+      "text": "Vor welchen Zeichen müssen Sie mindestens 10 m Abstand halten, wenn diese sonst durch Ihr Fahrzeug verdeckt würden?",
+      "points": 3,
+      "chapter": "Halten Und Parken",
+      "chapterNumber": "2.2.12",
+      "chapterName": "Halten Und Parken",
+      "options": [
+        {
+          "id": "A",
+          "text": "Andreaskreuz"
+        },
+        {
+          "id": "B",
+          "text": "Halt. Vorfahrt gewähren."
+        },
+        {
+          "id": "C",
+          "text": "Haltverbot"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vor Zeichen wie dem Andreaskreuz, Lichtzeichen oder dem Schild „Halt! Vorfahrt gewähren“ müssen Sie mindestens 10 Meter Abstand halten. Dies ist insbesondere dann geboten, wenn diese durch Ihr Fahrzeug verdeckt würden. Vor einem Halteschild darf beispielsweise gehalten werden. Dahinter ist das Halten jedoch verboten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.12-204",
+      "text": "Sie möchten am rechten Fahrbahnrand parken. Wie groß muss der Abstand zwischen Ihrem Fahrzeug und der durchgehenden Fahrstreifenbegrenzungslinie mindestens sein?",
+      "points": 2,
+      "chapter": "Halten Und Parken",
+      "chapterNumber": "2.2.12",
+      "chapterName": "Halten Und Parken",
+      "options": [],
+      "correct": [
+        "3"
+      ],
+      "explanation": "Wird beim Parken ein Mindestabstand von 3 Metern zur Fahrstreifenbegrenzungslinie eingehalten, so stellt das geparkte Auto kein Hindernis da.",
       "image": null,
       "video": null
     },
@@ -2850,6 +2879,92 @@
       "video": null
     },
     {
+      "id": "2.2.17-402",
+      "text": "Sie fahren bei Dunkelheit mit Fernlicht. Wann müssen Sie abblenden?",
+      "points": 4,
+      "chapter": "Beleuchtung",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn ein Fahrzeug entgegenkommt"
+        },
+        {
+          "id": "B",
+          "text": "Wenn ein Fahrzeug mit geringem Abstand vorausfährt"
+        },
+        {
+          "id": "C",
+          "text": "Wenn Personen in gleicher Richtung vorausgehen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie dürfen den Gegenverkehr durch das Fernlicht nicht blenden. Schalten Sie es deshalb sofort aus, wenn Sie erkennen, dass Ihnen andere Fahrzeuge entgegenkommen. Fußgänger werden von Ihrem Fernlicht nicht geblendet, wenn sie in der gleichen Richtung wie Sie unterwegs sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.17-403",
+      "text": "Sie fahren bei Dunkelheit mit Fernlicht. Wann müssen Sie abblenden?",
+      "points": 3,
+      "chapter": "Beleuchtung",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn ich eine Straße mit durchgehender, ausreichender Beleuchtung befahre"
+        },
+        {
+          "id": "B",
+          "text": "Wenn ich vor einem Bahnübergang warten muss und andere blende"
+        },
+        {
+          "id": "C",
+          "text": "Wenn Fußgänger in gleicher Richtung vorausgehen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie bei Dunkelheit mit Fernlicht fahren, müssen Sie abblenden, wenn sich Ihnen Gegenverkehr nähert. Straßen mit durchgehender ausreichender Beleuchtung dürfen nicht mit Fernlicht befahren werden. Die Scheinwerfer wartender Kraftfahrzeuge dürfen niemand blenden. Darum ist am Bahnübergang abzublenden. Wenn Fußgänger in gleicher Richtung vorausgehen, werden sie durch das Fernlicht nicht geblendet.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.17-404",
+      "text": "Warum müssen Sie auch am Tage mit Abblendlicht fahren, wenn die Sicht durch Nebel, Regen oder Schneefall erheblich behindert ist?",
+      "points": 4,
+      "chapter": "Beleuchtung",
+      "chapterNumber": "2.2.17",
+      "chapterName": "Beleuchtung",
+      "options": [
+        {
+          "id": "A",
+          "text": "Um von anderen Verkehrsteilnehmern besser gesehen werden zu können"
+        },
+        {
+          "id": "B",
+          "text": "Um mit erhöhter Geschwindigkeit fahren zu können"
+        },
+        {
+          "id": "C",
+          "text": "Um Verkehrszeichen in größerer Entfernung besser sehen zu können"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei schlechten Sichtverhältnissen am Tag, witterungsbedingt durch Regen, Nebel oder Schnee, müssen Sie als Kfz-FahrerIn das Abblendlicht einschalten. Dabei geht es in erster Linie darum, dass Ihr Fahrzeug von anderen Verkehrsteilnehmern besser gesehen wird. Die Verkehrszeichen werden aus größerer Entfernung dadurch nicht besser gesehen.",
+      "image": null,
+      "video": null
+    },
+    {
       "id": "2.2.18-003",
       "text": "Welche Richtgeschwindigkeit gilt für Pkws und Motorräder auf Autobahnen?",
       "points": 2,
@@ -3250,6 +3365,35 @@
         "C"
       ],
       "explanation": "Laut StVO § 18 Autobahnen und Kraftfahrstraßen gilt: \n(7) Wenden und Rückwärtsfahren sind verboten.\n(8) Halten, auch auf Seitenstreifen, ist verboten.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.18-215",
+      "text": "Warum sollte bei Autobahnfahrten der Verkehrsfunk eingeschaltet sein?",
+      "points": 3,
+      "chapter": "Autobahnen Und Kraftfahrstrassen",
+      "chapterNumber": "2.2.18",
+      "chapterName": "Autobahnen Und Kraftfahrstrassen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- vor Geisterfahrern warnt"
+        },
+        {
+          "id": "B",
+          "text": "- über Staus informiert"
+        },
+        {
+          "id": "C",
+          "text": "- bei Autobahnfahrten vorgeschrieben ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Weil der Verkehrsfunk vor Geisterfahrern warnt und über Staus informiert. Vorgeschrieben ist er nicht.",
       "image": null,
       "video": null
     },
@@ -4240,64 +4384,6 @@
       "video": null
     },
     {
-      "id": "2.2.22-115",
-      "text": "Sie möchten einen mit orangefarbenen Warntafeln gekennzeichneten Lkw von 5,0 t zulässiger Gesamtmasse führen. Welche Voraussetzungen müssen Sie erfüllen?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- eine gültige ADR-Bescheinigung"
-        },
-        {
-          "id": "B",
-          "text": "- eine gültige Fahrerlaubnis zur Fahrgastbeförderung"
-        },
-        {
-          "id": "C",
-          "text": "- einen gültigen Nachweis über bereits durchgeführte Gefahrguttransporte"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Die Voraussetzung die du erfüllen solltest: Du benötigst zusätzliche zur erforderlichen Fahrerlaubnis eine gültige ADR-Bescheinigung. Diese erlaubt dir Gefahrengüter (orangefarbene Warntafel) zu transportieren.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-116",
-      "text": "Was müssen Sie beim verkehrssicheren Verstauen einer Ladung beachten?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "Die Verteilung der Ladung"
-        },
-        {
-          "id": "B",
-          "text": "Die Befestigung der Ladung"
-        },
-        {
-          "id": "C",
-          "text": "Die Sicherung der Geräte zur Ladungssicherung"
-        }
-      ],
-      "correct": [
-        "A",
-        "B",
-        "C"
-      ],
-      "explanation": "Eine Verteilung der Ladung und die Befestigung der selbigen und eine Sicherung der Geräte zur Ladungssicherung solltest du beachten, damit die Sicherheit gewährleistet ist. Alle 3 Antworten sind richtig.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.22-117",
       "text": "Was ist bei der Beladung von Fahrzeugen zu beachten?",
       "points": 3,
@@ -4323,122 +4409,6 @@
         "B"
       ],
       "explanation": "Wenn du dein Fahrzeug belädst, achte bitte darauf, dass die Ladung, die mehr als 1 m über die Rückstrahler nach hinten hinausragt, gekennzeichnet wurde und dass die Ladung oberhalb einer Höhe von 2,50 m maximal 50 cm nach vorn hinausragen darf.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-118",
-      "text": "Was ist beim Transport von langen Stahlrohren zu beachten?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- mit geeigneten Mitteln gesichert werden"
-        },
-        {
-          "id": "B",
-          "text": "- bei Überhang nach hinten von mehr als 1 m gekennzeichnet werden"
-        },
-        {
-          "id": "C",
-          "text": "- mit Fahrzeugen ohne Stirnwand transportiert werden"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Die Stahlrohre müssen mit geeigneten Mitteln gesichert werden und bei Überhang nach hinten von mehr als 1 m gekennzeichnet werden. Wenn du dies beachtest, bist du auf der sicheren Seite.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-119",
-      "text": "Welchen Einfluss hat eine ungleichmäßige Lastverteilung der Ladung auf das Fahrzeug und das Fahrverhalten?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "Die zulässigen Achslasten können überschritten werden"
-        },
-        {
-          "id": "B",
-          "text": "Das Lenkverhalten wird beeinflusst"
-        },
-        {
-          "id": "C",
-          "text": "Der Kraftstoffverbrauch wird reduziert"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Eine ungleichmäßige Lastverteilung der Ladung kann dazu führen, dass die zulässigen Achslasten überschritten werden können und das Lenkverhalten beeinflusst. Der Kraftstoffverbrauch ist nicht entscheidend.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-120",
-      "text": "Wann wirkt die Fliehkraft auf die Ladung eines Lkws?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "Bei Kurvenfahrt"
-        },
-        {
-          "id": "B",
-          "text": "Beim Bremsen"
-        },
-        {
-          "id": "C",
-          "text": "Bei Geradeausfahrt"
-        }
-      ],
-      "correct": [
-        "A"
-      ],
-      "explanation": "Die Fliehkraft wirkt sich bei Kurvenfahrten deines Lkws aus. Bremsen oder Geradeaus fahren haben keine Kreisbewegung und sind deswegen nicht entscheidend.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.22-121",
-      "text": "Was kann eine ungesicherte Ladung bei Kurvenfahrt verursachen?",
-      "points": 3,
-      "chapter": "Ladung",
-      "chapterNumber": "2.2.22",
-      "chapterName": "Ladung",
-      "options": [
-        {
-          "id": "A",
-          "text": "- zu einer Beschädigung des Fahrzeugaufbaus führen"
-        },
-        {
-          "id": "B",
-          "text": "- ein Umkippen des Fahrzeugs begünstigen"
-        },
-        {
-          "id": "C",
-          "text": "- eine Verschlechterung des Fahrverhaltens bewirken"
-        }
-      ],
-      "correct": [
-        "A",
-        "B",
-        "C"
-      ],
-      "explanation": "Ungesicherte Ladung bei Kurvenfahrten kann zu einer Beschädigung des Fahrzeugaufbaus führen, ein Umkippen des Fahrzeugs begünstigen und eine Verschlechterung des Fahrverhaltens bewirken.",
       "image": null,
       "video": null
     },
@@ -5219,93 +5189,6 @@
       "video": null
     },
     {
-      "id": "2.2.23-114",
-      "text": "Sie möchten rückwärtsfahren. Worauf müssen Sie achten?",
-      "points": 4,
-      "chapter": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "Ich muss mich erforderlichenfalls einweisen lassen"
-        },
-        {
-          "id": "B",
-          "text": "Ich muss nach hinten überstehende Ladung berücksichtigen"
-        },
-        {
-          "id": "C",
-          "text": "Es reicht aus, wenn ich eine Rückfahrkamera benutze"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Um andere nicht zu gefährden, solltest du nach hinten überstehende Ladung berücksichtigen und dich erforderlichenfalls einweisen lassen. Nur die Rückfahrkamera reicht nicht aus.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.23-115",
-      "text": "Sie haben an Ihrer Zugmaschine Arbeitsgeräte angebaut. Was müssen Sie tun, wenn Sie damit auf öffentlichen Straßen fahren möchten?",
-      "points": 4,
-      "chapter": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "- mich über die jeweiligen Vorgaben zur Transportstellung informieren"
-        },
-        {
-          "id": "B",
-          "text": "- gefährliche Teile wirksam verkleiden"
-        },
-        {
-          "id": "C",
-          "text": "- mit eingeschaltetem Warnblinklicht fahren"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Du musst dich, nach dem Arbeitsgeräteanbau deiner Zugmaschine über die jeweiligen Vorgaben zur Transportstellung informieren und gefährliche Teile wirksam verkleiden damit Sie andere nicht gefährden. Warnblinklicht gehört nicht dazu.",
-      "image": null,
-      "video": null
-    },
-    {
-      "id": "2.2.23-116",
-      "text": "Sie möchten mit Ihrem Lkw rückwärts von einem Grundstück in eine Straße einbiegen. Wie müssen Sie sich verhalten?",
-      "points": 4,
-      "chapter": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "chapterNumber": "2.2.23",
-      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
-      "options": [
-        {
-          "id": "A",
-          "text": "- mich erforderlichenfalls einweisen lassen"
-        },
-        {
-          "id": "B",
-          "text": "- auf herankommende Verkehrsteilnehmer auf dem Gehweg achten"
-        },
-        {
-          "id": "C",
-          "text": "- nicht blinken"
-        }
-      ],
-      "correct": [
-        "A",
-        "B"
-      ],
-      "explanation": "Du musst dich beim rückwärtsfahren erfoderlichenfalls einweisen lassen um eine Gefährdung anderer Verkehrsteilnehmer ausschließen zu können. Herankommende Teilnehmer auf dem Gehweg gehören auch dazu.",
-      "image": null,
-      "video": null
-    },
-    {
       "id": "2.2.23-117",
       "text": "Ihr Fahrzeug ist eingeschneit. Was müssen Sie tun, bevor Sie losfahren?",
       "points": 3,
@@ -5656,6 +5539,36 @@
         "C"
       ],
       "explanation": "Bevor du losfährst, musst du den Schnee vom gesamten Fahrzeug entfernen, da dieser während der Fahrt herunterfallen und dadurch andere Verkehrsteilnehmer gefährden und im schlimmsten Fall einen Unfall verursachen könnte. Außerdem könnte dir der Schnee bei Bremsmanövern auf die Frontscheibe rutschen, dir die Sicht nehmen und dich so komplett handlungsunfähig machen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.23-406",
+      "text": "Wer darf ein Mobiltelefon ohne Freisprecheinrichtung während der Fahrt nicht benutzen?",
+      "points": 3,
+      "chapter": "Sonstige Pflichten Des Fahrzeugfuehrers",
+      "chapterNumber": "2.2.23",
+      "chapterName": "Sonstige Pflichten Des Fahrzeugfuehrers",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Pkws"
+        },
+        {
+          "id": "B",
+          "text": "- Lkws"
+        },
+        {
+          "id": "C",
+          "text": "- Krafträdern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Kfz-FahrerInnen dürfen Mobil- und Autotelefone beim Fahren nur mit Freisprechanlage nutzen. Sobald sie das Telefon zum Führen des Telefonats aufnehmen oder halten müssten, ist das Telefonieren während der Fahrt verboten.",
       "image": null,
       "video": null
     },

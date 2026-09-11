@@ -29,4 +29,4 @@ This repository is **deploy-only**: `public/`, `README.md`, `.gitignore`. Rebuil
 
 ## Data
 
-German questions are built from the open [yowmamasita/driving-theory](https://github.com/yowmamasita/driving-theory) catalog (Class B). Russian UI text uses the official TÜV/DEKRA question catalog translation where available.
+German questions come from [yowmamasita/driving-theory](https://github.com/yowmamasita/driving-theory); **Klasse B membership follows clickclickdrive `Klasse` tags**, not question-number suffixes. Russian text uses the official TÜV/DEKRA catalog translation where available.

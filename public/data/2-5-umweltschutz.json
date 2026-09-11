@@ -4,7 +4,7 @@
   "themeNumber": "Thema 2.5.",
   "section": "zusatzstoff",
   "description": "Amtlicher Fragenkatalog · Thema 2.5. Umweltschutz",
-  "questionCount": 38,
+  "questionCount": 44,
   "questions": [
     {
       "id": "2.5.01-004",
@@ -1103,6 +1103,181 @@
         "B"
       ],
       "explanation": "Durch eine vorausschauende Fahrweise – mit sanftem Beschleunigen und rechtzeitigem Abbremsen – kannst du den Kraftstoffverbrauch deines Fahrzeugs reduzieren. Bei dieser Fahrweise kommt häufig der Elektromotor zum Einsatz. \nEbenso reduzierst du durch das regelmäßige Aufladen der Batterie deines Plug-in-Hybrids am Stromnetz, den Kraftstoffverbrauch oder minimierst ihn durch rein elektrisches Fahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-207",
+      "text": "Wie können Sie bereits bei der Planung Ihrer Fahrten zum Umweltschutz beitragen?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mehrere Fahrziele in einer Fahrt zusammenlege"
+        },
+        {
+          "id": "B",
+          "text": "- Fahrgemeinschaften mit anderen Fahrzeugnutzern bilde"
+        },
+        {
+          "id": "C",
+          "text": "- plane, öffentliche Verkehrsmittel statt des eigenen Fahrzeugs zu nutzen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Umwelt zuliebe sollten Kfz-FahrerInnen auf alle Fahrten verzichten, die nicht unbedingt notwendig sind. Planen Sie Ihre Fahrten deshalb gut und bilden Sie so oft wie möglich Fahrgemeinschaften, da hierdurch unnötige Fahrten vermieden werden. Ein positiver Beitrag zum aktiven Umweltschutz ist ferner die Nutzung von öffentlichen Verkehrsmitteln.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-208",
+      "text": "Wie durchfahren Sie sicher eine Gefällestrecke?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- in einen Gang, in dem ich wenig bremsen muss"
+        },
+        {
+          "id": "B",
+          "text": "- in den Leerlauf"
+        },
+        {
+          "id": "C",
+          "text": "- die Zündung aus"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Nutzen Sie auf einer Gefällestrecke die Motorbremse durch das Zurückschalten auf einen niedrigeren Gang. Das entlastet die Betriebsbremsen. Schalten Sie unter keinen Umständen in den Leerlauf! Denn Leerlauf setzt die Motorbremse außer Kraft, die Betriebsbremsen könnten überhitzen. Zudem kann der Bremskraftverstärker bei ausgeschalteter Zündung nicht arbeiten. Dies verlängert den Bremsweg erheblich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-209",
+      "text": "Welche Kraftfahrzeuge dürfen ohne Feinstaub-Plakette in eine Umweltzone einfahren?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alle zwei- und dreirädrigen Kraftfahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Alle land- und forstwirtschaftlichen Zugmaschinen"
+        },
+        {
+          "id": "C",
+          "text": "Alle Kraftfahrzeuge mit Katalysator"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "In eine Umweltzone dürfen ohne Feinstaub-Plakette alle zwei- und dreirädrigen Kraftfahrzeuge und land- und forstwirtschaftliche Zugmaschinen einfahren. Sie sind von den Beschränkungen der Umweltzone befreit. Der Einbau eines Katalysators befreit Sie als Kfz-HalterIn nicht von der Umweltplaketten-Pflicht.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-210",
+      "text": "An welchen Herstellerangaben können Sie erkennen, ob Ihr Kraftfahrzeug umweltfreundlich ist?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- zum Kraftstoffverbrauch"
+        },
+        {
+          "id": "B",
+          "text": "- zur Effizienzklasse"
+        },
+        {
+          "id": "C",
+          "text": "- zur Emissionsklasse"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Die Emissionsklasse gibt Auskunft über den Ausstoß von Schadstoffen. Die per Norm und/oder Gesetz festgelegten Emissionsklassen unterteilen Produkte, die Schadstoffe oder Störsignale emittieren. Im Kfz-Bereich gilt zudem: Je niedriger der Kraftstoffverbrauch ist, desto höher ist die Effizienzklasse und somit die Umweltfreundlichkeit des Fahrzeuges.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-211",
+      "text": "Warum sind Kurzstreckenfahrten mit kaltem Motor besonders umweltschädlich?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "- mehr Kraftstoff verbraucht wird"
+        },
+        {
+          "id": "B",
+          "text": "- der Materialverschleiß größer ist"
+        },
+        {
+          "id": "C",
+          "text": "- die Fahrzeugbatterie überladen wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kurzstreckenfahrten mit kaltem Motor verbrauchen in der Regel mehr Kraftstoff als Fahrten mit einem Motor auf Betriebstemperatur. Deswegen sind sie besonders umweltschädlich. Zudem ist die Reibung bei Kurzstreckenfahrten mit kaltem Motor größer. Dies führt zu einem höheren Materialverschleiß.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.5.01-212",
+      "text": "Wodurch entsteht vermeidbarer Lärm?",
+      "points": 3,
+      "chapter": "Umweltschutz",
+      "chapterNumber": "2.5.01",
+      "chapterName": "Umweltschutz",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durch Hupen zur Begrüßung"
+        },
+        {
+          "id": "B",
+          "text": "Durch heftiges Zuschlagen von Türen"
+        },
+        {
+          "id": "C",
+          "text": "Durch Fahren mit einem Dachgepäckträger"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Alle bei normalem Betrieb eines Fahrzeugs entstehenden Lärmbelästigungen gelten als unvermeidbar. Als Kfz-FahrerIn sollten Sie darüber hinausgehenden Lärm, der beispielsweise durch das Hupen zur Begrüßung oder durch das heftige Zuschlagen der Türen erzeugt wird, unbedingt vermeiden. Durch einen Dachgepäckträger verursachen Sie keinen vermeidbaren Lärm.",
       "image": null,
       "video": null
     }
