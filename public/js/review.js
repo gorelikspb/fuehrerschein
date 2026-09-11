@@ -205,7 +205,7 @@ function showResult() {
 
 function applyPageCopy() {
   applyDocumentLang();
-  document.title = `${t("reviewPageTitle")} – ${t("siteTitle")}`;
+  document.title = t("seoReviewTitle") || `${t("reviewPageTitle")} – ${t("siteTitle")}`;
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;

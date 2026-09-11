@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuehrerschein.pages.dev/sitemap.xml

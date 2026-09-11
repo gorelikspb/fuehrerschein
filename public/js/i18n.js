@@ -1,8 +1,10 @@
 /** UI strings and language helpers (DE / RU). */
 const I18N = {
   de: {
-    siteTitle: "Führerschein Theorie",
-    siteSubtitle: "Klasse B · Amtlicher Fragenkatalog · Nach Themen üben",
+    siteTitle: "Führerschein Theorie kostenlos",
+    siteSubtitle: "Klasse B · ohne Anmeldung · 1316 Fragen · Deutsch / Русский",
+    seoDocumentTitle:
+      "Führerschein Theorie Klasse B kostenlos – ohne Anmeldung",
     topicsHeading: "Themen",
     topicsLoading: "Themen werden geladen …",
     topicsError: "Themen konnten nicht geladen werden.",
@@ -18,6 +20,8 @@ const I18N = {
       "Für dieses Thema liegt noch keine russische Übersetzung vor.",
     officialCatalogNote:
       "Die Fragen entsprechen dem amtlichen Fragenkatalog TÜV/DEKRA (Klasse B).",
+    sourceDisclaimer:
+      "Kostenloser Klasse-B-Trainer: 1316 Fragen, abgeglichen mit den Klasse-B-Markierungen im öffentlichen Katalog (Stand 11.09.2026). Kein lizenziertes TÜV-Produkt und kein Ersatz für die Fahrschule — ohne Anmeldung, Werbung oder Bezahlung.",
     ruTranslationDisclaimer: "",
     questionImageAlt: "Abbildung zur Frage",
     questionVideoAlt: "Video zur Frage",
@@ -67,6 +71,7 @@ const I18N = {
     listChapterPrev: "Vorheriges Kapitel",
     listChapterNext: "Nächstes Kapitel",
     listGoNextChapter: "Zum nächsten Kapitel",
+    listGoNextTopic: "Zum nächsten Thema",
     listChapterNavLabel: "Kapitelnavigation",
     progressSolvedShort: "Gelöst",
     progressViewedShort: "Gelesen",
@@ -108,6 +113,7 @@ const I18N = {
     timeReset: "Lernzeit zurücksetzen",
     timeResetConfirm: "Gespeicherte Lernzeit löschen?",
     examPageTitle: "Probeklausur",
+    seoExamTitle: "Probeklausur Klasse B kostenlos – 30 Fragen, TÜV-Regeln",
     examIntroTitle: "Theorieprüfung Klasse B (Simulation)",
     examStart: "Probeklausur starten",
     examPassRulesTitle: "Prüfungsregeln",
@@ -172,6 +178,7 @@ const I18N = {
     examWrongHeading: "Falsch beantwortet",
     examRetry: "Neue Probeklausur",
     reviewPageTitle: "Fehler wiederholen",
+    seoReviewTitle: "Fehler wiederholen – Führerschein Theorie kostenlos",
     reviewLoading: "Fehler werden geladen …",
     reviewEmpty:
       "Keine Fehler im Fortschritt. Beantworte Fragen in den Themen – falsche Antworten erscheinen hier.",
@@ -179,8 +186,10 @@ const I18N = {
     reviewRestart: "Nochmal wiederholen",
   },
   ru: {
-    siteTitle: "Теория вождения",
-    siteSubtitle: "Класс B · Официальный каталог вопросов · Практика по темам",
+    siteTitle: "Теория ПДД Германия — бесплатно",
+    siteSubtitle: "Класс B · без регистрации · 1316 вопросов · русский / немецкий",
+    seoDocumentTitle:
+      "Теория ПДД Германия (Klasse B) — бесплатный тренажёр",
     topicsHeading: "Темы",
     topicsLoading: "Загрузка тем …",
     topicsError: "Не удалось загрузить темы.",
@@ -195,6 +204,8 @@ const I18N = {
     ruTopicEmpty: "Русский перевод для этой темы ещё не загружен.",
     officialCatalogNote:
       "Вопросы соответствуют официальному каталогу TÜV/DEKRA (Klasse B).",
+    sourceDisclaimer:
+      "Бесплатный тренажёр Klasse B: 1316 вопросов, сверка с метками класса B в публичном каталоге (снимок 11.09.2026). Не лицензия TÜV и не замена автошколе — без регистрации, рекламы и оплаты.",
     ruTranslationDisclaimer:
       "Перевод на русский в приложении совпадает с формулировками для сдачи теории на русском. Он не всегда литературный и местами спорный — но на экзамене именно так. Имеет смысл привыкать к этим формулировкам.",
     questionImageAlt: "Иллюстрация к вопросу",
@@ -245,6 +256,7 @@ const I18N = {
     listChapterPrev: "Предыдущая глава",
     listChapterNext: "Следующая глава",
     listGoNextChapter: "Перейти к следующей",
+    listGoNextTopic: "Следующая тема",
     listChapterNavLabel: "Навигация по главам",
     progressSolvedShort: "Решено",
     progressViewedShort: "Просмотрено",
@@ -286,6 +298,7 @@ const I18N = {
     timeReset: "Сбросить время",
     timeResetConfirm: "Удалить сохранённое время обучения?",
     examPageTitle: "Пробный экзамен",
+    seoExamTitle: "Пробный экзамен ПДД Германия — 30 вопросов, класс B",
     examIntroTitle: "Теория класса B (симуляция)",
     examStart: "Начать пробный экзамен",
     examPassRulesTitle: "Условия сдачи",
@@ -364,6 +377,7 @@ const I18N = {
     examWrongHeading: "Неверные ответы",
     examRetry: "Новый пробный экзамен",
     reviewPageTitle: "Повтор ошибок",
+    seoReviewTitle: "Повтор ошибок — теория ПДД Германия бесплатно",
     reviewLoading: "Загрузка ошибок …",
     reviewEmpty:
       "В прогрессе нет ошибок. Отвечайте в темах — неверные вопросы появятся здесь.",
@@ -501,10 +515,14 @@ function applyDocumentLang() {
 
 /** Catalog attribution + RU translation disclaimer (footer / intro boxes). */
 function applySiteDisclaimer(root = document) {
+  const sourceText = t("sourceDisclaimer");
+  root.querySelectorAll("[data-source-notice]").forEach((el) => {
+    el.textContent = sourceText;
+  });
   root.querySelectorAll("[data-site-disclaimer]").forEach((box) => {
     const catalogEl = box.querySelector(".site-disclaimer-catalog");
     const ruEl = box.querySelector(".site-disclaimer-ru");
-    if (catalogEl) catalogEl.textContent = t("officialCatalogNote");
+    if (catalogEl) catalogEl.textContent = sourceText;
     if (!ruEl) return;
     const ruText = t("ruTranslationDisclaimer");
     if (ruText) {

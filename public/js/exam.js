@@ -381,7 +381,7 @@ function showResult(score) {
 }
 function applyPageCopy() {
   applyDocumentLang();
-  document.title = `${t("examPageTitle")} – ${t("siteTitle")}`;
+  document.title = t("seoExamTitle") || `${t("examPageTitle")} – ${t("siteTitle")}`;
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;

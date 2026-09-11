@@ -220,11 +220,13 @@ let catalogTopics = [];
 
 function applyPageCopy() {
   applyDocumentLang();
-  document.title = `${t("siteTitle")} – Klasse B`;
-  const h1 = document.querySelector(".app-header h1");
-  const sub = document.querySelector(".app-header p");
+  document.title = t("seoDocumentTitle") || `${t("siteTitle")} – Klasse B`;
+  const h1 = document.getElementById("site-title") || document.querySelector(".app-header h1");
+  const sub = document.getElementById("site-subtitle") || document.querySelector(".app-header p");
   if (h1) h1.textContent = t("siteTitle");
   if (sub) sub.textContent = t("siteSubtitle");
+  const topicsHeading = document.getElementById("topics-heading");
+  if (topicsHeading) topicsHeading.textContent = t("topicsHeading");
   const footerLabel = document.getElementById("footer-data-label");
   if (footerLabel) footerLabel.textContent = t("footerData");
   applySiteDisclaimer();
