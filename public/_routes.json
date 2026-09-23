@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "include": [
+    "/",
+    "/index.html",
+    "/exam.html",
+    "/topic.html",
+    "/review.html",
+    "/ru",
+    "/ru/",
+    "/ru/*"
+  ],
+  "exclude": [
+    "/sitemap.xml",
+    "/robots.txt",
+    "/llms.txt",
+    "/*.txt",
+    "/data/*",
+    "/css/*",
+    "/js/*"
+  ]
+}
