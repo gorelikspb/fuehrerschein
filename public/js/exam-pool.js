@@ -74,8 +74,58 @@
     return shuffle(picked).slice(0, grundCount + zusatzCount);
   }
 
+  function isoWeekId() {
+    const d = new Date();
+    d.setHours(0, 0, 0, 0);
+    d.setDate(d.getDate() + 3 - ((d.getDay() + 6) % 7));
+    const week1 = new Date(d.getFullYear(), 0, 4);
+    const week =
+      1 +
+      Math.round(
+        ((d - week1) / 86400000 - 3 + ((week1.getDay() + 6) % 7)) / 7
+      );
+    return `${d.getFullYear()}-W${String(week).padStart(2, "0")}`;
+  }
+
+  function seededShuffle(items, seedStr) {
+    const arr = items.slice();
+    let a = 2166136261;
+    for (let i = 0; i < seedStr.length; i += 1) {
+      a ^= seedStr.charCodeAt(i);
+      a = Math.imul(a, 16777619);
+    }
+    a = a >>> 0 || 1;
+    const rand = () => {
+      a = (Math.imul(a, 1664525) + 1013904223) >>> 0;
+      return a / 4294967296;
+    };
+    for (let i = arr.length - 1; i > 0; i -= 1) {
+      const j = Math.floor(rand() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  function pickWeekMix(pool, wrongIds, count = 20) {
+    const seed = isoWeekId();
+    const ids = wrongIds instanceof Set ? wrongIds : new Set(wrongIds || []);
+    const wrong = pool.all.filter((q) => ids.has(q.id));
+    const rest = pool.all.filter((q) => !ids.has(q.id));
+    const hard = rest.filter((q) => Number(q.points) >= 4);
+    const picked = seededShuffle(wrong, `${seed}:w`).slice(0, 12);
+    const fillFrom = hard.length ? hard : rest;
+    for (const q of seededShuffle(fillFrom, `${seed}:h`)) {
+      if (picked.length >= count) break;
+      if (picked.some((p) => p.id === q.id)) continue;
+      picked.push(q);
+    }
+    return picked.slice(0, count);
+  }
+
   window.loadExamPool = loadExamPool;
   window.pickExamQuestions = pickExamQuestions;
+  window.pickWeekMix = pickWeekMix;
+  window.isoWeekId = isoWeekId;
   window.clearExamPoolCache = function clearExamPoolCache() {
     poolCache = null;
   };

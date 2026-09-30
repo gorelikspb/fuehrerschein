@@ -98,6 +98,7 @@ function dismissSavePrompt() {
   }
   const el = document.getElementById("save-progress-prompt");
   if (el) el.remove();
+  if (typeof showDigestPrompt === "function") showDigestPrompt();
 }
 
 function countAnsweredQuestions() {
@@ -323,6 +324,7 @@ function openSavePromptForm() {
 }
 
 function showSaveProgressPrompt(reason) {
+  if (new URLSearchParams(window.location.search).get("mix") === "1") return;
   if (!shouldNudgeSave(reason)) return;
   if (reason !== "exam" && document.getElementById("account-panel")) {
     renderAccountPanel();
@@ -392,6 +394,181 @@ function initSavePrompt() {
   showSaveProgressPrompt("study");
 }
 
+const DIGEST_COHORT = 0.2;
+const DIGEST_DISMISS_KEY = "fuehrershein-digest-prompt";
+const DIGEST_SUB_KEY = "fuehrershein-digest";
+const DIGEST_COHORT_KEY = "fuehrershein-cohort";
+
+function inDigestCohort() {
+  try {
+    let raw = localStorage.getItem(DIGEST_COHORT_KEY);
+    const n = parseFloat(raw);
+    if (!Number.isFinite(n) || n < 0 || n >= 1) {
+      raw = String(Math.random());
+      localStorage.setItem(DIGEST_COHORT_KEY, raw);
+    }
+    return parseFloat(localStorage.getItem(DIGEST_COHORT_KEY)) < DIGEST_COHORT;
+  } catch {
+    return false;
+  }
+}
+
+function digestAlreadyOn() {
+  try {
+    return !!localStorage.getItem(DIGEST_SUB_KEY);
+  } catch {
+    return false;
+  }
+}
+
+function shouldShowDigest() {
+  if (!inDigestCohort()) return false;
+  if (digestAlreadyOn()) return false;
+  if (document.getElementById("save-progress-prompt")) return false;
+  if (document.getElementById("exam-intro")) return false;
+  if (new URLSearchParams(window.location.search).get("mix") === "1") return false;
+  const run = document.getElementById("exam-run");
+  if (run && !run.classList.contains("hidden")) return false;
+  try {
+    const at = parseInt(localStorage.getItem(DIGEST_DISMISS_KEY) || "", 10);
+    if (Number.isFinite(at) && Date.now() - at < SAVE_PROMPT_DAYS * 864e5) return false;
+  } catch {
+    /* ignore */
+  }
+  const exams = typeof getExamCountTaken === "function" ? getExamCountTaken() : 0;
+  return exams >= 1 || countAnsweredQuestions() >= 8;
+}
+
+function weekMixHref() {
+  return typeof localizedHref === "function"
+    ? localizedHref("review.html?mix=1")
+    : "review.html?mix=1";
+}
+
+function openWeekMix() {
+  window.location.href = weekMixHref();
+}
+
+function markDigestLocal(email) {
+  try {
+    localStorage.setItem(DIGEST_SUB_KEY, email || "1");
+  } catch {
+    /* ignore */
+  }
+}
+
+async function submitDigest(event) {
+  event.preventDefault();
+  const email = document.getElementById("digest-email");
+  const consent = document.getElementById("digest-consent");
+  const company = document.getElementById("digest-company");
+  const status = document.getElementById("digest-status");
+  const honey = company && company.value;
+  if (honey) {
+    markDigestLocal("1");
+    openWeekMix();
+    return;
+  }
+  const address = email ? email.value.trim() : "";
+  const okConsent = !!(consent && consent.checked);
+  if (!address || !okConsent) {
+    if (status) {
+      status.hidden = false;
+      status.textContent = t("digestErr");
+      status.classList.add("account-status--bad");
+    }
+    return;
+  }
+  try {
+    const res = await fetch("/api/digest", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        email: address,
+        lang: typeof getLang === "function" ? getLang() : "de",
+        consent: true,
+      }),
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok && data.error === "limit") throw new Error("limit");
+    if (!res.ok && data.error === "email") throw new Error("email");
+    if (!res.ok && !data.ok) throw new Error("fail");
+    markDigestLocal(address.toLowerCase());
+    trackAccount("digest_subscribe");
+    openWeekMix();
+  } catch {
+    if (status) {
+      status.hidden = false;
+      status.textContent = t("digestErr");
+      status.classList.add("account-status--bad");
+    }
+  }
+}
+
+function showDigestPrompt() {
+  if (!shouldShowDigest()) return;
+  if (document.getElementById("digest-progress-prompt")) return;
+  const main = document.querySelector("main");
+  if (!main) return;
+  const el = document.createElement("aside");
+  el.id = "digest-progress-prompt";
+  el.className = "save-prompt save-prompt--sticky digest-prompt";
+  el.innerHTML = `
+    <p class="save-prompt-title"></p>
+    <p class="save-prompt-text"></p>
+    <form id="digest-form" class="account-form">
+      <label class="account-field" style="position:absolute;left:-9999px">
+        <input id="digest-company" name="company" tabindex="-1" autocomplete="off">
+      </label>
+      <label class="account-field">
+        <span data-digest-email-label></span>
+        <input id="digest-email" name="email" type="email" maxlength="120" autocomplete="email">
+      </label>
+      <label class="digest-consent">
+        <input id="digest-consent" type="checkbox">
+        <span data-digest-consent></span>
+      </label>
+      <div class="btn-row">
+        <button type="submit" class="btn btn-primary" data-digest-submit></button>
+        <button type="button" class="btn btn-secondary" data-digest-open></button>
+      </div>
+      <button type="button" class="footer-link-btn" data-digest-later></button>
+      <p id="digest-status" class="account-status" hidden></p>
+    </form>
+  `;
+  el.querySelector(".save-prompt-title").textContent = t("digestTitle");
+  el.querySelector(".save-prompt-text").textContent = t("digestText");
+  el.querySelector("[data-digest-email-label]").textContent = t("digestEmail");
+  el.querySelector("[data-digest-consent]").textContent = t("digestConsent");
+  el.querySelector("[data-digest-submit]").textContent = t("digestSubmit");
+  el.querySelector("[data-digest-open]").textContent = t("digestOpen");
+  el.querySelector("[data-digest-later]").textContent = t("digestLater");
+  el.querySelector("#digest-form").addEventListener("submit", submitDigest);
+  el.querySelector("[data-digest-open]").addEventListener("click", () => {
+    trackAccount("digest_open");
+    markDigestLocal("open");
+    openWeekMix();
+  });
+  el.querySelector("[data-digest-later]").addEventListener("click", () => {
+    trackAccount("digest_dismiss");
+    try {
+      localStorage.setItem(DIGEST_DISMISS_KEY, String(Date.now()));
+    } catch {
+      /* ignore */
+    }
+    el.remove();
+  });
+  main.appendChild(el);
+  trackAccount("digest_prompt_shown");
+}
+
+function initDigestPrompt() {
+  window.addEventListener("fuehrershein-progress", () => {
+    showDigestPrompt();
+  });
+  showDigestPrompt();
+}
+
 function initAccountSync() {
   let timer = null;
   const schedule = () => {
@@ -415,4 +592,5 @@ document.addEventListener("DOMContentLoaded", () => {
   initAccountPanel();
   initAccountSync();
   initSavePrompt();
+  initDigestPrompt();
 });

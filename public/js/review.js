@@ -1,8 +1,12 @@
-/** Repeat questions previously answered wrong (from progress store). */
+/** Repeat questions previously answered wrong, or a weekly mix (?mix=1). */
 let questions = [];
 let index = 0;
 let score = 0;
 let answered = false;
+
+function isWeekMix() {
+  return new URLSearchParams(window.location.search).get("mix") === "1";
+}
 
 const els = {
   loading: document.getElementById("review-loading"),
@@ -74,6 +78,19 @@ async function loadWrongQuestions() {
   );
 
   return shuffle(loaded.flat());
+}
+
+async function loadWeekMixQuestions() {
+  if (typeof loadExamPool !== "function" || typeof pickWeekMix !== "function") {
+    return loadWrongQuestions();
+  }
+  const pool = await loadExamPool();
+  const wrongIds = new Set(listWrongQuestionRefs().map((ref) => ref.questionId));
+  return pickWeekMix(pool, wrongIds, 20);
+}
+
+async function loadSessionQuestions() {
+  return isWeekMix() ? loadWeekMixQuestions() : loadWrongQuestions();
 }
 
 function renderQuestion() {
@@ -198,23 +215,26 @@ function checkAnswer() {
 function showResult() {
   const total = questions.length;
   const pct = Math.round((score / total) * 100);
-  els.resultTitle.textContent = t("reviewResultTitle");
+  els.resultTitle.textContent = isWeekMix() ? t("mixResultTitle") : t("reviewResultTitle");
   els.resultScore.textContent = `${score} / ${total} (${pct}%)`;
   showScreen("result");
 }
 
 function applyPageCopy() {
   applyDocumentLang();
-  document.title = t("seoReviewTitle") || `${t("reviewPageTitle")} – ${t("siteTitle")}`;
+  const mix = isWeekMix();
+  document.title = mix
+    ? t("mixPageTitle")
+    : t("seoReviewTitle") || `${t("reviewPageTitle")} – ${t("siteTitle")}`;
   const back = document.getElementById("back-link");
   if (back) {
     back.textContent = `← ${t("allTopics")}`;
     back.href = localizedHref("index.html");
   }
   const title = document.getElementById("review-page-title");
-  if (title) title.textContent = t("reviewPageTitle");
+  if (title) title.textContent = mix ? t("mixPageTitle") : t("reviewPageTitle");
   if (els.checkBtn) els.checkBtn.textContent = t("checkAnswer");
-  if (els.restartBtn) els.restartBtn.textContent = t("reviewRestart");
+  if (els.restartBtn) els.restartBtn.textContent = mix ? t("mixRestart") : t("reviewRestart");
   const home = document.getElementById("review-home-btn");
   if (home) {
     home.textContent = t("allTopics");
@@ -239,8 +259,6 @@ async function preloadDePeek() {
 document.addEventListener("DOMContentLoaded", async () => {
   applyPageCopy();
   initLangSwitcher();
-
-  if (els.loading) els.loading.textContent = t("reviewLoading");
   showScreen("loading");
 
   els.checkBtn?.addEventListener("click", checkAnswer);
@@ -252,7 +270,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   });
   els.restartBtn?.addEventListener("click", async () => {
-    questions = await loadWrongQuestions();
+    questions = await loadSessionQuestions();
     if (!questions.length) {
       showScreen("empty");
       return;
@@ -264,9 +282,12 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
 
   try {
-    questions = await loadWrongQuestions();
+    if (els.loading) {
+      els.loading.textContent = isWeekMix() ? t("mixLoading") : t("reviewLoading");
+    }
+    questions = await loadSessionQuestions();
     if (!questions.length) {
-      if (els.emptyText) els.emptyText.textContent = t("reviewEmpty");
+      if (els.emptyText) els.emptyText.textContent = isWeekMix() ? t("mixEmpty") : t("reviewEmpty");
       if (els.emptyLink) {
         els.emptyLink.textContent = t("allTopics");
         els.emptyLink.href = localizedHref("index.html");

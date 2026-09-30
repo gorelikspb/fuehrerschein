@@ -1422,6 +1422,27 @@ a:hover {
   margin-top: 0.2rem;
 }
 
+.digest-prompt .account-field input[type="email"] {
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.digest-consent {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.digest-consent input {
+  margin-top: 0.15rem;
+}
+
 .exam-intro h2 {
   margin-top: 0;
 }
