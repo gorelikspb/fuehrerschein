@@ -28,8 +28,10 @@ function accountErrorText(code) {
   return t("accountErrFail");
 }
 
-function setAccountStatus(message, isError) {
-  const el = document.getElementById("account-status");
+function setAccountStatus(message, isError, prefix = "account") {
+  const el =
+    document.getElementById(`${prefix}-status`) ||
+    document.getElementById("account-status");
   if (!el) return;
   if (!message) {
     el.hidden = true;
@@ -69,8 +71,51 @@ function trackAccount(eventName) {
     /* optional */
   }
 }
+
+function cloudKeysHaveData(keys) {
   if (!keys || typeof keys !== "object") return false;
   return Object.values(keys).some((v) => typeof v === "string" && v !== "");
+}
+
+const SAVE_PROMPT_DISMISS_KEY = "fuehrershein-save-prompt";
+const SAVE_PROMPT_DAYS = 14;
+
+function savePromptDismissed() {
+  try {
+    const at = parseInt(localStorage.getItem(SAVE_PROMPT_DISMISS_KEY) || "", 10);
+    if (!Number.isFinite(at)) return false;
+    return Date.now() - at < SAVE_PROMPT_DAYS * 864e5;
+  } catch {
+    return false;
+  }
+}
+
+function dismissSavePrompt() {
+  try {
+    localStorage.setItem(SAVE_PROMPT_DISMISS_KEY, String(Date.now()));
+  } catch {
+    /* ignore */
+  }
+  const el = document.getElementById("save-progress-prompt");
+  if (el) el.remove();
+}
+
+function countAnsweredQuestions() {
+  if (typeof loadProgressStore !== "function") return 0;
+  const store = loadProgressStore();
+  let n = 0;
+  for (const topic of Object.values(store || {})) {
+    n += Object.keys(topic || {}).length;
+  }
+  return n;
+}
+
+function shouldNudgeSave(reason) {
+  if (loadAccountSession()) return false;
+  if (savePromptDismissed()) return false;
+  if (reason === "exam") return true;
+  const exams = typeof getExamCountTaken === "function" ? getExamCountTaken() : 0;
+  return exams >= 1 || countAnsweredQuestions() >= 8;
 }
 
 async function saveProgressToAccount(keepalive) {
@@ -115,6 +160,10 @@ function renderAccountPanel() {
   if (logoutBtn) logoutBtn.textContent = t("accountLogout");
 
   const session = loadAccountSession();
+  const panel = document.getElementById("account-panel");
+  const exams = typeof getExamCountTaken === "function" ? getExamCountTaken() : 0;
+  const hasProgress = exams >= 1 || countAnsweredQuestions() > 0;
+  if (panel) panel.classList.toggle("account-panel--nudge", !session && hasProgress);
   if (session) {
     form.hidden = true;
     form.classList.add("hidden");
@@ -131,6 +180,7 @@ function renderAccountPanel() {
     if (hint) {
       hint.hidden = false;
       hint.classList.remove("hidden");
+      if (hasProgress) hint.textContent = t("savePromptStudy");
     }
     sessionBox.hidden = true;
     sessionBox.classList.add("hidden");
@@ -159,14 +209,14 @@ async function finishAuth(data, { created }) {
   renderAccountPanel();
 }
 
-async function submitAccount(action) {
-  const userInput = document.getElementById("account-user");
-  const passwordInput = document.getElementById("account-password");
-  const loginBtn = document.getElementById("account-login-btn");
-  const registerBtn = document.getElementById("account-register-btn");
+async function submitAccount(action, prefix = "account") {
+  const userInput = document.getElementById(`${prefix}-user`);
+  const passwordInput = document.getElementById(`${prefix}-password`);
+  const loginBtn = document.getElementById(`${prefix}-login-btn`);
+  const registerBtn = document.getElementById(`${prefix}-register-btn`);
   const user = userInput ? userInput.value.trim() : "";
   const password = passwordInput ? passwordInput.value : "";
-  setAccountStatus("", false);
+  setAccountStatus("", false, prefix);
   if (loginBtn) loginBtn.disabled = true;
   if (registerBtn) registerBtn.disabled = true;
   try {
@@ -179,8 +229,9 @@ async function submitAccount(action) {
     if (passwordInput) passwordInput.value = "";
     trackAccount(action === "register" ? "account_register" : "account_login");
     await finishAuth(data, { created: action === "register" });
+    dismissSavePrompt();
   } catch (err) {
-    setAccountStatus(accountErrorText(err.code), true);
+    setAccountStatus(accountErrorText(err.code), true, prefix);
   } finally {
     if (loginBtn) loginBtn.disabled = false;
     if (registerBtn) registerBtn.disabled = false;
@@ -216,6 +267,131 @@ function initAccountPanel() {
   renderAccountPanel();
 }
 
+function promptHost(reason) {
+  if (reason === "exam") {
+    const streak = document.getElementById("exam-result-streak");
+    if (streak && streak.parentNode) {
+      return { parent: streak.parentNode, before: streak.nextSibling };
+    }
+  }
+  const run = document.getElementById("exam-run");
+  if (run && !run.classList.contains("hidden")) return null;
+  const main = document.querySelector("main");
+  if (!main) return null;
+  return { parent: main, before: null };
+}
+
+function fillSavePromptCopy(el, reason) {
+  const title = el.querySelector(".save-prompt-title");
+  const text = el.querySelector(".save-prompt-text");
+  const openBtn = el.querySelector("[data-save-open]");
+  const laterBtn = el.querySelector("[data-save-later]");
+  const userLabel = el.querySelector("[data-save-user-label]");
+  const passwordLabel = el.querySelector("[data-save-password-label]");
+  const loginBtn = document.getElementById("save-prompt-login-btn");
+  const registerBtn = document.getElementById("save-prompt-register-btn");
+  if (title) title.textContent = t("savePromptTitle");
+  if (text) {
+    text.textContent = reason === "exam" ? t("savePromptExam") : t("savePromptStudy");
+  }
+  if (openBtn) openBtn.textContent = t("savePromptOpen");
+  if (laterBtn) laterBtn.textContent = t("savePromptLater");
+  if (userLabel) userLabel.textContent = t("accountUser");
+  if (passwordLabel) passwordLabel.textContent = t("accountPassword");
+  if (loginBtn) loginBtn.textContent = t("accountLogin");
+  if (registerBtn) registerBtn.textContent = t("accountRegister");
+}
+
+function openSavePromptForm() {
+  trackAccount("save_prompt_click");
+  const existing = document.getElementById("account-panel");
+  if (existing) {
+    existing.scrollIntoView({ behavior: "smooth", block: "center" });
+    const user = document.getElementById("account-user");
+    if (user) user.focus();
+    return;
+  }
+  const form = document.getElementById("save-prompt-form");
+  const actions = document.getElementById("save-prompt-actions");
+  if (form) {
+    form.hidden = false;
+    form.classList.remove("hidden");
+  }
+  if (actions) actions.hidden = true;
+  const user = document.getElementById("save-prompt-user");
+  if (user) user.focus();
+}
+
+function showSaveProgressPrompt(reason) {
+  if (!shouldNudgeSave(reason)) return;
+  if (reason !== "exam" && document.getElementById("account-panel")) {
+    renderAccountPanel();
+    return;
+  }
+  if (reason !== "exam" && document.getElementById("exam-intro")) return;
+  const host = promptHost(reason);
+  if (!host) return;
+  let el = document.getElementById("save-progress-prompt");
+  const created = !el;
+  if (!el) {
+    el = document.createElement("aside");
+    el.id = "save-progress-prompt";
+    el.innerHTML = `
+      <p class="save-prompt-title"></p>
+      <p class="save-prompt-text"></p>
+      <div id="save-prompt-actions" class="btn-row save-prompt-actions">
+        <button type="button" class="btn btn-primary" data-save-open></button>
+        <button type="button" class="btn btn-secondary" data-save-later></button>
+      </div>
+      <form id="save-prompt-form" class="account-form hidden" hidden>
+        <label class="account-field">
+          <span data-save-user-label></span>
+          <input id="save-prompt-user" name="user" autocomplete="username" maxlength="24" required>
+        </label>
+        <label class="account-field">
+          <span data-save-password-label></span>
+          <input id="save-prompt-password" name="password" type="password" autocomplete="new-password" maxlength="72" required>
+        </label>
+        <div class="btn-row">
+          <button type="submit" id="save-prompt-login-btn" class="btn btn-primary"></button>
+          <button type="button" id="save-prompt-register-btn" class="btn btn-secondary"></button>
+        </div>
+        <p id="save-prompt-status" class="account-status" hidden></p>
+      </form>
+    `;
+    el.querySelector("[data-save-open]").addEventListener("click", openSavePromptForm);
+    el.querySelector("[data-save-later]").addEventListener("click", () => {
+      trackAccount("save_prompt_dismiss");
+      dismissSavePrompt();
+    });
+    el.querySelector("#save-prompt-form").addEventListener("submit", (event) => {
+      event.preventDefault();
+      submitAccount("login", "save-prompt");
+    });
+    el.querySelector("#save-prompt-register-btn").addEventListener("click", () => {
+      submitAccount("register", "save-prompt");
+    });
+  }
+  el.className = reason === "exam" ? "save-prompt" : "save-prompt save-prompt--sticky";
+  fillSavePromptCopy(el, reason);
+  if (created) {
+    host.parent.insertBefore(el, host.before);
+    trackAccount("save_prompt_shown");
+  }
+}
+
+window.showSaveProgressPrompt = showSaveProgressPrompt;
+
+function initSavePrompt() {
+  window.addEventListener("fuehrershein-exam-finished", () => {
+    showSaveProgressPrompt("exam");
+  });
+  window.addEventListener("fuehrershein-progress", () => {
+    showSaveProgressPrompt("study");
+  });
+  showSaveProgressPrompt("study");
+}
+
 function initAccountSync() {
   let timer = null;
   const schedule = () => {
@@ -238,4 +414,5 @@ function initAccountSync() {
 document.addEventListener("DOMContentLoaded", () => {
   initAccountPanel();
   initAccountSync();
+  initSavePrompt();
 });

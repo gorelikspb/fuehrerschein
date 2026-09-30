@@ -132,6 +132,13 @@ const I18N = {
     accountErrInvalid: "Name: Buchstaben, Zahlen, Punkt oder Bindestrich.",
     accountErrLimit: "Zu viele Versuche. Kurz warten und nochmal.",
     accountErrFail: "Konto-Dienst gerade nicht erreichbar.",
+    savePromptTitle: "Fortschritt sichern?",
+    savePromptExam:
+      "Die Probeklausur bleibt nur in diesem Browser. Name und Passwort reichen — keine E-Mail, keine Werbung.",
+    savePromptStudy:
+      "Deine Antworten sind nur auf diesem Gerät. Mit Name und Passwort bleiben sie, wenn du das Handy wechselst.",
+    savePromptOpen: "Jetzt sichern",
+    savePromptLater: "Nicht jetzt",
     examPageTitle: "Probeklausur",
     seoExamTitle: "Probeklausur Klasse B kostenlos – 30 Fragen, TÜV-Regeln",
     examIntroTitle: "Theorieprüfung Klasse B (Simulation)",
@@ -337,6 +344,13 @@ const I18N = {
     accountErrInvalid: "Имя: буквы, цифры, точка или дефис.",
     accountErrLimit: "Слишком много попыток. Подождите немного.",
     accountErrFail: "Сервис аккаунтов сейчас недоступен.",
+    savePromptTitle: "Сохранить прогресс?",
+    savePromptExam:
+      "Этот экзамен останется только в этом браузере. Достаточно имени и пароля — без почты и без рассылки.",
+    savePromptStudy:
+      "Ответы сейчас только на этом устройстве. Имя и пароль сохранят их, если смените телефон.",
+    savePromptOpen: "Сохранить",
+    savePromptLater: "Не сейчас",
     examPageTitle: "Пробный экзамен",
     seoExamTitle: "Пробный экзамен ПДД Германия — 30 вопросов, класс B",
     examIntroTitle: "Теория класса B (симуляция)",

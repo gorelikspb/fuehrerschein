@@ -355,6 +355,7 @@ function showResult(score) {
     els.resultStreak.className = "exam-result-streak";
   }
   renderResultRulesExplanation(score);
+  window.dispatchEvent(new CustomEvent("fuehrershein-exam-finished"));
   if (els.reviewList) {
     const wrongItems = questions.filter(
       (q) => !setsEqualAnswers(answers[q.id] || [], q.correct)
