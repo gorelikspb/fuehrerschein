@@ -1322,6 +1322,64 @@ a:hover {
   line-height: 1.4;
 }
 
+.account-panel {
+  margin: 1rem 0 0;
+  padding: 1rem 1.1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.account-title {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+}
+
+.account-hint,
+.account-session p {
+  margin: 0 0 0.75rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.account-form {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.account-field {
+  display: grid;
+  gap: 0.25rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.account-field input {
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 1rem;
+  color: var(--text);
+  background: #fff;
+}
+
+.account-field input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.account-status {
+  margin: 0.7rem 0 0;
+  font-size: 0.82rem;
+  color: var(--ok);
+}
+
+.account-status--bad {
+  color: var(--bad);
+}
+
 .exam-intro h2 {
   margin-top: 0;
 }

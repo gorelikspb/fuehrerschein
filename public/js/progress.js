@@ -316,3 +316,44 @@ function buildLastReadListHref(pos) {
   }
   return typeof localizedHref === "function" ? localizedHref(path) : path;
 }
+
+const BACKUP_APP = "fuehrerschein";
+const BACKUP_KEYS = [
+  PROGRESS_STORAGE_KEY,
+  VIEWED_STORAGE_KEY,
+  LAST_READ_STORAGE_KEY,
+  "fuehrershein-exams",
+  "fuehrershein-time",
+  "fuehrerschein-lang",
+  "fuehrershein-exam-show-explanations",
+];
+
+function buildProgressBackup() {
+  const keys = {};
+  let hasData = false;
+  for (const k of BACKUP_KEYS) {
+    const v = localStorage.getItem(k);
+    if (v !== null && v !== "") {
+      keys[k] = v;
+      hasData = true;
+    }
+  }
+  return {
+    app: BACKUP_APP,
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    keys,
+    hasData,
+  };
+}
+
+function applyProgressBackup(data) {
+  const keys = (data && data.keys) || {};
+  for (const k of BACKUP_KEYS) localStorage.removeItem(k);
+  for (const k of BACKUP_KEYS) {
+    if (!Object.prototype.hasOwnProperty.call(keys, k)) continue;
+    const val = keys[k];
+    if (val == null || val === "") continue;
+    localStorage.setItem(k, String(val));
+  }
+}

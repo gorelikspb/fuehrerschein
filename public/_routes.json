@@ -1,15 +1,6 @@
 {
   "version": 1,
-  "include": [
-    "/",
-    "/index.html",
-    "/exam.html",
-    "/topic.html",
-    "/review.html",
-    "/ru",
-    "/ru/",
-    "/ru/*"
-  ],
+  "include": ["/*"],
   "exclude": [
     "/sitemap.xml",
     "/robots.txt",

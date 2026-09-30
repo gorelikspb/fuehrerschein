@@ -206,8 +206,13 @@ function renderStudyHub(topics) {
   bindTimeDisplay(footerTime);
 
   const resetBtn = document.getElementById("time-reset-btn");
+  if (resetBtn) resetBtn.textContent = t("timeReset");
+}
+
+function initHomeControls() {
+  const footerTime = document.getElementById("footer-time");
+  const resetBtn = document.getElementById("time-reset-btn");
   if (resetBtn) {
-    resetBtn.textContent = t("timeReset");
     resetBtn.addEventListener("click", () => {
       if (!window.confirm(t("timeResetConfirm"))) return;
       resetStudyTime();
@@ -244,6 +249,7 @@ window.addEventListener("fuehrershein-last-read", () => renderContinueReading(ca
 document.addEventListener("DOMContentLoaded", async () => {
   applyPageCopy();
   initLangSwitcher();
+  initHomeControls();
 
   const list = document.getElementById("topic-list");
   try {

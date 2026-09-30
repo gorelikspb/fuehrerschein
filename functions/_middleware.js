@@ -6,8 +6,10 @@ const RU_HOME_JSON_LD = `<script type="application/ld+json">
 
 /** Inject Russian OG/Twitter meta for crawlers (?lang=ru and /ru/ URLs). */
 export async function onRequest(context) {
-  const response = await context.next();
   const url = new URL(context.request.url);
+  if (url.pathname.startsWith("/api/")) return context.next();
+
+  const response = await context.next();
   const lang = resolveLang(url);
   if (lang !== "ru") return response;
 

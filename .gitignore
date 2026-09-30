@@ -15,6 +15,7 @@ scripts/
 
 # --- Dependencies & caches ---
 node_modules/
+.wrangler/
 .cache/
 *.pyc
 __pycache__/

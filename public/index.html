@@ -113,6 +113,29 @@
       <p id="study-readiness" class="study-readiness" aria-live="polite"></p>
       <p id="study-tip-session" class="study-tip"></p>
       <p id="study-tip-exam" class="study-tip"></p>
+      <section id="account-panel" class="account-panel">
+        <h3 id="account-title" class="account-title"></h3>
+        <p id="account-hint" class="account-hint"></p>
+        <form id="account-form" class="account-form">
+          <label class="account-field">
+            <span id="account-user-label"></span>
+            <input id="account-user" name="user" autocomplete="username" maxlength="24" required>
+          </label>
+          <label class="account-field">
+            <span id="account-password-label"></span>
+            <input id="account-password" name="password" type="password" autocomplete="current-password" maxlength="72" required>
+          </label>
+          <div class="btn-row">
+            <button type="submit" id="account-login-btn" class="btn btn-primary"></button>
+            <button type="button" id="account-register-btn" class="btn btn-secondary"></button>
+          </div>
+        </form>
+        <div id="account-session" class="account-session hidden">
+          <p id="account-session-text"></p>
+          <button type="button" id="account-logout-btn" class="footer-link-btn"></button>
+        </div>
+        <p id="account-status" class="account-status" hidden></p>
+      </section>
     </section>
 
     <h2 id="topics-heading">Themen</h2>
@@ -187,6 +210,7 @@
   <script src="js/progress.js"></script>
   <script src="js/study-stats.js"></script>
   <script src="js/time-tracker.js"></script>
+  <script src="js/account.js"></script>
   <script src="js/topics.js"></script>
 </body>
 </html>

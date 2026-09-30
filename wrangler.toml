@@ -1,0 +1,7 @@
+name = "fuehrerschein"
+compatibility_date = "2025-09-23"
+pages_build_output_dir = "public"
+
+[[kv_namespaces]]
+binding = "ACCOUNTS"
+id = "60a8c45ccfa1404fb984fb83d8d21651"
