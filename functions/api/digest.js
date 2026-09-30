@@ -104,6 +104,8 @@ export async function onRequest(context) {
       lang,
       at: new Date().toISOString(),
       token,
+      consent: true,
+      mailing: "weekly",
     })
   );
   await kv.put(`digesttok:${token}`, email);

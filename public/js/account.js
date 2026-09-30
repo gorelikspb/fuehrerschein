@@ -415,7 +415,8 @@ function inDigestCohort() {
 
 function digestAlreadyOn() {
   try {
-    return !!localStorage.getItem(DIGEST_SUB_KEY);
+    const v = localStorage.getItem(DIGEST_SUB_KEY);
+    return !!(v && v.includes("@"));
   } catch {
     return false;
   }
@@ -439,16 +440,6 @@ function shouldShowDigest() {
   return exams >= 1 || countAnsweredQuestions() >= 8;
 }
 
-function weekMixHref() {
-  return typeof localizedHref === "function"
-    ? localizedHref("review.html?mix=1")
-    : "review.html?mix=1";
-}
-
-function openWeekMix() {
-  window.location.href = weekMixHref();
-}
-
 function markDigestLocal(email) {
   try {
     localStorage.setItem(DIGEST_SUB_KEY, email || "1");
@@ -464,11 +455,7 @@ async function submitDigest(event) {
   const company = document.getElementById("digest-company");
   const status = document.getElementById("digest-status");
   const honey = company && company.value;
-  if (honey) {
-    markDigestLocal("1");
-    openWeekMix();
-    return;
-  }
+  if (honey) return;
   const address = email ? email.value.trim() : "";
   const okConsent = !!(consent && consent.checked);
   if (!address || !okConsent) {
@@ -479,6 +466,8 @@ async function submitDigest(event) {
     }
     return;
   }
+  const submitBtn = document.querySelector("[data-digest-submit]");
+  if (submitBtn) submitBtn.disabled = true;
   try {
     const res = await fetch("/api/digest", {
       method: "POST",
@@ -495,8 +484,17 @@ async function submitDigest(event) {
     if (!res.ok && !data.ok) throw new Error("fail");
     markDigestLocal(address.toLowerCase());
     trackAccount("digest_subscribe");
-    openWeekMix();
+    const form = document.getElementById("digest-form");
+    if (form) form.hidden = true;
+    const later = document.querySelector("[data-digest-later]");
+    if (later) later.hidden = true;
+    if (status) {
+      status.hidden = false;
+      status.textContent = t("digestThanks");
+      status.classList.remove("account-status--bad");
+    }
   } catch {
+    if (submitBtn) submitBtn.disabled = false;
     if (status) {
       status.hidden = false;
       status.textContent = t("digestErr");
@@ -522,33 +520,26 @@ function showDigestPrompt() {
       </label>
       <label class="account-field">
         <span data-digest-email-label></span>
-        <input id="digest-email" name="email" type="email" maxlength="120" autocomplete="email">
+        <input id="digest-email" name="email" type="email" maxlength="120" autocomplete="email" required>
       </label>
       <label class="digest-consent">
-        <input id="digest-consent" type="checkbox">
+        <input id="digest-consent" type="checkbox" required>
         <span data-digest-consent></span>
       </label>
       <div class="btn-row">
         <button type="submit" class="btn btn-primary" data-digest-submit></button>
-        <button type="button" class="btn btn-secondary" data-digest-open></button>
       </div>
-      <button type="button" class="footer-link-btn" data-digest-later></button>
-      <p id="digest-status" class="account-status" hidden></p>
     </form>
+    <button type="button" class="footer-link-btn" data-digest-later></button>
+    <p id="digest-status" class="account-status" hidden></p>
   `;
   el.querySelector(".save-prompt-title").textContent = t("digestTitle");
   el.querySelector(".save-prompt-text").textContent = t("digestText");
   el.querySelector("[data-digest-email-label]").textContent = t("digestEmail");
   el.querySelector("[data-digest-consent]").textContent = t("digestConsent");
   el.querySelector("[data-digest-submit]").textContent = t("digestSubmit");
-  el.querySelector("[data-digest-open]").textContent = t("digestOpen");
   el.querySelector("[data-digest-later]").textContent = t("digestLater");
   el.querySelector("#digest-form").addEventListener("submit", submitDigest);
-  el.querySelector("[data-digest-open]").addEventListener("click", () => {
-    trackAccount("digest_open");
-    markDigestLocal("open");
-    openWeekMix();
-  });
   el.querySelector("[data-digest-later]").addEventListener("click", () => {
     trackAccount("digest_dismiss");
     try {
