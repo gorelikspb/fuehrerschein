@@ -169,6 +169,7 @@
       <p id="cta-desc">Im Fragenkatalog gehören diese Fragen zu Thema 1.2 und Thema 2.2.</p>
       <div class="btn-row" style="margin-top:0.75rem;">
         <a id="cta-btn-1" class="btn btn-primary" href="topic.html?id=1-2-verhalten-im-strassenverkehr">Thema 1.2 Verhalten im Straßenverkehr</a>
+        <a id="cta-btn-zahlen" class="btn btn-secondary" href="topic.html?id=zahlenfragen">191 Zahlenfragen üben</a>
         <a id="cta-btn-2" class="btn btn-secondary" href="exam.html">Probeklausur schreiben</a>
       </div>
     </div>
@@ -225,6 +226,7 @@
         ctaHeading: "Jetzt Fragen zu diesem Thema üben",
         ctaDesc: "Im amtlichen Fragenkatalog gehören diese Fragen zu Thema 1.2 und Thema 2.2.",
         ctaBtn1: "Thema 1.2 Verhalten im Straßenverkehr",
+        ctaBtnZahlen: "191 Zahlenfragen üben",
         ctaBtn2: "Probeklausur schreiben"
       },
       ru: {
@@ -263,6 +265,7 @@
         ctaHeading: "Потренировать билеты с формулами",
         ctaDesc: "В официальном каталоге эти вопросы входят в тему 1.2 и 2.2.",
         ctaBtn1: "Тема 1.2 Поведение в движении",
+        ctaBtnZahlen: "Тренировать 191 вопрос с числами",
         ctaBtn2: "Пройти пробный экзамен"
       }
     };
@@ -331,6 +334,11 @@
       if (cta1) {
         cta1.textContent = copy.ctaBtn1;
         cta1.href = localizedHref("topic.html?id=1-2-verhalten-im-strassenverkehr");
+      }
+      const ctaZahlen = document.getElementById("cta-btn-zahlen");
+      if (ctaZahlen) {
+        ctaZahlen.textContent = copy.ctaBtnZahlen;
+        ctaZahlen.href = localizedHref("topic.html?id=zahlenfragen");
       }
       const cta2 = document.getElementById("cta-btn-2");
       if (cta2) {

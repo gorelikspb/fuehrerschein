@@ -111,6 +111,52 @@ function bindVideoTapExpand(video) {
   });
 }
 
+function openImageLightbox(sourceImg) {
+  if (!sourceImg || !sourceImg.src) return;
+  let overlay = document.getElementById("img-lightbox");
+  if (!overlay) {
+    overlay = document.createElement("div");
+    overlay.id = "img-lightbox";
+    overlay.className = "img-lightbox hidden";
+    overlay.setAttribute("role", "dialog");
+    overlay.setAttribute("aria-modal", "true");
+
+    const closeBtn = document.createElement("button");
+    closeBtn.type = "button";
+    closeBtn.className = "img-lightbox-close";
+    closeBtn.setAttribute("aria-label", "Close");
+    closeBtn.textContent = "×";
+
+    const fullImg = document.createElement("img");
+    fullImg.className = "img-lightbox-img";
+    fullImg.alt = "";
+
+    const close = () => {
+      overlay.classList.add("hidden");
+      document.body.style.overflow = "";
+    };
+
+    closeBtn.addEventListener("click", close);
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay || e.target === fullImg) close();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !overlay.classList.contains("hidden")) close();
+    });
+
+    overlay.append(closeBtn, fullImg);
+    document.body.appendChild(overlay);
+  }
+
+  const fullImg = overlay.querySelector(".img-lightbox-img");
+  if (fullImg) {
+    fullImg.src = sourceImg.src;
+    fullImg.alt = sourceImg.alt || "";
+  }
+  overlay.classList.remove("hidden");
+  document.body.style.overflow = "hidden";
+}
+
 function bindQuestionMediaInteraction(root) {
   const scope = root?.querySelectorAll ? root : document;
   scope.querySelectorAll(".question-video").forEach((video) => {
@@ -120,9 +166,23 @@ function bindQuestionMediaInteraction(root) {
     if (img.dataset.stemImageBound === "1") return;
     img.dataset.stemImageBound = "1";
     img.draggable = false;
+    img.tabIndex = 0;
+    img.setAttribute("role", "button");
+    if (typeof t === "function") {
+      const hint = t("imageZoomHint");
+      if (hint) img.title = hint;
+    }
     img.addEventListener("click", (e) => {
       e.preventDefault();
       e.stopPropagation();
+      openImageLightbox(img);
+    });
+    img.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        e.stopPropagation();
+        openImageLightbox(img);
+      }
     });
   });
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = "fuehrerschein-v1";
+const CACHE_NAME = "fuehrerschein-v2";
 
 const PRECACHE_URLS = [
   "/",

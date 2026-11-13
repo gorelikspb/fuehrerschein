@@ -214,6 +214,32 @@ function renderStudyHub(topics) {
   if (vidHeading) vidHeading.textContent = t("studyVideoLink");
   if (vidDesc) vidDesc.textContent = t("studyVideoDesc");
 
+  const zahlenLink = document.getElementById("study-zahlen-link");
+  const zahlenHeading = document.getElementById("study-zahlen-heading");
+  const zahlenDesc = document.getElementById("study-zahlen-desc");
+  if (zahlenLink) zahlenLink.href = localizedHref("topic.html?id=zahlenfragen");
+  if (zahlenHeading) zahlenHeading.textContent = t("studyZahlenLink");
+  if (zahlenDesc) zahlenDesc.textContent = t("studyZahlenDesc");
+
+  const masteryWrap = document.getElementById("overall-mastery");
+  const masteryLabel = document.getElementById("overall-mastery-label");
+  const masteryFill = document.getElementById("overall-mastery-fill");
+  if (masteryWrap && masteryLabel && masteryFill && Array.isArray(topics) && topics.length > 0) {
+    let totalQuestions = 0;
+    let totalSolved = 0;
+    for (const topic of topics) {
+      totalQuestions += Number(topic.questionCount) || 0;
+      totalSolved += countTopicSolved(topic.id);
+    }
+    if (totalQuestions > 0) {
+      const clampedSolved = Math.min(totalSolved, totalQuestions);
+      const pct = Math.round((clampedSolved / totalQuestions) * 100);
+      masteryLabel.textContent = t("overallMastery", clampedSolved, totalQuestions, pct);
+      masteryFill.style.width = `${pct}%`;
+      masteryWrap.classList.remove("hidden");
+    }
+  }
+
   const streakPill = document.getElementById("streak-pill");
   if (streakPill && typeof window.getStudyStreak === "function") {
     const s = window.getStudyStreak();

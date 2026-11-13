@@ -203,4 +203,18 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=videofragen"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=videofragen"/>
   </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/topic.html?id=zahlenfragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=zahlenfragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=zahlenfragen"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/topic.html?id=zahlenfragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=zahlenfragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=zahlenfragen"/>
+  </url>
 </urlset>

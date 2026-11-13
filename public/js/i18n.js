@@ -107,6 +107,11 @@ const I18N = {
     study5PointsDesc: "91 Fragen mit höchster Fehlerpunktzahl (2 falsche = Nichtbestehen)",
     studyVideoLink: "Videofragen (Filmsequenzen)",
     studyVideoDesc: "95 Fragen mit Videosequenzen aus der Fahrpraxis",
+    studyZahlenLink: "Zahlenfragen",
+    studyZahlenDesc: "191 Fragen mit konkreten Zahlen, Abständen, Geschwindigkeiten & Promille",
+    overallMastery: (solved, total, pct) =>
+      `Gesamtfortschritt: ${solved} / ${total} Fragen gelöst (${pct}%)`,
+    imageZoomHint: "Tippen zum Vergrößern",
     streakDays: (n) => `${n}. Tag in Folge 🔥`,
     pwaInstallBtn: "📲 App installieren",
     pwaInstallTipIos: "Tippe auf Teilen [↑] und 'Zum Home-Bildschirm' [+]",
@@ -351,6 +356,11 @@ const I18N = {
     study5PointsDesc: "91 вопрос высшей цены ошибки (2 ошибки = провал экзамена)",
     studyVideoLink: "Видео-вопросы",
     studyVideoDesc: "95 вопросов с реальными видео-ситуациями на дороге",
+    studyZahlenLink: "Вопросы с числами",
+    studyZahlenDesc: "191 вопрос с цифрами, дистанциями, скоростями, промилле и штрафами",
+    overallMastery: (solved, total, pct) =>
+      `Общий прогресс: ${solved} / ${total} вопросов решено (${pct}%)`,
+    imageZoomHint: "Нажмите, чтобы увеличить",
     streakDays: (n) => `${n} ${n === 1 ? 'день' : (n >= 2 && n <= 4 ? 'дня' : 'дней')} подряд 🔥`,
     pwaInstallBtn: "📲 Установить приложение",
     pwaInstallTipIos: "Нажмите «Поделиться» [↑] и выберите «На экран „Домой“» [+]",
