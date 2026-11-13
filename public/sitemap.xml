@@ -217,4 +217,58 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=zahlenfragen"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=zahlenfragen"/>
   </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/en/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fuehrerschein.pages.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/sprachen.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/sprachen.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/sprachen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fuehrerschein.pages.dev/en/"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/sprachen.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/sprachen.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/sprachen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fuehrerschein.pages.dev/en/"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/umschreibung.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/umschreibung.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/umschreibung.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fuehrerschein.pages.dev/en/"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/umschreibung.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/umschreibung.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/umschreibung.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fuehrerschein.pages.dev/en/"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/glossar.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/glossar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/glossar.html"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/glossar.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/glossar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/glossar.html"/>
+  </url>
 </urlset>

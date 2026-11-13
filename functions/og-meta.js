@@ -98,6 +98,60 @@ export const PAGE_META = {
       locale: "ru_RU",
     },
   },
+  "/sprachen.html": {
+    de: {
+      title: "Prüfungssprachen bei TÜV & DEKRA (Anlage 7 FeV) – Führerschein Theorie",
+      ogTitle: "Prüfungssprachen bei TÜV & DEKRA",
+      description:
+        "Alle 12 amtlichen Fremdsprachen für die Theorieprüfung Klasse B, Status von Ukrainisch (ab 2027), Verbot von Dolmetschern und Lerntipps.",
+      ogPath: "/sprachen.html",
+      locale: "de_DE",
+    },
+    ru: {
+      title: "Языки экзамена ПДД в Германии (TÜV / DEKRA) — Klasse B",
+      ogTitle: "На каких языках сдают теорию ПДД в Германии",
+      description:
+        "Все 12 официальных языков экзамена (Anlage 7 FeV), статус украинского языка (с 2027 года), запрет переводчиков и советы экспатам.",
+      ogPath: "/ru/sprachen.html",
+      locale: "ru_RU",
+    },
+  },
+  "/umschreibung.html": {
+    de: {
+      title: "Führerschein umschreiben in Deutschland (§ 31 FeV) – Theorie & Fristen",
+      ogTitle: "Führerschein umschreiben in Deutschland (§ 31 FeV)",
+      description:
+        "Ausländischen Führerschein umschreiben: 6-Monats-Frist, keine Pflichtstunden nach § 31 FeV, Unterlagen und kostenlose Vorbereitung.",
+      ogPath: "/umschreibung.html",
+      locale: "de_DE",
+    },
+    ru: {
+      title: "Замена прав в Германии (Umschreibung, § 31 FeV) — теория и документы",
+      ogTitle: "Замена водительских прав в Германии (Umschreibung)",
+      description:
+        "Правило 6 месяцев, кому нужна теория и практика, освобождение от обязательных лекций по § 31 FeV и список документов.",
+      ogPath: "/ru/umschreibung.html",
+      locale: "ru_RU",
+    },
+  },
+  "/glossar.html": {
+    de: {
+      title: "Glossar: Wichtige Begriffe für die Theorieprüfung (DE ↔ RU)",
+      ogTitle: "Verkehrs-Glossar Klasse B (DE ↔ RU)",
+      description:
+        "24 zentrale deutsche Verkehrsbegriffe für Theorieprüfung und Fahrstunden mit russischer Erklärung: Vorfahrt, Vorrang, Rettungsgasse, Haltverbot.",
+      ogPath: "/glossar.html",
+      locale: "de_DE",
+    },
+    ru: {
+      title: "Словарь терминов ПДД Германии (DE ↔ RU) — Klasse B",
+      ogTitle: "Словарь немецких терминов ПДД (DE ↔ RU)",
+      description:
+        "24 главных немецких термина для экзамена и вождения с инструктором: Vorfahrt, Schulterblick, Rettungsgasse, Haltverbot.",
+      ogPath: "/ru/glossar.html",
+      locale: "ru_RU",
+    },
+  },
 };
 
 /**

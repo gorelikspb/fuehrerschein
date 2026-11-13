@@ -1,0 +1,68 @@
+# Führerschein Theorie (Klasse B) — Full Reference
+
+Base URL: https://fuehrerschein.pages.dev/
+Russian Mirror Prefix: https://fuehrerschein.pages.dev/ru/
+English Expat Guide: https://fuehrerschein.pages.dev/en/
+
+## 1. Product Summary
+
+Führerschein Theorie (Klasse B) is a 100% free, ad-free web application and installable PWA for preparing for the German theoretical driving exam (Klasse B).
+- Languages in trainer: German (`de`) and Russian (`ru`), with an inline "Original (DE)" peek button on Russian questions.
+- No mandatory account or paywall; progress is stored in `localStorage` with optional username/password cloud sync.
+- Question catalog: 1316 unique Klasse B questions (filtered from amtlicher Fragenkatalog to Klasse B/BE + Grundstoff).
+
+## 2. All 14 Official Topics
+
+### Grundstoff (General Material)
+1. `1-1-gefahrenlehre` — Gefahrenlehre (173 questions)
+2. `1-2-verhalten-im-strassenverkehr` — Verhalten im Straßenverkehr (236 questions)
+3. `1-3-vorfahrt-vorrang` — Vorfahrt, Vorrang (108 questions)
+4. `1-4-verkehrszeichen` — Verkehrszeichen (149 questions)
+5. `1-5-umweltschutz` — Umweltschutz (33 questions)
+6. `1-7-technik` — Technik (41 questions)
+7. `1-8-eignung-und-befaehigung-von-kraftfahrern` — Eignung und Befähigung von Kraftfahrern (37 questions)
+
+### Zusatzstoff Klasse B (Class-Specific Material)
+8. `2-1-gefahrenlehre` — Gefahrenlehre (31 questions)
+9. `2-2-verhalten-im-strassenverkehr` — Verhalten im Straßenverkehr (246 questions)
+10. `2-4-verkehrszeichen` — Verkehrszeichen (12 questions)
+11. `2-5-umweltschutz` — Umweltschutz (9 questions)
+12. `2-6-vorschriften-ueber-den-betrieb-der-fahrzeuge` — Vorschriften über den Betrieb der Fahrzeuge (71 questions)
+13. `2-7-technik` — Technik (120 questions)
+14. `2-8-eignung-und-befaehigung-von-kraftfahrern` — Eignung und Befähigung von Kraftfahrern (50 questions)
+
+## 3. Focused Exam Collections
+
+- `5-punkte-fragen` (91 questions): https://fuehrerschein.pages.dev/topic.html?id=5-punkte-fragen
+- `videofragen` (95 questions): https://fuehrerschein.pages.dev/topic.html?id=videofragen
+- `zahlenfragen` (191 questions): https://fuehrerschein.pages.dev/topic.html?id=zahlenfragen
+
+## 4. Official TÜV / DEKRA Exam Rules (Klasse B)
+
+- Questions per exam: 30 (20 Grundstoff + 10 Zusatzstoff Klasse B).
+- Point values: 2, 3, 4, or 5 fault points (Fehlerpunkte) per question.
+- Passing rule: maximum 10 fault points total, AND no more than one 5-point question answered incorrectly (two wrong 5-point questions = automatic fail even if total ≤10).
+
+## 5. Official Formulas (`formulas.html`)
+
+- **Reaktionsweg (m):** `(Speed / 10) × 3`
+- **Bremsweg normal (m):** `(Speed / 10) × (Speed / 10)`
+- **Bremsweg Gefahrenbremsung / emergency (m):** `((Speed / 10) × (Speed / 10)) / 2`
+- **Anhalteweg (m):** `Reaktionsweg + Bremsweg`
+- Example at 50 km/h: Reaction = 15 m, Normal Braking = 25 m, Total Stopping = 40 m (Emergency = 27.5 m).
+- Example at 100 km/h: Reaction = 30 m, Normal Braking = 100 m, Total Stopping = 130 m (Emergency = 80 m).
+- Minimum tire tread depth: `1.6 mm`.
+- Overtaking lateral distance to cyclists/pedestrians: `1.5 m` inside built-up areas (`innerorts`), `2.0 m` outside (`außerorts`).
+- Fog visibility `< 50 m`: max speed `50 km/h`, rear fog light (`Nebelschlussleuchte`) permitted.
+
+## 6. Official Exam Languages (Anlage 7 FeV)
+
+- Currently available at TÜV/DEKRA PC terminals: German plus 12 foreign languages — English, French, Greek, Italian, Croatian, Polish, Portuguese, Romanian, Russian, Spanish, Turkish, Standard Arabic (`Hocharabisch`).
+- Ukrainian & Kurmandschi: legally added to Anlage 7 FeV with terminal rollout scheduled for April 1, 2027 (§ 76a FeV). Note: valid Ukrainian driving licenses can often be exchanged under Anlage 11 FeV without exams.
+- Personal interpreters are not permitted at the PC theory test (since 2011; exception for deaf candidates with sign-language interpreters).
+
+## 7. Foreign License Conversion (`Umschreibung`, § 31 FeV)
+
+- Foreign licenses remain valid for 6 months after establishing residence (`Wohnsitz`) in Germany.
+- For third-country licenses requiring theory/practical exams, § 31 FeV waives mandatory theory classroom hours (`Pflichtstunden`) and mandatory special driving lessons (`Sonderfahrten`).
+- Formal registration at a `Fahrschule` is still required so the school can submit the exam order to TÜV/DEKRA, alongside `Sehtest`, `Erste-Hilfe-Kurs`, biometric photo, and certified license translation.
