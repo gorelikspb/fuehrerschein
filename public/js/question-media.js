@@ -57,12 +57,74 @@ function createStemImage(url, wrap) {
   img.className = "question-image";
   img.src = url;
   img.alt = t("questionImageAlt");
+  img.draggable = false;
   img.onerror = () => {
     img.classList.add("hidden");
     img.removeAttribute("src");
     showMediaError(wrap);
   };
   return img;
+}
+
+function enterVideoFullscreen(video) {
+  if (typeof video.webkitEnterFullscreen === "function") {
+    video.webkitEnterFullscreen();
+    return Promise.resolve();
+  }
+  const req =
+    video.requestFullscreen?.() ||
+    video.webkitRequestFullscreen?.() ||
+    video.msRequestFullscreen?.();
+  return req ? Promise.resolve(req) : Promise.reject(new Error("fullscreen unsupported"));
+}
+
+/** Tap/click video → play immediately in fullscreen (no inline controls bar). */
+function bindVideoTapExpand(video) {
+  if (!video || video.dataset.tapExpandBound === "1") return;
+  video.dataset.tapExpandBound = "1";
+  video.removeAttribute("controls");
+  video.classList.add("question-video--tap-expand");
+  video.setAttribute("tabindex", "0");
+  video.setAttribute("role", "button");
+  video.setAttribute("aria-label", t("questionVideoAlt"));
+
+  const activate = async (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    try {
+      await video.play();
+      const inFullscreen =
+        document.fullscreenElement === video ||
+        document.webkitFullscreenElement === video;
+      if (!inFullscreen) await enterVideoFullscreen(video);
+    } catch {
+      /* play/fullscreen may be blocked */
+    }
+  };
+
+  video.addEventListener("click", activate);
+  video.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      activate(e);
+    }
+  });
+}
+
+function bindQuestionMediaInteraction(root) {
+  const scope = root?.querySelectorAll ? root : document;
+  scope.querySelectorAll(".question-video").forEach((video) => {
+    if (!video.classList.contains("hidden") && video.src) bindVideoTapExpand(video);
+  });
+  scope.querySelectorAll(".question-media-wrap .question-image").forEach((img) => {
+    if (img.dataset.stemImageBound === "1") return;
+    img.dataset.stemImageBound = "1";
+    img.draggable = false;
+    img.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+    });
+  });
 }
 
 /**
@@ -102,6 +164,7 @@ function applyQuestionMedia(els, q) {
     if (firstUrl) {
       els.image.src = firstUrl;
       els.image.alt = t("questionImageAlt");
+      els.image.draggable = false;
       els.image.classList.remove("hidden");
       els.image.onerror = () => {
         els.image.classList.add("hidden");
@@ -126,6 +189,8 @@ function applyQuestionMedia(els, q) {
     const hasMedia = Boolean(videoUrl || stemUrls.length);
     wrap.classList.toggle("hidden", !hasMedia);
   }
+
+  bindQuestionMediaInteraction(wrap);
 }
 
 /**
@@ -181,10 +246,8 @@ function appendQuestionMediaTo(body, q) {
 
     const video = document.createElement("video");
     video.className = "question-video";
-    video.controls = true;
     video.preload = "metadata";
     video.playsInline = true;
-    video.setAttribute("aria-label", t("questionVideoAlt"));
     video.src = videoUrl;
     video.onerror = () => {
       video.classList.add("hidden");
@@ -192,6 +255,7 @@ function appendQuestionMediaTo(body, q) {
       showMediaError(outer);
     };
     outer.appendChild(video);
+    bindQuestionMediaInteraction(outer);
     body.appendChild(outer);
     return;
   }
@@ -206,5 +270,6 @@ function appendQuestionMediaTo(body, q) {
     img.loading = "lazy";
     outer.appendChild(img);
   }
+  bindQuestionMediaInteraction(outer);
   body.appendChild(outer);
 }

@@ -12,6 +12,11 @@
   <link rel="alternate" hreflang="x-default" href="https://fuehrerschein.pages.dev/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1e3a8a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Führerschein">
   <meta property="og:title" content="Führerschein Theorie Klasse B kostenlos">
   <meta property="og:description" content="Kostenloser Theorie-Trainer Klasse B: 1316 Fragen, Probeklausur mit 30 Fragen nach TÜV-Regeln. Ohne Anmeldung, auf Deutsch und Russisch.">
   <meta property="og:image" content="https://fuehrerschein.pages.dev/og-image.png">
@@ -80,7 +85,11 @@
         <h1 id="site-title">Führerschein Theorie kostenlos</h1>
         <p id="site-subtitle">Klasse B · ohne Anmeldung · 1316 Fragen · Deutsch / Русский</p>
       </div>
-      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+      <div class="header-right">
+        <span id="streak-pill" class="streak-pill hidden" title="Lernserie"></span>
+        <button type="button" id="pwa-install-btn" class="pwa-install-btn hidden"></button>
+        <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+      </div>
     </div>
   </header>
 
@@ -108,6 +117,22 @@
         <a id="study-review-link" class="study-card study-card--review" href="review.html">
           <h3 id="study-review-heading">Fehler wiederholen</h3>
           <p id="study-review-desc" class="study-card-desc">Falsche Antworten gezielt üben</p>
+        </a>
+        <a id="study-formulas-link" class="study-card study-card--formulas" href="formulas.html">
+          <h3 id="study-formulas-heading">Prüfungsformeln & Rechner</h3>
+          <p id="study-formulas-desc" class="study-card-desc">Reaktionsweg, Bremsweg, Anhalteweg</p>
+        </a>
+      </div>
+      <div class="study-fokus-grid">
+        <a id="study-5points-link" class="study-card study-card--5points" href="topic.html?id=5-punkte-fragen">
+          <span class="study-card-badge">91 Fragen</span>
+          <h3 id="study-5points-heading">5-Punkte-Fragen</h3>
+          <p id="study-5points-desc" class="study-card-desc">Fragen mit höchster Fehlerpunktzahl (2 falsche = Nichtbestehen)</p>
+        </a>
+        <a id="study-video-link" class="study-card study-card--video" href="topic.html?id=videofragen">
+          <span class="study-card-badge">95 Fragen</span>
+          <h3 id="study-video-heading">Videofragen</h3>
+          <p id="study-video-desc" class="study-card-desc">Situationen mit Filmsequenz aus der Fahrpraxis</p>
         </a>
       </div>
       <p id="study-readiness" class="study-readiness" aria-live="polite"></p>
@@ -203,6 +228,7 @@
   <footer class="site-footer">
     <p id="footer-time" class="footer-time"></p>
     <button type="button" id="time-reset-btn" class="footer-link-btn"></button>
+    <p class="footer-feedback"><a id="footer-feedback-link" href="mailto:gorelikgo@gmail.com?subject=Feedback:%20Fuehrerschein">Feedback / Fehler melden</a></p>
     <p class="footer-data"><span id="footer-data-label"></span> <a href="https://github.com/yowmamasita/driving-theory" target="_blank" rel="noopener noreferrer">yowmamasita/driving-theory</a></p>
   </footer>
 
@@ -212,5 +238,12 @@
   <script src="js/time-tracker.js"></script>
   <script src="js/account.js"></script>
   <script src="js/topics.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js").catch(() => {});
+      });
+    }
+  </script>
 </body>
 </html>

@@ -1726,3 +1726,292 @@ html[lang="ru"] .seo-ru {
     padding: 1.35rem 1.5rem;
   }
 }
+
+/* Exam Result Sharing */
+.exam-share-toast {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--ok);
+  font-weight: 600;
+  margin-top: 0.75rem;
+  background: var(--ok-bg);
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid rgba(13, 122, 63, 0.2);
+}
+
+/* Formulas Page & Calculator */
+.formulas-lead {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0.25rem 0 1rem;
+}
+
+.calc-input-wrap {
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  background: var(--bg);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.calc-label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+.calc-input-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.calc-number-input {
+  font-size: 1.4rem;
+  font-weight: 700;
+  width: 120px;
+  padding: 0.35rem 0.6rem;
+  border: 2px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  text-align: center;
+}
+
+.calc-unit {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.calc-preset-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.btn-preset {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-preset:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.btn-preset.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.calc-results-grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 600px) {
+  .calc-results-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.calc-result-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.9rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.calc-result-box--total {
+  border-color: var(--accent);
+  background: #f0f6ff;
+}
+
+.calc-result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+
+.calc-tag {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.tag-reaction { color: #d97706; }
+.tag-brake { color: #2563eb; }
+.tag-danger { color: #dc2626; }
+.tag-total { color: #059669; }
+
+.calc-formula-text {
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-family: ui-monospace, monospace;
+}
+
+.calc-result-val {
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 0.2rem 0;
+}
+
+.calc-result-val.highlight {
+  color: var(--accent-dark);
+}
+
+.calc-result-desc {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin: 0;
+  margin-top: auto;
+}
+
+/* Exam numbers table */
+.table-responsive {
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.exam-numbers-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.exam-numbers-table th,
+.exam-numbers-table td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.exam-numbers-table th {
+  background: var(--bg);
+  font-weight: 600;
+  color: var(--muted);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.exam-rules-bullets {
+  padding-left: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.exam-rules-bullets li {
+  margin-bottom: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.study-card--formulas {
+  border-left: 4px solid #8b5cf6;
+}
+
+.footer-feedback {
+  margin: 0.5rem 0;
+  font-size: 0.85rem;
+}
+
+.footer-feedback a {
+  color: var(--muted);
+  text-decoration: underline;
+}
+
+.footer-feedback a:hover {
+  color: var(--accent);
+}
+
+/* Header Right & Streak Pill */
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.streak-pill {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.pwa-install-btn {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: #fff;
+  padding: 0.25rem 0.55rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.pwa-install-btn:hover {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+/* Special Focus Grid */
+.study-fokus-grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr;
+  margin-top: 0.75rem;
+}
+
+@media (min-width: 560px) {
+  .study-fokus-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.study-card--5points {
+  border-left: 4px solid #dc2626;
+}
+
+.study-card--video {
+  border-left: 4px solid #0284c7;
+}
+
+.study-card-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  float: right;
+  background: var(--bg);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}

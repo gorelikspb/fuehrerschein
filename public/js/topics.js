@@ -188,6 +188,66 @@ function renderStudyHub(topics) {
     reviewLink.classList.add("study-card--muted");
   }
 
+  const formulasLink = document.getElementById("study-formulas-link");
+  const formulasHeading = document.getElementById("study-formulas-heading");
+  const formulasDesc = document.getElementById("study-formulas-desc");
+  if (formulasLink) formulasLink.href = localizedHref("formulas.html");
+  if (formulasHeading) formulasHeading.textContent = t("studyFormulasLink");
+  if (formulasDesc) formulasDesc.textContent = t("studyFormulasDesc");
+
+  const feedbackLink = document.getElementById("footer-feedback-link");
+  if (feedbackLink) {
+    feedbackLink.textContent = t("feedbackLinkText");
+  }
+
+  const p5Link = document.getElementById("study-5points-link");
+  const p5Heading = document.getElementById("study-5points-heading");
+  const p5Desc = document.getElementById("study-5points-desc");
+  if (p5Link) p5Link.href = localizedHref("topic.html?id=5-punkte-fragen");
+  if (p5Heading) p5Heading.textContent = t("study5PointsLink");
+  if (p5Desc) p5Desc.textContent = t("study5PointsDesc");
+
+  const vidLink = document.getElementById("study-video-link");
+  const vidHeading = document.getElementById("study-video-heading");
+  const vidDesc = document.getElementById("study-video-desc");
+  if (vidLink) vidLink.href = localizedHref("topic.html?id=videofragen");
+  if (vidHeading) vidHeading.textContent = t("studyVideoLink");
+  if (vidDesc) vidDesc.textContent = t("studyVideoDesc");
+
+  const streakPill = document.getElementById("streak-pill");
+  if (streakPill && typeof window.getStudyStreak === "function") {
+    const s = window.getStudyStreak();
+    streakPill.textContent = t("streakDays", s);
+    streakPill.classList.remove("hidden");
+  }
+
+  const pwaBtn = document.getElementById("pwa-install-btn");
+  if (pwaBtn) {
+    pwaBtn.textContent = t("pwaInstallBtn");
+    const isStandalone = window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+    if (!isStandalone) {
+      const isIos = /iPhone|iPad|iPod/.test(navigator.userAgent);
+      if (isIos) {
+        pwaBtn.classList.remove("hidden");
+        pwaBtn.onclick = () => alert(t("pwaInstallTipIos"));
+      } else {
+        window.addEventListener("beforeinstallprompt", (e) => {
+          e.preventDefault();
+          window.__pwaPrompt = e;
+          pwaBtn.classList.remove("hidden");
+          pwaBtn.onclick = async () => {
+            if (window.__pwaPrompt) {
+              window.__pwaPrompt.prompt();
+              const { outcome } = await window.__pwaPrompt.userChoice;
+              if (outcome === "accepted") pwaBtn.classList.add("hidden");
+              window.__pwaPrompt = null;
+            }
+          };
+        });
+      }
+    }
+  }
+
   const readiness = document.getElementById("study-readiness");
   if (readiness) {
     readiness.textContent = t(

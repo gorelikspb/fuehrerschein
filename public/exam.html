@@ -12,6 +12,11 @@
   <link rel="alternate" hreflang="x-default" href="https://fuehrerschein.pages.dev/exam.html">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1e3a8a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Führerschein">
   <meta property="og:title" content="Probeklausur Klasse B kostenlos">
   <meta property="og:description" content="Prüfungssimulation Führerschein Theorie Klasse B: 20 Grundstoff + 10 Zusatzstoff, Fehlerpunkte, ohne Anmeldung. Deutsch und Russisch.">
   <meta property="og:image" content="https://fuehrerschein.pages.dev/og-image.png">
@@ -118,8 +123,10 @@
         <div id="exam-review-list" class="exam-review-list hidden"></div>
         <div class="btn-row" style="justify-content:center">
           <button type="button" class="btn btn-primary" id="exam-retry-btn"></button>
+          <button type="button" class="btn btn-secondary" id="exam-share-btn"></button>
           <a class="btn btn-secondary" id="exam-home-btn" href="index.html"></a>
         </div>
+        <p id="exam-share-toast" class="exam-share-toast hidden" role="status" aria-live="polite"></p>
       </div>
     </section>
   </main>
@@ -134,5 +141,12 @@
   <script src="js/time-tracker.js"></script>
   <script src="js/account.js"></script>
   <script src="js/exam.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js").catch(() => {});
+      });
+    }
+  </script>
 </body>
 </html>

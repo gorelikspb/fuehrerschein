@@ -100,6 +100,24 @@ const I18N = {
     studyReviewLink: "Fehler wiederholen",
     studyReviewDesc: (n) =>
       n > 0 ? `${n} Fragen mit Fehlern im Fortschritt` : "Noch keine Fehler gespeichert",
+    studyFormulasLink: "Prüfungsformeln & Rechner",
+    studyFormulasDesc: "Faustformeln für Bremsweg, Reaktionsweg und Anhalteweg",
+    studyFokusTitle: "Prüfungs-Fokus",
+    study5PointsLink: "5-Punkte-Fragen",
+    study5PointsDesc: "91 Fragen mit höchster Fehlerpunktzahl (2 falsche = Nichtbestehen)",
+    studyVideoLink: "Videofragen (Filmsequenzen)",
+    studyVideoDesc: "95 Fragen mit Videosequenzen aus der Fahrpraxis",
+    streakDays: (n) => `${n}. Tag in Folge 🔥`,
+    pwaInstallBtn: "📲 App installieren",
+    pwaInstallTipIos: "Tippe auf Teilen [↑] und 'Zum Home-Bildschirm' [+]",
+    examShareBtn: "Ergebnis teilen",
+    examShareTitle: "Führerschein Theorie Klasse B",
+    examSharePassText: (pts) =>
+      `Ich habe die Führerschein-Probeklausur Klasse B mit ${pts} Fehlerpunkten bestanden! 🚗 Kostenlos üben:`,
+    examShareFailText: (pts) =>
+      `Ich übe für die Führerschein-Theorieprüfung Klasse B (${pts} Fehlerpunkte). Kostenlos üben:`,
+    examShareCopied: "Ergebnis in die Zwischenablage kopiert!",
+    feedbackLinkText: "Feedback / Fehler melden",
     studyTipSession:
       "Tipp: Lerne in Blöcken von 30–45 Minuten mit Pausen – so bleibt der Stoff hängen.",
     studyTipExamGoal:
@@ -326,6 +344,24 @@ const I18N = {
     studyReviewLink: "Повтор ошибок",
     studyReviewDesc: (n) =>
       n > 0 ? `${n} вопросов с ошибками в прогрессе` : "Ошибок пока нет",
+    studyFormulasLink: "Формулы экзамена и расчёты",
+    studyFormulasDesc: "Тормозной и остановочный путь, реакция и формулы TÜV",
+    studyFokusTitle: "Экзаменационный фокус",
+    study5PointsLink: "5-балльные вопросы",
+    study5PointsDesc: "91 вопрос высшей цены ошибки (2 ошибки = провал экзамена)",
+    studyVideoLink: "Видео-вопросы",
+    studyVideoDesc: "95 вопросов с реальными видео-ситуациями на дороге",
+    streakDays: (n) => `${n} ${n === 1 ? 'день' : (n >= 2 && n <= 4 ? 'дня' : 'дней')} подряд 🔥`,
+    pwaInstallBtn: "📲 Установить приложение",
+    pwaInstallTipIos: "Нажмите «Поделиться» [↑] и выберите «На экран „Домой“» [+]",
+    examShareBtn: "Поделиться результатом",
+    examShareTitle: "Теория ПДД Германия Klasse B",
+    examSharePassText: (pts) =>
+      `Я сдал пробный экзамен теории Klasse B (${pts} штрафных баллов)! 🚗 Бесплатный тренажёр:`,
+    examShareFailText: (pts) =>
+      `Тренирую теорию на права в Германии Klasse B (${pts} штрафных баллов). Бесплатный тренажёр:`,
+    examShareCopied: "Результат скопирован в буфер обмена!",
+    feedbackLinkText: "Обратная связь / Ошибка в вопросе",
     studyTipSession:
       "Совет: занимайтесь блоками по 30–45 минут с перерывами — так материал лучше запоминается.",
     studyTipExamGoal:

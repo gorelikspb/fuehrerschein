@@ -6,6 +6,7 @@
   let chapterGroups = [];
   let currentChapterIndex = 0;
   let viewedObserver = null;
+  let topicOrder = [];
   /** Question IDs already viewed in localStorage when this page session started. */
   let viewedAtSessionStart = new Set();
   let shouldScrollToQuestionHash = false;
@@ -27,6 +28,7 @@
     chapterNext: document.getElementById("list-chapter-next"),
     chapterProgress: document.getElementById("list-chapter-progress"),
     goNextChapter: document.getElementById("list-go-next-chapter"),
+    goNextTopic: document.getElementById("list-go-next-topic"),
   };
 
   function chapterNumberFromQuestion(q) {
@@ -481,6 +483,25 @@
     els.goNextChapter.href = href;
   }
 
+  function nextTopicHref() {
+    if (!topic?.id || topicOrder.length < 2) return null;
+    const idx = topicOrder.indexOf(topic.id);
+    if (idx < 0 || idx >= topicOrder.length - 1) return null;
+    const nextTopicId = topicOrder[idx + 1];
+    return localizedHref(`topic.html?id=${encodeURIComponent(nextTopicId)}&view=list`);
+  }
+
+  function updateGoNextTopic() {
+    if (!els.goNextTopic) return;
+    const isLastChapter = currentChapterIndex >= chapterGroups.length - 1;
+    const href = isLastChapter ? nextTopicHref() : null;
+    const hasNext = !!href;
+    els.goNextTopic.classList.toggle("hidden", !hasNext);
+    if (!hasNext) return;
+    els.goNextTopic.textContent = t("listGoNextTopic");
+    els.goNextTopic.href = href;
+  }
+
   function updateChapterNav() {
     const multi = chapterGroups.length > 1;
     if (els.chapterNav) {
@@ -489,6 +510,7 @@
     if (!multi) {
       updateChapterProgressBars();
       updateGoNextChapter();
+      updateGoNextTopic();
       return;
     }
 
@@ -512,6 +534,7 @@
     }
     updateChapterProgressBars();
     updateGoNextChapter();
+    updateGoNextTopic();
     if (els.chapterSelect) {
       const prevValue = els.chapterSelect.value;
       els.chapterSelect.innerHTML = "";
@@ -583,6 +606,7 @@
     els.container.classList.toggle("hidden", noResults);
     setupViewedObserver();
     updateGoNextChapter();
+    updateGoNextTopic();
     if (shouldScrollToQuestionHash) {
       shouldScrollToQuestionHash = false;
       scrollToQuestionHash();
@@ -612,6 +636,7 @@
     }
     updateChapterNav();
     updateGoNextChapter();
+    updateGoNextTopic();
   }
 
   function bindSearch() {
@@ -668,6 +693,19 @@
     renderList();
   };
 
+  async function initTopicOrder() {
+    try {
+      const res = await fetch(dataUrl("topics.json"));
+      if (!res.ok) return;
+      const json = await res.json();
+      topicOrder = Array.isArray(json?.topics)
+        ? json.topics.map((it) => it?.id).filter(Boolean)
+        : [];
+    } catch {
+      topicOrder = [];
+    }
+  }
+
   window.addEventListener("popstate", () => {
     if (!topic) return;
     const idx = getChapterIndexFromUrl();
@@ -700,6 +738,11 @@
     if (topic) {
       updateChapterProgressBars();
       updateGoNextChapter();
+      updateGoNextTopic();
     }
+  });
+
+  initTopicOrder().then(() => {
+    if (topic) updateGoNextTopic();
   });
 })();

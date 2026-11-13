@@ -80,6 +80,24 @@ export const PAGE_META = {
       locale: "ru_RU",
     },
   },
+  "/formulas.html": {
+    de: {
+      title: "Prüfungsformeln & Rechner – Führerschein Theorie Klasse B",
+      ogTitle: "Führerschein Formeln & Rechner (Klasse B)",
+      description:
+        "Offizielle Faustformeln für Klasse B: Reaktionsweg, Bremsweg und Anhalteweg mit interaktivem Rechner. Auf Deutsch und Russisch.",
+      ogPath: "/formulas.html",
+      locale: "de_DE",
+    },
+    ru: {
+      title: "Формулы и числовые вопросы — теория ПДД Германия (Klasse B)",
+      ogTitle: "Формулы ПДД Германия и калькулятор",
+      description:
+        "Официальные формулы TÜV для класса B: тормозной путь, время реакции, остановочный путь с интерактивным калькулятором на русском.",
+      ogPath: "/ru/formulas.html",
+      locale: "ru_RU",
+    },
+  },
 };
 
 /**

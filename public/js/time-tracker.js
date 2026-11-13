@@ -1,3 +1,47 @@
+
+const STREAK_KEY = "fuehrershein-streak";
+
+function updateStudyStreak() {
+  try {
+    const today = new Date().toISOString().slice(0, 10);
+    const raw = localStorage.getItem(STREAK_KEY);
+    let data = { lastDate: "", count: 0 };
+    if (raw) {
+      try { data = JSON.parse(raw); } catch {}
+    }
+    if (data.lastDate === today) {
+      return data.count || 1;
+    }
+    const yesterday = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+    if (data.lastDate === yesterday) {
+      data.count = (data.count || 0) + 1;
+    } else {
+      data.count = 1;
+    }
+    data.lastDate = today;
+    localStorage.setItem(STREAK_KEY, JSON.stringify(data));
+    return data.count;
+  } catch {
+    return 1;
+  }
+}
+
+function getStudyStreak() {
+  try {
+    const raw = localStorage.getItem(STREAK_KEY);
+    if (!raw) return 1;
+    const data = JSON.parse(raw);
+    const today = new Date().toISOString().slice(0, 10);
+    const yesterday = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+    if (data.lastDate === today || data.lastDate === yesterday) {
+      return data.count || 1;
+    }
+    return 1;
+  } catch {
+    return 1;
+  }
+}
+
 /** Track visible study time across pages (Page Visibility API). */
 const TIME_STORAGE_KEY = "fuehrershein-time";
 const TICK_MS = 1000;
@@ -75,6 +119,9 @@ function getFormattedStudyTime() {
   if (document.visibilityState === "visible") start();
 
   window.getStudyTimeSeconds = () => seconds;
+  window.getStudyStreak = getStudyStreak;
+  window.updateStudyStreak = updateStudyStreak;
+  updateStudyStreak();
   window.formatStudyTime = formatStudyTime;
   window.resetStudyTime = resetTimeSeconds;
 })();

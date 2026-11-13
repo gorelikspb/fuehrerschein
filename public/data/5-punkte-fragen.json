@@ -1,0 +1,2592 @@
+{
+  "id": "5-punkte-fragen",
+  "title": "5-Punkte-Fragen",
+  "titleDe": "5-Punkte-Fragen",
+  "titleRu": "5-балльные вопросы",
+  "themeNumber": "Fokus",
+  "section": "special",
+  "description": "Alle 91 Fragen der Klasse B mit 5 Fehlerpunkten. Wichtig: 2 falsche 5-Punkte-Fragen bedeuten das sofortige Nichtbestehen!",
+  "questionCount": 91,
+  "questions": [
+    {
+      "id": "1.1.02-005",
+      "text": "Mit welchem Verhalten von Kindern müssen Sie an Zebrastreifen rechnen?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sie laufen auf den Zebrastreifen, ohne auf den Verkehr zu achten"
+        },
+        {
+          "id": "B",
+          "text": "Sie kehren ohne erkennbaren Grund auf dem Zebrastreifen um und laufen zurück"
+        },
+        {
+          "id": "C",
+          "text": "Sie schätzen Geschwindigkeit und Entfernung herannahender Fahrzeuge immer richtig ein und warten am Fahrbahnrand"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kinder haben grundsätzlich nicht die nötige Ausbildung, um sich im Straßenverkehr immer regelkonform zu verhalten. Daher ist es ohne Weiteres denkbar, dass sie die Bedeutung eines Zebrastreifens nicht kennen und trotz herannahender Fahrzeuge die Straße betreten oder nach deren Überquerung plötzlich zurücklaufen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-009-B",
+      "text": "Wie müssen Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sofort stark bremsen und bremsbereit bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Mit gleicher Geschwindigkeit weiterfahren, weil die Kinder bestimmt stehen bleiben"
+        },
+        {
+          "id": "C",
+          "text": "Mit gleicher Geschwindigkeit weiterfahren, um einen Nachfolgenden nicht zu behindern"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn plötzlich ein Kind über die Straße rennt, ohne auf den Verkehr zu achten, sollten Sie sofort Ihre Geschwindigkeit drosseln und bremsbereit weiterfahren. Achten Sie auch darauf, ob weitere Kinder folgen. Es ist unbedingt erforderlich, im Schritttempo zu bleiben, um, falls nötig, ganz anhalten zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-009-B.png",
+      "video": null
+    },
+    {
+      "id": "1.1.02-112",
+      "text": "In einem Wohngebiet rollt ein Ball vor Ihr Fahrzeug. Wie müssen Sie reagieren?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bremsen"
+        },
+        {
+          "id": "B",
+          "text": "Weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Ball in einem Wohngebiet vor Ihr Fahrzeug rollt, müssen Sie damit rechnen, dass ein Kind plötzlich auf die Straße läuft. Sie müssen daher bremsen und anhaltebereit sein, da der Vertrauensgrundsatz in diesem Fall nicht gilt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-113",
+      "text": "Sie nähern sich Kindern, die auf dem Gehweg spielen. Wie müssen Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Langsamer fahren und bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Unverändert weiterfahren, um den nachfolgenden Verkehr nicht zu behindern"
+        },
+        {
+          "id": "C",
+          "text": "Hupen und weiterfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Kinder, die auf dem Gehweg spielen, könnten unerwartet auf die Fahrbahn laufen. Der Vertrauensgrundsatz ist daher aufgehoben. Sie müssen die Geschwindigkeit vermindern und bremsbereit sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.02-115",
+      "text": "Müssen Sie hier langsam und bremsbereit fahren?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, da Fahrgäste vor dem Bus die Fahrbahn überqueren könnten"
+        },
+        {
+          "id": "B",
+          "text": "Ja, da Personen, die nicht aus dem Bus kommen, die Fahrbahn überqueren könnten"
+        },
+        {
+          "id": "C",
+          "text": "Ja, da der Bus sofort anfahren wird"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da der Bus an der Haltestelle steht und rechts blinkt, sollten Sie nur sehr vorsichtig an ihm vorbeifahren. Darüber hinaus steht eine Person direkt vor dem Bus und damit in Ihrer unmittelbaren Nähe. Sie müssen außerdem damit rechnen, dass Fahrgäste aus dem Bus aussteigen. Weitere Personen könnten sich dem Bus von der anderen Straßenseite aus nähern und in ihn einsteigen wollen. Sie sollten daher auf jeden Fall Ihr Fahrtempo drosseln, um wenn nötig sofort bremsen zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-115_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-115.mp4"
+    },
+    {
+      "id": "1.1.02-117",
+      "text": "Warum müssen Sie hier verzögern?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Kindes"
+        },
+        {
+          "id": "B",
+          "text": "- des Motorrades"
+        },
+        {
+          "id": "C",
+          "text": "- des Geländewagens"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es ist unklar, was das Kind machen wird. Möglich wäre, dass das Kind auf die Fahrbahn läuft, ohne auf den Verkehr zu achten. Deshalb müssen Sie die Stelle vorsichtig passieren: Fahren Sie sehr langsam und in Bremsbereitschaft.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-117_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.02-117.mp4"
+    },
+    {
+      "id": "1.1.02-119",
+      "text": "Wie sollten Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "1.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf Schrittgeschwindigkeit abbremsen"
+        },
+        {
+          "id": "B",
+          "text": "Bremsbereit bleiben"
+        },
+        {
+          "id": "C",
+          "text": "Unverändert weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Gegenüber Kindern ist im Straßenverkehr immer besondere Vorsicht geboten. Sie müssen in dieser Situation damit rechnen, dass das kleine Kind hinter dem Transporter weiter auf die Straße fährt. Bremsen Sie auf Schrittgeschwindigkeit ab und bleiben Sie aufmerksam und jederzeit bremsbereit. Halten Sie notfalls an, wenn Sie nicht sicher sind, wie sich das Kind verhalten wird. Es wäre grob fahrlässig, hier nur zu hupen und einfach weiterzufahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-119.png",
+      "video": null
+    },
+    {
+      "id": "1.1.03-118",
+      "text": "Was müssen Sie beachten?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "1.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Nebelschlussleuchte einschalten"
+        },
+        {
+          "id": "B",
+          "text": "- höchstens 50 km/h fahren"
+        },
+        {
+          "id": "C",
+          "text": "- höchstens 80 km/h fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Nebel ist hier so dicht, dass Sie nicht weiter als 50 Meter sehen können. Bei einer so eingeschränkten Sicht lassen sich Hindernisse und Gefahrensituationen bei hoher Fahrgeschwindigkeit nicht rechtzeitig genug erkennen. Daher müssen Sie Ihr Tempo auf höchstens 50 km/h drosseln und besonders achtsam fahren. Schalten Sie die Nebelschlussleuchte Ihres Fahrzeugs ein.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-118_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.03-118.mp4"
+    },
+    {
+      "id": "1.1.05-103",
+      "text": "Was müssen Sie beachten?",
+      "points": 5,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Personen könnten die Fahrbahn überqueren"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf am Bus mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf am Bus nicht vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "An einem Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle steht, dürfen Sie nur in Schrittgeschwindigkeit und mit erhöhter Aufmerksamkeit vorbeifahren. Fahrgäste könnten vor dem Bus auf die Straße treten oder herbeihasten, um ihn noch zu erwischen. Dabei achten sie oft nicht auf den Verkehr.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103.mp4"
+    },
+    {
+      "id": "1.1.05-105",
+      "text": "Was müssen Sie in dieser Situation beachten?",
+      "points": 5,
+      "chapter": "Geschwindigkeit",
+      "chapterNumber": "1.1.05",
+      "chapterName": "Geschwindigkeit",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich schaue auf Personen, die auf die Fahrbahn treten könnten"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf am Bus nur mit Schrittgeschwindigkeit vorbeifahren"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf am Bus nicht vorbeifahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Steht ein Bus an einer Haltestelle, müssen Sie sich immer vorsichtig nähern. Sie müssen hinter dem Bus stoppen und dürfen erst in Schrittgeschwindigkeit weiterfahren, wenn Sie sicher niemanden gefährden. Der gesetzte Warnblinker zeigt: Die Haltestelle ist gefährlich. Schulbusse warnen so vor aussteigenden Kindern. Diese könnten plötzlich vor dem Bus hervorkommen und die Fahrbahn überqueren oder zum Bus laufen, um ihn noch zu erwischen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105.mp4"
+    },
+    {
+      "id": "1.1.06-002",
+      "text": "Ist es leichtsinnig, noch kurz vor einer Kreuzung einen Lastzug zu überholen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, weil der Lastzug die Sicht auf wichtige Verkehrszeichen verdecken kann"
+        },
+        {
+          "id": "B",
+          "text": "Ja, weil der Lastzug die Sicht auf den Querverkehr verdeckt"
+        },
+        {
+          "id": "C",
+          "text": "Nein, weil Lastzüge meist langsam fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Kurz vor einer Kreuzung sollten Sie keinesfalls einen Überholvorgang beginnen. Es besteht erhöhte Unfallgefahr. Dies gilt besonders für das Überholen von Lkws. Durch diese können Sie eventuell den Querverkehr oder auch Verkehrszeichen nicht sehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-103",
+      "text": "Welche Fehler machen das Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Die Entfernung eines entgegenkommenden Fahrzeugs wird zu groß eingeschätzt"
+        },
+        {
+          "id": "B",
+          "text": "Der eigene Überholweg wird zu kurz eingeschätzt"
+        },
+        {
+          "id": "C",
+          "text": "Der eigene Überholweg wird zu lang eingeschätzt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Überholmanöver sind auch auf geraden und übersichtlichen Strecken Gefahrensituationen. Das gilt besonders, wenn Gegenverkehr auf Sie zukommt. Die Geschwindigkeit entgegenkommender Fahrzeuge lässt sich schwer einschätzen. Oft wird auch die Dauer des Überholmanövers unterschätzt. Benötigen Sie zu lange, können Gefahrensituationen für Sie und andere entstehen. Bevor Sie zum Überholen eines anderen Fahrzeugs ansetzen, vergewissern Sie sich, dass die Gegenfahrbahn frei ist und Sie das Überholmanöver zügig beenden können. Ansonsten warten Sie ab.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-104",
+      "text": "Wann wird ein Überholender gefährdet?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- plötzlich beschleunigt"
+        },
+        {
+          "id": "B",
+          "text": "- zum Überholen ausschert"
+        },
+        {
+          "id": "C",
+          "text": "- seine Geschwindigkeit stark verringert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie bemerken, dass das hinter Ihnen fahrende Fahrzeug Sie überholen möchte, erhöhen Sie keinesfalls Ihre eigene Geschwindigkeit. Dadurch verlängert sich das Überholmanöver und kann zu Gefahrensituationen führen. Bevor Sie selbst zum Überholen ansetzen, vergewissern Sie sich, dass Ihr Hintermann Sie nicht ebenfalls gerade überholen möchte. Dieser müsste sonst stark bremsen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-105",
+      "text": "In welchen Fällen muss das Überholen abgebrochen werden?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn der Eingeholte plötzlich beschleunigt"
+        },
+        {
+          "id": "B",
+          "text": "Wenn durch unerwarteten Gegenverkehr Gefahr entsteht"
+        },
+        {
+          "id": "C",
+          "text": "Wenn der Eingeholte seine Geschwindigkeit stark verringert"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Plötzlicher Gegenverkehr erfordert es, dass ein Überholvorgang sofort abgebrochen wird. Das Gleiche gilt, wenn das zu überholende Fahrzeug beschleunigt. Dadurch können Sie den Überholweg nicht mehr abschätzen und gefährden bei Fortsetzung den Gegenverkehr. Sollte der zu Überholende seine Geschwindigkeit drosseln, besteht keine Gefahr.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-111",
+      "text": "Warum kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Gegenverkehr schneller fährt als angenommen"
+        },
+        {
+          "id": "B",
+          "text": "- Überholweg länger ist als angenommen"
+        },
+        {
+          "id": "C",
+          "text": "- Gegenverkehr langsamer fährt als angenommen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf gerader Strecke können Sie zwar den entgegenkommenden Verkehr schon von Weitem sehen, oft wird dabei jedoch dessen Geschwindigkeit unterschätzt. Dauert ein Überholmanöver zu lange, können gefährliche Situationen entstehen. Bei Gegenverkehr besser abwarten, bis die Strecke frei ist, bevor Sie überholen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-113",
+      "text": "Wie verhalten Sie sich in dieser Situation?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bleibe hinter dem Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Ich überhole den Radfahrer"
+        },
+        {
+          "id": "C",
+          "text": "Ich hupe, damit der Radfahrer Platz macht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen den Fahrradfahrer nicht überholen: Die durchgehende Mittellinie darf von Ihnen in keinem Fall überschritten werden, auch nicht teilweise. Ebenso dürfen Sie hier keine Hupe einsetzen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-113_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-113.mp4"
+    },
+    {
+      "id": "1.1.06-114",
+      "text": "Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich breche den Überholvorgang ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich führe den Überholvorgang zügig durch"
+        },
+        {
+          "id": "C",
+          "text": "Ich führe den Überholvorgang vorsichtig durch"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie wollen gerade zum Überholen des Radfahrers ansetzen, da fährt der blaue Pkw aus der Parklücke. Offenbar hat er den Radfahrer noch nicht bemerkt. Dieser könnte nun nach links ausweichen, ohne nach hinten zu schauen. Brechen Sie das Überholmanöver unverzüglich ab, um eine Gefährdung des Radfahrers zu vermeiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-114_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.06-114.mp4"
+    },
+    {
+      "id": "1.1.06-124",
+      "text": "Sie möchten in einer schmalen Straße Radfahrer überholen. Wegen der Straßenbreite ist ein Seitenabstand zu ihnen von höchstens 50 cm möglich. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich überhole nicht"
+        },
+        {
+          "id": "B",
+          "text": "Ich gebe vor dem Überholen ein kurzes Warnzeichen"
+        },
+        {
+          "id": "C",
+          "text": "Ich überhole mit mäßiger Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Zur Gefahrenvermeidung müssen Sie als Fahrzeugführer beim Überholen von Fahrradfahrern stets einen ausreichenden Sicherheitsabstand von mindestens 1,50 Metern einhalten. Ist es nicht möglich, in einem solchen Abstand an dem Radfahrer vorbeizufahren, dürfen Sie ihn auf keinen Fall überholen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-125",
+      "text": "Sie möchten Radfahrer überholen. Was ist bei der Wahl des Seitenabstandes zu berücksichtigen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Verhalten der Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Die Geschwindigkeit meines Fahrzeuges"
+        },
+        {
+          "id": "C",
+          "text": "Ein Seitenabstand von 1,0 m ist immer ausreichend"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie einen Radfahrer überholen möchten, müssen Sie hinsichtlich des Seitenabstands Folgendes berücksichtigen: Der Seitenabstand muss mindestens 1,5 m betragen, bei auffälligem Verhalten des Radfahrers mehr. Die Gründe dafür sind mögliche Pendelbewegungen des Radfahrers, aber auch die mögliche Sogwirkung Ihres Fahrzeuges bei höherer Geschwindigkeit. Hupen sowie Überholen bei geringerem Seitenabstand gelten als grobe Fahrlässigkeit.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.06-130",
+      "text": "Weshalb kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "1.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Entfernung eines entgegenkommenden Fahrzeugs als zu groß einschätze"
+        },
+        {
+          "id": "B",
+          "text": "- die Geschwindigkeit eines entgegenkommenden Fahrzeugs als zu gering einschätze"
+        },
+        {
+          "id": "C",
+          "text": "- meinen Überholweg kürzer einschätze, als er ist"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Durch falsches Einschätzen der Geschwindigkeit und Entfernung eines entgegenkommenden Fahrzeugs ist dein Überholweg länger als angenommen. Dadurch können Unfälle entstehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-009",
+      "text": "Sie nähern sich einer Schule. Kinder verlassen das Schulgelände. Womit müssen Sie rechnen?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ausgelassen auf die Fahrbahn stürmen"
+        },
+        {
+          "id": "B",
+          "text": "- mit ihren Fahrrädern unvorsichtig auf die Fahrbahn fahren"
+        },
+        {
+          "id": "C",
+          "text": "- sich immer verkehrsgerecht verhalten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Im Bereich von Schulen müssen Sie immer mit Kindern rechnen, die unvermittelt die Straße überqueren. Kinder können sich und andere Verkehrsteilnehmer noch nicht so gut einschätzen und reagieren oft impulsiv und nicht verkehrsgerecht. Als Autofahrer haben Sie Ihre Fahrweise entsprechend anzupassen, um jede Gefährdung der Kinder auszuschließen. Neben einer niedrigen Fahrgeschwindigkeit müssen Sie vor allem besonders aufmerksam und jederzeit bremsbereit sein.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.1.07-016",
+      "text": "Warum müssen Sie vor dem Rechtsabbiegen warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Fußgängers"
+        },
+        {
+          "id": "B",
+          "text": "- des Radfahrers"
+        },
+        {
+          "id": "C",
+          "text": "- des Transporters"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie rechts abbiegen möchten, müssen Sie Fahrzeugen und Fußgängern die Ihnen von rechts entgegen kommen oder sich in selber Bewegungsrichtung fortbewegen vorrang gewähren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-016_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-016.mp4"
+    },
+    {
+      "id": "1.1.07-017",
+      "text": "Worauf stellen Sie sich in dieser Situation ein?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ausscheren und die Straßenmitte überfahren"
+        },
+        {
+          "id": "B",
+          "text": "- abbremsen und die Straßenmitte nicht überfahren"
+        },
+        {
+          "id": "C",
+          "text": "- überholen, ohne die Straßenmitte zu überfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Da das Ihnen entgegenkommende Fahrzeug durch ein Fahrrad ausgebremst wird, sollten Sie damit rechnen, dass es dieses überholen wird. Wenn es dazu kommt, könnte das Fahrzeug auf Ihre Fahrbahn geraten. Für den Fall, dass der Fahrer nicht abbremst, sollten Sie sich möglichst weit rechts auf der Straße halten. Machen Sie sich zudem bremsbereit, um schnellstmöglich auf jede Situation reagieren zu können.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-017_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-017.mp4"
+    },
+    {
+      "id": "1.1.07-021",
+      "text": "Worauf müssen Sie hier beim Rechtsabbiegen achten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf den Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "Auf den Gegenverkehr"
+        },
+        {
+          "id": "C",
+          "text": "Auf das Motorrad"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bevor Sie hier rechts abbiegen können, müssen Sie den geradeaus fahrenden Radfahrer auf dem Radweg rechts von Ihnen passieren lassen. Fahrradfahrer haben Vorrang, wenn sie in Ihre Richtung fahren. Radler im Gegenverkehr haben keinen Vorrang. Achten Sie dennoch auf sie, um Gefahren zu vermeiden.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-021_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.1.07-021.mp4"
+    },
+    {
+      "id": "1.1.07-132",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- des Transporters"
+        },
+        {
+          "id": "B",
+          "text": "- des Fußgängers"
+        },
+        {
+          "id": "C",
+          "text": "- des Radfahrers"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie wollen links abbiegen. Ein Transporter, der von der Gegenfahrbahn naht, will ebenfalls in diese Straße einbiegen. Das Fahrzeug hat Vorfahrt. Ebenso müssen Sie auf Fußgänger achten, die diese Straße überqueren wollen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-132_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-132.mp4"
+    },
+    {
+      "id": "1.1.07-136",
+      "text": "Wie verhalten Sie sich jetzt?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verzögern und bremsbereit sein"
+        },
+        {
+          "id": "B",
+          "text": "Gleichmäßig weiterfahren"
+        },
+        {
+          "id": "C",
+          "text": "Nach links ausweichen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die weißen Rückfahrscheinwerfer des vor Ihnen abgebogenen Fahrzeugs zeigen an, dass es vermutlich in Rückwärtsfahrt wieder auf seine ursprüngliche Fahrbahn einbiegen möchte. Da Sie nicht wissen können, ob Sie von dem Fahrer wahrgenommen wurden, sollten Sie Ihre Fahrgeschwindigkeit reduzieren und sich bremsbereit halten. Von einem Ausweichmanöver sollten Sie aufgrund des Gegenverkehrs absehen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-136_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-136.mp4"
+    },
+    {
+      "id": "1.1.07-146",
+      "text": "Womit müssen Sie rechnen?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- weiter ausschwenkt"
+        },
+        {
+          "id": "B",
+          "text": "- plötzlich stehen bleibt"
+        },
+        {
+          "id": "C",
+          "text": "- im rechten Fahrstreifen bleibt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie sehen, dass der Lkw vor Ihnen abbiegen will. Das Fahrzeug verdeckt die Sicht auf das Verkehrsgeschehen, daher müssen Sie ihre Geschwindigkeit anpassen. Der Laster schwenkt vermutlich aus, um die Kurve nehmen zu können. Er könnte abrupt stehen bleiben, um Fußgänger oder andere Verkehrsteilnehmer passieren zu lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-146_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-146.mp4"
+    },
+    {
+      "id": "1.1.07-148",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen der Radfahrerin"
+        },
+        {
+          "id": "B",
+          "text": "Wegen des grünen Pkws"
+        },
+        {
+          "id": "C",
+          "text": "Wegen des Fußgängers"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Radfahrerin ist Vorfahrt zu gewähren, weil sie sich auf der Vorfahrtstraße befindet. Warten Sie, bis die Radfahrerin an den Fahrzeugen vorbei und durchgefahren ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-148_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-148.mp4"
+    },
+    {
+      "id": "1.1.07-149",
+      "text": "Weshalb müssen Sie hier warten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "1.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen des roten Pkws"
+        },
+        {
+          "id": "B",
+          "text": "Wegen der Radfahrerin"
+        },
+        {
+          "id": "C",
+          "text": "Wegen des Fußgängers"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Verkehr auf der Vorfahrtstraße staut sich. Der rote Pkw umfährt die stehenden Fahrzeuge, um links abzubiegen. Sie müssen warten und diesen Pkw passieren lassen, da er Vorfahrt hat.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-149_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-149.mp4"
+    },
+    {
+      "id": "1.2.04-101",
+      "text": "Wovon hängt der einzuhaltende Abstand zum vorausfahrenden Fahrzeug ab?",
+      "points": 5,
+      "chapter": "Abstand",
+      "chapterNumber": "1.2.04",
+      "chapterName": "Abstand",
+      "options": [
+        {
+          "id": "A",
+          "text": "Von den Sichtverhältnissen"
+        },
+        {
+          "id": "B",
+          "text": "Von der Geschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "Von der Fahrbahnbeschaffenheit"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Der Abstand zum Vorderfahrzeug ist von der Geschwindigkeit sowie den Sicht- und Fahrbahnverhältnissen abhängig. Als Daumenregel gilt, dass Sie mindestens die Hälfte Ihrer Geschwindigkeit in km/h als Abstand in Metern einhalten sollten. Bei schlechten Sicht- oder Straßenverhältnissen sollte der Abstand vergrößert werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.04-102",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Abstand",
+      "chapterNumber": "1.2.04",
+      "chapterName": "Abstand",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bremse ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich vergrößere den Abstand zum Einscherenden"
+        },
+        {
+          "id": "C",
+          "text": "Ich behalte meine Geschwindigkeit bei"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn ein Fahrer vor Ihnen plötzlich einschert und den Sicherheitsabstand zwischen ihm und Ihrem Fahrzeug verringert, müssen Sie abbremsen, bis der Abstand wieder gewährleistet ist.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-102_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-102.mp4"
+    },
+    {
+      "id": "1.2.04-103",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Abstand",
+      "chapterNumber": "1.2.04",
+      "chapterName": "Abstand",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich verringere die Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich behalte die Geschwindigkeit bei"
+        },
+        {
+          "id": "C",
+          "text": "Ich beschleunige"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn Sie von einem Pkw überholt werden, dürfen Sie Ihr Tempo nicht erhöhen. Sie sollten im Gegenteil Ihre Geschwindigkeit drosseln, um das überholende Auto so schnell wie möglich wieder einscheren zu lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-103_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-103.mp4"
+    },
+    {
+      "id": "1.2.06-004",
+      "text": "Warum sollten Sie hier besonders langsam fahren?",
+      "points": 5,
+      "chapter": "Vorbeifahren",
+      "chapterNumber": "1.2.06",
+      "chapterName": "Vorbeifahren",
+      "options": [
+        {
+          "id": "A",
+          "text": "- der Lkw die Fahrspur verengt"
+        },
+        {
+          "id": "B",
+          "text": "- Personen die Fahrbahn betreten"
+        },
+        {
+          "id": "C",
+          "text": "- ich mich einer Ampelkreuzung nähere"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vor Ihnen verengt ein haltender Lkw die Fahrbahn. Die Sicht aufs Verkehrsgeschehen ist eingeschränkt. Vor dem Lkw überqueren Fußgänger die Straße, die Sie möglicherweise zu spät wahrnehmen, da auch ihre Sicht blockiert ist. Umfahren Sie das Hindernis daher besonders langsam und vorsichtig.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.06-004_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.06-004.mp4"
+    },
+    {
+      "id": "1.2.06-005",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Vorbeifahren",
+      "chapterNumber": "1.2.06",
+      "chapterName": "Vorbeifahren",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warten, weil der Seitenabstand zum Radfahrer sonst zu gering ist"
+        },
+        {
+          "id": "B",
+          "text": "Mit mäßiger Geschwindigkeit weiterfahren, weil der Seitenabstand zum Radfahrer sehr gering ist"
+        },
+        {
+          "id": "C",
+          "text": "Gleichmäßig weiterfahren, weil der Seitenabstand zum Radfahrer ausreichend ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie wollen die am rechten Fahrbahnrand abgestellten Fahrzeuge umfahren. Doch das ist erst möglich, wenn der entgegenkommende Fahrradfahrer an Ihnen vorbeigefahren ist. Sie könnten sonst nicht den nötigen Seitenabstand einhalten und müssen daher warten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-005_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-005.mp4"
+    },
+    {
+      "id": "1.2.06-006",
+      "text": "Wie sollten Sie sich jetzt verhalten?",
+      "points": 5,
+      "chapter": "Vorbeifahren",
+      "chapterNumber": "1.2.06",
+      "chapterName": "Vorbeifahren",
+      "options": [
+        {
+          "id": "A",
+          "text": "- wenn zu erkennen ist, dass kein Gegenverkehr kommt"
+        },
+        {
+          "id": "B",
+          "text": "- um möglichen Gegenverkehr nicht aufzuhalten"
+        },
+        {
+          "id": "C",
+          "text": "- da möglicher Gegenverkehr bereits warten muss"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ihre Sicht ist durch den Transporter eingeschränkt und Sie können nicht erkennen, ob Ihnen Fahrzeuge entgegenkommen. Vor dem Weiterfahren müssen Sie sich vergewissern, dass sich kein Gegenverkehr nähert. Sie sind wartepflichtig, da sich die Baustelle auf Ihrem Fahrstreifen befindet.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-006_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-006.mp4"
+    },
+    {
+      "id": "1.2.09-121",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Abbiegen Wenden Und Rueckwaertsfahren",
+      "chapterNumber": "1.2.09",
+      "chapterName": "Abbiegen Wenden Und Rueckwaertsfahren",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss an der Haltlinie anhalten"
+        },
+        {
+          "id": "B",
+          "text": "Ich muss den Radfahrer durchfahren lassen"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf vor dem Radfahrer abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Vor dem Verkehrszeichen \"Halt! Vorfahrt gewähren!\", umgangssprachlich Stoppschild, muss stets angehalten werden. Meistens ist eine Haltelinie vorhanden. Die Räder müssen zumindest kurz stillstehen. Der Querverkehr hat Vorfahrt - als Nächstes der Radfahrer auf der gegenüberliegenden Seite. Als Linksabbieger haben Sie ihm Vorfahrt zu gewähren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-121.png",
+      "video": null
+    },
+    {
+      "id": "1.2.09-127",
+      "text": "Warum müssen Sie jetzt bremsen?",
+      "points": 5,
+      "chapter": "Abbiegen Wenden Und Rueckwaertsfahren",
+      "chapterNumber": "1.2.09",
+      "chapterName": "Abbiegen Wenden Und Rueckwaertsfahren",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen des Motorrads"
+        },
+        {
+          "id": "B",
+          "text": "Wegen des Transporters"
+        },
+        {
+          "id": "C",
+          "text": "Wegen der Radfahrerin"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der Motorradfahrer kommt mit hoher Geschwindigkeit von links. Wahrscheinlich hat er Sie wegen des entgegenkommenden Fahrzeugs nicht gesehen. Obwohl Sie Vorfahrt haben, müssen Sie abbremsen, da es sonst zu einem Unfall kommt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-127_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-127.mp4"
+    },
+    {
+      "id": "1.2.11-104",
+      "text": "Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Besondere Verkehrslagen",
+      "chapterNumber": "1.2.11",
+      "chapterName": "Besondere Verkehrslagen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vor dem Linksabbiegen warten und den Bereich der Mittelinsel frei halten"
+        },
+        {
+          "id": "B",
+          "text": "Flüssig abbiegen, um die Nachfolgenden nicht zu behindern"
+        },
+        {
+          "id": "C",
+          "text": "Zunächst im Bereich der Mittelinsel warten, wo der andere Pkw steht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Führen Straßenbahnschienen durch die Linksabbiegerspur und Sie wollen bei herannahender Straßenbahn links abbiegen, gilt es, mit genügend Abstand vor den Straßenbahnschienen zu warten. Ist die Straßenbahn vorbei, können Sie links abbiegen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-104_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-104.mp4"
+    },
+    {
+      "id": "1.2.11-105",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Besondere Verkehrslagen",
+      "chapterNumber": "1.2.11",
+      "chapterName": "Besondere Verkehrslagen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verzögern"
+        },
+        {
+          "id": "B",
+          "text": "Beschleunigen"
+        },
+        {
+          "id": "C",
+          "text": "Nach links ausscheren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Fährt vor Ihnen ein Fahrradfahrer, der nach links ausscheren wird, dürfen Sie ihn nicht überholen, wenn die Fahrbahn an dieser Stelle verengt ist und es Gegenverkehr gibt. Ein Sicherheitsabstand von 1,5 bis 2 Meter wäre hier nicht mehr einzuhalten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-105_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-105.mp4"
+    },
+    {
+      "id": "1.2.20-001",
+      "text": "An einer Straßenbahnhaltestelle steigen Fahrgäste auf der Fahrbahn ein und aus. Wie verhalten Sie sich, wenn Sie rechts vorbeifahren wollen?",
+      "points": 5,
+      "chapter": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "chapterNumber": "1.2.20",
+      "chapterName": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warten, wenn Fahrgäste gefährdet oder behindert werden könnten"
+        },
+        {
+          "id": "B",
+          "text": "Vorsichtig mit Schrittgeschwindigkeit vorbeifahren, wenn eine Gefährdung von Fahrgästen ausgeschlossen ist und sie auch nicht behindert werden"
+        },
+        {
+          "id": "C",
+          "text": "Deutlich Warnzeichen geben und weiterfahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahrgäste der Straßenbahn, die an einer Haltestelle von der Straßenbahn aussteigen und zum Bürgersteig gehen oder sich vom Gehweg zur Straßenbahn begeben, haben absoluten Vorrang vor dem Fahrzeugverkehr. Sie als Kfz-FahrerIn haben zu warten. Erst wenn eine Behinderung oder Gefährdung von Fahrgästen auszuschließen ist, dürfen Sie vorsichtig in Schrittgeschwindigkeit an der Straßenbahn vorbeigefahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.20-003",
+      "text": "Wie verhalten Sie sich, wenn ein Bus an einer Haltestelle hält und Warnblinklicht eingeschaltet ist?",
+      "points": 5,
+      "chapter": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "chapterNumber": "1.2.20",
+      "chapterName": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nur mit Schrittgeschwindigkeit weiterfahren, nötigenfalls anhalten"
+        },
+        {
+          "id": "B",
+          "text": "Beim Vorbeifahren durch ausreichenden Abstand eine Gefährdung von Fahrgästen ausschließen"
+        },
+        {
+          "id": "C",
+          "text": "Warten, wenn Fahrgäste behindert werden könnten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ein Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle hält, darf nur in Schrittgeschwindigkeit passiert werden. Das Gebot der Schrittgeschwindigkeit gilt auch für den Gegenverkehr. Fahren Sie in einem Abstand an dem Bus vorbei, der eine Gefährdung oder Behinderung von Fahrgästen ausschließt. Warten Sie, falls erforderlich. Ein ausreichender Abstand verbessert die Sicht, um hervortretende Fußgänger zu sehen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.20-102",
+      "text": "Welches Verhalten ist jetzt richtig?",
+      "points": 5,
+      "chapter": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "chapterNumber": "1.2.20",
+      "chapterName": "Oeffentliche Verkehrsmittel Und Schulbusse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bleibe zunächst hinter dem Bus"
+        },
+        {
+          "id": "B",
+          "text": "Ich überhole den Bus mit mäßiger Geschwindigkeit"
+        },
+        {
+          "id": "C",
+          "text": "Ich wechsle den Fahrstreifen ohne sofort zu überholen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie müssen Ihr Tempo drosseln und zunächst hinter dem Bus bleiben. Solange der Bus mit eingeschaltetem Warnblinklicht fährt, dürfen Sie den Bus nicht überholen. Sie können auch nicht den Fahrstreifen wechseln, weil links neben Ihnen ein Fahrzeug ist, das Sie gerade überholt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-102_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-102.mp4"
+    },
+    {
+      "id": "1.2.26-111",
+      "text": "In welchen Fällen müssen Sie an einen Fußgängerüberweg besonders vorsichtig heranfahren?",
+      "points": 5,
+      "chapter": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "chapterNumber": "1.2.26",
+      "chapterName": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wenn Fußgänger die Fahrbahn überqueren wollen"
+        },
+        {
+          "id": "B",
+          "text": "Wenn die Sicht auf den Fußgängerüberweg eingeschränkt ist"
+        },
+        {
+          "id": "C",
+          "text": "Wenn ein anderes Fahrzeug bereits vor dem Fußgängerüberweg wartet"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Generell müssen sich Kfz-FahrerInnen einem Fußgängerüberweg vorsichtig nähern. Besondere Vorsicht ist geboten, wenn Personen die Fahrbahn überqueren wollen oder die Sicht auf den Fußgängerüberweg eingeschränkt ist, bspw. durch ein bereits wartendes Fahrzeug vor dem Fußgängerüberweg. Sie dürfen in keinem Fall dieses Fahrzeug überholen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.26-113",
+      "text": "Eine Person will die Fahrbahn auf dem Fußgängerüberweg überqueren. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "chapterNumber": "1.2.26",
+      "chapterName": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bereite mich auf das Anhalten vor"
+        },
+        {
+          "id": "B",
+          "text": "Ich überhole nicht"
+        },
+        {
+          "id": "C",
+          "text": "Ich überhole wartende Fahrzeuge mit besonderer Vorsicht"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Fahren Sie mit gemäßigter Geschwindigkeit an den Fußgängerüberweg heran und signalisieren Sie damit, dass Sie Ihrer Wartepflicht nachkommen. Sofern Blickkontakt zum Fußgänger besteht, unterstreichen Sie dies mit Gesten. Reicht die Drosselung der Geschwindigkeit nicht, um dem Fußgänger den Überweg zu ermöglichen, haben Sie Haltepflicht. Vor und auf Fußgängerüberwegen darf kein anderes Fahrzeug überholt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.26-114",
+      "text": "Wie verhalten Sie sich in dieser Situation?",
+      "points": 5,
+      "chapter": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "chapterNumber": "1.2.26",
+      "chapterName": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich lasse den Fußgänger die Fahrbahn überqueren"
+        },
+        {
+          "id": "B",
+          "text": "Ich warte vor dem Fußgängerüberweg, bis das blaue Fahrzeug abgebogen ist"
+        },
+        {
+          "id": "C",
+          "text": "Ich schließe unmittelbar zum blauen Fahrzeug auf"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn an einem Fußgängerüberweg eindeutig ein Fußgänger die Straße überqueren will, müssen Sie sich in mäßigem Tempo nähern und warten. Bei stockendem Verkehr dürfen Sie nicht auf einem Fußgängerüberweg anhalten. Sie müssen in einem solchen Fall auch Einmündungen und Kreuzungen freihalten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-114.png",
+      "video": null
+    },
+    {
+      "id": "1.2.26-116",
+      "text": "Sie fahren auf einer Straße mit zwei Fahrstreifen in einer Richtung auf dem linken Fahrstreifen. Vor einem ca. 30 m entfernten Fußgängerüberweg hält auf dem rechten Fahrstreifen ein Lkw an. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "chapterNumber": "1.2.26",
+      "chapterName": "Verhalten An Fussgaengerueberwegen Und Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich fahre mit mäßiger Geschwindigkeit heran"
+        },
+        {
+          "id": "B",
+          "text": "Ich gebe Warnzeichen und fahre am Lkw vorbei"
+        },
+        {
+          "id": "C",
+          "text": "Ich fahre zügig weiter"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Vor und auf Fußgängerüberwegen darf in keinem Fall ein Fahrzeug überholt werden. Der Lkw versperrt die Sicht auf den Fußgängerüberweg. Möglicherweise lässt er Fußgänger die Straße überqueren. Selbst wenn er in einer anderen Fahrspur steht, darf er nicht überholt werden. Fahren Sie mit gemäßigter Geschwindigkeit an den Fußgängerüberweg heran, bereit zum Halt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.2.37-013",
+      "text": "Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Wechsellichtzeichen Und Dauerlichtzeichen",
+      "chapterNumber": "1.2.37",
+      "chapterName": "Wechsellichtzeichen Und Dauerlichtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weiterfahren"
+        },
+        {
+          "id": "B",
+          "text": "Abbremsen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Ampel springt unmittelbar vor Ihnen von Grün auf Gelb. Ihre Geschwindigkeit beträgt 45 km/h. Sie sind zu schnell, um noch vor der Ampel abbremsen zu können. Außerdem befindet sich hinter Ihnen ein Lkw, der beim abrupten Bremsmanöver auffahren könnte. Fahren Sie zügig weiter.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-013_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-013.mp4"
+    },
+    {
+      "id": "1.2.37-017",
+      "text": "Wie sollten Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Wechsellichtzeichen Und Dauerlichtzeichen",
+      "chapterNumber": "1.2.37",
+      "chapterName": "Wechsellichtzeichen Und Dauerlichtzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abbremsen"
+        },
+        {
+          "id": "B",
+          "text": "Weiterfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Vor sich sehen Sie eine von Grün auf Gelb wechselnde Ampel. Sie fahren mit 40 km/h darauf zu. Da Sie noch weit genug von der Ampel entfernt sind, müssen Sie abbremsen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-017_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-017.mp4"
+    },
+    {
+      "id": "1.3.01-001",
+      "text": "An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Straßenkreuzungen und -einmündungen"
+        },
+        {
+          "id": "B",
+          "text": "An Grundstücksausfahrten"
+        },
+        {
+          "id": "C",
+          "text": "Am Ende eines verkehrsberuhigten Bereiches"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt „rechts vor links“. Wenn ein Fahrzeug aus einem Grundstück oder einem verkehrsberuhigten Bereich hinausfährt, haben alle anderen Verkehrsteilnehmer Vorrang, auch Fußgänger und Kinder, die auf dem Gehweg fahren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-002",
+      "text": "An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "An Straßenkreuzungen und -einmündungen"
+        },
+        {
+          "id": "B",
+          "text": "An Einmündungen mit abgesenktem Bordstein"
+        },
+        {
+          "id": "C",
+          "text": "Wo Feld- oder Waldwege in eine andere Straße münden"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An Kreuzungen und Einmündungen ohne Vorfahrtsschilder haben die von rechts kommenden Fahrzeuge Vorfahrt. Gleiches gilt für Straßen, die gemäß ihrer Beschilderung gleichrangig sind. Eine Ausnahme bilden Fahrbahnen mit abgesenktem Bordstein, Grundstücksausfahrten sowie Feld- und Waldwege. Befinden Sie sich auf einer dieser Straßen, haben Sie den anderen Verkehrsteilnehmern Vorrang zu gewähren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-003",
+      "text": "Sie kommen an eine Kreuzung, an der Sie die Vorfahrtlage nicht gleich überblicken. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warten, beobachten und sich gegebenenfalls mit anderen verständigen"
+        },
+        {
+          "id": "B",
+          "text": "Nach der Regel „rechts vor links“ fahren"
+        },
+        {
+          "id": "C",
+          "text": "Als Geradeausfahrer immer durchfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Es gibt Situationen, die bezüglich der Vorfahrtsregelung schwierig zu überblicken sind. Hier sollten Sie abwarten und die anderen Kfz-FahrerInnen beobachten. Falls sich die Lage nicht klärt, kann man durch deutliche Handzeichen miteinander kommunizieren. Einfach geradeaus weiterzufahren oder nach der Regel \"rechts vor links\" zu agieren, wäre zu riskant und unfallträchtig.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-052",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss die Radfahrerin durchfahren lassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich verzichte auf meine Vorfahrt, um die Kreuzung nicht zu verstopfen"
+        },
+        {
+          "id": "C",
+          "text": "Ich darf vor der Radfahrerin links abbiegen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aufgrund der Regel \"rechts vor links\" hätten Sie gegenüber dem grünen Pkw Vorrang. Allerdings müssen Sie dem entgegenkommenden Radfahrer, dessen Fahrbahn Sie kreuzen würden, Vorfahrt gewähren. Um den Verkehrsfluss zu gewährleisten, empfiehlt es sich daher, auch den/die FahrerIn des grünen Pkw zuerst in die Kreuzung einfahren zu lassen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-052.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-053",
+      "text": "Sie möchten nach rechts in eine Vorfahrtstraße einbiegen. Worauf müssen Sie achten?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf von links und von rechts kommende Fahrzeuge"
+        },
+        {
+          "id": "B",
+          "text": "Auf Radfahrer und Fußgänger, die rechts neben oder noch hinter Ihnen sind"
+        },
+        {
+          "id": "C",
+          "text": "Nur auf die von links kommenden Fahrzeuge"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn Sie rechts in eine Vorfahrtsstraße einbiegen, müssen Sie sämtlichen Verkehrsteilnehmern den Vorrang gewähren. Dies betrifft sowohl Fahrzeuge, die von rechts kommen, als auch solche, die von links vorbeifahren. Darüber hinaus sollten Sie unbedingt auf Radfahrer und Fußgänger aufpassen, die sich rechts von Ihnen befinden oder die hinter Ihnen unterwegs sind.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.3.01-112",
+      "text": "Sie wollen nach links abbiegen. Wer muss warten?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Das blaue Fahrzeug muss warten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt die Regelung „rechts vor links“. Feld- und Waldwege sind jedoch untergeordnete Verkehrswege. Wenn Sie aus einem Feld- oder Waldweg auf eine Straße abbiegen möchten, müssen Sie warten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-112.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-113",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Der Radfahrer muss warten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn Sie in einen Kreisverkehr einbiegen möchten, werden Sie durch das Verkehrszeichen „Vorfahrt gewähren“ aufgefordert, zu warten. Die im Kreis fahrenden Verkehrsteilnehmer haben hier Vorfahrt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-113.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-115",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss warten"
+        },
+        {
+          "id": "B",
+          "text": "Der Radfahrer muss warten"
+        },
+        {
+          "id": "C",
+          "text": "Ich muss an der Sichtlinie anhalten"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Wenn ein Verkehrsteilnehmer von rechts kommt, müssen Sie die Vorfahrtsregel „rechts vor links“ beachten und warten. Dies gilt auch, wenn es sich um eine/n FahrradfahrerIn handelt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.3.01-115.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-116",
+      "text": "Welches Verhalten ist richtig?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss den Radfahrer durchfahren lassen"
+        },
+        {
+          "id": "B",
+          "text": "Ich darf vor dem Radfahrer abbiegen"
+        },
+        {
+          "id": "C",
+          "text": "Der blaue Lkw darf zuerst fahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "An dieser Stelle ist die Vorfahrt nicht durch Verkehrszeichen geregelt. Daher gilt an dieser Kreuzung rechts vor links. Hier hat der geradeaus fahrende Radfahrer/die Radfahrerin Vorrang vor Ihnen, da Sie abbiegen wollen. Der von links kommende Lkw darf zuletzt fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-116.png",
+      "video": null
+    },
+    {
+      "id": "1.3.01-119",
+      "text": "Sie möchten eine Vorfahrtstraße überqueren. Die Sicht nach beiden Seiten ist durch parkende Fahrzeuge stark eingeschränkt. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Vorfahrt Vorrang",
+      "chapterNumber": "1.3.01",
+      "chapterName": "Vorfahrt Vorrang",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich taste mich vorsichtig in die Kreuzung hinein"
+        },
+        {
+          "id": "B",
+          "text": "Ich überquere die Kreuzung zügig"
+        },
+        {
+          "id": "C",
+          "text": "Ich warne den kreuzenden Verkehr durch Hupen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei eingeschränkter Sicht dürfen Sie nur vorsichtig weiterfahren. Tasten Sie sich langsam in die Kreuzung hinein, bis Sie die Vorfahrtstraße einsehen können. So handeln Sie verantwortlich.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "1.4.40-006",
+      "text": "Welches Verhalten verlangt dieses Verkehrszeichen von Ihnen?",
+      "points": 5,
+      "chapter": "Gefahrzeichen",
+      "chapterNumber": "1.4.40",
+      "chapterName": "Gefahrzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Höchste Aufmerksamkeit"
+        },
+        {
+          "id": "B",
+          "text": "Bremsbereitschaft"
+        },
+        {
+          "id": "C",
+          "text": "Geschwindigkeit vermindern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Das Zeichen weist Sie auf eine Schule, einen Kindergarten oder einen Spielplatz in der Nähe hin. Hier müssen Sie mit angepasster Geschwindigkeit und erhöhter Aufmerksamkeit fahren. Kinder könnten unvermittelt auf die Fahrbahn laufen, ohne auf das Verkehrsgeschehen zu achten. Seien Sie stets bremsbereit.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-006.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-008",
+      "text": "Sie nähern sich einer so gekennzeichneten Haltestelle. Wie verhalten Sie sich, wenn Sie dort Kinder sehen?",
+      "points": 5,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geschwindigkeit vermindern und bremsbereit bleiben"
+        },
+        {
+          "id": "B",
+          "text": "Eine Verminderung der Geschwindigkeit ist nur erforderlich, wenn dort ein Schulbus hält"
+        },
+        {
+          "id": "C",
+          "text": "Die Geschwindigkeit muss nicht vermindert werden, wenn ein Bus in einer Haltebucht hält"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei dieser Haltestelle handelt es sich um eine Bus-Haltestelle, an der zu den angegebenen Zeiten Schulbusse verkehren. Wenn Sie sich dieser Haltestelle nähern, müssen Sie mit Kindern rechnen, die plötzlich auf die Fahrbahn laufen; der Vertrauens-Grundsatz gilt in diesem Fall nicht. Steht ein Schulbus in der Haltebucht oder an der Straße, müssen Sie als Kfz-FahrerIn bremsbereit sein; Sie dürfen nur in Schrittgeschwindigkeit vorbeifahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-008.png",
+      "video": null
+    },
+    {
+      "id": "1.4.41-109",
+      "text": "Etwa 80 m vor Ihnen hält ein Schulbus auf der Fahrbahn. Können daraus Gefahren entstehen?",
+      "points": 5,
+      "chapter": "Vorschriftzeichen",
+      "chapterNumber": "1.4.41",
+      "chapterName": "Vorschriftzeichen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ja, weil Kinder häufig über die Straße rennen, um den Bus noch zu erreichen"
+        },
+        {
+          "id": "B",
+          "text": "Ja, weil Kinder nicht immer auf kürzestem Weg die Fahrbahn überqueren"
+        },
+        {
+          "id": "C",
+          "text": "Nein, weil an jeder Schulbushaltestelle Schülerlotsen den Verkehr sichern"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Wenn in rund 80 m Entfernung vor Ihnen ein Schulbus auf der Fahrbahn hält, müssen Sie mit folgender Gefahr rechnen: Kinder könnten plötzlich auf/über die Fahrbahn laufen, um beispielsweise auf kürzestem Weg den Bus zu erreichen. Diese Gefahr besteht auch dann, wenn Schülerlotsen den Verkehr sichern. Sie müssen bremsbereit sein und dürfen nur in Schrittgeschwindigkeit am Schulbus vorbeifahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.41-109.png",
+      "video": null
+    },
+    {
+      "id": "2.1.02-004",
+      "text": "Wie verhalten Sie sich jetzt richtig?",
+      "points": 5,
+      "chapter": "Verhalten Gegenueber Fussgaengern",
+      "chapterNumber": "2.1.02",
+      "chapterName": "Verhalten Gegenueber Fussgaengern",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich halte an"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre unverändert weiter"
+        },
+        {
+          "id": "C",
+          "text": "Ich beschleunige"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Beim Rechtsabbiegen musst du immer darauf achten, ob sich Fußgänger oder Radfahrer nähern. Sie dürfen vor dir die Straße überqueren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.1.02-004_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.1.02-004.mp4"
+    },
+    {
+      "id": "2.1.03-015",
+      "text": "Was kann auf nasser Fahrbahn zu Aquaplaning (Wasserglätte) führen?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hohe Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Abgefahrene Reifen"
+        },
+        {
+          "id": "C",
+          "text": "Spurrillen in der Fahrbahn"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Aquaplaning - auch als Wasserglätte bezeichnet - entsteht dann, wenn die Profiltiefe der Reifen zu gering ist, um die angestaute Wassermenge zu verdrängen oder dadurch, dass die abzuleitende Wassermenge aufgrund einer hohen Geschwindigkeit (ab 60 km/h) zu groß ist. Darüber hinaus können Spurrillen in der Fahrbahn, in denen sich Wasser ansammelt, diesen Effekt zusätzlich begünstigen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.03-023",
+      "text": "Warum müssen Sie bei starkem Regen die Geschwindigkeit verringern?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil der Bremsweg länger wird"
+        },
+        {
+          "id": "B",
+          "text": "Weil die Sicht schlechter wird"
+        },
+        {
+          "id": "C",
+          "text": "Weil Aquaplaning (Wasserglätte) auftreten kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Wasser auf der Windschutzscheibe oder dem Visier bricht das Licht und verschlechtert die Sicht, aufgewirbeltes Wasser behindert ebenfalls die Sicht. Der Bremsweg ist auf nassen Straßen wegen geringerer Bodenhaftung länger. Das Profil der Reifen leitet das Wasser ab. Bei hoher Geschwindigkeit wird die abzuleitende Wassermenge zu groß, es besteht die Gefahr des Aquaplanings. Dabei besteht kein Kontakt zwischen Fahrbahn und Reifen. Das Fahrzeug lässt sich nicht mehr kontrollieren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.03-028",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bremse"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre möglichst weit rechts"
+        },
+        {
+          "id": "C",
+          "text": "Ich bleibe in der Mitte meines Fahrstreifens"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Während des Überholens eines Radfahrers gerät der entgegenkommende Lkw zum Teil auch auf Ihren Fahrstreifen. Bremsen Sie ab und fahren Sie möglichst weit rechts.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-028_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-028.mp4"
+    },
+    {
+      "id": "2.1.03-101",
+      "text": "Wo tritt besonders häufig Aquaplaning (Wasserglätte) auf?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "In Fahrbahnsenken"
+        },
+        {
+          "id": "B",
+          "text": "Bei Spurrillen in der Fahrbahn"
+        },
+        {
+          "id": "C",
+          "text": "An Bahnübergängen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Ist die Geschwindigkeit zu hoch und/oder mehr Wasser vorhanden, als von den Reifenprofilen abgeleitet werden kann, entsteht Aquaplaning. Ein Wasserfilm verhindert den Kontakt von Reifen und Fahrbahn. Das Fahrzeug ist nicht mehr kontrollierbar. Die Gefahr des Aquaplanings besteht insbesondere in Spurrillen und Fahrbahnsenken. An Bahnübergängen besteht in der Regel keine erhöhte Gefahr für Aquaplaning, Wasser kann dort meist gut ablaufen.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.03-102",
+      "text": "Wozu führt Aquaplaning (Wasserglätte)?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "Das Fahrzeug lässt sich nicht mehr lenken und abbremsen"
+        },
+        {
+          "id": "B",
+          "text": "Das Fahrzeug kann von der Fahrbahn abkommen"
+        },
+        {
+          "id": "C",
+          "text": "Die Lenkung wird schwergängig"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aquaplaning oder Wasserglätte kann dazu führen, dass weder Brems- noch Lenkkräfte vom Fahrzeug auf die Fahrbahn übertragen werden. Dadurch ist ein bewusstes Steuern des Fahrzeugs nicht mehr möglich. Es kann ins Schleudern geraten. Verursacht wird dieser Effekt durch eine Art Wasserkeil, der sich zwischen Reifen und Fahrbahn schiebt.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.03-117",
+      "text": "Sie fahren auf der Autobahn. Was ist in dieser Situation richtig?",
+      "points": 5,
+      "chapter": "Fahrbahn Und Witterungsverhaeltnisse",
+      "chapterNumber": "2.1.03",
+      "chapterName": "Fahrbahn Und Witterungsverhaeltnisse",
+      "options": [
+        {
+          "id": "A",
+          "text": "- die Nebelschlussleuchte einschalten"
+        },
+        {
+          "id": "B",
+          "text": "- höchstens 50 km/h fahren"
+        },
+        {
+          "id": "C",
+          "text": "- höchstens 80 km/h fahren"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Durch die stark eingeschränkte Sicht auf der Autobahn darfst du deine Nebelschlussleuchte einschalten und höchstens 50 km/h fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-117_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-117.mp4"
+    },
+    {
+      "id": "2.1.06-002",
+      "text": "Warum kann es gefährlich sein, wenn Sie als Letzter einer Kolonne sofort überholen, nachdem der Gegenverkehr gerade abgerissen ist?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil Sie damit rechnen müssen, dass auch andere zum Überholen ausscheren"
+        },
+        {
+          "id": "B",
+          "text": "Weil der Überholweg nicht ausreichen könnte"
+        },
+        {
+          "id": "C",
+          "text": "Weil ein eventuell notwendiges Wiedereinscheren in die Kolonne zu einem Unfall führen kann"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Hat sich eine Kolonne gebildet, sollte grundsätzlich der Reihe nach überholt werden. Der Letzte einer Kolonne hat den längsten Überholweg und muss zudem damit rechnen, dass Fahrzeuge vor ihm zum Überholen ausscheren.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.06-006-B",
+      "text": "Der Überholende hat sich offensichtlich verschätzt. Was müssen Sie tun?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sofort bremsen und nach rechts ausweichen"
+        },
+        {
+          "id": "B",
+          "text": "Wie bisher weiterfahren"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der/die Kfz-FahrerIn sollte die Geschwindigkeit reduzieren. Ansonsten besteht die Gefahr des Unfalls. Reicht dies nicht, sollten Sie zusätzlich auf den rechts liegenden Grünstreifen ausweichen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/2.1.06-006-B.png",
+      "video": null
+    },
+    {
+      "id": "2.1.06-010",
+      "text": "Sie werden überholt und der Gegenverkehr kommt gefährlich nahe. Trotzdem setzt das andere Fahrzeug den Überholvorgang fort. Wie verhalten Sie sich?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- verringere die Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "- behalte die Geschwindigkeit bei"
+        },
+        {
+          "id": "C",
+          "text": "- erhöhe die Geschwindigkeit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie müssen abbremsen und äußerst rechts fahren, damit der/die überholende Kfz-FahrerIn noch rechtzeitig einscheren kann. Auf keinen Fall dürfen Sie die Geschwindigkeit erhöhen, wenn Sie überholt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.06-013",
+      "text": "Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich breche den Überholvorgang ab und bleibe hinter dem Lkw"
+        },
+        {
+          "id": "B",
+          "text": "Ich beschleunige und setze den Überholvorgang zügig fort"
+        },
+        {
+          "id": "C",
+          "text": "Ich behalte die Geschwindigkeit bei und setze den Überholvorgang fort"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie haben den Blinker bereits gesetzt und möchten den Lkw überholen. Im Rückspiegel sehen Sie, wie sich ein roter Pkw mit hoher Geschwindigkeit auf dem linken Fahrstreifen nähert. Sie müssen den Überholvorgang sofort abbrechen und hinter dem Lkw bleiben. Setzen Sie ihn fort, zwingen Sie den roten Pkw zum starken Abbremsen. Er könnte auf Ihr Fahrzeug auffahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-013_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-013.mp4"
+    },
+    {
+      "id": "2.1.06-014",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich setze den Überholvorgang zügig fort"
+        },
+        {
+          "id": "B",
+          "text": "Ich breche den Überholvorgang ab und schere wieder nach rechts ein"
+        },
+        {
+          "id": "C",
+          "text": "Ich bremse, setze den Überholvorgang aber fort"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Bei sich schnell annährenden Fahrzeugen von hinten gilt es sich nicht aus der Ruhe bringen zu lassen, den Überholvorgang abzuschließen und bei der nächsten Möglichgkeit den Fahrstreifen frei zu machen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-014_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-014.mp4"
+    },
+    {
+      "id": "2.1.06-015",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.1.06",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich überhole den Transporter und wechsle dann auf den mittleren Fahrstreifen"
+        },
+        {
+          "id": "B",
+          "text": "Ich wechsle sofort auf den Fahrstreifen nach rechts"
+        },
+        {
+          "id": "C",
+          "text": "Ich fordere den Nachfolgenden durch leichtes Bremsen auf, mehr Abstand herzustellen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Ein/eine Pkw-FahrerIn fährt auf dem linken Fahrstreifen gefährlich dicht zu Ihnen auf und signalisiert Ihnen durch Lichthupe seine/ihre Überholabsicht. Sie sollten den Transporter auf der mittleren Fahrbahn noch überholen und sich dann vor ihm einordnen, um die Situation zu entschärfen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-015_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.06-015.mp4"
+    },
+    {
+      "id": "2.1.07-017",
+      "text": "Warum sollten Sie hier weiter verzögern?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil das rote Fahrzeug auf meinen Fahrstreifen ausweichen könnte"
+        },
+        {
+          "id": "B",
+          "text": "Weil weitere Personen die Fahrbahn betreten könnten"
+        },
+        {
+          "id": "C",
+          "text": "Weil mein Fahrzeug sonst von der Fahrbahn abkommen könnte"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf dem linken Fahrstreifen hat ein Pkw eine Panne und ist liegen geblieben. Vor dem Fahrzeug steht eine Person. Weitere Fahrzeuginsassen könnten den Pkw verlassen und die Fahrbahn betreten. Das herannahende Fahrzeug auf der Gegenspur könnte auf die eigene Fahrspur ausweichen, um das liegen gebliebene Fahrzeug zu überholen und an dem Hindernis vorbeizufahren. Eine Verzögerung würde die Gefährlichkeit der Situation verringern.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-017_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-017.mp4"
+    },
+    {
+      "id": "2.1.07-111",
+      "text": "Warum müssen Sie in dieser Situation bremsbereit sein?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil das andere Fahrzeug weiterfahren könnte"
+        },
+        {
+          "id": "B",
+          "text": "Weil der Straßenverlauf dies erfordert"
+        },
+        {
+          "id": "C",
+          "text": "Weil eine Geschwindigkeitsbegrenzung erkennbar ist"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie sehen, dass ein Fahrzeug von rechts auf die Fahrbahn auffahren will. Da es aus einem Feld- oder Waldweg kommt, haben Sie Vorfahrt. Durch den Baumbewuchs ist eventuell die Sicht für den/die Kfz-FahrerIn eingeschränkt. Es ist möglich, dass er/sie trotz Wartepflicht weiterfährt. Aus diesem Grund müssen Sie bremsbereit sein, bis Sie eindeutig erkennen, dass er/sie anhält.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-111_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-111.mp4"
+    },
+    {
+      "id": "2.1.07-112",
+      "text": "Warum sollten Sie jetzt Ihre Geschwindigkeit verringern?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weil ich für andere Verkehrsteilnehmer schlecht zu sehen bin"
+        },
+        {
+          "id": "B",
+          "text": "Weil der Straßenverlauf dies erfordert"
+        },
+        {
+          "id": "C",
+          "text": "Weil ich Vorfahrt gewähren muss"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Grundsätzlich haben Sie Vorfahrt, da Sie sich auf einer Vorfahrtsstraße befinden. Zur Abwendung einer gefährlichen Situation sollten Sie hier dennoch die Geschwindigkeit verringern und bremsbereit sein, da der/die Kfz-FahrerIn des von rechts kommenden Pkw Sie möglicherweise zu spät erkennen oder komplett übersehen könnte. Durch die Bäume am Fahrbahnrand ist seine/ihre Sicht deutlich eingeschränkt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-112_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-112.mp4"
+    },
+    {
+      "id": "2.1.07-115",
+      "text": "Wie verhalten Sie sich in dieser Situation richtig?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich behalte die Geschwindigkeit bei und fahre unverändert weiter"
+        },
+        {
+          "id": "B",
+          "text": "Ich beschleunige, um einen ausreichenden Sicherheitsabstand herzustellen"
+        },
+        {
+          "id": "C",
+          "text": "Ich bremse kurz, damit der nachfolgende Fahrer seine Geschwindigkeit reduziert"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "In dieser Situation solltest du die Geschwindigkeit beibehalten und unverändert weiter fahren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-115_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.07-115.mp4"
+    },
+    {
+      "id": "2.1.07-116",
+      "text": "Wie müssen Sie sich verhalten?",
+      "points": 5,
+      "chapter": "Besondere Verkehrssituationen",
+      "chapterNumber": "2.1.07",
+      "chapterName": "Besondere Verkehrssituationen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich bremse sofort stark ab"
+        },
+        {
+          "id": "B",
+          "text": "Ich weiche nicht aus"
+        },
+        {
+          "id": "C",
+          "text": "Ich weiche nach links aus"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Da du nicht sehen kannst, was sich vor dir befindet, bremse sofort stark ab, aber weiche nicht aus.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/2.1.07-116_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/2.1.07-116.mp4"
+    },
+    {
+      "id": "2.1.08-013",
+      "text": "Was müssen Sie beim Einfahren auf die Autobahn beachten?",
+      "points": 5,
+      "chapter": "Autobahn",
+      "chapterNumber": "2.1.08",
+      "chapterName": "Autobahn",
+      "options": [
+        {
+          "id": "A",
+          "text": "Auf dem Einfädelungsstreifen darf ich schneller fahren als auf der durchgehenden Fahrbahn"
+        },
+        {
+          "id": "B",
+          "text": "Der Verkehr auf der durchgehenden Fahrbahn hat Vorfahrt"
+        },
+        {
+          "id": "C",
+          "text": "Der Verkehr auf dem durchgehenden rechten Fahrstreifen muss das Einfahren ermöglichen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Auf Autobahnen hat immer der durchgehende Verkehr Vorfahrt und muss die Einfahrt nicht ermöglichen. Auf dem Einfädelungsstreifen darf der/die Kfz-FahrerIn schneller fahren als die restlichen Fahrzeuge.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.1.08-018",
+      "text": "Was ist in dieser Situation richtig?",
+      "points": 5,
+      "chapter": "Autobahn",
+      "chapterNumber": "2.1.08",
+      "chapterName": "Autobahn",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich muss meine Geschwindigkeit verringern"
+        },
+        {
+          "id": "B",
+          "text": "Der Lkw hat Vorfahrt"
+        },
+        {
+          "id": "C",
+          "text": "Der Lkw muss warten"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Die Kurve ist für den/die Kfz-FahrerIn schlecht einsehbar. Es könnten sich andere Verkehrsteilnehmer oder gar Hindernisse auf der Strecke befinden. Daher lohnt es sich, bereits vor der Kurve das Tempo zu drosseln und sich mental auf eine mögliche Gefahrensituation einzustellen. Denn auch für die entgegenkommenden AutofahrerInnen ist dies eine schwierige Stelle und Vorsicht ist geboten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.08-018.png",
+      "video": null
+    },
+    {
+      "id": "2.2.05-005",
+      "text": "Sie fahren mit 100 km/h auf einer Straße außerhalb geschlossener Ortschaften. Vor Ihnen fährt ein Lkw mit 70 km/h. Wie weit müssen Sie bei Beginn eines Überholvorgangs von einer Straßenkuppe mindestens noch entfernt sein?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.2.05",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "800 m"
+        },
+        {
+          "id": "B",
+          "text": "200 m"
+        },
+        {
+          "id": "C",
+          "text": "400 m"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Die Fausformel für den Überholweg berechnet sich aus den Geschwindigkeiten, der Überholzeit und den Fahrzeuglängen. Die Werte sind (1) Geschwindigkeit PKW: 100 km/h (2) Geschwindigkeit LKW: 70 km/h (3) Sicherheitsabstand vor dem Überholen: Halber Tacho vom PKW - 50m (4) PKW Länge - 4,5m (5) Sicherheitsabstand nach dem Überholen: Halber Tacho vom LKW - 35m (6) LKW Länge - 16m. Die Werte (3),(4),(5),(6) werden addiert und ergeben L=105,5m. Die Formel lautet: s = (V1 / (V1-V2)) * L. V1 ist die Geschwindigkeit des PKW und V2 die Geschwindigkeit des LKW. Die Rechnung lautet dann: s = (100 km/h / (100 km/h - 70 km/h)) * 105,5m. s = 352m. Bei unübersichtlichen Straßen muss der Wert aus Sicherheitsgründen verdoppelt werden, weswegen der Wert s = 704m beträgt. Aufgrund von Schwankungen in den Längen und Abständen sollte ein Überholweg von 800 Metern berücksichtigt werden.",
+      "image": null,
+      "video": null
+    },
+    {
+      "id": "2.2.05-011",
+      "text": "Wie verhalten Sie sich in dieser Situation richtig?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.2.05",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich breche den Überholvorgang ab und ordne mich rechts ein"
+        },
+        {
+          "id": "B",
+          "text": "Ich beschleunige und setze den Überholvorgang fort"
+        },
+        {
+          "id": "C",
+          "text": "Ich setze den Überholvorgang mit gleichbleibender Geschwindigkeit fort"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie dürfen auf den Fahrstreifen der Gegenfahrbahn fahren, wenn Sie eine Überholabsicht haben. Zum Überholen müssen Sie Ihre Geschwindigkeit über die erlaubten 130 km/h erhöhen, was in dieser Situation nicht zulässig ist. Sie müssen den Überholvorgang abbrechen und sich rechts einordnen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-011_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-011.mp4"
+    },
+    {
+      "id": "2.2.05-012",
+      "text": "Worauf müssen Sie sich jetzt einstellen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.2.05",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- blaue Pkw zum Überholen ansetzt"
+        },
+        {
+          "id": "B",
+          "text": "- Überholvorgang des grünen Lkws länger dauert"
+        },
+        {
+          "id": "C",
+          "text": "- weiße Lkw beschleunigt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Sie müssen sich ggf. darauf einstellen, dass Sie jetzt nicht überholen können, weil die unmittelbaren anderen Verkehrsteilnehmer schon in Überholmanöver involviert sind. Handeln Sie nicht überstürzt, nur um den Überholvorgang in einer dafür zulässigen Strecke abzuschließen. Eine durchgezogene Linie bedeutet Überholverbot und ist gleichwertig mit dem Verkehrsschild \"Überholen verboten\".",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-012_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-012.mp4"
+    },
+    {
+      "id": "2.2.05-013",
+      "text": "Auf wen müssen Sie in dieser Situation besonders achten?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.2.05",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "- Radfahrer"
+        },
+        {
+          "id": "B",
+          "text": "- roten Pkw"
+        },
+        {
+          "id": "C",
+          "text": "- weißen Lkw"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "In dieser Situation müssen Sie als Kfz-FahrerIn auf den Radfahrer achten, der sich Ihnen von rechts nähert. Der Radfahrer könnte vor dem Lkw auf die Straße fahren und dadurch eine gefährliche Situation herbeiführen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-013_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-013.mp4"
+    },
+    {
+      "id": "2.2.05-019",
+      "text": "Warum dürfen Sie den vor Ihnen fahrenden Bus jetzt nicht überholen?",
+      "points": 5,
+      "chapter": "Ueberholen",
+      "chapterNumber": "2.2.05",
+      "chapterName": "Ueberholen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wegen des eingeschalteten Warnblinklichts am Bus"
+        },
+        {
+          "id": "B",
+          "text": "Wegen des Motorrads"
+        },
+        {
+          "id": "C",
+          "text": "Wegen der fehlenden Fahrbahnmarkierungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Der Bus hat das Warnblinklicht eingeschaltet und befindet sich noch in der Anfahrt auf die Haltestelle. In diesem Fall ist es nicht gestattet den Bus zu Überholen. Zudem hat das Motorrad hinter dir zum Überholen angesetzt.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019.mp4"
+    },
+    {
+      "id": "2.2.07-005",
+      "text": "Wodurch könnte eine gefährliche Situation entstehen?",
+      "points": 5,
+      "chapter": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "chapterNumber": "2.2.07",
+      "chapterName": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "- gelben Lkws"
+        },
+        {
+          "id": "B",
+          "text": "- grünen Lkws"
+        },
+        {
+          "id": "C",
+          "text": "- vorausfahrenden Pkws"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Der schnelle Fahrstil des gelben Lkw lässt vermuten, dass er auch den vor ihm fahrenden blauen Lkw überholen wird. Ihr Fahrtempo ist schneller als das der Lkws. Nach links können Sie nicht ausweichen, da ein Pkw auf der linken Fahrspur sich direkt hinter Ihnen befindet. Wenn der gelbe Lkw ausschert, müssen Sie stark abbremsen.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-005_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-005.mp4"
+    },
+    {
+      "id": "2.2.07-008",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "chapterNumber": "2.2.07",
+      "chapterName": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich reduziere meine Geschwindigkeit"
+        },
+        {
+          "id": "B",
+          "text": "Ich fahre mit unveränderter Geschwindigkeit weiter"
+        },
+        {
+          "id": "C",
+          "text": "Ich ordne mich auf dem rechten Fahrstreifen ein"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Sie befahren den mittleren Fahrstreifen und müssen in dieser Situation auf dem Fahrstreifen bleiben und die Geschwindigkeit reduzieren. Der Fahrer auf dem linken Fahrstreifen fährt langsamer. Sie dürfen ihn nicht von rechts überholen. Auf den rechten Fahrstreifen können Sie nicht wechseln, dort befindet sich ein Fahrzeug.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-008_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-008.mp4"
+    },
+    {
+      "id": "2.2.07-009",
+      "text": "Womit müssen Sie in dieser Situation rechnen?",
+      "points": 5,
+      "chapter": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "chapterNumber": "2.2.07",
+      "chapterName": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "- graue Pkw auf den mittleren Fahrstreifen wechseln wird"
+        },
+        {
+          "id": "B",
+          "text": "- gelbe Lkw vor mir zum Überholen ausscheren wird"
+        },
+        {
+          "id": "C",
+          "text": "- graue Pkw auf dem rechten Fahrstreifen bleiben wird"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Da das Fahrzeug sehr schnell von rechts auf die Autobahn auffährt, müssen Sie damit rechnen, dass es auf den mittleren Fahrstreifen wechseln wird. Dieser Eindruck wird dadurch verstärkt, dass die Lkw ihre Geschwindigkeit und ihren Abstand beibehalten.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-009_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-009.mp4"
+    },
+    {
+      "id": "2.2.07-010",
+      "text": "Wie verhalten Sie sich richtig?",
+      "points": 5,
+      "chapter": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "chapterNumber": "2.2.07",
+      "chapterName": "Benutzung Von Fahrstreifen Durch Kraftfahrzeuge",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ich reduziere die Geschwindigkeit und bleibe auf dem mittleren Fahrstreifen"
+        },
+        {
+          "id": "B",
+          "text": "Ich behalte die Geschwindigkeit bei und bleibe auf dem mittleren Fahrstreifen"
+        },
+        {
+          "id": "C",
+          "text": "Ich behalte die Geschwindigkeit bei und wechsle auf den rechten Fahrstreifen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "explanation": "Vor Ihnen fährt ein Pkw und von rechts fährt ein Pkw auf die Hauptfahrbahn der Autobahn ein. Es ist zu erkennen, dass der auf dem linken Fahrstreifen fahrende Pkw ein langsameres Tempo hat als Sie. Da nur links überholt werden darf, müssen Sie verzögern und Ihre Geschwindigkeit reduzieren.",
+      "image": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-010_anfang.png",
+      "video": "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-010.mp4"
+    },
+    {
+      "id": "2.7.02-109",
+      "text": "Das Bremspedal lässt sich bis zum Fahrzeugboden durchtreten. Erst bei mehrmaliger Betätigung wird der Pedalweg kürzer. Was müssen Sie tun?",
+      "points": 5,
+      "chapter": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "chapterNumber": "2.7.02",
+      "chapterName": "Maengelerkennung Lokalisierung Von Stoerungen",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fahrzeug sofort abstellen"
+        },
+        {
+          "id": "B",
+          "text": "Bremse reparieren lassen"
+        },
+        {
+          "id": "C",
+          "text": "Bremsflüssigkeit nachfüllen genügt"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Lässt sich das Bremspedal bis zum Fahrzeugboden durchtreten und wird der Pedalweg nach mehrmaligem Pumpen/ Durchtreten kürzer, ist Luft in der Bremsanlage. Das bedeutet, dass die Bremse sofort gewartet und repariert werden muss. Eine Weiterfahrt ist nicht möglich. Auch das Nachfüllen der Bremsflüssigkeit schafft keine Abhilfe des Problems.",
+      "image": null,
+      "video": null
+    }
+  ]
+}

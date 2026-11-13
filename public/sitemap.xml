@@ -46,6 +46,20 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/review.html"/>
   </url>
   <url>
+    <loc>https://fuehrerschein.pages.dev/formulas.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/formulas.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/formulas.html"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/formulas.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/formulas.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/formulas.html"/>
+  </url>
+  <url>
     <loc>https://fuehrerschein.pages.dev/topic.html?id=1-1-gefahrenlehre</loc>
     <lastmod>2026-09-11</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=1-1-gefahrenlehre"/>
@@ -160,5 +174,33 @@
   <url>
     <loc>https://fuehrerschein.pages.dev/ru/topic.html?id=2-8-eignung-und-befaehigung-von-kraftfahrern</loc>
     <lastmod>2026-09-11</lastmod>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/topic.html?id=5-punkte-fragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=5-punkte-fragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=5-punkte-fragen"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/topic.html?id=5-punkte-fragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=5-punkte-fragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=5-punkte-fragen"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/topic.html?id=videofragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=videofragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=videofragen"/>
+  </url>
+  <url>
+    <loc>https://fuehrerschein.pages.dev/ru/topic.html?id=videofragen</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/topic.html?id=videofragen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/topic.html?id=videofragen"/>
   </url>
 </urlset>

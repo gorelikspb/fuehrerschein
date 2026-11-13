@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Führerschein Formeln Klasse B – Reaktionsweg & Bremsweg Rechner</title>
+  <meta name="description" content="Offizielle Faustformeln für die Führerscheinprüfung Klasse B: Reaktionsweg, Bremsweg, Gefahrenbremsung und Anhalteweg mit interaktivem Rechner. Auf Deutsch und Russisch.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://fuehrerschein.pages.dev/formulas.html">
+  <link rel="alternate" hreflang="de" href="https://fuehrerschein.pages.dev/formulas.html">
+  <link rel="alternate" hreflang="ru" href="https://fuehrerschein.pages.dev/ru/formulas.html">
+  <link rel="alternate" hreflang="x-default" href="https://fuehrerschein.pages.dev/formulas.html">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1e3a8a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Führerschein">
+  <meta property="og:title" content="Führerschein Formeln & Rechner (Klasse B)">
+  <meta property="og:description" content="Interaktiver Rechner für Reaktionsweg, Bremsweg und Anhalteweg nach den offiziellen TÜV-Faustformeln.">
+  <meta property="og:image" content="https://fuehrerschein.pages.dev/og-image.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://fuehrerschein.pages.dev/formulas.html">
+  <meta property="og:locale" content="de_DE">
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wsmziuwn60");
+  </script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-row">
+      <div>
+        <a id="back-link" class="back-link" href="index.html">← Alle Themen</a>
+        <h1 id="formulas-header-title">Prüfungsformeln & Rechner</h1>
+        <p id="formulas-header-subtitle">Klasse B · Reaktionsweg, Bremsweg, Anhalteweg</p>
+      </div>
+      <button type="button" id="lang-switch" class="lang-switch" aria-label="Sprache wechseln">RU</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <p class="source-notice" data-source-notice></p>
+
+    <!-- CALCULATOR CARD -->
+    <section class="card formulas-calc-card">
+      <h2 id="calc-heading">Interaktiver Faustformel-Rechner</h2>
+      <p id="calc-hint" class="formulas-lead">Wähle eine Geschwindigkeit (km/h) oder gib sie ein, um die amtlichen Rechenwege live zu sehen:</p>
+
+      <div class="calc-input-wrap">
+        <label for="speed-input" id="calc-speed-label" class="calc-label">Geschwindigkeit (km/h):</label>
+        <div class="calc-input-row">
+          <input type="number" id="speed-input" min="10" max="250" step="5" value="50" class="calc-number-input">
+          <span class="calc-unit">km/h</span>
+        </div>
+        <div class="calc-preset-btns">
+          <button type="button" class="btn btn-preset" data-speed="30">30 km/h (Zone 30)</button>
+          <button type="button" class="btn btn-preset active" data-speed="50">50 km/h (Stadt)</button>
+          <button type="button" class="btn btn-preset" data-speed="100">100 km/h (Landstraße)</button>
+          <button type="button" class="btn btn-preset" data-speed="130">130 km/h (Autobahn)</button>
+        </div>
+      </div>
+
+      <div class="calc-results-grid">
+        <div class="calc-result-box">
+          <div class="calc-result-header">
+            <span class="calc-tag tag-reaction" id="tag-reaction">Reaktionsweg</span>
+            <span class="calc-formula-text">(v / 10) × 3</span>
+          </div>
+          <div class="calc-result-val"><span id="val-reaction">15</span> m</div>
+          <p id="desc-reaction" class="calc-result-desc">Weg in 1 Sekunde Reaktionszeit bis zur Bremsung.</p>
+        </div>
+
+        <div class="calc-result-box">
+          <div class="calc-result-header">
+            <span class="calc-tag tag-brake" id="tag-brake">Bremsweg (normal)</span>
+            <span class="calc-formula-text">(v / 10) × (v / 10)</span>
+          </div>
+          <div class="calc-result-val"><span id="val-brake">25</span> m</div>
+          <p id="desc-brake" class="calc-result-desc">Normale Betriebsbremsung auf trockener Fahrbahn.</p>
+        </div>
+
+        <div class="calc-result-box">
+          <div class="calc-result-header">
+            <span class="calc-tag tag-danger" id="tag-danger">Gefahrenbremsung</span>
+            <span class="calc-formula-text">Bremsweg / 2</span>
+          </div>
+          <div class="calc-result-val"><span id="val-danger">12.5</span> m</div>
+          <p id="desc-danger" class="calc-result-desc">Vollbremsung (Notbremsung) halbiert den Bremsweg.</p>
+        </div>
+
+        <div class="calc-result-box calc-result-box--total">
+          <div class="calc-result-header">
+            <span class="calc-tag tag-total" id="tag-total">Anhalteweg (Gesamt)</span>
+            <span class="calc-formula-text">Reaktion + Bremsweg</span>
+          </div>
+          <div class="calc-result-val highlight"><span id="val-total">40</span> m</div>
+          <p id="desc-total" class="calc-result-desc">Gesamter Weg vom Erkennen der Gefahr bis zum Stillstand (bei Gefahrenbremsung: <strong id="val-total-danger">27.5 m</strong>).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- FORMULA CHEAT SHEET TABLE -->
+    <section class="card formulas-table-card">
+      <h2 id="table-heading">Die wichtigsten Prüfungszahlen (TÜV / DEKRA)</h2>
+      <p id="table-intro">Diese drei Geschwindigkeiten werden fast in allen Prüfungsfragen der Klasse B abgefragt:</p>
+      
+      <div class="table-responsive">
+        <table class="exam-numbers-table">
+          <thead>
+            <tr>
+              <th id="th-speed">Geschwindigkeit</th>
+              <th id="th-react">Reaktionsweg</th>
+              <th id="th-brake">Bremsweg (normal)</th>
+              <th id="th-danger">Gefahrenbremsung</th>
+              <th id="th-stop">Anhalteweg</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>30 km/h</strong></td>
+              <td>9 m</td>
+              <td>9 m</td>
+              <td>4,5 m</td>
+              <td><strong>18 m</strong> (Notfall: 13,5 m)</td>
+            </tr>
+            <tr>
+              <td><strong>50 km/h</strong></td>
+              <td>15 m</td>
+              <td>25 m</td>
+              <td>12,5 m</td>
+              <td><strong>40 m</strong> (Notfall: 27,5 m)</td>
+            </tr>
+            <tr>
+              <td><strong>100 km/h</strong></td>
+              <td>30 m</td>
+              <td>100 m</td>
+              <td>50 m</td>
+              <td><strong>130 m</strong> (Notfall: 80 m)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- KEY NUMBERS LIST -->
+    <section class="card formulas-rules-card">
+      <h2 id="rules-heading">Wichtige Zahlen & Abstände im Fragenkatalog</h2>
+      <ul class="exam-rules-bullets" id="rules-list">
+        <li><strong>Sicherheitsabstand außerorts:</strong> «Halber Tacho in Metern» (z. B. bei 100 km/h = mindestens 50 Meter).</li>
+        <li><strong>Sicherheitsabstand innerorts:</strong> Ca. 15 Meter (entspricht etwa 3 Pkw-Längen bzw. 1 Sekunde).</li>
+        <li><strong>Mindestprofiltiefe der Reifen:</strong> 1,6 mm über die gesamte Lauffläche.</li>
+        <li><strong>Parken vor dem Andreaskreuz:</strong> Mindestens 5 m innerorts, mindestens 50 m außerorts.</li>
+        <li><strong>Halten & Parken an Haltestellenschildern:</strong> 15 m vor und hinter dem Schild (Zeichen 224).</li>
+        <li><strong>Überholabstand:</strong> Mindestens 1,5 m innerorts zu Fußgängern/Radfahrern, mindestens 2,0 m außerorts.</li>
+        <li><strong>Nebel & Sichtweite unter 50 m:</strong> Höchstgeschwindigkeit maximal 50 km/h; Nebelschlussleuchte darf eingeschaltet werden.</li>
+        <li><strong>Ladung nach hinten:</strong> Bis 1,0 m ohne Kennzeichnung; über 1,0 m bis 1,5 m mit roter Fahne (30 × 30 cm).</li>
+      </ul>
+    </section>
+
+    <!-- CTA -->
+    <div class="card formulas-cta-card">
+      <h3 id="cta-heading">Jetzt Fragen zu diesem Thema üben</h3>
+      <p id="cta-desc">Im Fragenkatalog gehören diese Fragen zu Thema 1.2 und Thema 2.2.</p>
+      <div class="btn-row" style="margin-top:0.75rem;">
+        <a id="cta-btn-1" class="btn btn-primary" href="topic.html?id=1-2-verhalten-im-strassenverkehr">Thema 1.2 Verhalten im Straßenverkehr</a>
+        <a id="cta-btn-2" class="btn btn-secondary" href="exam.html">Probeklausur schreiben</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p id="footer-time" class="footer-time"></p>
+    <button type="button" id="time-reset-btn" class="footer-link-btn"></button>
+    <p class="footer-feedback"><a id="footer-feedback-link" href="mailto:gorelikgo@gmail.com?subject=Feedback:%20Fuehrerschein">Feedback / Fehler melden</a></p>
+    <p class="footer-data"><span id="footer-data-label"></span> <a href="https://github.com/yowmamasita/driving-theory" target="_blank" rel="noopener noreferrer">yowmamasita/driving-theory</a></p>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/study-stats.js"></script>
+  <script src="js/time-tracker.js"></script>
+  <script src="js/account.js"></script>
+
+  <script>
+    const FORMULAS_COPY = {
+      de: {
+        title: "Prüfungsformeln & Rechner – Führerschein Theorie Klasse B",
+        headerTitle: "Prüfungsformeln & Rechner",
+        headerSubtitle: "Klasse B · Reaktionsweg, Bremsweg, Anhalteweg",
+        calcHeading: "Interaktiver Faustformel-Rechner",
+        calcHint: "Wähle eine Geschwindigkeit (km/h) oder gib sie ein, um die amtlichen Rechenwege live zu sehen:",
+        speedLabel: "Geschwindigkeit (km/h):",
+        tagReaction: "Reaktionsweg",
+        tagBrake: "Bremsweg (normal)",
+        tagDanger: "Gefahrenbremsung",
+        tagTotal: "Anhalteweg (Gesamt)",
+        descReaction: "Weg in 1 Sekunde Reaktionszeit bis zur Bremsung.",
+        descBrake: "Normale Betriebsbremsung auf trockener Fahrbahn.",
+        descDanger: "Vollbremsung (Notbremsung) halbiert den Bremsweg.",
+        descTotal: (tot, dang) => `Gesamter Weg vom Erkennen der Gefahr bis zum Stillstand (bei Notbremsung: ${dang} m).`,
+        tableHeading: "Die wichtigsten Prüfungszahlen (TÜV / DEKRA)",
+        tableIntro: "Diese drei Geschwindigkeiten werden fast in allen Prüfungsfragen der Klasse B abgefragt:",
+        thSpeed: "Geschwindigkeit",
+        thReact: "Reaktionsweg",
+        thBrake: "Bremsweg (normal)",
+        thDanger: "Gefahrenbremsung",
+        thStop: "Anhalteweg",
+        rulesHeading: "Wichtige Zahlen & Abstände im Fragenkatalog",
+        rules: [
+          "<strong>Sicherheitsabstand außerorts:</strong> «Halber Tacho in Metern» (z. B. bei 100 km/h = mindestens 50 Meter).",
+          "<strong>Sicherheitsabstand innerorts:</strong> Ca. 15 Meter (entspricht etwa 3 Pkw-Längen bzw. 1 Sekunde Reaktionsabstand).",
+          "<strong>Mindestprofiltiefe der Reifen:</strong> 1,6 mm über die gesamte Lauffläche.",
+          "<strong>Parken vor dem Andreaskreuz:</strong> Mindestens 5 m innerorts, mindestens 50 m außerorts.",
+          "<strong>Halten & Parken an Haltestellenschildern:</strong> 15 m vor und hinter dem Haltestellenschild (Zeichen 224).",
+          "<strong>Überholabstand:</strong> Mindestens 1,5 m innerorts zu Radfahrern und Fußgängern, mindestens 2,0 m außerorts.",
+          "<strong>Nebel & Sichtweite unter 50 m:</strong> Höchstgeschwindigkeit maximal 50 km/h; Nebelschlussleuchte darf eingeschaltet werden.",
+          "<strong>Ladung nach hinten:</strong> Bis 1,0 m ohne Kennzeichnung; 1,0 m bis 1,5 m mit roter Fahne (30 × 30 cm)."
+        ],
+        ctaHeading: "Jetzt Fragen zu diesem Thema üben",
+        ctaDesc: "Im amtlichen Fragenkatalog gehören diese Fragen zu Thema 1.2 und Thema 2.2.",
+        ctaBtn1: "Thema 1.2 Verhalten im Straßenverkehr",
+        ctaBtn2: "Probeklausur schreiben"
+      },
+      ru: {
+        title: "Формулы и числовые вопросы — теория ПДД Германия (Klasse B)",
+        headerTitle: "Формулы экзамена и калькулятор",
+        headerSubtitle: "Класс B · Путь реакции, тормозной и остановочный путь",
+        calcHeading: "Интерактивный калькулятор формул TÜV",
+        calcHint: "Выберите скорость (км/ч) или введите свою, чтобы увидеть расчёты по официальным формулам:",
+        speedLabel: "Скорость автомобиля (км/ч):",
+        tagReaction: "Путь реакции",
+        tagBrake: "Тормозной путь (обычный)",
+        tagDanger: "Экстренное торможение",
+        tagTotal: "Остановочный путь (полный)",
+        descReaction: "Расстояние за 1 секунду реакции водителя до нажатия педали.",
+        descBrake: "Обычное плавное торможение на сухом асфальте.",
+        descDanger: "Резкое торможение в пол (Notbremsung) вдвое сокращает тормозной путь.",
+        descTotal: (tot, dang) => `Полный путь от обнаружения опасности до остановки (при экстренном: ${dang} м).`,
+        tableHeading: "Ключевые числа экзамена (TÜV / DEKRA)",
+        tableIntro: "Эти три скорости встречаются почти во всех расчётных вопросах на экзамене Klasse B:",
+        thSpeed: "Скорость",
+        thReact: "Путь реакции",
+        thBrake: "Тормозной путь",
+        thDanger: "Экстренное",
+        thStop: "Остановочный путь",
+        rulesHeading: "Важные числа и дистанции в каталоге вопросов",
+        rules: [
+          "<strong>Безопасная дистанция за городом:</strong> «Половина спидометра в метрах» (например, при 100 км/ч = не менее 50 метров).",
+          "<strong>Безопасная дистанция в городе:</strong> Около 15 метров (примерно 3 длины легкового автомобиля или 1 секунда дистанции).",
+          "<strong>Минимальная глубина протектора шин:</strong> 1,6 мм по всей окружности.",
+          "<strong>Парковка перед Андреевским крестом:</strong> Не ближе 5 м в городе, не ближе 50 м за городом.",
+          "<strong>Остановка и стоянка у знака остановки:</strong> 15 м до и после знака (знак 224).",
+          "<strong>Боковой интервал при обгоне:</strong> Не менее 1,5 м в городе до велосипедистов и пешеходов, не менее 2,0 м за городом.",
+          "<strong>Туман и видимость менее 50 м:</strong> Максимальная скорость не более 50 км/ч; разрешено включить задний противотуманный фонарь.",
+          "<strong>Выступающий назад груз:</strong> До 1,0 м без маркировки; от 1,0 до 1,5 м — обязателен красный флажок 30 × 30 см."
+        ],
+        ctaHeading: "Потренировать билеты с формулами",
+        ctaDesc: "В официальном каталоге эти вопросы входят в тему 1.2 и 2.2.",
+        ctaBtn1: "Тема 1.2 Поведение в движении",
+        ctaBtn2: "Пройти пробный экзамен"
+      }
+    };
+
+    function updateCalculator() {
+      const input = document.getElementById("speed-input");
+      const v = Math.max(0, parseFloat(input.value) || 0);
+
+      const reaction = Math.round(((v / 10) * 3) * 10) / 10;
+      const brake = Math.round(((v / 10) * (v / 10)) * 10) / 10;
+      const dangerBrake = Math.round((brake / 2) * 10) / 10;
+      const totalNormal = Math.round((reaction + brake) * 10) / 10;
+      const totalDanger = Math.round((reaction + dangerBrake) * 10) / 10;
+
+      document.getElementById("val-reaction").textContent = reaction;
+      document.getElementById("val-brake").textContent = brake;
+      document.getElementById("val-danger").textContent = dangerBrake;
+      document.getElementById("val-total").textContent = totalNormal;
+      const dangEl = document.getElementById("val-total-danger");
+      if (dangEl) dangEl.textContent = `${totalDanger} m`;
+    }
+
+    function applyFormulasCopy() {
+      applyDocumentLang();
+      const lang = getLang();
+      const copy = FORMULAS_COPY[lang] || FORMULAS_COPY.de;
+
+      document.title = copy.title;
+      document.getElementById("formulas-header-title").textContent = copy.headerTitle;
+      document.getElementById("formulas-header-subtitle").textContent = copy.headerSubtitle;
+
+      const back = document.getElementById("back-link");
+      if (back) {
+        back.textContent = `← ${t("allTopics")}`;
+        back.href = localizedHref("index.html");
+      }
+
+      document.getElementById("calc-heading").textContent = copy.calcHeading;
+      document.getElementById("calc-hint").textContent = copy.calcHint;
+      document.getElementById("calc-speed-label").textContent = copy.speedLabel;
+      document.getElementById("tag-reaction").textContent = copy.tagReaction;
+      document.getElementById("tag-brake").textContent = copy.tagBrake;
+      document.getElementById("tag-danger").textContent = copy.tagDanger;
+      document.getElementById("tag-total").textContent = copy.tagTotal;
+      document.getElementById("desc-reaction").textContent = copy.descReaction;
+      document.getElementById("desc-brake").textContent = copy.descBrake;
+      document.getElementById("desc-danger").textContent = copy.descDanger;
+
+      document.getElementById("table-heading").textContent = copy.tableHeading;
+      document.getElementById("table-intro").textContent = copy.tableIntro;
+      document.getElementById("th-speed").textContent = copy.thSpeed;
+      document.getElementById("th-react").textContent = copy.thReact;
+      document.getElementById("th-brake").textContent = copy.thBrake;
+      document.getElementById("th-danger").textContent = copy.thDanger;
+      document.getElementById("th-stop").textContent = copy.thStop;
+
+      document.getElementById("rules-heading").textContent = copy.rulesHeading;
+      const rulesList = document.getElementById("rules-list");
+      if (rulesList) {
+        rulesList.innerHTML = copy.rules.map(r => `<li>${r}</li>`).join("");
+      }
+
+      document.getElementById("cta-heading").textContent = copy.ctaHeading;
+      document.getElementById("cta-desc").textContent = copy.ctaDesc;
+      const cta1 = document.getElementById("cta-btn-1");
+      if (cta1) {
+        cta1.textContent = copy.ctaBtn1;
+        cta1.href = localizedHref("topic.html?id=1-2-verhalten-im-strassenverkehr");
+      }
+      const cta2 = document.getElementById("cta-btn-2");
+      if (cta2) {
+        cta2.textContent = copy.ctaBtn2;
+        cta2.href = localizedHref("exam.html");
+      }
+
+      const feedback = document.getElementById("footer-feedback-link");
+      if (feedback) {
+        feedback.textContent = t("feedbackLinkText");
+      }
+
+      applySiteDisclaimer();
+      updateCalculator();
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      applyFormulasCopy();
+
+      const langBtn = document.getElementById("lang-switch");
+      if (langBtn) {
+        langBtn.textContent = t("langSwitch");
+        langBtn.title = t("langSwitchTitle");
+        langBtn.addEventListener("click", () => setLang(getLang() === "ru" ? "de" : "ru"));
+      }
+
+      const input = document.getElementById("speed-input");
+      if (input) {
+        input.addEventListener("input", updateCalculator);
+      }
+
+      document.querySelectorAll(".btn-preset").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".btn-preset").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          const spd = btn.dataset.speed;
+          if (input) {
+            input.value = spd;
+            updateCalculator();
+          }
+        });
+      });
+
+      const footerTime = document.getElementById("footer-time");
+      if (footerTime && typeof bindTimeDisplay === "function") bindTimeDisplay(footerTime);
+      const resetBtn = document.getElementById("time-reset-btn");
+      if (resetBtn) {
+        resetBtn.textContent = t("timeReset");
+        resetBtn.addEventListener("click", () => {
+          if (confirm(t("timeResetConfirm"))) {
+            if (typeof resetTrackedTime === "function") resetTrackedTime();
+          }
+        });
+      }
+    });
+
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js").catch(() => {});
+      });
+    }
+  </script>
+</body>
+</html>

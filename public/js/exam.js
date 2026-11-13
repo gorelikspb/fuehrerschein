@@ -5,6 +5,7 @@ const EXAM_GRUND = 20;
 const EXAM_ZUSATZ = 10;
 let pool = null;
 let questions = [];
+let lastScore = null;
 let index = 0;
 /** @type {Record<string, string[]>} */
 let answers = {};
@@ -39,6 +40,8 @@ const els = {
   resultRulesList: document.getElementById("exam-result-rules-list"),
   reviewList: document.getElementById("exam-review-list"),
   retryBtn: document.getElementById("exam-retry-btn"),
+  shareBtn: document.getElementById("exam-share-btn"),
+  shareToast: document.getElementById("exam-share-toast"),
   showExplanations: document.getElementById("exam-show-explanations"),
   showExplanationsLabel: document.getElementById("exam-show-explanations-label"),
 };
@@ -332,6 +335,7 @@ function escapeHtml(text) {
   return el.innerHTML;
 }
 function showResult(score) {
+  lastScore = score;
   showPhase("result");
   if (els.resultTitle) els.resultTitle.textContent = t("examResultTitle");
   if (els.resultVerdict) {
@@ -380,6 +384,40 @@ function showResult(score) {
     }
   }
 }
+
+async function shareResult() {
+  if (!lastScore) return;
+  const passed = lastScore.passed;
+  const pts = lastScore.faultPoints;
+  const shareText = passed ? t("examSharePassText", pts) : t("examShareFailText", pts);
+  const shareUrl = window.location.origin + localizedHref("exam.html");
+
+  if (navigator.share) {
+    try {
+      await navigator.share({
+        title: t("examShareTitle"),
+        text: shareText,
+        url: shareUrl,
+      });
+      return;
+    } catch (e) {
+      if (e.name === "AbortError") return;
+    }
+  }
+
+  const fullText = `${shareText} ${shareUrl}`;
+  try {
+    await navigator.clipboard.writeText(fullText);
+    if (els.shareToast) {
+      els.shareToast.textContent = t("examShareCopied");
+      els.shareToast.classList.remove("hidden");
+      setTimeout(() => els.shareToast && els.shareToast.classList.add("hidden"), 3500);
+    }
+  } catch {
+    window.prompt(t("examShareTitle"), fullText);
+  }
+}
+
 function applyPageCopy() {
   applyDocumentLang();
   document.title = t("seoExamTitle") || `${t("examPageTitle")} – ${t("siteTitle")}`;
@@ -398,6 +436,7 @@ function applyPageCopy() {
   if (els.nextBtn) els.nextBtn.textContent = t("nextQuestion");
   if (els.submitBtn) els.submitBtn.textContent = t("examSubmit");
   if (els.retryBtn) els.retryBtn.textContent = t("examRetry");
+  if (els.shareBtn) els.shareBtn.textContent = t("examShareBtn");
   if (els.showExplanationsLabel) {
     els.showExplanationsLabel.textContent = t("examShowExplanations");
   }
@@ -428,6 +467,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (els.checkBtn) els.checkBtn.addEventListener("click", checkAnswer);
   if (els.nextBtn) els.nextBtn.addEventListener("click", goNext);
   if (els.submitBtn) els.submitBtn.addEventListener("click", submitExam);
+  if (els.shareBtn) els.shareBtn.addEventListener("click", shareResult);
   if (els.retryBtn) {
     els.retryBtn.addEventListener("click", () => {
       showPhase("intro");

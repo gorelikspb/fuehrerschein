@@ -1,0 +1,25 @@
+{
+  "name": "Führerschein Theorie Klasse B",
+  "short_name": "Führerschein",
+  "description": "Kostenloser Theorie-Trainer Klasse B: 1316 Fragen, Probeklausur mit 30 Fragen nach TÜV-Regeln. Deutsch und Russisch.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
